@@ -1,0 +1,3655 @@
+county,year,varname,value_b2
+Aitkin,2012,Weekly Price,108.79
+Aitkin,2012,TotCapacity,303.34
+Aitkin,2012,AvgCapacity,12.64
+Aitkin,2012,CCCShare,.04
+Aitkin,2012,HRShare,0
+Aitkin,2012,PublicShare,.04
+Aitkin,2013,Weekly Price,112.07
+Aitkin,2013,TotCapacity,377.6
+Aitkin,2013,AvgCapacity,12.18
+Aitkin,2013,CCCShare,.03
+Aitkin,2013,HRShare,.06
+Aitkin,2013,PublicShare,.03
+Aitkin,2014,Weekly Price,107.36
+Aitkin,2014,TotCapacity,501.64
+Aitkin,2014,AvgCapacity,14.75
+Aitkin,2014,CCCShare,.06
+Aitkin,2014,HRShare,.15
+Aitkin,2014,PublicShare,.09
+Aitkin,2015,Weekly Price,100.16
+Aitkin,2015,TotCapacity,352.33
+Aitkin,2015,AvgCapacity,11.01
+Aitkin,2015,CCCShare,0
+Aitkin,2015,HRShare,.16
+Aitkin,2015,PublicShare,.13
+Aitkin,2016,Weekly Price,102.4
+Aitkin,2016,TotCapacity,312
+Aitkin,2016,AvgCapacity,12
+Aitkin,2016,CCCShare,0
+Aitkin,2016,HRShare,.19
+Aitkin,2016,PublicShare,.15
+Aitkin,2017,Weekly Price,100.36
+Aitkin,2017,TotCapacity,253.3
+Aitkin,2017,AvgCapacity,11.51
+Aitkin,2017,CCCShare,0
+Aitkin,2017,HRShare,.36
+Aitkin,2017,PublicShare,.18
+Aitkin,2018,Weekly Price,104.16
+Aitkin,2018,TotCapacity,242.27
+Aitkin,2018,AvgCapacity,11.54
+Aitkin,2018,CCCShare,0
+Aitkin,2018,HRShare,.33
+Aitkin,2018,PublicShare,.19
+Anoka,2012,Weekly Price,146.49
+Anoka,2012,TotCapacity,11579.13
+Anoka,2012,AvgCapacity,14.88
+Anoka,2012,CCCShare,.08
+Anoka,2012,HRShare,0
+Anoka,2012,PublicShare,0
+Anoka,2013,Weekly Price,150.6
+Anoka,2013,TotCapacity,11585.04
+Anoka,2013,AvgCapacity,15.36
+Anoka,2013,CCCShare,.1
+Anoka,2013,HRShare,.04
+Anoka,2013,PublicShare,0
+Anoka,2014,Weekly Price,151.68
+Anoka,2014,TotCapacity,12126.01
+Anoka,2014,AvgCapacity,16.89
+Anoka,2014,CCCShare,.11
+Anoka,2014,HRShare,.09
+Anoka,2014,PublicShare,.04
+Anoka,2015,Weekly Price,153.4
+Anoka,2015,TotCapacity,11318.09
+Anoka,2015,AvgCapacity,16.36
+Anoka,2015,CCCShare,.11
+Anoka,2015,HRShare,.12
+Anoka,2015,PublicShare,.04
+Anoka,2016,Weekly Price,156.49
+Anoka,2016,TotCapacity,10943.4
+Anoka,2016,AvgCapacity,17.29
+Anoka,2016,CCCShare,.12
+Anoka,2016,HRShare,.16
+Anoka,2016,PublicShare,.06
+Anoka,2017,Weekly Price,153.9
+Anoka,2017,TotCapacity,10813.06
+Anoka,2017,AvgCapacity,17.87
+Anoka,2017,CCCShare,.13
+Anoka,2017,HRShare,.18
+Anoka,2017,PublicShare,.06
+Anoka,2018,Weekly Price,165.4
+Anoka,2018,TotCapacity,10301.33
+Anoka,2018,AvgCapacity,17.7
+Anoka,2018,CCCShare,.12
+Anoka,2018,HRShare,.19
+Anoka,2018,PublicShare,.07
+Becker,2012,Weekly Price,106.08
+Becker,2012,TotCapacity,1258.41
+Becker,2012,AvgCapacity,10.94
+Becker,2012,CCCShare,.01
+Becker,2012,HRShare,0
+Becker,2012,PublicShare,.05
+Becker,2013,Weekly Price,109.33
+Becker,2013,TotCapacity,1328.4
+Becker,2013,AvgCapacity,10.89
+Becker,2013,CCCShare,.02
+Becker,2013,HRShare,.17
+Becker,2013,PublicShare,.05
+Becker,2014,Weekly Price,105.66
+Becker,2014,TotCapacity,1401.1
+Becker,2014,AvgCapacity,11.39
+Becker,2014,CCCShare,.02
+Becker,2014,HRShare,.24
+Becker,2014,PublicShare,.09
+Becker,2015,Weekly Price,107.71
+Becker,2015,TotCapacity,1370.23
+Becker,2015,AvgCapacity,11.92
+Becker,2015,CCCShare,.03
+Becker,2015,HRShare,.22
+Becker,2015,PublicShare,.09
+Becker,2016,Weekly Price,110.46
+Becker,2016,TotCapacity,1214.14
+Becker,2016,AvgCapacity,11.9
+Becker,2016,CCCShare,.04
+Becker,2016,HRShare,.3
+Becker,2016,PublicShare,.11
+Becker,2017,Weekly Price,109.24
+Becker,2017,TotCapacity,1185.21
+Becker,2017,AvgCapacity,12.09
+Becker,2017,CCCShare,.03
+Becker,2017,HRShare,.35
+Becker,2017,PublicShare,.11
+Becker,2018,Weekly Price,111.06
+Becker,2018,TotCapacity,1087.88
+Becker,2018,AvgCapacity,11.57
+Becker,2018,CCCShare,.01
+Becker,2018,HRShare,.37
+Becker,2018,PublicShare,.13
+Beltrami,2012,Weekly Price,104.92
+Beltrami,2012,TotCapacity,1726.26
+Beltrami,2012,AvgCapacity,13.7
+Beltrami,2012,CCCShare,.06
+Beltrami,2012,HRShare,0
+Beltrami,2012,PublicShare,.05
+Beltrami,2013,Weekly Price,107.39
+Beltrami,2013,TotCapacity,1735.16
+Beltrami,2013,AvgCapacity,13.45
+Beltrami,2013,CCCShare,.05
+Beltrami,2013,HRShare,.05
+Beltrami,2013,PublicShare,.05
+Beltrami,2014,Weekly Price,106.81
+Beltrami,2014,TotCapacity,2005.71
+Beltrami,2014,AvgCapacity,14.03
+Beltrami,2014,CCCShare,.06
+Beltrami,2014,HRShare,.09
+Beltrami,2014,PublicShare,.07
+Beltrami,2015,Weekly Price,104.21
+Beltrami,2015,TotCapacity,1692.39
+Beltrami,2015,AvgCapacity,12.72
+Beltrami,2015,CCCShare,.05
+Beltrami,2015,HRShare,.09
+Beltrami,2015,PublicShare,.08
+Beltrami,2016,Weekly Price,111.7
+Beltrami,2016,TotCapacity,1583.66
+Beltrami,2016,AvgCapacity,13.09
+Beltrami,2016,CCCShare,.03
+Beltrami,2016,HRShare,.12
+Beltrami,2016,PublicShare,.09
+Beltrami,2017,Weekly Price,105.54
+Beltrami,2017,TotCapacity,1553.02
+Beltrami,2017,AvgCapacity,13.05
+Beltrami,2017,CCCShare,.03
+Beltrami,2017,HRShare,.16
+Beltrami,2017,PublicShare,.09
+Beltrami,2018,Weekly Price,111.75
+Beltrami,2018,TotCapacity,1391.82
+Beltrami,2018,AvgCapacity,11.8
+Beltrami,2018,CCCShare,.03
+Beltrami,2018,HRShare,.15
+Beltrami,2018,PublicShare,.07
+Benton,2012,Weekly Price,112.57
+Benton,2012,TotCapacity,1765.38
+Benton,2012,AvgCapacity,11.03
+Benton,2012,CCCShare,.02
+Benton,2012,HRShare,0
+Benton,2012,PublicShare,.01
+Benton,2013,Weekly Price,115.98
+Benton,2013,TotCapacity,1912.59
+Benton,2013,AvgCapacity,11.38
+Benton,2013,CCCShare,.02
+Benton,2013,HRShare,.01
+Benton,2013,PublicShare,.01
+Benton,2014,Weekly Price,113.87
+Benton,2014,TotCapacity,1941.98
+Benton,2014,AvgCapacity,11.42
+Benton,2014,CCCShare,.02
+Benton,2014,HRShare,.02
+Benton,2014,PublicShare,.02
+Benton,2015,Weekly Price,113.12
+Benton,2015,TotCapacity,1757.24
+Benton,2015,AvgCapacity,11.19
+Benton,2015,CCCShare,.03
+Benton,2015,HRShare,.03
+Benton,2015,PublicShare,.02
+Benton,2016,Weekly Price,121.38
+Benton,2016,TotCapacity,1836.88
+Benton,2016,AvgCapacity,12.5
+Benton,2016,CCCShare,.03
+Benton,2016,HRShare,.05
+Benton,2016,PublicShare,.02
+Benton,2017,Weekly Price,117.97
+Benton,2017,TotCapacity,1761.77
+Benton,2017,AvgCapacity,12.32
+Benton,2017,CCCShare,.04
+Benton,2017,HRShare,.06
+Benton,2017,PublicShare,.03
+Benton,2018,Weekly Price,129.93
+Benton,2018,TotCapacity,1816.99
+Benton,2018,AvgCapacity,12.36
+Benton,2018,CCCShare,.03
+Benton,2018,HRShare,.07
+Benton,2018,PublicShare,.04
+Big Stone,2012,Weekly Price,82.48
+Big Stone,2012,TotCapacity,185.73
+Big Stone,2012,AvgCapacity,9.779999999999999
+Big Stone,2012,CCCShare,0
+Big Stone,2012,HRShare,0
+Big Stone,2012,PublicShare,.11
+Big Stone,2013,Weekly Price,89.36
+Big Stone,2013,TotCapacity,196.93
+Big Stone,2013,AvgCapacity,9.85
+Big Stone,2013,CCCShare,0
+Big Stone,2013,HRShare,.1
+Big Stone,2013,PublicShare,.1
+Big Stone,2014,Weekly Price,87.78
+Big Stone,2014,TotCapacity,193.63
+Big Stone,2014,AvgCapacity,10.19
+Big Stone,2014,CCCShare,0
+Big Stone,2014,HRShare,.11
+Big Stone,2014,PublicShare,.11
+Big Stone,2015,Weekly Price,85.76000000000001
+Big Stone,2015,TotCapacity,197.16
+Big Stone,2015,AvgCapacity,10.38
+Big Stone,2015,CCCShare,0
+Big Stone,2015,HRShare,.11
+Big Stone,2015,PublicShare,.11
+Big Stone,2016,Weekly Price,95.88
+Big Stone,2016,TotCapacity,198
+Big Stone,2016,AvgCapacity,11
+Big Stone,2016,CCCShare,0
+Big Stone,2016,HRShare,.17
+Big Stone,2016,PublicShare,.17
+Big Stone,2017,Weekly Price,85.79000000000001
+Big Stone,2017,TotCapacity,182.2
+Big Stone,2017,AvgCapacity,9.59
+Big Stone,2017,CCCShare,0
+Big Stone,2017,HRShare,.11
+Big Stone,2017,PublicShare,.11
+Big Stone,2018,Weekly Price,89.59
+Big Stone,2018,TotCapacity,213.87
+Big Stone,2018,AvgCapacity,10.18
+Big Stone,2018,CCCShare,0
+Big Stone,2018,HRShare,.1
+Big Stone,2018,PublicShare,.1
+Blue Earth,2012,Weekly Price,114.41
+Blue Earth,2012,TotCapacity,3163.74
+Blue Earth,2012,AvgCapacity,15.74
+Blue Earth,2012,CCCShare,.07
+Blue Earth,2012,HRShare,0
+Blue Earth,2012,PublicShare,.01
+Blue Earth,2013,Weekly Price,118.29
+Blue Earth,2013,TotCapacity,3166.15
+Blue Earth,2013,AvgCapacity,15.83
+Blue Earth,2013,CCCShare,.07
+Blue Earth,2013,HRShare,.03
+Blue Earth,2013,PublicShare,.01
+Blue Earth,2014,Weekly Price,117.63
+Blue Earth,2014,TotCapacity,3254.07
+Blue Earth,2014,AvgCapacity,17.31
+Blue Earth,2014,CCCShare,.1
+Blue Earth,2014,HRShare,.06
+Blue Earth,2014,PublicShare,.03
+Blue Earth,2015,Weekly Price,119.05
+Blue Earth,2015,TotCapacity,3096.08
+Blue Earth,2015,AvgCapacity,17.2
+Blue Earth,2015,CCCShare,.11
+Blue Earth,2015,HRShare,.07
+Blue Earth,2015,PublicShare,.03
+Blue Earth,2016,Weekly Price,124.98
+Blue Earth,2016,TotCapacity,2880.2
+Blue Earth,2016,AvgCapacity,18.58
+Blue Earth,2016,CCCShare,.12
+Blue Earth,2016,HRShare,.1
+Blue Earth,2016,PublicShare,.06
+Blue Earth,2017,Weekly Price,114.2
+Blue Earth,2017,TotCapacity,3096.77
+Blue Earth,2017,AvgCapacity,20.92
+Blue Earth,2017,CCCShare,.13
+Blue Earth,2017,HRShare,.15
+Blue Earth,2017,PublicShare,.09
+Blue Earth,2018,Weekly Price,120.4
+Blue Earth,2018,TotCapacity,2974.22
+Blue Earth,2018,AvgCapacity,20.65
+Blue Earth,2018,CCCShare,.13
+Blue Earth,2018,HRShare,.15
+Blue Earth,2018,PublicShare,.1
+Brown,2012,Weekly Price,96.31
+Brown,2012,TotCapacity,1399.73
+Brown,2012,AvgCapacity,12.28
+Brown,2012,CCCShare,.04
+Brown,2012,HRShare,0
+Brown,2012,PublicShare,.02
+Brown,2013,Weekly Price,101.65
+Brown,2013,TotCapacity,1357.16
+Brown,2013,AvgCapacity,11.8
+Brown,2013,CCCShare,.03
+Brown,2013,HRShare,.02
+Brown,2013,PublicShare,.01
+Brown,2014,Weekly Price,97.75
+Brown,2014,TotCapacity,1417.76
+Brown,2014,AvgCapacity,12.89
+Brown,2014,CCCShare,.04
+Brown,2014,HRShare,.09
+Brown,2014,PublicShare,.06
+Brown,2015,Weekly Price,96.39
+Brown,2015,TotCapacity,1379.78
+Brown,2015,AvgCapacity,13.4
+Brown,2015,CCCShare,.04
+Brown,2015,HRShare,.11
+Brown,2015,PublicShare,.08
+Brown,2016,Weekly Price,111.42
+Brown,2016,TotCapacity,1388.26
+Brown,2016,AvgCapacity,14.02
+Brown,2016,CCCShare,.04
+Brown,2016,HRShare,.17
+Brown,2016,PublicShare,.08
+Brown,2017,Weekly Price,98.51000000000001
+Brown,2017,TotCapacity,1430.83
+Brown,2017,AvgCapacity,14.45
+Brown,2017,CCCShare,.04
+Brown,2017,HRShare,.19
+Brown,2017,PublicShare,.09
+Brown,2018,Weekly Price,107.79
+Brown,2018,TotCapacity,1299.25
+Brown,2018,AvgCapacity,13.12
+Brown,2018,CCCShare,.04
+Brown,2018,HRShare,.14
+Brown,2018,PublicShare,.07
+Carlton,2012,Weekly Price,112.84
+Carlton,2012,TotCapacity,956.33
+Carlton,2012,AvgCapacity,14.27
+Carlton,2012,CCCShare,.06
+Carlton,2012,HRShare,0
+Carlton,2012,PublicShare,.01
+Carlton,2013,Weekly Price,116.43
+Carlton,2013,TotCapacity,1121.19
+Carlton,2013,AvgCapacity,14.75
+Carlton,2013,CCCShare,.08
+Carlton,2013,HRShare,.04
+Carlton,2013,PublicShare,.01
+Carlton,2014,Weekly Price,105.3
+Carlton,2014,TotCapacity,1274.37
+Carlton,2014,AvgCapacity,16.77
+Carlton,2014,CCCShare,.09
+Carlton,2014,HRShare,.18
+Carlton,2014,PublicShare,.12
+Carlton,2015,Weekly Price,105.06
+Carlton,2015,TotCapacity,1215.97
+Carlton,2015,AvgCapacity,17.13
+Carlton,2015,CCCShare,.1
+Carlton,2015,HRShare,.23
+Carlton,2015,PublicShare,.11
+Carlton,2016,Weekly Price,121.83
+Carlton,2016,TotCapacity,1099.08
+Carlton,2016,AvgCapacity,16.65
+Carlton,2016,CCCShare,.11
+Carlton,2016,HRShare,.3
+Carlton,2016,PublicShare,.11
+Carlton,2017,Weekly Price,106.05
+Carlton,2017,TotCapacity,1197.8
+Carlton,2017,AvgCapacity,17.11
+Carlton,2017,CCCShare,.11
+Carlton,2017,HRShare,.39
+Carlton,2017,PublicShare,.17
+Carlton,2018,Weekly Price,104.24
+Carlton,2018,TotCapacity,1023.38
+Carlton,2018,AvgCapacity,15.27
+Carlton,2018,CCCShare,.07
+Carlton,2018,HRShare,.34
+Carlton,2018,PublicShare,.19
+Carver,2012,Weekly Price,160.56
+Carver,2012,TotCapacity,3503.37
+Carver,2012,AvgCapacity,16.29
+Carver,2012,CCCShare,.09
+Carver,2012,HRShare,0
+Carver,2012,PublicShare,0
+Carver,2013,Weekly Price,166.58
+Carver,2013,TotCapacity,3640.46
+Carver,2013,AvgCapacity,17.09
+Carver,2013,CCCShare,.1
+Carver,2013,HRShare,.04
+Carver,2013,PublicShare,0
+Carver,2014,Weekly Price,158.49
+Carver,2014,TotCapacity,3943.13
+Carver,2014,AvgCapacity,19.72
+Carver,2014,CCCShare,.12
+Carver,2014,HRShare,.08
+Carver,2014,PublicShare,.05
+Carver,2015,Weekly Price,163.19
+Carver,2015,TotCapacity,3941.34
+Carver,2015,AvgCapacity,19.81
+Carver,2015,CCCShare,.14
+Carver,2015,HRShare,.09
+Carver,2015,PublicShare,.04
+Carver,2016,Weekly Price,174.03
+Carver,2016,TotCapacity,3871.05
+Carver,2016,AvgCapacity,22.38
+Carver,2016,CCCShare,.17
+Carver,2016,HRShare,.12
+Carver,2016,PublicShare,.05
+Carver,2017,Weekly Price,170.88
+Carver,2017,TotCapacity,4331.9
+Carver,2017,AvgCapacity,25.94
+Carver,2017,CCCShare,.19
+Carver,2017,HRShare,.14
+Carver,2017,PublicShare,.05
+Carver,2018,Weekly Price,179.19
+Carver,2018,TotCapacity,4116.04
+Carver,2018,AvgCapacity,25.73
+Carver,2018,CCCShare,.16
+Carver,2018,HRShare,.13
+Carver,2018,PublicShare,.06
+Cass,2012,Weekly Price,92.98
+Cass,2012,TotCapacity,1158.67
+Cass,2012,AvgCapacity,21.86
+Cass,2012,CCCShare,.04
+Cass,2012,HRShare,0
+Cass,2012,PublicShare,.15
+Cass,2013,Weekly Price,98.19
+Cass,2013,TotCapacity,1197.7
+Cass,2013,AvgCapacity,20.3
+Cass,2013,CCCShare,.03
+Cass,2013,HRShare,.15
+Cass,2013,PublicShare,.14
+Cass,2014,Weekly Price,97.15000000000001
+Cass,2014,TotCapacity,1263.39
+Cass,2014,AvgCapacity,17.55
+Cass,2014,CCCShare,.03
+Cass,2014,HRShare,.19
+Cass,2014,PublicShare,.17
+Cass,2015,Weekly Price,95.36
+Cass,2015,TotCapacity,841.12
+Cass,2015,AvgCapacity,12.02
+Cass,2015,CCCShare,.03
+Cass,2015,HRShare,.23
+Cass,2015,PublicShare,.17
+Cass,2016,Weekly Price,96.25
+Cass,2016,TotCapacity,762.8
+Cass,2016,AvgCapacity,12.71
+Cass,2016,CCCShare,.02
+Cass,2016,HRShare,.38
+Cass,2016,PublicShare,.22
+Cass,2017,Weekly Price,91.77
+Cass,2017,TotCapacity,789.22
+Cass,2017,AvgCapacity,13.15
+Cass,2017,CCCShare,.03
+Cass,2017,HRShare,.42
+Cass,2017,PublicShare,.23
+Cass,2018,Weekly Price,103.85
+Cass,2018,TotCapacity,696.89
+Cass,2018,AvgCapacity,13.15
+Cass,2018,CCCShare,.06
+Cass,2018,HRShare,.4
+Cass,2018,PublicShare,.19
+Chippewa,2012,Weekly Price,88.99
+Chippewa,2012,TotCapacity,464.01
+Chippewa,2012,AvgCapacity,12.21
+Chippewa,2012,CCCShare,.03
+Chippewa,2012,HRShare,0
+Chippewa,2012,PublicShare,.05
+Chippewa,2013,Weekly Price,91.44
+Chippewa,2013,TotCapacity,450.78
+Chippewa,2013,AvgCapacity,12.18
+Chippewa,2013,CCCShare,.03
+Chippewa,2013,HRShare,.05
+Chippewa,2013,PublicShare,.05
+Chippewa,2014,Weekly Price,91.23
+Chippewa,2014,TotCapacity,520.71
+Chippewa,2014,AvgCapacity,12.4
+Chippewa,2014,CCCShare,.02
+Chippewa,2014,HRShare,.14
+Chippewa,2014,PublicShare,.07
+Chippewa,2015,Weekly Price,96.49
+Chippewa,2015,TotCapacity,456.81
+Chippewa,2015,AvgCapacity,11.71
+Chippewa,2015,CCCShare,.03
+Chippewa,2015,HRShare,.13
+Chippewa,2015,PublicShare,.03
+Chippewa,2016,Weekly Price,106.57
+Chippewa,2016,TotCapacity,455.73
+Chippewa,2016,AvgCapacity,11.99
+Chippewa,2016,CCCShare,.03
+Chippewa,2016,HRShare,.13
+Chippewa,2016,PublicShare,.08
+Chippewa,2017,Weekly Price,94.68000000000001
+Chippewa,2017,TotCapacity,466.91
+Chippewa,2017,AvgCapacity,13.73
+Chippewa,2017,CCCShare,.06
+Chippewa,2017,HRShare,.12
+Chippewa,2017,PublicShare,.09
+Chippewa,2018,Weekly Price,105.33
+Chippewa,2018,TotCapacity,379.8
+Chippewa,2018,AvgCapacity,11.87
+Chippewa,2018,CCCShare,.03
+Chippewa,2018,HRShare,.13
+Chippewa,2018,PublicShare,.06
+Chisago,2012,Weekly Price,131.89
+Chisago,2012,TotCapacity,1439.6
+Chisago,2012,AvgCapacity,13.33
+Chisago,2012,CCCShare,.06
+Chisago,2012,HRShare,0
+Chisago,2012,PublicShare,0
+Chisago,2013,Weekly Price,133.79
+Chisago,2013,TotCapacity,1521.07
+Chisago,2013,AvgCapacity,13.11
+Chisago,2013,CCCShare,.06
+Chisago,2013,HRShare,.02
+Chisago,2013,PublicShare,0
+Chisago,2014,Weekly Price,130.48
+Chisago,2014,TotCapacity,1670.38
+Chisago,2014,AvgCapacity,13.69
+Chisago,2014,CCCShare,.06
+Chisago,2014,HRShare,.07
+Chisago,2014,PublicShare,.06
+Chisago,2015,Weekly Price,131.06
+Chisago,2015,TotCapacity,1519.56
+Chisago,2015,AvgCapacity,13.45
+Chisago,2015,CCCShare,.06
+Chisago,2015,HRShare,.08
+Chisago,2015,PublicShare,.06
+Chisago,2016,Weekly Price,139.38
+Chisago,2016,TotCapacity,1350.24
+Chisago,2016,AvgCapacity,14.06
+Chisago,2016,CCCShare,.07
+Chisago,2016,HRShare,.09
+Chisago,2016,PublicShare,.07
+Chisago,2017,Weekly Price,129.42
+Chisago,2017,TotCapacity,1613.66
+Chisago,2017,AvgCapacity,16.64
+Chisago,2017,CCCShare,.07
+Chisago,2017,HRShare,.16
+Chisago,2017,PublicShare,.09
+Chisago,2018,Weekly Price,141.22
+Chisago,2018,TotCapacity,1373.1
+Chisago,2018,AvgCapacity,14.92
+Chisago,2018,CCCShare,.09
+Chisago,2018,HRShare,.15
+Chisago,2018,PublicShare,.08
+Clay,2012,Weekly Price,112.58
+Clay,2012,TotCapacity,2583.75
+Clay,2012,AvgCapacity,12.67
+Clay,2012,CCCShare,.05
+Clay,2012,HRShare,0
+Clay,2012,PublicShare,.01
+Clay,2013,Weekly Price,115.69
+Clay,2013,TotCapacity,2718.95
+Clay,2013,AvgCapacity,13.14
+Clay,2013,CCCShare,.05
+Clay,2013,HRShare,.02
+Clay,2013,PublicShare,.01
+Clay,2014,Weekly Price,116.72
+Clay,2014,TotCapacity,2624.58
+Clay,2014,AvgCapacity,13.12
+Clay,2014,CCCShare,.05
+Clay,2014,HRShare,.03
+Clay,2014,PublicShare,.02
+Clay,2015,Weekly Price,119.76
+Clay,2015,TotCapacity,2486
+Clay,2015,AvgCapacity,13.29
+Clay,2015,CCCShare,.06
+Clay,2015,HRShare,.04
+Clay,2015,PublicShare,.02
+Clay,2016,Weekly Price,123.62
+Clay,2016,TotCapacity,2317.38
+Clay,2016,AvgCapacity,13.09
+Clay,2016,CCCShare,.06
+Clay,2016,HRShare,.11
+Clay,2016,PublicShare,.05
+Clay,2017,Weekly Price,121.82
+Clay,2017,TotCapacity,2399.16
+Clay,2017,AvgCapacity,13.48
+Clay,2017,CCCShare,.07
+Clay,2017,HRShare,.15
+Clay,2017,PublicShare,.04
+Clay,2018,Weekly Price,128.35
+Clay,2018,TotCapacity,2259.35
+Clay,2018,AvgCapacity,13.29
+Clay,2018,CCCShare,.05
+Clay,2018,HRShare,.15
+Clay,2018,PublicShare,.05
+Clearwater,2012,Weekly Price,77.23
+Clearwater,2012,TotCapacity,206.74
+Clearwater,2012,AvgCapacity,11.49
+Clearwater,2012,CCCShare,0
+Clearwater,2012,HRShare,0
+Clearwater,2012,PublicShare,.17
+Clearwater,2013,Weekly Price,84.59
+Clearwater,2013,TotCapacity,221.1
+Clearwater,2013,AvgCapacity,11.06
+Clearwater,2013,CCCShare,0
+Clearwater,2013,HRShare,.2
+Clearwater,2013,PublicShare,.15
+Clearwater,2014,Weekly Price,87.66
+Clearwater,2014,TotCapacity,302.29
+Clearwater,2014,AvgCapacity,11.63
+Clearwater,2014,CCCShare,0
+Clearwater,2014,HRShare,.27
+Clearwater,2014,PublicShare,.15
+Clearwater,2015,Weekly Price,88.41
+Clearwater,2015,TotCapacity,317.9
+Clearwater,2015,AvgCapacity,11.35
+Clearwater,2015,CCCShare,0
+Clearwater,2015,HRShare,.25
+Clearwater,2015,PublicShare,.14
+Clearwater,2016,Weekly Price,102.54
+Clearwater,2016,TotCapacity,264.88
+Clearwater,2016,AvgCapacity,11.04
+Clearwater,2016,CCCShare,0
+Clearwater,2016,HRShare,.25
+Clearwater,2016,PublicShare,.13
+Clearwater,2017,Weekly Price,95.79000000000001
+Clearwater,2017,TotCapacity,260.77
+Clearwater,2017,AvgCapacity,10.43
+Clearwater,2017,CCCShare,0
+Clearwater,2017,HRShare,.24
+Clearwater,2017,PublicShare,.12
+Clearwater,2018,Weekly Price,107.19
+Clearwater,2018,TotCapacity,253.44
+Clearwater,2018,AvgCapacity,9.75
+Clearwater,2018,CCCShare,0
+Clearwater,2018,HRShare,.15
+Clearwater,2018,PublicShare,.08
+Cook,2012,Weekly Price,82.11
+Cook,2012,TotCapacity,100.99
+Cook,2012,AvgCapacity,10.1
+Cook,2012,CCCShare,.1
+Cook,2012,HRShare,0
+Cook,2012,PublicShare,.3
+Cook,2013,Weekly Price,125.11
+Cook,2013,TotCapacity,95.99
+Cook,2013,AvgCapacity,10.67
+Cook,2013,CCCShare,.11
+Cook,2013,HRShare,0
+Cook,2013,PublicShare,0
+Cook,2014,Weekly Price,118.8
+Cook,2014,TotCapacity,148.69
+Cook,2014,AvgCapacity,11.44
+Cook,2014,CCCShare,.08
+Cook,2014,HRShare,.08
+Cook,2014,PublicShare,.08
+Cook,2015,Weekly Price,115.03
+Cook,2015,TotCapacity,157.12
+Cook,2015,AvgCapacity,11.22
+Cook,2015,CCCShare,.07
+Cook,2015,HRShare,.07
+Cook,2015,PublicShare,.07
+Cook,2016,Weekly Price,108.34
+Cook,2016,TotCapacity,128.61
+Cook,2016,AvgCapacity,10.72
+Cook,2016,CCCShare,.08
+Cook,2016,HRShare,.33
+Cook,2016,PublicShare,.08
+Cook,2017,Weekly Price,116.35
+Cook,2017,TotCapacity,105.61
+Cook,2017,AvgCapacity,10.56
+Cook,2017,CCCShare,.1
+Cook,2017,HRShare,.4
+Cook,2017,PublicShare,.1
+Cook,2018,Weekly Price,130.8
+Cook,2018,TotCapacity,164.61
+Cook,2018,AvgCapacity,18.29
+Cook,2018,CCCShare,.22
+Cook,2018,HRShare,.44
+Cook,2018,PublicShare,.11
+Cottonwood,2012,Weekly Price,92.22
+Cottonwood,2012,TotCapacity,415.57
+Cottonwood,2012,AvgCapacity,10.66
+Cottonwood,2012,CCCShare,.03
+Cottonwood,2012,HRShare,0
+Cottonwood,2012,PublicShare,.05
+Cottonwood,2013,Weekly Price,98.3
+Cottonwood,2013,TotCapacity,428.83
+Cottonwood,2013,AvgCapacity,10.46
+Cottonwood,2013,CCCShare,.02
+Cottonwood,2013,HRShare,.05
+Cottonwood,2013,PublicShare,.05
+Cottonwood,2014,Weekly Price,92.62000000000001
+Cottonwood,2014,TotCapacity,462.58
+Cottonwood,2014,AvgCapacity,11.28
+Cottonwood,2014,CCCShare,.02
+Cottonwood,2014,HRShare,.1
+Cottonwood,2014,PublicShare,.1
+Cottonwood,2015,Weekly Price,92.19
+Cottonwood,2015,TotCapacity,482.48
+Cottonwood,2015,AvgCapacity,10.49
+Cottonwood,2015,CCCShare,.02
+Cottonwood,2015,HRShare,.09
+Cottonwood,2015,PublicShare,.09
+Cottonwood,2016,Weekly Price,107.22
+Cottonwood,2016,TotCapacity,444.6
+Cottonwood,2016,AvgCapacity,10.84
+Cottonwood,2016,CCCShare,.02
+Cottonwood,2016,HRShare,.12
+Cottonwood,2016,PublicShare,.1
+Cottonwood,2017,Weekly Price,88.08
+Cottonwood,2017,TotCapacity,423.47
+Cottonwood,2017,AvgCapacity,11.14
+Cottonwood,2017,CCCShare,.03
+Cottonwood,2017,HRShare,.24
+Cottonwood,2017,PublicShare,.13
+Cottonwood,2018,Weekly Price,94.09
+Cottonwood,2018,TotCapacity,427.72
+Cottonwood,2018,AvgCapacity,10.69
+Cottonwood,2018,CCCShare,.03
+Cottonwood,2018,HRShare,.22
+Cottonwood,2018,PublicShare,.1
+Crow Wing,2012,Weekly Price,116.44
+Crow Wing,2012,TotCapacity,1910.59
+Crow Wing,2012,AvgCapacity,13.09
+Crow Wing,2012,CCCShare,.08
+Crow Wing,2012,HRShare,0
+Crow Wing,2012,PublicShare,.02
+Crow Wing,2013,Weekly Price,118.75
+Crow Wing,2013,TotCapacity,2115.27
+Crow Wing,2013,AvgCapacity,12.9
+Crow Wing,2013,CCCShare,.08
+Crow Wing,2013,HRShare,.02
+Crow Wing,2013,PublicShare,.02
+Crow Wing,2014,Weekly Price,114.65
+Crow Wing,2014,TotCapacity,2228.6
+Crow Wing,2014,AvgCapacity,14.29
+Crow Wing,2014,CCCShare,.1
+Crow Wing,2014,HRShare,.07
+Crow Wing,2014,PublicShare,.05
+Crow Wing,2015,Weekly Price,116.58
+Crow Wing,2015,TotCapacity,2086.68
+Crow Wing,2015,AvgCapacity,14.39
+Crow Wing,2015,CCCShare,.1
+Crow Wing,2015,HRShare,.1
+Crow Wing,2015,PublicShare,.06
+Crow Wing,2016,Weekly Price,120.05
+Crow Wing,2016,TotCapacity,1783.13
+Crow Wing,2016,AvgCapacity,14.86
+Crow Wing,2016,CCCShare,.12
+Crow Wing,2016,HRShare,.12
+Crow Wing,2016,PublicShare,.07
+Crow Wing,2017,Weekly Price,116.28
+Crow Wing,2017,TotCapacity,1875.16
+Crow Wing,2017,AvgCapacity,16.17
+Crow Wing,2017,CCCShare,.13
+Crow Wing,2017,HRShare,.16
+Crow Wing,2017,PublicShare,.08
+Crow Wing,2018,Weekly Price,121.19
+Crow Wing,2018,TotCapacity,1875.04
+Crow Wing,2018,AvgCapacity,15.89
+Crow Wing,2018,CCCShare,.12
+Crow Wing,2018,HRShare,.17
+Crow Wing,2018,PublicShare,.08
+Dakota,2012,Weekly Price,162.98
+Dakota,2012,TotCapacity,15360.06
+Dakota,2012,AvgCapacity,16.45
+Dakota,2012,CCCShare,.09
+Dakota,2012,HRShare,0
+Dakota,2012,PublicShare,.01
+Dakota,2013,Weekly Price,168.35
+Dakota,2013,TotCapacity,15221.21
+Dakota,2013,AvgCapacity,17.06
+Dakota,2013,CCCShare,.11
+Dakota,2013,HRShare,.04
+Dakota,2013,PublicShare,0
+Dakota,2014,Weekly Price,166.61
+Dakota,2014,TotCapacity,15685.56
+Dakota,2014,AvgCapacity,18.45
+Dakota,2014,CCCShare,.12
+Dakota,2014,HRShare,.08
+Dakota,2014,PublicShare,.02
+Dakota,2015,Weekly Price,169.74
+Dakota,2015,TotCapacity,14814.7
+Dakota,2015,AvgCapacity,18.18
+Dakota,2015,CCCShare,.12
+Dakota,2015,HRShare,.09
+Dakota,2015,PublicShare,.03
+Dakota,2016,Weekly Price,175.46
+Dakota,2016,TotCapacity,15356.47
+Dakota,2016,AvgCapacity,20.59
+Dakota,2016,CCCShare,.15
+Dakota,2016,HRShare,.13
+Dakota,2016,PublicShare,.04
+Dakota,2017,Weekly Price,173.72
+Dakota,2017,TotCapacity,15735.71
+Dakota,2017,AvgCapacity,21.89
+Dakota,2017,CCCShare,.16
+Dakota,2017,HRShare,.15
+Dakota,2017,PublicShare,.05
+Dakota,2018,Weekly Price,189.6
+Dakota,2018,TotCapacity,14189.59
+Dakota,2018,AvgCapacity,21.27
+Dakota,2018,CCCShare,.15
+Dakota,2018,HRShare,.14
+Dakota,2018,PublicShare,.04
+Dodge,2012,Weekly Price,119
+Dodge,2012,TotCapacity,942.41
+Dodge,2012,AvgCapacity,11.49
+Dodge,2012,CCCShare,.01
+Dodge,2012,HRShare,0
+Dodge,2012,PublicShare,.02
+Dodge,2013,Weekly Price,121.27
+Dodge,2013,TotCapacity,1009.7
+Dodge,2013,AvgCapacity,11.34
+Dodge,2013,CCCShare,.01
+Dodge,2013,HRShare,.02
+Dodge,2013,PublicShare,.02
+Dodge,2014,Weekly Price,119.14
+Dodge,2014,TotCapacity,1006.4
+Dodge,2014,AvgCapacity,11.7
+Dodge,2014,CCCShare,.01
+Dodge,2014,HRShare,.05
+Dodge,2014,PublicShare,.05
+Dodge,2015,Weekly Price,122.5
+Dodge,2015,TotCapacity,989.56
+Dodge,2015,AvgCapacity,11.64
+Dodge,2015,CCCShare,.02
+Dodge,2015,HRShare,.04
+Dodge,2015,PublicShare,.04
+Dodge,2016,Weekly Price,125.16
+Dodge,2016,TotCapacity,893.4
+Dodge,2016,AvgCapacity,12.07
+Dodge,2016,CCCShare,.03
+Dodge,2016,HRShare,.04
+Dodge,2016,PublicShare,.04
+Dodge,2017,Weekly Price,123.14
+Dodge,2017,TotCapacity,831.48
+Dodge,2017,AvgCapacity,11.55
+Dodge,2017,CCCShare,.01
+Dodge,2017,HRShare,.06
+Dodge,2017,PublicShare,.06
+Dodge,2018,Weekly Price,128.72
+Dodge,2018,TotCapacity,781.81
+Dodge,2018,AvgCapacity,11.33
+Dodge,2018,CCCShare,.01
+Dodge,2018,HRShare,.07
+Dodge,2018,PublicShare,.06
+Douglas,2012,Weekly Price,102.5
+Douglas,2012,TotCapacity,1737.11
+Douglas,2012,AvgCapacity,11.9
+Douglas,2012,CCCShare,.02
+Douglas,2012,HRShare,0
+Douglas,2012,PublicShare,.03
+Douglas,2013,Weekly Price,105.49
+Douglas,2013,TotCapacity,1990.77
+Douglas,2013,AvgCapacity,12.6
+Douglas,2013,CCCShare,.03
+Douglas,2013,HRShare,.03
+Douglas,2013,PublicShare,.03
+Douglas,2014,Weekly Price,103
+Douglas,2014,TotCapacity,1953.42
+Douglas,2014,AvgCapacity,12.36
+Douglas,2014,CCCShare,.03
+Douglas,2014,HRShare,.06
+Douglas,2014,PublicShare,.04
+Douglas,2015,Weekly Price,103.74
+Douglas,2015,TotCapacity,1712.27
+Douglas,2015,AvgCapacity,11.89
+Douglas,2015,CCCShare,.02
+Douglas,2015,HRShare,.07
+Douglas,2015,PublicShare,.05
+Douglas,2016,Weekly Price,114.27
+Douglas,2016,TotCapacity,1651.82
+Douglas,2016,AvgCapacity,12.42
+Douglas,2016,CCCShare,.03
+Douglas,2016,HRShare,.08
+Douglas,2016,PublicShare,.05
+Douglas,2017,Weekly Price,106.74
+Douglas,2017,TotCapacity,1520.71
+Douglas,2017,AvgCapacity,12.78
+Douglas,2017,CCCShare,.03
+Douglas,2017,HRShare,.13
+Douglas,2017,PublicShare,.07
+Douglas,2018,Weekly Price,114.65
+Douglas,2018,TotCapacity,1348.66
+Douglas,2018,AvgCapacity,11.83
+Douglas,2018,CCCShare,.03
+Douglas,2018,HRShare,.11
+Douglas,2018,PublicShare,.05
+Faribault,2012,Weekly Price,83.25
+Faribault,2012,TotCapacity,396.91
+Faribault,2012,AvgCapacity,13.69
+Faribault,2012,CCCShare,.07
+Faribault,2012,HRShare,0
+Faribault,2012,PublicShare,.1
+Faribault,2013,Weekly Price,85.53
+Faribault,2013,TotCapacity,404.21
+Faribault,2013,AvgCapacity,13.47
+Faribault,2013,CCCShare,.07
+Faribault,2013,HRShare,.1
+Faribault,2013,PublicShare,.1
+Faribault,2014,Weekly Price,89.58
+Faribault,2014,TotCapacity,453.21
+Faribault,2014,AvgCapacity,13.33
+Faribault,2014,CCCShare,.09
+Faribault,2014,HRShare,.15
+Faribault,2014,PublicShare,.12
+Faribault,2015,Weekly Price,94.76000000000001
+Faribault,2015,TotCapacity,480.47
+Faribault,2015,AvgCapacity,12.64
+Faribault,2015,CCCShare,.11
+Faribault,2015,HRShare,.16
+Faribault,2015,PublicShare,.08
+Faribault,2016,Weekly Price,122.77
+Faribault,2016,TotCapacity,457.1
+Faribault,2016,AvgCapacity,12.35
+Faribault,2016,CCCShare,.14
+Faribault,2016,HRShare,.19
+Faribault,2016,PublicShare,.08
+Faribault,2017,Weekly Price,99.89
+Faribault,2017,TotCapacity,452.63
+Faribault,2017,AvgCapacity,12.93
+Faribault,2017,CCCShare,.14
+Faribault,2017,HRShare,.2
+Faribault,2017,PublicShare,.09
+Faribault,2018,Weekly Price,90.81
+Faribault,2018,TotCapacity,446.44
+Faribault,2018,AvgCapacity,12.76
+Faribault,2018,CCCShare,.06
+Faribault,2018,HRShare,.2
+Faribault,2018,PublicShare,.14
+Fillmore,2012,Weekly Price,99.06999999999999
+Fillmore,2012,TotCapacity,1071.24
+Fillmore,2012,AvgCapacity,17.85
+Fillmore,2012,CCCShare,.05
+Fillmore,2012,HRShare,0
+Fillmore,2012,PublicShare,.05
+Fillmore,2013,Weekly Price,101.64
+Fillmore,2013,TotCapacity,1071.84
+Fillmore,2013,AvgCapacity,18.48
+Fillmore,2013,CCCShare,.05
+Fillmore,2013,HRShare,.05
+Fillmore,2013,PublicShare,.05
+Fillmore,2014,Weekly Price,92.15000000000001
+Fillmore,2014,TotCapacity,1084.21
+Fillmore,2014,AvgCapacity,19.71
+Fillmore,2014,CCCShare,.05
+Fillmore,2014,HRShare,.13
+Fillmore,2014,PublicShare,.13
+Fillmore,2015,Weekly Price,95.45
+Fillmore,2015,TotCapacity,752.4
+Fillmore,2015,AvgCapacity,13.68
+Fillmore,2015,CCCShare,.05
+Fillmore,2015,HRShare,.11
+Fillmore,2015,PublicShare,.11
+Fillmore,2016,Weekly Price,113.4
+Fillmore,2016,TotCapacity,760.4500000000001
+Fillmore,2016,AvgCapacity,15.21
+Fillmore,2016,CCCShare,.08
+Fillmore,2016,HRShare,.12
+Fillmore,2016,PublicShare,.12
+Fillmore,2017,Weekly Price,99.34
+Fillmore,2017,TotCapacity,665.84
+Fillmore,2017,AvgCapacity,15.48
+Fillmore,2017,CCCShare,.09
+Fillmore,2017,HRShare,.14
+Fillmore,2017,PublicShare,.12
+Fillmore,2018,Weekly Price,102.26
+Fillmore,2018,TotCapacity,735.9500000000001
+Fillmore,2018,AvgCapacity,16
+Fillmore,2018,CCCShare,.09
+Fillmore,2018,HRShare,.15
+Fillmore,2018,PublicShare,.11
+Freeborn,2012,Weekly Price,99.51000000000001
+Freeborn,2012,TotCapacity,858.88
+Freeborn,2012,AvgCapacity,12.45
+Freeborn,2012,CCCShare,.03
+Freeborn,2012,HRShare,0
+Freeborn,2012,PublicShare,.01
+Freeborn,2013,Weekly Price,104.13
+Freeborn,2013,TotCapacity,910.3
+Freeborn,2013,AvgCapacity,12.14
+Freeborn,2013,CCCShare,.03
+Freeborn,2013,HRShare,.01
+Freeborn,2013,PublicShare,.01
+Freeborn,2014,Weekly Price,103.64
+Freeborn,2014,TotCapacity,993.9
+Freeborn,2014,AvgCapacity,12.74
+Freeborn,2014,CCCShare,.04
+Freeborn,2014,HRShare,.05
+Freeborn,2014,PublicShare,.04
+Freeborn,2015,Weekly Price,104.95
+Freeborn,2015,TotCapacity,925.18
+Freeborn,2015,AvgCapacity,12.17
+Freeborn,2015,CCCShare,.04
+Freeborn,2015,HRShare,.05
+Freeborn,2015,PublicShare,.04
+Freeborn,2016,Weekly Price,116.19
+Freeborn,2016,TotCapacity,812.41
+Freeborn,2016,AvgCapacity,12.9
+Freeborn,2016,CCCShare,.05
+Freeborn,2016,HRShare,.11
+Freeborn,2016,PublicShare,.06
+Freeborn,2017,Weekly Price,98.87000000000001
+Freeborn,2017,TotCapacity,777.48
+Freeborn,2017,AvgCapacity,12.75
+Freeborn,2017,CCCShare,.05
+Freeborn,2017,HRShare,.15
+Freeborn,2017,PublicShare,.08
+Freeborn,2018,Weekly Price,102.45
+Freeborn,2018,TotCapacity,809.8
+Freeborn,2018,AvgCapacity,12.27
+Freeborn,2018,CCCShare,.03
+Freeborn,2018,HRShare,.14
+Freeborn,2018,PublicShare,.08
+Goodhue,2012,Weekly Price,122.89
+Goodhue,2012,TotCapacity,1669.03
+Goodhue,2012,AvgCapacity,13.14
+Goodhue,2012,CCCShare,.05
+Goodhue,2012,HRShare,0
+Goodhue,2012,PublicShare,.02
+Goodhue,2013,Weekly Price,125.32
+Goodhue,2013,TotCapacity,1488.26
+Goodhue,2013,AvgCapacity,11.45
+Goodhue,2013,CCCShare,.05
+Goodhue,2013,HRShare,.02
+Goodhue,2013,PublicShare,.02
+Goodhue,2014,Weekly Price,117.5
+Goodhue,2014,TotCapacity,1532.69
+Goodhue,2014,AvgCapacity,12.16
+Goodhue,2014,CCCShare,.05
+Goodhue,2014,HRShare,.06
+Goodhue,2014,PublicShare,.06
+Goodhue,2015,Weekly Price,120.34
+Goodhue,2015,TotCapacity,1486.47
+Goodhue,2015,AvgCapacity,11.8
+Goodhue,2015,CCCShare,.05
+Goodhue,2015,HRShare,.09
+Goodhue,2015,PublicShare,.06
+Goodhue,2016,Weekly Price,124.78
+Goodhue,2016,TotCapacity,1383.8
+Goodhue,2016,AvgCapacity,12.47
+Goodhue,2016,CCCShare,.05
+Goodhue,2016,HRShare,.13
+Goodhue,2016,PublicShare,.07
+Goodhue,2017,Weekly Price,125.75
+Goodhue,2017,TotCapacity,1281.97
+Goodhue,2017,AvgCapacity,12.82
+Goodhue,2017,CCCShare,.07
+Goodhue,2017,HRShare,.14
+Goodhue,2017,PublicShare,.08
+Goodhue,2018,Weekly Price,130.83
+Goodhue,2018,TotCapacity,1304.65
+Goodhue,2018,AvgCapacity,12.67
+Goodhue,2018,CCCShare,.07
+Goodhue,2018,HRShare,.12
+Goodhue,2018,PublicShare,.08
+Grant,2012,Weekly Price,86.38
+Grant,2012,TotCapacity,201.61
+Grant,2012,AvgCapacity,10.08
+Grant,2012,CCCShare,0
+Grant,2012,HRShare,0
+Grant,2012,PublicShare,.15
+Grant,2013,Weekly Price,90.78
+Grant,2013,TotCapacity,212.31
+Grant,2013,AvgCapacity,10.62
+Grant,2013,CCCShare,0
+Grant,2013,HRShare,.15
+Grant,2013,PublicShare,.15
+Grant,2014,Weekly Price,82.26000000000001
+Grant,2014,TotCapacity,215.52
+Grant,2014,AvgCapacity,11.34
+Grant,2014,CCCShare,0
+Grant,2014,HRShare,.21
+Grant,2014,PublicShare,.21
+Grant,2015,Weekly Price,85.09
+Grant,2015,TotCapacity,222.95
+Grant,2015,AvgCapacity,11.15
+Grant,2015,CCCShare,0
+Grant,2015,HRShare,.25
+Grant,2015,PublicShare,.2
+Grant,2016,Weekly Price,87.56999999999999
+Grant,2016,TotCapacity,244.25
+Grant,2016,AvgCapacity,11.63
+Grant,2016,CCCShare,0
+Grant,2016,HRShare,.29
+Grant,2016,PublicShare,.24
+Grant,2017,Weekly Price,87.48
+Grant,2017,TotCapacity,273.2
+Grant,2017,AvgCapacity,11.38
+Grant,2017,CCCShare,0
+Grant,2017,HRShare,.21
+Grant,2017,PublicShare,.21
+Grant,2018,Weekly Price,90.49
+Grant,2018,TotCapacity,250.27
+Grant,2018,AvgCapacity,11.92
+Grant,2018,CCCShare,0
+Grant,2018,HRShare,.24
+Grant,2018,PublicShare,.24
+Hennepin,2012,Weekly Price,180.59
+Hennepin,2012,TotCapacity,33159.46
+Hennepin,2012,AvgCapacity,23.16
+Hennepin,2012,CCCShare,.2
+Hennepin,2012,HRShare,0
+Hennepin,2012,PublicShare,.01
+Hennepin,2013,Weekly Price,186.07
+Hennepin,2013,TotCapacity,35046.35
+Hennepin,2013,AvgCapacity,24.46
+Hennepin,2013,CCCShare,.23
+Hennepin,2013,HRShare,.08
+Hennepin,2013,PublicShare,.01
+Hennepin,2014,Weekly Price,181.12
+Hennepin,2014,TotCapacity,39652.71
+Hennepin,2014,AvgCapacity,26.4
+Hennepin,2014,CCCShare,.26
+Hennepin,2014,HRShare,.14
+Hennepin,2014,PublicShare,.05
+Hennepin,2015,Weekly Price,185.64
+Hennepin,2015,TotCapacity,38668.79
+Hennepin,2015,AvgCapacity,26.25
+Hennepin,2015,CCCShare,.27
+Hennepin,2015,HRShare,.17
+Hennepin,2015,PublicShare,.06
+Hennepin,2016,Weekly Price,191.9
+Hennepin,2016,TotCapacity,40722.5
+Hennepin,2016,AvgCapacity,28.88
+Hennepin,2016,CCCShare,.3
+Hennepin,2016,HRShare,.21
+Hennepin,2016,PublicShare,.08
+Hennepin,2017,Weekly Price,193.66
+Hennepin,2017,TotCapacity,42051.82
+Hennepin,2017,AvgCapacity,32.1
+Hennepin,2017,CCCShare,.32
+Hennepin,2017,HRShare,.24
+Hennepin,2017,PublicShare,.09
+Hennepin,2018,Weekly Price,210.24
+Hennepin,2018,TotCapacity,41818.37
+Hennepin,2018,AvgCapacity,33.54
+Hennepin,2018,CCCShare,.31
+Hennepin,2018,HRShare,.25
+Hennepin,2018,PublicShare,.09
+Houston,2012,Weekly Price,100.49
+Houston,2012,TotCapacity,778.39
+Houston,2012,AvgCapacity,10.38
+Houston,2012,CCCShare,.03
+Houston,2012,HRShare,0
+Houston,2012,PublicShare,.05
+Houston,2013,Weekly Price,104.23
+Houston,2013,TotCapacity,797.73
+Houston,2013,AvgCapacity,10.1
+Houston,2013,CCCShare,.03
+Houston,2013,HRShare,.05
+Houston,2013,PublicShare,.05
+Houston,2014,Weekly Price,101.89
+Houston,2014,TotCapacity,804.99
+Houston,2014,AvgCapacity,10.45
+Houston,2014,CCCShare,.03
+Houston,2014,HRShare,.05
+Houston,2014,PublicShare,.05
+Houston,2015,Weekly Price,103.43
+Houston,2015,TotCapacity,724.8200000000001
+Houston,2015,AvgCapacity,10.21
+Houston,2015,CCCShare,.01
+Houston,2015,HRShare,.07
+Houston,2015,PublicShare,.07
+Houston,2016,Weekly Price,112.31
+Houston,2016,TotCapacity,781.61
+Houston,2016,AvgCapacity,11.17
+Houston,2016,CCCShare,.03
+Houston,2016,HRShare,.13
+Houston,2016,PublicShare,.09
+Houston,2017,Weekly Price,103.32
+Houston,2017,TotCapacity,757.87
+Houston,2017,AvgCapacity,12.63
+Houston,2017,CCCShare,.05
+Houston,2017,HRShare,.17
+Houston,2017,PublicShare,.1
+Houston,2018,Weekly Price,104.35
+Houston,2018,TotCapacity,700.81
+Houston,2018,AvgCapacity,12.98
+Houston,2018,CCCShare,.06
+Houston,2018,HRShare,.19
+Houston,2018,PublicShare,.11
+Hubbard,2012,Weekly Price,102.82
+Hubbard,2012,TotCapacity,589.72
+Hubbard,2012,AvgCapacity,11.56
+Hubbard,2012,CCCShare,.04
+Hubbard,2012,HRShare,0
+Hubbard,2012,PublicShare,.02
+Hubbard,2013,Weekly Price,105.15
+Hubbard,2013,TotCapacity,590.1
+Hubbard,2013,AvgCapacity,11.35
+Hubbard,2013,CCCShare,.04
+Hubbard,2013,HRShare,.08
+Hubbard,2013,PublicShare,.02
+Hubbard,2014,Weekly Price,108.29
+Hubbard,2014,TotCapacity,620.8
+Hubbard,2014,AvgCapacity,10.35
+Hubbard,2014,CCCShare,.03
+Hubbard,2014,HRShare,.1
+Hubbard,2014,PublicShare,.02
+Hubbard,2015,Weekly Price,105.94
+Hubbard,2015,TotCapacity,670.04
+Hubbard,2015,AvgCapacity,10.81
+Hubbard,2015,CCCShare,.03
+Hubbard,2015,HRShare,.21
+Hubbard,2015,PublicShare,.05
+Hubbard,2016,Weekly Price,119.81
+Hubbard,2016,TotCapacity,618.04
+Hubbard,2016,AvgCapacity,11.66
+Hubbard,2016,CCCShare,.04
+Hubbard,2016,HRShare,.3
+Hubbard,2016,PublicShare,.04
+Hubbard,2017,Weekly Price,111.15
+Hubbard,2017,TotCapacity,624.21
+Hubbard,2017,AvgCapacity,11.15
+Hubbard,2017,CCCShare,.04
+Hubbard,2017,HRShare,.36
+Hubbard,2017,PublicShare,.04
+Hubbard,2018,Weekly Price,116.15
+Hubbard,2018,TotCapacity,581.38
+Hubbard,2018,AvgCapacity,10.97
+Hubbard,2018,CCCShare,.02
+Hubbard,2018,HRShare,.32
+Hubbard,2018,PublicShare,.06
+Isanti,2012,Weekly Price,128.89
+Isanti,2012,TotCapacity,780.17
+Isanti,2012,AvgCapacity,16.96
+Isanti,2012,CCCShare,.15
+Isanti,2012,HRShare,0
+Isanti,2012,PublicShare,0
+Isanti,2013,Weekly Price,129.78
+Isanti,2013,TotCapacity,870.23
+Isanti,2013,AvgCapacity,17.06
+Isanti,2013,CCCShare,.14
+Isanti,2013,HRShare,.02
+Isanti,2013,PublicShare,0
+Isanti,2014,Weekly Price,124.6
+Isanti,2014,TotCapacity,892
+Isanti,2014,AvgCapacity,17.49
+Isanti,2014,CCCShare,.14
+Isanti,2014,HRShare,.16
+Isanti,2014,PublicShare,.08
+Isanti,2015,Weekly Price,127.13
+Isanti,2015,TotCapacity,887.06
+Isanti,2015,AvgCapacity,17.06
+Isanti,2015,CCCShare,.13
+Isanti,2015,HRShare,.17
+Isanti,2015,PublicShare,.08
+Isanti,2016,Weekly Price,136.24
+Isanti,2016,TotCapacity,801.73
+Isanti,2016,AvgCapacity,17.82
+Isanti,2016,CCCShare,.13
+Isanti,2016,HRShare,.22
+Isanti,2016,PublicShare,.09
+Isanti,2017,Weekly Price,130.14
+Isanti,2017,TotCapacity,775.1
+Isanti,2017,AvgCapacity,17.22
+Isanti,2017,CCCShare,.16
+Isanti,2017,HRShare,.22
+Isanti,2017,PublicShare,.07
+Isanti,2018,Weekly Price,141.02
+Isanti,2018,TotCapacity,792.74
+Isanti,2018,AvgCapacity,18.87
+Isanti,2018,CCCShare,.17
+Isanti,2018,HRShare,.24
+Isanti,2018,PublicShare,.07
+Itasca,2012,Weekly Price,95.98
+Itasca,2012,TotCapacity,1157.36
+Itasca,2012,AvgCapacity,13.94
+Itasca,2012,CCCShare,.05
+Itasca,2012,HRShare,0
+Itasca,2012,PublicShare,.13
+Itasca,2013,Weekly Price,101.03
+Itasca,2013,TotCapacity,1301.91
+Itasca,2013,AvgCapacity,14.63
+Itasca,2013,CCCShare,.04
+Itasca,2013,HRShare,.16
+Itasca,2013,PublicShare,.12
+Itasca,2014,Weekly Price,95.15000000000001
+Itasca,2014,TotCapacity,1487.56
+Itasca,2014,AvgCapacity,15.83
+Itasca,2014,CCCShare,.05
+Itasca,2014,HRShare,.28
+Itasca,2014,PublicShare,.17
+Itasca,2015,Weekly Price,96.36
+Itasca,2015,TotCapacity,1512.59
+Itasca,2015,AvgCapacity,15.76
+Itasca,2015,CCCShare,.05
+Itasca,2015,HRShare,.29
+Itasca,2015,PublicShare,.17
+Itasca,2016,Weekly Price,110.67
+Itasca,2016,TotCapacity,1175.95
+Itasca,2016,AvgCapacity,13.21
+Itasca,2016,CCCShare,.08
+Itasca,2016,HRShare,.35
+Itasca,2016,PublicShare,.16
+Itasca,2017,Weekly Price,101.28
+Itasca,2017,TotCapacity,1146.59
+Itasca,2017,AvgCapacity,13.18
+Itasca,2017,CCCShare,.08
+Itasca,2017,HRShare,.38
+Itasca,2017,PublicShare,.16
+Itasca,2018,Weekly Price,100.51
+Itasca,2018,TotCapacity,1137.73
+Itasca,2018,AvgCapacity,13.08
+Itasca,2018,CCCShare,.02
+Itasca,2018,HRShare,.37
+Itasca,2018,PublicShare,.23
+Jackson,2012,Weekly Price,91.04000000000001
+Jackson,2012,TotCapacity,457.38
+Jackson,2012,AvgCapacity,12.04
+Jackson,2012,CCCShare,.05
+Jackson,2012,HRShare,0
+Jackson,2012,PublicShare,.03
+Jackson,2013,Weekly Price,97.66
+Jackson,2013,TotCapacity,464.95
+Jackson,2013,AvgCapacity,11.62
+Jackson,2013,CCCShare,.05
+Jackson,2013,HRShare,.03
+Jackson,2013,PublicShare,.03
+Jackson,2014,Weekly Price,90.06999999999999
+Jackson,2014,TotCapacity,521.75
+Jackson,2014,AvgCapacity,12.73
+Jackson,2014,CCCShare,.05
+Jackson,2014,HRShare,.1
+Jackson,2014,PublicShare,.1
+Jackson,2015,Weekly Price,87.75
+Jackson,2015,TotCapacity,456.45
+Jackson,2015,AvgCapacity,12.34
+Jackson,2015,CCCShare,.05
+Jackson,2015,HRShare,.11
+Jackson,2015,PublicShare,.11
+Jackson,2016,Weekly Price,102.56
+Jackson,2016,TotCapacity,452.9
+Jackson,2016,AvgCapacity,12.58
+Jackson,2016,CCCShare,.06
+Jackson,2016,HRShare,.17
+Jackson,2016,PublicShare,.14
+Jackson,2017,Weekly Price,86.48
+Jackson,2017,TotCapacity,426.28
+Jackson,2017,AvgCapacity,12.54
+Jackson,2017,CCCShare,.06
+Jackson,2017,HRShare,.24
+Jackson,2017,PublicShare,.15
+Jackson,2018,Weekly Price,96.23
+Jackson,2018,TotCapacity,376.39
+Jackson,2018,AvgCapacity,12.55
+Jackson,2018,CCCShare,.07
+Jackson,2018,HRShare,.23
+Jackson,2018,PublicShare,.13
+Kanabec,2012,Weekly Price,102.23
+Kanabec,2012,TotCapacity,761.21
+Kanabec,2012,AvgCapacity,22.39
+Kanabec,2012,CCCShare,.03
+Kanabec,2012,HRShare,0
+Kanabec,2012,PublicShare,.03
+Kanabec,2013,Weekly Price,104.93
+Kanabec,2013,TotCapacity,759.21
+Kanabec,2013,AvgCapacity,22.33
+Kanabec,2013,CCCShare,.03
+Kanabec,2013,HRShare,.03
+Kanabec,2013,PublicShare,.03
+Kanabec,2014,Weekly Price,98.51000000000001
+Kanabec,2014,TotCapacity,788.43
+Kanabec,2014,AvgCapacity,23.19
+Kanabec,2014,CCCShare,.03
+Kanabec,2014,HRShare,.09
+Kanabec,2014,PublicShare,.09
+Kanabec,2015,Weekly Price,101.52
+Kanabec,2015,TotCapacity,788.76
+Kanabec,2015,AvgCapacity,22.54
+Kanabec,2015,CCCShare,.03
+Kanabec,2015,HRShare,.09
+Kanabec,2015,PublicShare,.09
+Kanabec,2016,Weekly Price,116.67
+Kanabec,2016,TotCapacity,885.76
+Kanabec,2016,AvgCapacity,24.6
+Kanabec,2016,CCCShare,.06
+Kanabec,2016,HRShare,.22
+Kanabec,2016,PublicShare,.08
+Kanabec,2017,Weekly Price,101.71
+Kanabec,2017,TotCapacity,784.36
+Kanabec,2017,AvgCapacity,23.07
+Kanabec,2017,CCCShare,.06
+Kanabec,2017,HRShare,.29
+Kanabec,2017,PublicShare,.09
+Kanabec,2018,Weekly Price,114.55
+Kanabec,2018,TotCapacity,342.57
+Kanabec,2018,AvgCapacity,11.05
+Kanabec,2018,CCCShare,.06
+Kanabec,2018,HRShare,.26
+Kanabec,2018,PublicShare,.06
+Kandiyohi,2012,Weekly Price,101.05
+Kandiyohi,2012,TotCapacity,1334.13
+Kandiyohi,2012,AvgCapacity,10.76
+Kandiyohi,2012,CCCShare,.02
+Kandiyohi,2012,HRShare,0
+Kandiyohi,2012,PublicShare,.03
+Kandiyohi,2013,Weekly Price,105.19
+Kandiyohi,2013,TotCapacity,1340.56
+Kandiyohi,2013,AvgCapacity,10.9
+Kandiyohi,2013,CCCShare,.02
+Kandiyohi,2013,HRShare,.04
+Kandiyohi,2013,PublicShare,.02
+Kandiyohi,2014,Weekly Price,102.08
+Kandiyohi,2014,TotCapacity,1445.96
+Kandiyohi,2014,AvgCapacity,11.21
+Kandiyohi,2014,CCCShare,.03
+Kandiyohi,2014,HRShare,.11
+Kandiyohi,2014,PublicShare,.05
+Kandiyohi,2015,Weekly Price,100.98
+Kandiyohi,2015,TotCapacity,1436.51
+Kandiyohi,2015,AvgCapacity,11.05
+Kandiyohi,2015,CCCShare,.04
+Kandiyohi,2015,HRShare,.14
+Kandiyohi,2015,PublicShare,.06
+Kandiyohi,2016,Weekly Price,113.79
+Kandiyohi,2016,TotCapacity,1413.49
+Kandiyohi,2016,AvgCapacity,12.51
+Kandiyohi,2016,CCCShare,.04
+Kandiyohi,2016,HRShare,.17
+Kandiyohi,2016,PublicShare,.07
+Kandiyohi,2017,Weekly Price,105.28
+Kandiyohi,2017,TotCapacity,1375.15
+Kandiyohi,2017,AvgCapacity,12.73
+Kandiyohi,2017,CCCShare,.05
+Kandiyohi,2017,HRShare,.19
+Kandiyohi,2017,PublicShare,.06
+Kandiyohi,2018,Weekly Price,108.84
+Kandiyohi,2018,TotCapacity,1348.61
+Kandiyohi,2018,AvgCapacity,12.49
+Kandiyohi,2018,CCCShare,.05
+Kandiyohi,2018,HRShare,.19
+Kandiyohi,2018,PublicShare,.08
+Kittson,2012,Weekly Price,79.45999999999999
+Kittson,2012,TotCapacity,173.9
+Kittson,2012,AvgCapacity,9.66
+Kittson,2012,CCCShare,0
+Kittson,2012,HRShare,0
+Kittson,2012,PublicShare,.17
+Kittson,2013,Weekly Price,83.02
+Kittson,2013,TotCapacity,185.87
+Kittson,2013,AvgCapacity,9.289999999999999
+Kittson,2013,CCCShare,0
+Kittson,2013,HRShare,.15
+Kittson,2013,PublicShare,.15
+Kittson,2014,Weekly Price,84.44
+Kittson,2014,TotCapacity,171.27
+Kittson,2014,AvgCapacity,9.51
+Kittson,2014,CCCShare,0
+Kittson,2014,HRShare,.17
+Kittson,2014,PublicShare,.17
+Kittson,2015,Weekly Price,91.55
+Kittson,2015,TotCapacity,152.33
+Kittson,2015,AvgCapacity,9.52
+Kittson,2015,CCCShare,0
+Kittson,2015,HRShare,.13
+Kittson,2015,PublicShare,.13
+Kittson,2016,Weekly Price,91.78
+Kittson,2016,TotCapacity,206
+Kittson,2016,AvgCapacity,10.84
+Kittson,2016,CCCShare,0
+Kittson,2016,HRShare,.21
+Kittson,2016,PublicShare,.21
+Kittson,2017,Weekly Price,82.08
+Kittson,2017,TotCapacity,176
+Kittson,2017,AvgCapacity,11
+Kittson,2017,CCCShare,0
+Kittson,2017,HRShare,.25
+Kittson,2017,PublicShare,.25
+Kittson,2018,Weekly Price,96.77
+Kittson,2018,TotCapacity,173.6
+Kittson,2018,AvgCapacity,10.21
+Kittson,2018,CCCShare,0
+Kittson,2018,HRShare,.12
+Kittson,2018,PublicShare,.12
+Koochiching,2012,Weekly Price,100.16
+Koochiching,2012,TotCapacity,239.73
+Koochiching,2012,AvgCapacity,10.42
+Koochiching,2012,CCCShare,0
+Koochiching,2012,HRShare,0
+Koochiching,2012,PublicShare,.04
+Koochiching,2013,Weekly Price,106.75
+Koochiching,2013,TotCapacity,286.63
+Koochiching,2013,AvgCapacity,10.24
+Koochiching,2013,CCCShare,0
+Koochiching,2013,HRShare,.04
+Koochiching,2013,PublicShare,.04
+Koochiching,2014,Weekly Price,95.65000000000001
+Koochiching,2014,TotCapacity,309.5
+Koochiching,2014,AvgCapacity,11.05
+Koochiching,2014,CCCShare,0
+Koochiching,2014,HRShare,.11
+Koochiching,2014,PublicShare,.11
+Koochiching,2015,Weekly Price,89.84999999999999
+Koochiching,2015,TotCapacity,348
+Koochiching,2015,AvgCapacity,11.6
+Koochiching,2015,CCCShare,0
+Koochiching,2015,HRShare,.17
+Koochiching,2015,PublicShare,.17
+Koochiching,2016,Weekly Price,96.09
+Koochiching,2016,TotCapacity,340.38
+Koochiching,2016,AvgCapacity,11.35
+Koochiching,2016,CCCShare,0
+Koochiching,2016,HRShare,.17
+Koochiching,2016,PublicShare,.17
+Koochiching,2017,Weekly Price,84.42
+Koochiching,2017,TotCapacity,289.5
+Koochiching,2017,AvgCapacity,11.58
+Koochiching,2017,CCCShare,0
+Koochiching,2017,HRShare,.24
+Koochiching,2017,PublicShare,.2
+Koochiching,2018,Weekly Price,90.84999999999999
+Koochiching,2018,TotCapacity,205.37
+Koochiching,2018,AvgCapacity,10.27
+Koochiching,2018,CCCShare,0
+Koochiching,2018,HRShare,.15
+Koochiching,2018,PublicShare,.15
+Lac qui Parle,2012,Weekly Price,82.77
+Lac qui Parle,2012,TotCapacity,219.47
+Lac qui Parle,2012,AvgCapacity,10.45
+Lac qui Parle,2012,CCCShare,0
+Lac qui Parle,2012,HRShare,0
+Lac qui Parle,2012,PublicShare,.1
+Lac qui Parle,2013,Weekly Price,87.13
+Lac qui Parle,2013,TotCapacity,218.2
+Lac qui Parle,2013,AvgCapacity,10.39
+Lac qui Parle,2013,CCCShare,0
+Lac qui Parle,2013,HRShare,.1
+Lac qui Parle,2013,PublicShare,.1
+Lac qui Parle,2014,Weekly Price,87.47
+Lac qui Parle,2014,TotCapacity,237.16
+Lac qui Parle,2014,AvgCapacity,11.29
+Lac qui Parle,2014,CCCShare,.05
+Lac qui Parle,2014,HRShare,.14
+Lac qui Parle,2014,PublicShare,.14
+Lac qui Parle,2015,Weekly Price,90.90000000000001
+Lac qui Parle,2015,TotCapacity,242.76
+Lac qui Parle,2015,AvgCapacity,10.55
+Lac qui Parle,2015,CCCShare,.04
+Lac qui Parle,2015,HRShare,.13
+Lac qui Parle,2015,PublicShare,.13
+Lac qui Parle,2016,Weekly Price,107.79
+Lac qui Parle,2016,TotCapacity,241
+Lac qui Parle,2016,AvgCapacity,11.48
+Lac qui Parle,2016,CCCShare,.05
+Lac qui Parle,2016,HRShare,.14
+Lac qui Parle,2016,PublicShare,.14
+Lac qui Parle,2017,Weekly Price,101.65
+Lac qui Parle,2017,TotCapacity,200.46
+Lac qui Parle,2017,AvgCapacity,10.02
+Lac qui Parle,2017,CCCShare,.05
+Lac qui Parle,2017,HRShare,.1
+Lac qui Parle,2017,PublicShare,.1
+Lac qui Parle,2018,Weekly Price,98.22
+Lac qui Parle,2018,TotCapacity,212.33
+Lac qui Parle,2018,AvgCapacity,10.62
+Lac qui Parle,2018,CCCShare,.05
+Lac qui Parle,2018,HRShare,.15
+Lac qui Parle,2018,PublicShare,.15
+Lake,2012,Weekly Price,105.49
+Lake,2012,TotCapacity,148.97
+Lake,2012,AvgCapacity,9.93
+Lake,2012,CCCShare,.07
+Lake,2012,HRShare,0
+Lake,2012,PublicShare,.07
+Lake,2013,Weekly Price,111.05
+Lake,2013,TotCapacity,191.67
+Lake,2013,AvgCapacity,10.65
+Lake,2013,CCCShare,.06
+Lake,2013,HRShare,.06
+Lake,2013,PublicShare,.06
+Lake,2014,Weekly Price,102.71
+Lake,2014,TotCapacity,179.53
+Lake,2014,AvgCapacity,9.970000000000001
+Lake,2014,CCCShare,0
+Lake,2014,HRShare,.11
+Lake,2014,PublicShare,.11
+Lake,2015,Weekly Price,108.65
+Lake,2015,TotCapacity,142.33
+Lake,2015,AvgCapacity,9.49
+Lake,2015,CCCShare,0
+Lake,2015,HRShare,.07
+Lake,2015,PublicShare,.07
+Lake,2016,Weekly Price,110.47
+Lake,2016,TotCapacity,120
+Lake,2016,AvgCapacity,10
+Lake,2016,CCCShare,0
+Lake,2016,HRShare,.08
+Lake,2016,PublicShare,.08
+Lake,2017,Weekly Price,116.14
+Lake,2017,TotCapacity,130.5
+Lake,2017,AvgCapacity,9.32
+Lake,2017,CCCShare,0
+Lake,2017,HRShare,.14
+Lake,2017,PublicShare,.07
+Lake,2018,Weekly Price,106.83
+Lake,2018,TotCapacity,148.2
+Lake,2018,AvgCapacity,9.880000000000001
+Lake,2018,CCCShare,0
+Lake,2018,HRShare,.2
+Lake,2018,PublicShare,.13
+Lake of the Woods,2012,Weekly Price,84.09999999999999
+Lake of the Woods,2012,TotCapacity,109.04
+Lake of the Woods,2012,AvgCapacity,9.91
+Lake of the Woods,2012,CCCShare,0
+Lake of the Woods,2012,HRShare,0
+Lake of the Woods,2012,PublicShare,.09
+Lake of the Woods,2013,Weekly Price,86.90000000000001
+Lake of the Woods,2013,TotCapacity,111.74
+Lake of the Woods,2013,AvgCapacity,10.16
+Lake of the Woods,2013,CCCShare,0
+Lake of the Woods,2013,HRShare,.09
+Lake of the Woods,2013,PublicShare,.09
+Lake of the Woods,2014,Weekly Price,87.69
+Lake of the Woods,2014,TotCapacity,97.14
+Lake of the Woods,2014,AvgCapacity,10.79
+Lake of the Woods,2014,CCCShare,0
+Lake of the Woods,2014,HRShare,.11
+Lake of the Woods,2014,PublicShare,.11
+Lake of the Woods,2015,Weekly Price,89.45999999999999
+Lake of the Woods,2015,TotCapacity,105.14
+Lake of the Woods,2015,AvgCapacity,10.51
+Lake of the Woods,2015,CCCShare,0
+Lake of the Woods,2015,HRShare,.2
+Lake of the Woods,2015,PublicShare,.1
+Lake of the Woods,2016,Weekly Price,88.75
+Lake of the Woods,2016,TotCapacity,103.14
+Lake of the Woods,2016,AvgCapacity,11.46
+Lake of the Woods,2016,CCCShare,0
+Lake of the Woods,2016,HRShare,.33
+Lake of the Woods,2016,PublicShare,.22
+Lake of the Woods,2017,Weekly Price,73.01000000000001
+Lake of the Woods,2017,TotCapacity,98.44
+Lake of the Woods,2017,AvgCapacity,12.31
+Lake of the Woods,2017,CCCShare,0
+Lake of the Woods,2017,HRShare,.38
+Lake of the Woods,2017,PublicShare,.25
+Lake of the Woods,2018,Weekly Price,83.20999999999999
+Lake of the Woods,2018,TotCapacity,104.6
+Lake of the Woods,2018,AvgCapacity,11.62
+Lake of the Woods,2018,CCCShare,0
+Lake of the Woods,2018,HRShare,.33
+Lake of the Woods,2018,PublicShare,.22
+Le Sueur,2012,Weekly Price,117.87
+Le Sueur,2012,TotCapacity,1071.91
+Le Sueur,2012,AvgCapacity,10.31
+Le Sueur,2012,CCCShare,0
+Le Sueur,2012,HRShare,0
+Le Sueur,2012,PublicShare,.02
+Le Sueur,2013,Weekly Price,121.14
+Le Sueur,2013,TotCapacity,1069.55
+Le Sueur,2013,AvgCapacity,10.38
+Le Sueur,2013,CCCShare,0
+Le Sueur,2013,HRShare,.02
+Le Sueur,2013,PublicShare,.02
+Le Sueur,2014,Weekly Price,113.86
+Le Sueur,2014,TotCapacity,1131.8
+Le Sueur,2014,AvgCapacity,11.32
+Le Sueur,2014,CCCShare,.01
+Le Sueur,2014,HRShare,.08
+Le Sueur,2014,PublicShare,.07
+Le Sueur,2015,Weekly Price,115.09
+Le Sueur,2015,TotCapacity,1032.18
+Le Sueur,2015,AvgCapacity,11.1
+Le Sueur,2015,CCCShare,.01
+Le Sueur,2015,HRShare,.11
+Le Sueur,2015,PublicShare,.08
+Le Sueur,2016,Weekly Price,123.36
+Le Sueur,2016,TotCapacity,983.78
+Le Sueur,2016,AvgCapacity,11.44
+Le Sueur,2016,CCCShare,.01
+Le Sueur,2016,HRShare,.12
+Le Sueur,2016,PublicShare,.08
+Le Sueur,2017,Weekly Price,118.75
+Le Sueur,2017,TotCapacity,946.2000000000001
+Le Sueur,2017,AvgCapacity,11.26
+Le Sueur,2017,CCCShare,.02
+Le Sueur,2017,HRShare,.13
+Le Sueur,2017,PublicShare,.07
+Le Sueur,2018,Weekly Price,121.35
+Le Sueur,2018,TotCapacity,932.6
+Le Sueur,2018,AvgCapacity,10.97
+Le Sueur,2018,CCCShare,0
+Le Sueur,2018,HRShare,.14
+Le Sueur,2018,PublicShare,.08
+Lincoln,2012,Weekly Price,91.59
+Lincoln,2012,TotCapacity,205.27
+Lincoln,2012,AvgCapacity,9.77
+Lincoln,2012,CCCShare,0
+Lincoln,2012,HRShare,0
+Lincoln,2012,PublicShare,0
+Lincoln,2013,Weekly Price,98.40000000000001
+Lincoln,2013,TotCapacity,239.3
+Lincoln,2013,AvgCapacity,9.970000000000001
+Lincoln,2013,CCCShare,0
+Lincoln,2013,HRShare,0
+Lincoln,2013,PublicShare,0
+Lincoln,2014,Weekly Price,89.79000000000001
+Lincoln,2014,TotCapacity,302.6
+Lincoln,2014,AvgCapacity,10.81
+Lincoln,2014,CCCShare,0
+Lincoln,2014,HRShare,.11
+Lincoln,2014,PublicShare,.11
+Lincoln,2015,Weekly Price,85.01000000000001
+Lincoln,2015,TotCapacity,261.67
+Lincoln,2015,AvgCapacity,10.9
+Lincoln,2015,CCCShare,0
+Lincoln,2015,HRShare,.13
+Lincoln,2015,PublicShare,.13
+Lincoln,2016,Weekly Price,96.22
+Lincoln,2016,TotCapacity,244
+Lincoln,2016,AvgCapacity,11.09
+Lincoln,2016,CCCShare,0
+Lincoln,2016,HRShare,.14
+Lincoln,2016,PublicShare,.14
+Lincoln,2017,Weekly Price,87.2
+Lincoln,2017,TotCapacity,296.2
+Lincoln,2017,AvgCapacity,10.58
+Lincoln,2017,CCCShare,0
+Lincoln,2017,HRShare,.18
+Lincoln,2017,PublicShare,.14
+Lincoln,2018,Weekly Price,93.70999999999999
+Lincoln,2018,TotCapacity,261.9
+Lincoln,2018,AvgCapacity,10.48
+Lincoln,2018,CCCShare,0
+Lincoln,2018,HRShare,.16
+Lincoln,2018,PublicShare,.12
+Lyon,2012,Weekly Price,101.26
+Lyon,2012,TotCapacity,1537.44
+Lyon,2012,AvgCapacity,12.5
+Lyon,2012,CCCShare,.05
+Lyon,2012,HRShare,0
+Lyon,2012,PublicShare,.02
+Lyon,2013,Weekly Price,106.76
+Lyon,2013,TotCapacity,1567.84
+Lyon,2013,AvgCapacity,12.35
+Lyon,2013,CCCShare,.04
+Lyon,2013,HRShare,.02
+Lyon,2013,PublicShare,.02
+Lyon,2014,Weekly Price,101.36
+Lyon,2014,TotCapacity,1760.69
+Lyon,2014,AvgCapacity,12.76
+Lyon,2014,CCCShare,.04
+Lyon,2014,HRShare,.05
+Lyon,2014,PublicShare,.05
+Lyon,2015,Weekly Price,98.37000000000001
+Lyon,2015,TotCapacity,1665.56
+Lyon,2015,AvgCapacity,12.81
+Lyon,2015,CCCShare,.05
+Lyon,2015,HRShare,.08
+Lyon,2015,PublicShare,.07
+Lyon,2016,Weekly Price,114.87
+Lyon,2016,TotCapacity,1566.36
+Lyon,2016,AvgCapacity,13.05
+Lyon,2016,CCCShare,.06
+Lyon,2016,HRShare,.13
+Lyon,2016,PublicShare,.08
+Lyon,2017,Weekly Price,101.97
+Lyon,2017,TotCapacity,1390.92
+Lyon,2017,AvgCapacity,12.42
+Lyon,2017,CCCShare,.05
+Lyon,2017,HRShare,.16
+Lyon,2017,PublicShare,.09
+Lyon,2018,Weekly Price,106.32
+Lyon,2018,TotCapacity,1378.33
+Lyon,2018,AvgCapacity,12.76
+Lyon,2018,CCCShare,.06
+Lyon,2018,HRShare,.17
+Lyon,2018,PublicShare,.08
+Mahnomen,2012,Weekly Price,81.08
+Mahnomen,2012,TotCapacity,253.59
+Mahnomen,2012,AvgCapacity,14.92
+Mahnomen,2012,CCCShare,.06
+Mahnomen,2012,HRShare,0
+Mahnomen,2012,PublicShare,.18
+Mahnomen,2013,Weekly Price,87.13
+Mahnomen,2013,TotCapacity,264.29
+Mahnomen,2013,AvgCapacity,14.68
+Mahnomen,2013,CCCShare,.06
+Mahnomen,2013,HRShare,.44
+Mahnomen,2013,PublicShare,.17
+Mahnomen,2014,Weekly Price,64.78
+Mahnomen,2014,TotCapacity,375.14
+Mahnomen,2014,AvgCapacity,17.05
+Mahnomen,2014,CCCShare,.05
+Mahnomen,2014,HRShare,.59
+Mahnomen,2014,PublicShare,.36
+Mahnomen,2015,Weekly Price,65.78
+Mahnomen,2015,TotCapacity,340.43
+Mahnomen,2015,AvgCapacity,15.47
+Mahnomen,2015,CCCShare,0
+Mahnomen,2015,HRShare,.64
+Mahnomen,2015,PublicShare,.36
+Mahnomen,2016,Weekly Price,82.84999999999999
+Mahnomen,2016,TotCapacity,314.13
+Mahnomen,2016,AvgCapacity,14.96
+Mahnomen,2016,CCCShare,0
+Mahnomen,2016,HRShare,.57
+Mahnomen,2016,PublicShare,.29
+Mahnomen,2017,Weekly Price,78.12000000000001
+Mahnomen,2017,TotCapacity,300.4
+Mahnomen,2017,AvgCapacity,14.3
+Mahnomen,2017,CCCShare,0
+Mahnomen,2017,HRShare,.57
+Mahnomen,2017,PublicShare,.29
+Mahnomen,2018,Weekly Price,84.97
+Mahnomen,2018,TotCapacity,273.07
+Mahnomen,2018,AvgCapacity,14.37
+Mahnomen,2018,CCCShare,0
+Mahnomen,2018,HRShare,.58
+Mahnomen,2018,PublicShare,.26
+Marshall,2012,Weekly Price,87.97
+Marshall,2012,TotCapacity,342.67
+Marshall,2012,AvgCapacity,10.71
+Marshall,2012,CCCShare,.03
+Marshall,2012,HRShare,0
+Marshall,2012,PublicShare,.09
+Marshall,2013,Weekly Price,95.44
+Marshall,2013,TotCapacity,380.3
+Marshall,2013,AvgCapacity,10.56
+Marshall,2013,CCCShare,.06
+Marshall,2013,HRShare,.08
+Marshall,2013,PublicShare,.08
+Marshall,2014,Weekly Price,87.37000000000001
+Marshall,2014,TotCapacity,384.23
+Marshall,2014,AvgCapacity,11.3
+Marshall,2014,CCCShare,.03
+Marshall,2014,HRShare,.12
+Marshall,2014,PublicShare,.12
+Marshall,2015,Weekly Price,92.09999999999999
+Marshall,2015,TotCapacity,393.9
+Marshall,2015,AvgCapacity,10.94
+Marshall,2015,CCCShare,.03
+Marshall,2015,HRShare,.11
+Marshall,2015,PublicShare,.11
+Marshall,2016,Weekly Price,98.12000000000001
+Marshall,2016,TotCapacity,375.06
+Marshall,2016,AvgCapacity,11.37
+Marshall,2016,CCCShare,.03
+Marshall,2016,HRShare,.18
+Marshall,2016,PublicShare,.15
+Marshall,2017,Weekly Price,91.33
+Marshall,2017,TotCapacity,417.34
+Marshall,2017,AvgCapacity,11.28
+Marshall,2017,CCCShare,.03
+Marshall,2017,HRShare,.19
+Marshall,2017,PublicShare,.16
+Marshall,2018,Weekly Price,101.2
+Marshall,2018,TotCapacity,354.04
+Marshall,2018,AvgCapacity,11.42
+Marshall,2018,CCCShare,.03
+Marshall,2018,HRShare,.13
+Marshall,2018,PublicShare,.13
+Martin,2012,Weekly Price,93.81999999999999
+Martin,2012,TotCapacity,743.91
+Martin,2012,AvgCapacity,10.94
+Martin,2012,CCCShare,.01
+Martin,2012,HRShare,0
+Martin,2012,PublicShare,0
+Martin,2013,Weekly Price,98.99
+Martin,2013,TotCapacity,764.58
+Martin,2013,AvgCapacity,10.92
+Martin,2013,CCCShare,.01
+Martin,2013,HRShare,0
+Martin,2013,PublicShare,0
+Martin,2014,Weekly Price,90.04000000000001
+Martin,2014,TotCapacity,850.48
+Martin,2014,AvgCapacity,11.65
+Martin,2014,CCCShare,.01
+Martin,2014,HRShare,.08
+Martin,2014,PublicShare,.08
+Martin,2015,Weekly Price,91.76000000000001
+Martin,2015,TotCapacity,864.8
+Martin,2015,AvgCapacity,11.38
+Martin,2015,CCCShare,.03
+Martin,2015,HRShare,.08
+Martin,2015,PublicShare,.08
+Martin,2016,Weekly Price,109.67
+Martin,2016,TotCapacity,895.13
+Martin,2016,AvgCapacity,12.43
+Martin,2016,CCCShare,.03
+Martin,2016,HRShare,.08
+Martin,2016,PublicShare,.08
+Martin,2017,Weekly Price,92.68000000000001
+Martin,2017,TotCapacity,821.3
+Martin,2017,AvgCapacity,11.9
+Martin,2017,CCCShare,.03
+Martin,2017,HRShare,.12
+Martin,2017,PublicShare,.1
+Martin,2018,Weekly Price,95.34
+Martin,2018,TotCapacity,748.85
+Martin,2018,AvgCapacity,11.01
+Martin,2018,CCCShare,.01
+Martin,2018,HRShare,.12
+Martin,2018,PublicShare,.1
+McLeod,2012,Weekly Price,107.61
+McLeod,2012,TotCapacity,1495.54
+McLeod,2012,AvgCapacity,11.59
+McLeod,2012,CCCShare,.02
+McLeod,2012,HRShare,0
+McLeod,2012,PublicShare,.03
+McLeod,2013,Weekly Price,109.52
+McLeod,2013,TotCapacity,1653.8
+McLeod,2013,AvgCapacity,12.53
+McLeod,2013,CCCShare,.03
+McLeod,2013,HRShare,.04
+McLeod,2013,PublicShare,.04
+McLeod,2014,Weekly Price,107.4
+McLeod,2014,TotCapacity,1615.63
+McLeod,2014,AvgCapacity,13.03
+McLeod,2014,CCCShare,.04
+McLeod,2014,HRShare,.06
+McLeod,2014,PublicShare,.06
+McLeod,2015,Weekly Price,110.48
+McLeod,2015,TotCapacity,1603.03
+McLeod,2015,AvgCapacity,13.47
+McLeod,2015,CCCShare,.05
+McLeod,2015,HRShare,.08
+McLeod,2015,PublicShare,.06
+McLeod,2016,Weekly Price,119.16
+McLeod,2016,TotCapacity,1460.03
+McLeod,2016,AvgCapacity,13.27
+McLeod,2016,CCCShare,.05
+McLeod,2016,HRShare,.11
+McLeod,2016,PublicShare,.08
+McLeod,2017,Weekly Price,111.14
+McLeod,2017,TotCapacity,1406.75
+McLeod,2017,AvgCapacity,12.67
+McLeod,2017,CCCShare,.05
+McLeod,2017,HRShare,.14
+McLeod,2017,PublicShare,.08
+McLeod,2018,Weekly Price,119.44
+McLeod,2018,TotCapacity,1299.72
+McLeod,2018,AvgCapacity,12.62
+McLeod,2018,CCCShare,.05
+McLeod,2018,HRShare,.13
+McLeod,2018,PublicShare,.07
+Meeker,2012,Weekly Price,99.45999999999999
+Meeker,2012,TotCapacity,622.23
+Meeker,2012,AvgCapacity,13.24
+Meeker,2012,CCCShare,.04
+Meeker,2012,HRShare,0
+Meeker,2012,PublicShare,.04
+Meeker,2013,Weekly Price,100.39
+Meeker,2013,TotCapacity,592.1900000000001
+Meeker,2013,AvgCapacity,12.87
+Meeker,2013,CCCShare,.04
+Meeker,2013,HRShare,.07
+Meeker,2013,PublicShare,.04
+Meeker,2014,Weekly Price,91.43000000000001
+Meeker,2014,TotCapacity,705.59
+Meeker,2014,AvgCapacity,13.84
+Meeker,2014,CCCShare,.04
+Meeker,2014,HRShare,.16
+Meeker,2014,PublicShare,.14
+Meeker,2015,Weekly Price,92.08
+Meeker,2015,TotCapacity,711.26
+Meeker,2015,AvgCapacity,14.23
+Meeker,2015,CCCShare,.04
+Meeker,2015,HRShare,.14
+Meeker,2015,PublicShare,.14
+Meeker,2016,Weekly Price,103.22
+Meeker,2016,TotCapacity,623.79
+Meeker,2016,AvgCapacity,15.21
+Meeker,2016,CCCShare,.05
+Meeker,2016,HRShare,.15
+Meeker,2016,PublicShare,.12
+Meeker,2017,Weekly Price,100.67
+Meeker,2017,TotCapacity,610.54
+Meeker,2017,AvgCapacity,14.54
+Meeker,2017,CCCShare,.05
+Meeker,2017,HRShare,.17
+Meeker,2017,PublicShare,.12
+Meeker,2018,Weekly Price,104.53
+Meeker,2018,TotCapacity,584.1
+Meeker,2018,AvgCapacity,14.98
+Meeker,2018,CCCShare,.05
+Meeker,2018,HRShare,.18
+Meeker,2018,PublicShare,.13
+Mille Lacs,2012,Weekly Price,106.67
+Mille Lacs,2012,TotCapacity,805.4400000000001
+Mille Lacs,2012,AvgCapacity,16.78
+Mille Lacs,2012,CCCShare,.08
+Mille Lacs,2012,HRShare,0
+Mille Lacs,2012,PublicShare,.02
+Mille Lacs,2013,Weekly Price,113.48
+Mille Lacs,2013,TotCapacity,1038.86
+Mille Lacs,2013,AvgCapacity,18.23
+Mille Lacs,2013,CCCShare,.07
+Mille Lacs,2013,HRShare,.05
+Mille Lacs,2013,PublicShare,.02
+Mille Lacs,2014,Weekly Price,106.21
+Mille Lacs,2014,TotCapacity,926.5700000000001
+Mille Lacs,2014,AvgCapacity,15.98
+Mille Lacs,2014,CCCShare,.07
+Mille Lacs,2014,HRShare,.12
+Mille Lacs,2014,PublicShare,.09
+Mille Lacs,2015,Weekly Price,109.02
+Mille Lacs,2015,TotCapacity,879.61
+Mille Lacs,2015,AvgCapacity,15.71
+Mille Lacs,2015,CCCShare,.09
+Mille Lacs,2015,HRShare,.11
+Mille Lacs,2015,PublicShare,.07
+Mille Lacs,2016,Weekly Price,117.64
+Mille Lacs,2016,TotCapacity,894.29
+Mille Lacs,2016,AvgCapacity,17.54
+Mille Lacs,2016,CCCShare,.1
+Mille Lacs,2016,HRShare,.14
+Mille Lacs,2016,PublicShare,.1
+Mille Lacs,2017,Weekly Price,109.81
+Mille Lacs,2017,TotCapacity,816.99
+Mille Lacs,2017,AvgCapacity,16.67
+Mille Lacs,2017,CCCShare,.1
+Mille Lacs,2017,HRShare,.18
+Mille Lacs,2017,PublicShare,.1
+Mille Lacs,2018,Weekly Price,114.17
+Mille Lacs,2018,TotCapacity,791.52
+Mille Lacs,2018,AvgCapacity,17.21
+Mille Lacs,2018,CCCShare,.09
+Mille Lacs,2018,HRShare,.17
+Mille Lacs,2018,PublicShare,.11
+Morrison,2012,Weekly Price,96.14
+Morrison,2012,TotCapacity,1134.8
+Morrison,2012,AvgCapacity,10.71
+Morrison,2012,CCCShare,.01
+Morrison,2012,HRShare,0
+Morrison,2012,PublicShare,.04
+Morrison,2013,Weekly Price,101.24
+Morrison,2013,TotCapacity,1253.68
+Morrison,2013,AvgCapacity,10.45
+Morrison,2013,CCCShare,.03
+Morrison,2013,HRShare,.03
+Morrison,2013,PublicShare,.02
+Morrison,2014,Weekly Price,96.86
+Morrison,2014,TotCapacity,1408.78
+Morrison,2014,AvgCapacity,11.09
+Morrison,2014,CCCShare,.03
+Morrison,2014,HRShare,.12
+Morrison,2014,PublicShare,.07
+Morrison,2015,Weekly Price,98.47
+Morrison,2015,TotCapacity,1296.99
+Morrison,2015,AvgCapacity,10.99
+Morrison,2015,CCCShare,.03
+Morrison,2015,HRShare,.19
+Morrison,2015,PublicShare,.08
+Morrison,2016,Weekly Price,107.71
+Morrison,2016,TotCapacity,1231.17
+Morrison,2016,AvgCapacity,11.09
+Morrison,2016,CCCShare,.03
+Morrison,2016,HRShare,.2
+Morrison,2016,PublicShare,.08
+Morrison,2017,Weekly Price,101.02
+Morrison,2017,TotCapacity,1273.83
+Morrison,2017,AvgCapacity,11.37
+Morrison,2017,CCCShare,.04
+Morrison,2017,HRShare,.18
+Morrison,2017,PublicShare,.08
+Morrison,2018,Weekly Price,104.43
+Morrison,2018,TotCapacity,1140.03
+Morrison,2018,AvgCapacity,11.07
+Morrison,2018,CCCShare,.03
+Morrison,2018,HRShare,.2
+Morrison,2018,PublicShare,.11
+Mower,2012,Weekly Price,106.93
+Mower,2012,TotCapacity,1075.25
+Mower,2012,AvgCapacity,11.69
+Mower,2012,CCCShare,.04
+Mower,2012,HRShare,0
+Mower,2012,PublicShare,.02
+Mower,2013,Weekly Price,111.35
+Mower,2013,TotCapacity,1123.41
+Mower,2013,AvgCapacity,11.23
+Mower,2013,CCCShare,.04
+Mower,2013,HRShare,.02
+Mower,2013,PublicShare,.02
+Mower,2014,Weekly Price,104.28
+Mower,2014,TotCapacity,1337.01
+Mower,2014,AvgCapacity,12.98
+Mower,2014,CCCShare,.04
+Mower,2014,HRShare,.07
+Mower,2014,PublicShare,.07
+Mower,2015,Weekly Price,102.84
+Mower,2015,TotCapacity,1184.55
+Mower,2015,AvgCapacity,11.97
+Mower,2015,CCCShare,.02
+Mower,2015,HRShare,.07
+Mower,2015,PublicShare,.07
+Mower,2016,Weekly Price,110.86
+Mower,2016,TotCapacity,1075.78
+Mower,2016,AvgCapacity,12.96
+Mower,2016,CCCShare,.02
+Mower,2016,HRShare,.12
+Mower,2016,PublicShare,.1
+Mower,2017,Weekly Price,101.39
+Mower,2017,TotCapacity,1053.94
+Mower,2017,AvgCapacity,13.01
+Mower,2017,CCCShare,.02
+Mower,2017,HRShare,.15
+Mower,2017,PublicShare,.12
+Mower,2018,Weekly Price,106.08
+Mower,2018,TotCapacity,999.52
+Mower,2018,AvgCapacity,13.15
+Mower,2018,CCCShare,.03
+Mower,2018,HRShare,.16
+Mower,2018,PublicShare,.12
+Murray,2012,Weekly Price,85.42
+Murray,2012,TotCapacity,297.82
+Murray,2012,AvgCapacity,11.45
+Murray,2012,CCCShare,.04
+Murray,2012,HRShare,0
+Murray,2012,PublicShare,0
+Murray,2013,Weekly Price,90.27
+Murray,2013,TotCapacity,320.88
+Murray,2013,AvgCapacity,11.06
+Murray,2013,CCCShare,.03
+Murray,2013,HRShare,0
+Murray,2013,PublicShare,0
+Murray,2014,Weekly Price,90.29000000000001
+Murray,2014,TotCapacity,321.11
+Murray,2014,AvgCapacity,12.35
+Murray,2014,CCCShare,.04
+Murray,2014,HRShare,.04
+Murray,2014,PublicShare,.04
+Murray,2015,Weekly Price,92.36
+Murray,2015,TotCapacity,271.81
+Murray,2015,AvgCapacity,12.35
+Murray,2015,CCCShare,.05
+Murray,2015,HRShare,.05
+Murray,2015,PublicShare,.05
+Murray,2016,Weekly Price,112.36
+Murray,2016,TotCapacity,293.48
+Murray,2016,AvgCapacity,13.34
+Murray,2016,CCCShare,.05
+Murray,2016,HRShare,.09
+Murray,2016,PublicShare,.09
+Murray,2017,Weekly Price,88.23
+Murray,2017,TotCapacity,269.78
+Murray,2017,AvgCapacity,12.85
+Murray,2017,CCCShare,.05
+Murray,2017,HRShare,.1
+Murray,2017,PublicShare,.1
+Murray,2018,Weekly Price,94.84999999999999
+Murray,2018,TotCapacity,266.08
+Murray,2018,AvgCapacity,12.09
+Murray,2018,CCCShare,.05
+Murray,2018,HRShare,.05
+Murray,2018,PublicShare,.05
+Nicollet,2012,Weekly Price,117.5
+Nicollet,2012,TotCapacity,1495.97
+Nicollet,2012,AvgCapacity,16.44
+Nicollet,2012,CCCShare,.09
+Nicollet,2012,HRShare,0
+Nicollet,2012,PublicShare,0
+Nicollet,2013,Weekly Price,120.92
+Nicollet,2013,TotCapacity,1423.22
+Nicollet,2013,AvgCapacity,15.3
+Nicollet,2013,CCCShare,.09
+Nicollet,2013,HRShare,.03
+Nicollet,2013,PublicShare,0
+Nicollet,2014,Weekly Price,118.76
+Nicollet,2014,TotCapacity,1352.93
+Nicollet,2014,AvgCapacity,16.3
+Nicollet,2014,CCCShare,.11
+Nicollet,2014,HRShare,.06
+Nicollet,2014,PublicShare,.01
+Nicollet,2015,Weekly Price,119.16
+Nicollet,2015,TotCapacity,1456.43
+Nicollet,2015,AvgCapacity,16.94
+Nicollet,2015,CCCShare,.12
+Nicollet,2015,HRShare,.1
+Nicollet,2015,PublicShare,.05
+Nicollet,2016,Weekly Price,127.2
+Nicollet,2016,TotCapacity,1404.75
+Nicollet,2016,AvgCapacity,17.13
+Nicollet,2016,CCCShare,.13
+Nicollet,2016,HRShare,.09
+Nicollet,2016,PublicShare,.05
+Nicollet,2017,Weekly Price,123.32
+Nicollet,2017,TotCapacity,1365.27
+Nicollet,2017,AvgCapacity,18.96
+Nicollet,2017,CCCShare,.17
+Nicollet,2017,HRShare,.07
+Nicollet,2017,PublicShare,.04
+Nicollet,2018,Weekly Price,130.04
+Nicollet,2018,TotCapacity,1149.4
+Nicollet,2018,AvgCapacity,17.16
+Nicollet,2018,CCCShare,.16
+Nicollet,2018,HRShare,.07
+Nicollet,2018,PublicShare,.04
+Nobles,2012,Weekly Price,82.23
+Nobles,2012,TotCapacity,588.7000000000001
+Nobles,2012,AvgCapacity,12.01
+Nobles,2012,CCCShare,.04
+Nobles,2012,HRShare,0
+Nobles,2012,PublicShare,.06
+Nobles,2013,Weekly Price,84.34999999999999
+Nobles,2013,TotCapacity,569.35
+Nobles,2013,AvgCapacity,11.86
+Nobles,2013,CCCShare,.04
+Nobles,2013,HRShare,.06
+Nobles,2013,PublicShare,.06
+Nobles,2014,Weekly Price,84.70999999999999
+Nobles,2014,TotCapacity,629.38
+Nobles,2014,AvgCapacity,12.84
+Nobles,2014,CCCShare,.06
+Nobles,2014,HRShare,.1
+Nobles,2014,PublicShare,.1
+Nobles,2015,Weekly Price,85.77
+Nobles,2015,TotCapacity,637.87
+Nobles,2015,AvgCapacity,12.76
+Nobles,2015,CCCShare,.04
+Nobles,2015,HRShare,.14
+Nobles,2015,PublicShare,.12
+Nobles,2016,Weekly Price,104.29
+Nobles,2016,TotCapacity,699.52
+Nobles,2016,AvgCapacity,13.99
+Nobles,2016,CCCShare,.04
+Nobles,2016,HRShare,.2
+Nobles,2016,PublicShare,.16
+Nobles,2017,Weekly Price,82.70999999999999
+Nobles,2017,TotCapacity,697.41
+Nobles,2017,AvgCapacity,13.67
+Nobles,2017,CCCShare,.04
+Nobles,2017,HRShare,.22
+Nobles,2017,PublicShare,.18
+Nobles,2018,Weekly Price,93.3
+Nobles,2018,TotCapacity,615.79
+Nobles,2018,AvgCapacity,12.57
+Nobles,2018,CCCShare,.04
+Nobles,2018,HRShare,.18
+Nobles,2018,PublicShare,.14
+Norman,2012,Weekly Price,79.73
+Norman,2012,TotCapacity,268.9
+Norman,2012,AvgCapacity,14.15
+Norman,2012,CCCShare,.05
+Norman,2012,HRShare,0
+Norman,2012,PublicShare,.11
+Norman,2013,Weekly Price,88.42
+Norman,2013,TotCapacity,290.2
+Norman,2013,AvgCapacity,13.19
+Norman,2013,CCCShare,.05
+Norman,2013,HRShare,.14
+Norman,2013,PublicShare,.09
+Norman,2014,Weekly Price,95.95999999999999
+Norman,2014,TotCapacity,292.39
+Norman,2014,AvgCapacity,13.92
+Norman,2014,CCCShare,.1
+Norman,2014,HRShare,.1
+Norman,2014,PublicShare,.05
+Norman,2015,Weekly Price,89.52
+Norman,2015,TotCapacity,288.49
+Norman,2015,AvgCapacity,14.42
+Norman,2015,CCCShare,.05
+Norman,2015,HRShare,.15
+Norman,2015,PublicShare,.15
+Norman,2016,Weekly Price,102.25
+Norman,2016,TotCapacity,265.68
+Norman,2016,AvgCapacity,14.76
+Norman,2016,CCCShare,.06
+Norman,2016,HRShare,.17
+Norman,2016,PublicShare,.17
+Norman,2017,Weekly Price,80.76000000000001
+Norman,2017,TotCapacity,269.69
+Norman,2017,AvgCapacity,14.98
+Norman,2017,CCCShare,.06
+Norman,2017,HRShare,.22
+Norman,2017,PublicShare,.22
+Norman,2018,Weekly Price,87.37000000000001
+Norman,2018,TotCapacity,289.69
+Norman,2018,AvgCapacity,14.48
+Norman,2018,CCCShare,.05
+Norman,2018,HRShare,.25
+Norman,2018,PublicShare,.2
+Olmsted,2012,Weekly Price,138.64
+Olmsted,2012,TotCapacity,8013.72
+Olmsted,2012,AvgCapacity,14.62
+Olmsted,2012,CCCShare,.05
+Olmsted,2012,HRShare,0
+Olmsted,2012,PublicShare,.02
+Olmsted,2013,Weekly Price,142.78
+Olmsted,2013,TotCapacity,7971.25
+Olmsted,2013,AvgCapacity,14.44
+Olmsted,2013,CCCShare,.05
+Olmsted,2013,HRShare,.06
+Olmsted,2013,PublicShare,.02
+Olmsted,2014,Weekly Price,138.77
+Olmsted,2014,TotCapacity,8335.73
+Olmsted,2014,AvgCapacity,16.64
+Olmsted,2014,CCCShare,.06
+Olmsted,2014,HRShare,.09
+Olmsted,2014,PublicShare,.04
+Olmsted,2015,Weekly Price,141.7
+Olmsted,2015,TotCapacity,8173.1
+Olmsted,2015,AvgCapacity,16.96
+Olmsted,2015,CCCShare,.07
+Olmsted,2015,HRShare,.1
+Olmsted,2015,PublicShare,.04
+Olmsted,2016,Weekly Price,142.25
+Olmsted,2016,TotCapacity,6902.37
+Olmsted,2016,AvgCapacity,15.76
+Olmsted,2016,CCCShare,.08
+Olmsted,2016,HRShare,.12
+Olmsted,2016,PublicShare,.04
+Olmsted,2017,Weekly Price,146.65
+Olmsted,2017,TotCapacity,7362.6
+Olmsted,2017,AvgCapacity,17.61
+Olmsted,2017,CCCShare,.08
+Olmsted,2017,HRShare,.14
+Olmsted,2017,PublicShare,.05
+Olmsted,2018,Weekly Price,156.03
+Olmsted,2018,TotCapacity,7387.2
+Olmsted,2018,AvgCapacity,18.2
+Olmsted,2018,CCCShare,.08
+Olmsted,2018,HRShare,.15
+Olmsted,2018,PublicShare,.05
+Otter Tail,2012,Weekly Price,101.42
+Otter Tail,2012,TotCapacity,1540.94
+Otter Tail,2012,AvgCapacity,10.78
+Otter Tail,2012,CCCShare,.03
+Otter Tail,2012,HRShare,0
+Otter Tail,2012,PublicShare,.02
+Otter Tail,2013,Weekly Price,106.7
+Otter Tail,2013,TotCapacity,1692.97
+Otter Tail,2013,AvgCapacity,10.45
+Otter Tail,2013,CCCShare,.02
+Otter Tail,2013,HRShare,.02
+Otter Tail,2013,PublicShare,.02
+Otter Tail,2014,Weekly Price,98.81
+Otter Tail,2014,TotCapacity,1849.75
+Otter Tail,2014,AvgCapacity,11.01
+Otter Tail,2014,CCCShare,.02
+Otter Tail,2014,HRShare,.09
+Otter Tail,2014,PublicShare,.08
+Otter Tail,2015,Weekly Price,101.08
+Otter Tail,2015,TotCapacity,1699.71
+Otter Tail,2015,AvgCapacity,10.56
+Otter Tail,2015,CCCShare,.02
+Otter Tail,2015,HRShare,.09
+Otter Tail,2015,PublicShare,.07
+Otter Tail,2016,Weekly Price,110.97
+Otter Tail,2016,TotCapacity,1693.29
+Otter Tail,2016,AvgCapacity,11.68
+Otter Tail,2016,CCCShare,.03
+Otter Tail,2016,HRShare,.12
+Otter Tail,2016,PublicShare,.08
+Otter Tail,2017,Weekly Price,102.24
+Otter Tail,2017,TotCapacity,1599.73
+Otter Tail,2017,AvgCapacity,11.43
+Otter Tail,2017,CCCShare,.02
+Otter Tail,2017,HRShare,.14
+Otter Tail,2017,PublicShare,.09
+Otter Tail,2018,Weekly Price,104.09
+Otter Tail,2018,TotCapacity,1713.33
+Otter Tail,2018,AvgCapacity,12.15
+Otter Tail,2018,CCCShare,.01
+Otter Tail,2018,HRShare,.14
+Otter Tail,2018,PublicShare,.11
+Pennington,2012,Weekly Price,99.5
+Pennington,2012,TotCapacity,713.63
+Pennington,2012,AvgCapacity,10.98
+Pennington,2012,CCCShare,.03
+Pennington,2012,HRShare,0
+Pennington,2012,PublicShare,.02
+Pennington,2013,Weekly Price,103.28
+Pennington,2013,TotCapacity,742.96
+Pennington,2013,AvgCapacity,10.93
+Pennington,2013,CCCShare,.03
+Pennington,2013,HRShare,.01
+Pennington,2013,PublicShare,.01
+Pennington,2014,Weekly Price,103.08
+Pennington,2014,TotCapacity,740.5
+Pennington,2014,AvgCapacity,10.73
+Pennington,2014,CCCShare,.03
+Pennington,2014,HRShare,.03
+Pennington,2014,PublicShare,.03
+Pennington,2015,Weekly Price,105.15
+Pennington,2015,TotCapacity,749.8200000000001
+Pennington,2015,AvgCapacity,11.19
+Pennington,2015,CCCShare,.03
+Pennington,2015,HRShare,.03
+Pennington,2015,PublicShare,.03
+Pennington,2016,Weekly Price,111.02
+Pennington,2016,TotCapacity,695.54
+Pennington,2016,AvgCapacity,11.22
+Pennington,2016,CCCShare,.03
+Pennington,2016,HRShare,.06
+Pennington,2016,PublicShare,.05
+Pennington,2017,Weekly Price,107.22
+Pennington,2017,TotCapacity,680.2000000000001
+Pennington,2017,AvgCapacity,10.97
+Pennington,2017,CCCShare,.03
+Pennington,2017,HRShare,.06
+Pennington,2017,PublicShare,.05
+Pennington,2018,Weekly Price,113.95
+Pennington,2018,TotCapacity,675.87
+Pennington,2018,AvgCapacity,10.73
+Pennington,2018,CCCShare,.03
+Pennington,2018,HRShare,.05
+Pennington,2018,PublicShare,.03
+Pine,2012,Weekly Price,115.88
+Pine,2012,TotCapacity,562.9400000000001
+Pine,2012,AvgCapacity,10.24
+Pine,2012,CCCShare,.02
+Pine,2012,HRShare,0
+Pine,2012,PublicShare,.02
+Pine,2013,Weekly Price,119.04
+Pine,2013,TotCapacity,617.84
+Pine,2013,AvgCapacity,10.13
+Pine,2013,CCCShare,.02
+Pine,2013,HRShare,.07
+Pine,2013,PublicShare,.02
+Pine,2014,Weekly Price,106.75
+Pine,2014,TotCapacity,673.02
+Pine,2014,AvgCapacity,11.22
+Pine,2014,CCCShare,.02
+Pine,2014,HRShare,.2
+Pine,2014,PublicShare,.1
+Pine,2015,Weekly Price,108.13
+Pine,2015,TotCapacity,609.43
+Pine,2015,AvgCapacity,11.29
+Pine,2015,CCCShare,.02
+Pine,2015,HRShare,.22
+Pine,2015,PublicShare,.11
+Pine,2016,Weekly Price,116.99
+Pine,2016,TotCapacity,639.71
+Pine,2016,AvgCapacity,12.54
+Pine,2016,CCCShare,.04
+Pine,2016,HRShare,.24
+Pine,2016,PublicShare,.1
+Pine,2017,Weekly Price,108.84
+Pine,2017,TotCapacity,567.8
+Pine,2017,AvgCapacity,11.36
+Pine,2017,CCCShare,.02
+Pine,2017,HRShare,.26
+Pine,2017,PublicShare,.12
+Pine,2018,Weekly Price,114.04
+Pine,2018,TotCapacity,572.4
+Pine,2018,AvgCapacity,11.01
+Pine,2018,CCCShare,.02
+Pine,2018,HRShare,.25
+Pine,2018,PublicShare,.12
+Pipestone,2012,Weekly Price,94.84
+Pipestone,2012,TotCapacity,355.31
+Pipestone,2012,AvgCapacity,10.77
+Pipestone,2012,CCCShare,.03
+Pipestone,2012,HRShare,0
+Pipestone,2012,PublicShare,.03
+Pipestone,2013,Weekly Price,100.19
+Pipestone,2013,TotCapacity,411.95
+Pipestone,2013,AvgCapacity,10.56
+Pipestone,2013,CCCShare,.03
+Pipestone,2013,HRShare,.03
+Pipestone,2013,PublicShare,.03
+Pipestone,2014,Weekly Price,92.16
+Pipestone,2014,TotCapacity,457.35
+Pipestone,2014,AvgCapacity,11.15
+Pipestone,2014,CCCShare,.02
+Pipestone,2014,HRShare,.1
+Pipestone,2014,PublicShare,.1
+Pipestone,2015,Weekly Price,91.09999999999999
+Pipestone,2015,TotCapacity,459.9
+Pipestone,2015,AvgCapacity,11.22
+Pipestone,2015,CCCShare,.02
+Pipestone,2015,HRShare,.1
+Pipestone,2015,PublicShare,.1
+Pipestone,2016,Weekly Price,100.55
+Pipestone,2016,TotCapacity,447.21
+Pipestone,2016,AvgCapacity,11.77
+Pipestone,2016,CCCShare,.03
+Pipestone,2016,HRShare,.16
+Pipestone,2016,PublicShare,.13
+Pipestone,2017,Weekly Price,90.94
+Pipestone,2017,TotCapacity,440.88
+Pipestone,2017,AvgCapacity,11.02
+Pipestone,2017,CCCShare,.03
+Pipestone,2017,HRShare,.15
+Pipestone,2017,PublicShare,.13
+Pipestone,2018,Weekly Price,95.95999999999999
+Pipestone,2018,TotCapacity,406.45
+Pipestone,2018,AvgCapacity,10.7
+Pipestone,2018,CCCShare,.03
+Pipestone,2018,HRShare,.13
+Pipestone,2018,PublicShare,.11
+Polk,2012,Weekly Price,100.35
+Polk,2012,TotCapacity,1377.03
+Polk,2012,AvgCapacity,13.37
+Polk,2012,CCCShare,.06
+Polk,2012,HRShare,0
+Polk,2012,PublicShare,.04
+Polk,2013,Weekly Price,105.77
+Polk,2013,TotCapacity,1401.69
+Polk,2013,AvgCapacity,12.98
+Polk,2013,CCCShare,.06
+Polk,2013,HRShare,.06
+Polk,2013,PublicShare,.04
+Polk,2014,Weekly Price,100.16
+Polk,2014,TotCapacity,1558.25
+Polk,2014,AvgCapacity,13.32
+Polk,2014,CCCShare,.05
+Polk,2014,HRShare,.11
+Polk,2014,PublicShare,.08
+Polk,2015,Weekly Price,101.75
+Polk,2015,TotCapacity,1582.96
+Polk,2015,AvgCapacity,13.3
+Polk,2015,CCCShare,.05
+Polk,2015,HRShare,.13
+Polk,2015,PublicShare,.08
+Polk,2016,Weekly Price,112.93
+Polk,2016,TotCapacity,1401.93
+Polk,2016,AvgCapacity,13.48
+Polk,2016,CCCShare,.07
+Polk,2016,HRShare,.17
+Polk,2016,PublicShare,.1
+Polk,2017,Weekly Price,103.21
+Polk,2017,TotCapacity,1422.12
+Polk,2017,AvgCapacity,13.94
+Polk,2017,CCCShare,.07
+Polk,2017,HRShare,.17
+Polk,2017,PublicShare,.1
+Polk,2018,Weekly Price,104.49
+Polk,2018,TotCapacity,1322.21
+Polk,2018,AvgCapacity,13.36
+Polk,2018,CCCShare,.04
+Polk,2018,HRShare,.18
+Polk,2018,PublicShare,.12
+Pope,2012,Weekly Price,93.01000000000001
+Pope,2012,TotCapacity,383.56
+Pope,2012,AvgCapacity,11.99
+Pope,2012,CCCShare,.06
+Pope,2012,HRShare,0
+Pope,2012,PublicShare,.06
+Pope,2013,Weekly Price,100.36
+Pope,2013,TotCapacity,448.98
+Pope,2013,AvgCapacity,11.51
+Pope,2013,CCCShare,.05
+Pope,2013,HRShare,.05
+Pope,2013,PublicShare,.05
+Pope,2014,Weekly Price,100.48
+Pope,2014,TotCapacity,405.49
+Pope,2014,AvgCapacity,11.26
+Pope,2014,CCCShare,.03
+Pope,2014,HRShare,.06
+Pope,2014,PublicShare,.06
+Pope,2015,Weekly Price,102.18
+Pope,2015,TotCapacity,359.65
+Pope,2015,AvgCapacity,11.24
+Pope,2015,CCCShare,.03
+Pope,2015,HRShare,.03
+Pope,2015,PublicShare,.03
+Pope,2016,Weekly Price,110.43
+Pope,2016,TotCapacity,344.8
+Pope,2016,AvgCapacity,12.77
+Pope,2016,CCCShare,.04
+Pope,2016,HRShare,.07
+Pope,2016,PublicShare,.07
+Pope,2017,Weekly Price,103.24
+Pope,2017,TotCapacity,356.58
+Pope,2017,AvgCapacity,12.3
+Pope,2017,CCCShare,.03
+Pope,2017,HRShare,.07
+Pope,2017,PublicShare,.07
+Pope,2018,Weekly Price,116
+Pope,2018,TotCapacity,352.78
+Pope,2018,AvgCapacity,11.76
+Pope,2018,CCCShare,.03
+Pope,2018,HRShare,.03
+Pope,2018,PublicShare,.03
+Ramsey,2012,Weekly Price,161.87
+Ramsey,2012,TotCapacity,15241.76
+Ramsey,2012,AvgCapacity,19.12
+Ramsey,2012,CCCShare,.16
+Ramsey,2012,HRShare,0
+Ramsey,2012,PublicShare,.01
+Ramsey,2013,Weekly Price,167.87
+Ramsey,2013,TotCapacity,16023.34
+Ramsey,2013,AvgCapacity,20.65
+Ramsey,2013,CCCShare,.18
+Ramsey,2013,HRShare,.08
+Ramsey,2013,PublicShare,.01
+Ramsey,2014,Weekly Price,168.87
+Ramsey,2014,TotCapacity,15932.91
+Ramsey,2014,AvgCapacity,22.1
+Ramsey,2014,CCCShare,.2
+Ramsey,2014,HRShare,.14
+Ramsey,2014,PublicShare,.04
+Ramsey,2015,Weekly Price,172.98
+Ramsey,2015,TotCapacity,15551.4
+Ramsey,2015,AvgCapacity,22.31
+Ramsey,2015,CCCShare,.22
+Ramsey,2015,HRShare,.18
+Ramsey,2015,PublicShare,.05
+Ramsey,2016,Weekly Price,173.95
+Ramsey,2016,TotCapacity,15302.28
+Ramsey,2016,AvgCapacity,23.15
+Ramsey,2016,CCCShare,.24
+Ramsey,2016,HRShare,.26
+Ramsey,2016,PublicShare,.09
+Ramsey,2017,Weekly Price,171.83
+Ramsey,2017,TotCapacity,16148.02
+Ramsey,2017,AvgCapacity,25.55
+Ramsey,2017,CCCShare,.25
+Ramsey,2017,HRShare,.28
+Ramsey,2017,PublicShare,.1
+Ramsey,2018,Weekly Price,188.52
+Ramsey,2018,TotCapacity,13230.53
+Ramsey,2018,AvgCapacity,23.63
+Ramsey,2018,CCCShare,.22
+Ramsey,2018,HRShare,.26
+Ramsey,2018,PublicShare,.08
+Red Lake,2012,Weekly Price,76.54000000000001
+Red Lake,2012,TotCapacity,448.84
+Red Lake,2012,AvgCapacity,18.7
+Red Lake,2012,CCCShare,.04
+Red Lake,2012,HRShare,0
+Red Lake,2012,PublicShare,.13
+Red Lake,2013,Weekly Price,76.45999999999999
+Red Lake,2013,TotCapacity,445.33
+Red Lake,2013,AvgCapacity,18.56
+Red Lake,2013,CCCShare,.04
+Red Lake,2013,HRShare,.13
+Red Lake,2013,PublicShare,.13
+Red Lake,2014,Weekly Price,69.43000000000001
+Red Lake,2014,TotCapacity,465.43
+Red Lake,2014,AvgCapacity,20.24
+Red Lake,2014,CCCShare,.04
+Red Lake,2014,HRShare,.26
+Red Lake,2014,PublicShare,.22
+Red Lake,2015,Weekly Price,70.48
+Red Lake,2015,TotCapacity,465.83
+Red Lake,2015,AvgCapacity,21.17
+Red Lake,2015,CCCShare,.05
+Red Lake,2015,HRShare,.27
+Red Lake,2015,PublicShare,.23
+Red Lake,2016,Weekly Price,92.90000000000001
+Red Lake,2016,TotCapacity,479.01
+Red Lake,2016,AvgCapacity,20.83
+Red Lake,2016,CCCShare,.04
+Red Lake,2016,HRShare,.26
+Red Lake,2016,PublicShare,.22
+Red Lake,2017,Weekly Price,78.23
+Red Lake,2017,TotCapacity,482.3
+Red Lake,2017,AvgCapacity,20.97
+Red Lake,2017,CCCShare,.04
+Red Lake,2017,HRShare,.26
+Red Lake,2017,PublicShare,.22
+Red Lake,2018,Weekly Price,79.68000000000001
+Red Lake,2018,TotCapacity,465.34
+Red Lake,2018,AvgCapacity,21.15
+Red Lake,2018,CCCShare,.05
+Red Lake,2018,HRShare,.23
+Red Lake,2018,PublicShare,.23
+Redwood,2012,Weekly Price,93.17
+Redwood,2012,TotCapacity,599.24
+Redwood,2012,AvgCapacity,9.67
+Redwood,2012,CCCShare,0
+Redwood,2012,HRShare,0
+Redwood,2012,PublicShare,.03
+Redwood,2013,Weekly Price,99.12000000000001
+Redwood,2013,TotCapacity,660.77
+Redwood,2013,AvgCapacity,10.17
+Redwood,2013,CCCShare,.02
+Redwood,2013,HRShare,.02
+Redwood,2013,PublicShare,.02
+Redwood,2014,Weekly Price,96.56999999999999
+Redwood,2014,TotCapacity,649.3
+Redwood,2014,AvgCapacity,9.84
+Redwood,2014,CCCShare,0
+Redwood,2014,HRShare,.05
+Redwood,2014,PublicShare,.05
+Redwood,2015,Weekly Price,92.04000000000001
+Redwood,2015,TotCapacity,639.96
+Redwood,2015,AvgCapacity,10.67
+Redwood,2015,CCCShare,0
+Redwood,2015,HRShare,.07
+Redwood,2015,PublicShare,.07
+Redwood,2016,Weekly Price,104.52
+Redwood,2016,TotCapacity,549.88
+Redwood,2016,AvgCapacity,10.78
+Redwood,2016,CCCShare,0
+Redwood,2016,HRShare,.12
+Redwood,2016,PublicShare,.1
+Redwood,2017,Weekly Price,97.39
+Redwood,2017,TotCapacity,480.8
+Redwood,2017,AvgCapacity,9.619999999999999
+Redwood,2017,CCCShare,0
+Redwood,2017,HRShare,.1
+Redwood,2017,PublicShare,.06
+Redwood,2018,Weekly Price,99.87000000000001
+Redwood,2018,TotCapacity,486.07
+Redwood,2018,AvgCapacity,9.92
+Redwood,2018,CCCShare,0
+Redwood,2018,HRShare,.12
+Redwood,2018,PublicShare,.08
+Renville,2012,Weekly Price,95.45999999999999
+Renville,2012,TotCapacity,672.52
+Renville,2012,AvgCapacity,13.45
+Renville,2012,CCCShare,.02
+Renville,2012,HRShare,0
+Renville,2012,PublicShare,.04
+Renville,2013,Weekly Price,100.93
+Renville,2013,TotCapacity,1687.49
+Renville,2013,AvgCapacity,32.45
+Renville,2013,CCCShare,.02
+Renville,2013,HRShare,.04
+Renville,2013,PublicShare,.04
+Renville,2014,Weekly Price,95.81
+Renville,2014,TotCapacity,633.86
+Renville,2014,AvgCapacity,11.74
+Renville,2014,CCCShare,.04
+Renville,2014,HRShare,.09
+Renville,2014,PublicShare,.09
+Renville,2015,Weekly Price,98.14
+Renville,2015,TotCapacity,595.01
+Renville,2015,AvgCapacity,11.67
+Renville,2015,CCCShare,.06
+Renville,2015,HRShare,.08
+Renville,2015,PublicShare,.08
+Renville,2016,Weekly Price,105.67
+Renville,2016,TotCapacity,480.58
+Renville,2016,AvgCapacity,12.65
+Renville,2016,CCCShare,.08
+Renville,2016,HRShare,.13
+Renville,2016,PublicShare,.13
+Renville,2017,Weekly Price,95.83
+Renville,2017,TotCapacity,549.09
+Renville,2017,AvgCapacity,13.73
+Renville,2017,CCCShare,.1
+Renville,2017,HRShare,.13
+Renville,2017,PublicShare,.13
+Renville,2018,Weekly Price,100.77
+Renville,2018,TotCapacity,472.59
+Renville,2018,AvgCapacity,12.44
+Renville,2018,CCCShare,.08
+Renville,2018,HRShare,.11
+Renville,2018,PublicShare,.11
+Rice,2012,Weekly Price,125.95
+Rice,2012,TotCapacity,1948.66
+Rice,2012,AvgCapacity,11.95
+Rice,2012,CCCShare,.04
+Rice,2012,HRShare,0
+Rice,2012,PublicShare,.01
+Rice,2013,Weekly Price,128.6
+Rice,2013,TotCapacity,1957.39
+Rice,2013,AvgCapacity,11.72
+Rice,2013,CCCShare,.04
+Rice,2013,HRShare,.02
+Rice,2013,PublicShare,.01
+Rice,2014,Weekly Price,123.12
+Rice,2014,TotCapacity,1867.61
+Rice,2014,AvgCapacity,11.97
+Rice,2014,CCCShare,.04
+Rice,2014,HRShare,.05
+Rice,2014,PublicShare,.03
+Rice,2015,Weekly Price,125.6
+Rice,2015,TotCapacity,1888.92
+Rice,2015,AvgCapacity,12.03
+Rice,2015,CCCShare,.04
+Rice,2015,HRShare,.06
+Rice,2015,PublicShare,.04
+Rice,2016,Weekly Price,133.95
+Rice,2016,TotCapacity,1645.6
+Rice,2016,AvgCapacity,11.92
+Rice,2016,CCCShare,.04
+Rice,2016,HRShare,.06
+Rice,2016,PublicShare,.04
+Rice,2017,Weekly Price,131.88
+Rice,2017,TotCapacity,1587.14
+Rice,2017,AvgCapacity,11.84
+Rice,2017,CCCShare,.04
+Rice,2017,HRShare,.1
+Rice,2017,PublicShare,.04
+Rice,2018,Weekly Price,139.24
+Rice,2018,TotCapacity,1642.65
+Rice,2018,AvgCapacity,12.35
+Rice,2018,CCCShare,.05
+Rice,2018,HRShare,.09
+Rice,2018,PublicShare,.04
+Rock,2012,Weekly Price,93.31
+Rock,2012,TotCapacity,455.2
+Rock,2012,AvgCapacity,9.9
+Rock,2012,CCCShare,0
+Rock,2012,HRShare,0
+Rock,2012,PublicShare,0
+Rock,2013,Weekly Price,99.37000000000001
+Rock,2013,TotCapacity,486.5
+Rock,2013,AvgCapacity,9.73
+Rock,2013,CCCShare,0
+Rock,2013,HRShare,0
+Rock,2013,PublicShare,0
+Rock,2014,Weekly Price,99.04000000000001
+Rock,2014,TotCapacity,435.2
+Rock,2014,AvgCapacity,9.890000000000001
+Rock,2014,CCCShare,0
+Rock,2014,HRShare,0
+Rock,2014,PublicShare,0
+Rock,2015,Weekly Price,94
+Rock,2015,TotCapacity,459.8
+Rock,2015,AvgCapacity,10.45
+Rock,2015,CCCShare,0
+Rock,2015,HRShare,.02
+Rock,2015,PublicShare,.02
+Rock,2016,Weekly Price,102.48
+Rock,2016,TotCapacity,479
+Rock,2016,AvgCapacity,11.4
+Rock,2016,CCCShare,0
+Rock,2016,HRShare,.05
+Rock,2016,PublicShare,.05
+Rock,2017,Weekly Price,93.09999999999999
+Rock,2017,TotCapacity,402.5
+Rock,2017,AvgCapacity,11.18
+Rock,2017,CCCShare,0
+Rock,2017,HRShare,.06
+Rock,2017,PublicShare,.06
+Rock,2018,Weekly Price,94.62000000000001
+Rock,2018,TotCapacity,356.2
+Rock,2018,AvgCapacity,9.369999999999999
+Rock,2018,CCCShare,0
+Rock,2018,HRShare,.05
+Rock,2018,PublicShare,.05
+Roseau,2012,Weekly Price,85.41
+Roseau,2012,TotCapacity,730.23
+Roseau,2012,AvgCapacity,10.14
+Roseau,2012,CCCShare,0
+Roseau,2012,HRShare,0
+Roseau,2012,PublicShare,.06
+Roseau,2013,Weekly Price,90.20999999999999
+Roseau,2013,TotCapacity,730.8
+Roseau,2013,AvgCapacity,10.01
+Roseau,2013,CCCShare,0
+Roseau,2013,HRShare,.05
+Roseau,2013,PublicShare,.05
+Roseau,2014,Weekly Price,89.05
+Roseau,2014,TotCapacity,759.03
+Roseau,2014,AvgCapacity,10.12
+Roseau,2014,CCCShare,.01
+Roseau,2014,HRShare,.09
+Roseau,2014,PublicShare,.08
+Roseau,2015,Weekly Price,86.93000000000001
+Roseau,2015,TotCapacity,712.97
+Roseau,2015,AvgCapacity,9.9
+Roseau,2015,CCCShare,0
+Roseau,2015,HRShare,.07
+Roseau,2015,PublicShare,.07
+Roseau,2016,Weekly Price,104.84
+Roseau,2016,TotCapacity,694.13
+Roseau,2016,AvgCapacity,10.06
+Roseau,2016,CCCShare,0
+Roseau,2016,HRShare,.1
+Roseau,2016,PublicShare,.07
+Roseau,2017,Weekly Price,88.16
+Roseau,2017,TotCapacity,586.48
+Roseau,2017,AvgCapacity,10.11
+Roseau,2017,CCCShare,0
+Roseau,2017,HRShare,.12
+Roseau,2017,PublicShare,.09
+Roseau,2018,Weekly Price,99.86
+Roseau,2018,TotCapacity,504.48
+Roseau,2018,AvgCapacity,9.34
+Roseau,2018,CCCShare,0
+Roseau,2018,HRShare,.07
+Roseau,2018,PublicShare,.02
+Saint Louis,2012,Weekly Price,111.73
+Saint Louis,2012,TotCapacity,5432.14
+Saint Louis,2012,AvgCapacity,16.02
+Saint Louis,2012,CCCShare,.1
+Saint Louis,2012,HRShare,0
+Saint Louis,2012,PublicShare,.06
+Saint Louis,2013,Weekly Price,117.23
+Saint Louis,2013,TotCapacity,5813.56
+Saint Louis,2013,AvgCapacity,15.88
+Saint Louis,2013,CCCShare,.1
+Saint Louis,2013,HRShare,.06
+Saint Louis,2013,PublicShare,.05
+Saint Louis,2014,Weekly Price,110.81
+Saint Louis,2014,TotCapacity,6180.94
+Saint Louis,2014,AvgCapacity,17.07
+Saint Louis,2014,CCCShare,.1
+Saint Louis,2014,HRShare,.12
+Saint Louis,2014,PublicShare,.1
+Saint Louis,2015,Weekly Price,114.94
+Saint Louis,2015,TotCapacity,5784.11
+Saint Louis,2015,AvgCapacity,16.86
+Saint Louis,2015,CCCShare,.11
+Saint Louis,2015,HRShare,.12
+Saint Louis,2015,PublicShare,.1
+Saint Louis,2016,Weekly Price,121.35
+Saint Louis,2016,TotCapacity,5243.65
+Saint Louis,2016,AvgCapacity,17.02
+Saint Louis,2016,CCCShare,.13
+Saint Louis,2016,HRShare,.19
+Saint Louis,2016,PublicShare,.12
+Saint Louis,2017,Weekly Price,116.34
+Saint Louis,2017,TotCapacity,5243.07
+Saint Louis,2017,AvgCapacity,18.46
+Saint Louis,2017,CCCShare,.14
+Saint Louis,2017,HRShare,.24
+Saint Louis,2017,PublicShare,.12
+Saint Louis,2018,Weekly Price,127.4
+Saint Louis,2018,TotCapacity,4798.9
+Saint Louis,2018,AvgCapacity,17.64
+Saint Louis,2018,CCCShare,.12
+Saint Louis,2018,HRShare,.2
+Saint Louis,2018,PublicShare,.11
+Scott,2012,Weekly Price,157.96
+Scott,2012,TotCapacity,6375.75
+Scott,2012,AvgCapacity,13.15
+Scott,2012,CCCShare,.05
+Scott,2012,HRShare,0
+Scott,2012,PublicShare,.01
+Scott,2013,Weekly Price,162.56
+Scott,2013,TotCapacity,6283.25
+Scott,2013,AvgCapacity,13.17
+Scott,2013,CCCShare,.05
+Scott,2013,HRShare,.01
+Scott,2013,PublicShare,.01
+Scott,2014,Weekly Price,159.28
+Scott,2014,TotCapacity,6135.61
+Scott,2014,AvgCapacity,13.98
+Scott,2014,CCCShare,.05
+Scott,2014,HRShare,.03
+Scott,2014,PublicShare,.02
+Scott,2015,Weekly Price,162.31
+Scott,2015,TotCapacity,5742.28
+Scott,2015,AvgCapacity,13.17
+Scott,2015,CCCShare,.05
+Scott,2015,HRShare,.05
+Scott,2015,PublicShare,.02
+Scott,2016,Weekly Price,168.06
+Scott,2016,TotCapacity,5813.47
+Scott,2016,AvgCapacity,14.46
+Scott,2016,CCCShare,.07
+Scott,2016,HRShare,.08
+Scott,2016,PublicShare,.03
+Scott,2017,Weekly Price,167.61
+Scott,2017,TotCapacity,5615.53
+Scott,2017,AvgCapacity,14.9
+Scott,2017,CCCShare,.07
+Scott,2017,HRShare,.1
+Scott,2017,PublicShare,.03
+Scott,2018,Weekly Price,176.38
+Scott,2018,TotCapacity,5794.28
+Scott,2018,AvgCapacity,15.66
+Scott,2018,CCCShare,.07
+Scott,2018,HRShare,.1
+Scott,2018,PublicShare,.04
+Sherburne,2012,Weekly Price,126.98
+Sherburne,2012,TotCapacity,3479.88
+Sherburne,2012,AvgCapacity,13.28
+Sherburne,2012,CCCShare,.05
+Sherburne,2012,HRShare,0
+Sherburne,2012,PublicShare,.01
+Sherburne,2013,Weekly Price,130.96
+Sherburne,2013,TotCapacity,3635.36
+Sherburne,2013,AvgCapacity,12.94
+Sherburne,2013,CCCShare,.05
+Sherburne,2013,HRShare,.01
+Sherburne,2013,PublicShare,.01
+Sherburne,2014,Weekly Price,132.12
+Sherburne,2014,TotCapacity,3769.8
+Sherburne,2014,AvgCapacity,13.76
+Sherburne,2014,CCCShare,.05
+Sherburne,2014,HRShare,.03
+Sherburne,2014,PublicShare,.03
+Sherburne,2015,Weekly Price,130.57
+Sherburne,2015,TotCapacity,3610.63
+Sherburne,2015,AvgCapacity,13.99
+Sherburne,2015,CCCShare,.06
+Sherburne,2015,HRShare,.04
+Sherburne,2015,PublicShare,.03
+Sherburne,2016,Weekly Price,141.19
+Sherburne,2016,TotCapacity,3433.04
+Sherburne,2016,AvgCapacity,14.8
+Sherburne,2016,CCCShare,.07
+Sherburne,2016,HRShare,.06
+Sherburne,2016,PublicShare,.04
+Sherburne,2017,Weekly Price,135.71
+Sherburne,2017,TotCapacity,3058.26
+Sherburne,2017,AvgCapacity,14.22
+Sherburne,2017,CCCShare,.07
+Sherburne,2017,HRShare,.08
+Sherburne,2017,PublicShare,.04
+Sherburne,2018,Weekly Price,147.67
+Sherburne,2018,TotCapacity,2972.71
+Sherburne,2018,AvgCapacity,13.96
+Sherburne,2018,CCCShare,.07
+Sherburne,2018,HRShare,.08
+Sherburne,2018,PublicShare,.03
+Sibley,2012,Weekly Price,104.01
+Sibley,2012,TotCapacity,547.53
+Sibley,2012,AvgCapacity,9.779999999999999
+Sibley,2012,CCCShare,0
+Sibley,2012,HRShare,0
+Sibley,2012,PublicShare,.05
+Sibley,2013,Weekly Price,109.76
+Sibley,2013,TotCapacity,552.5700000000001
+Sibley,2013,AvgCapacity,9.869999999999999
+Sibley,2013,CCCShare,0
+Sibley,2013,HRShare,.05
+Sibley,2013,PublicShare,.05
+Sibley,2014,Weekly Price,96.59
+Sibley,2014,TotCapacity,623.87
+Sibley,2014,AvgCapacity,10.57
+Sibley,2014,CCCShare,0
+Sibley,2014,HRShare,.14
+Sibley,2014,PublicShare,.14
+Sibley,2015,Weekly Price,101.01
+Sibley,2015,TotCapacity,608
+Sibley,2015,AvgCapacity,10.48
+Sibley,2015,CCCShare,0
+Sibley,2015,HRShare,.12
+Sibley,2015,PublicShare,.12
+Sibley,2016,Weekly Price,116.15
+Sibley,2016,TotCapacity,550
+Sibley,2016,AvgCapacity,10.58
+Sibley,2016,CCCShare,0
+Sibley,2016,HRShare,.13
+Sibley,2016,PublicShare,.1
+Sibley,2017,Weekly Price,104.08
+Sibley,2017,TotCapacity,526.2000000000001
+Sibley,2017,AvgCapacity,10.32
+Sibley,2017,CCCShare,0
+Sibley,2017,HRShare,.18
+Sibley,2017,PublicShare,.1
+Sibley,2018,Weekly Price,110.45
+Sibley,2018,TotCapacity,483.17
+Sibley,2018,AvgCapacity,10.07
+Sibley,2018,CCCShare,0
+Sibley,2018,HRShare,.15
+Sibley,2018,PublicShare,.08
+Stearns,2012,Weekly Price,110.26
+Stearns,2012,TotCapacity,6333.77
+Stearns,2012,AvgCapacity,12.02
+Stearns,2012,CCCShare,.04
+Stearns,2012,HRShare,0
+Stearns,2012,PublicShare,.01
+Stearns,2013,Weekly Price,112.48
+Stearns,2013,TotCapacity,6661.16
+Stearns,2013,AvgCapacity,12.2
+Stearns,2013,CCCShare,.05
+Stearns,2013,HRShare,.02
+Stearns,2013,PublicShare,.01
+Stearns,2014,Weekly Price,110.48
+Stearns,2014,TotCapacity,6788.11
+Stearns,2014,AvgCapacity,12.93
+Stearns,2014,CCCShare,.06
+Stearns,2014,HRShare,.06
+Stearns,2014,PublicShare,.04
+Stearns,2015,Weekly Price,109.75
+Stearns,2015,TotCapacity,6599.51
+Stearns,2015,AvgCapacity,13.15
+Stearns,2015,CCCShare,.06
+Stearns,2015,HRShare,.08
+Stearns,2015,PublicShare,.04
+Stearns,2016,Weekly Price,120.4
+Stearns,2016,TotCapacity,6232.23
+Stearns,2016,AvgCapacity,13.64
+Stearns,2016,CCCShare,.06
+Stearns,2016,HRShare,.1
+Stearns,2016,PublicShare,.05
+Stearns,2017,Weekly Price,113.53
+Stearns,2017,TotCapacity,5983.9
+Stearns,2017,AvgCapacity,13.54
+Stearns,2017,CCCShare,.07
+Stearns,2017,HRShare,.12
+Stearns,2017,PublicShare,.06
+Stearns,2018,Weekly Price,122.07
+Stearns,2018,TotCapacity,5707.41
+Stearns,2018,AvgCapacity,13.27
+Stearns,2018,CCCShare,.07
+Stearns,2018,HRShare,.1
+Stearns,2018,PublicShare,.05
+Steele,2012,Weekly Price,107.28
+Steele,2012,TotCapacity,2105.46
+Steele,2012,AvgCapacity,13.5
+Steele,2012,CCCShare,.04
+Steele,2012,HRShare,0
+Steele,2012,PublicShare,.01
+Steele,2013,Weekly Price,110.13
+Steele,2013,TotCapacity,2098.96
+Steele,2013,AvgCapacity,13.04
+Steele,2013,CCCShare,.04
+Steele,2013,HRShare,.02
+Steele,2013,PublicShare,.01
+Steele,2014,Weekly Price,105.98
+Steele,2014,TotCapacity,1993.86
+Steele,2014,AvgCapacity,13.2
+Steele,2014,CCCShare,.03
+Steele,2014,HRShare,.05
+Steele,2014,PublicShare,.04
+Steele,2015,Weekly Price,107.8
+Steele,2015,TotCapacity,2022.99
+Steele,2015,AvgCapacity,13.05
+Steele,2015,CCCShare,.03
+Steele,2015,HRShare,.05
+Steele,2015,PublicShare,.04
+Steele,2016,Weekly Price,118.18
+Steele,2016,TotCapacity,1777.26
+Steele,2016,AvgCapacity,13.26
+Steele,2016,CCCShare,.04
+Steele,2016,HRShare,.06
+Steele,2016,PublicShare,.04
+Steele,2017,Weekly Price,109.57
+Steele,2017,TotCapacity,1667.11
+Steele,2017,AvgCapacity,13.23
+Steele,2017,CCCShare,.03
+Steele,2017,HRShare,.1
+Steele,2017,PublicShare,.06
+Steele,2018,Weekly Price,114.11
+Steele,2018,TotCapacity,1691.8
+Steele,2018,AvgCapacity,13.64
+Steele,2018,CCCShare,.03
+Steele,2018,HRShare,.11
+Steele,2018,PublicShare,.06
+Stevens,2012,Weekly Price,90
+Stevens,2012,TotCapacity,381.17
+Stevens,2012,AvgCapacity,11.91
+Stevens,2012,CCCShare,.03
+Stevens,2012,HRShare,0
+Stevens,2012,PublicShare,.03
+Stevens,2013,Weekly Price,100.38
+Stevens,2013,TotCapacity,448.47
+Stevens,2013,AvgCapacity,11.5
+Stevens,2013,CCCShare,.03
+Stevens,2013,HRShare,.03
+Stevens,2013,PublicShare,.03
+Stevens,2014,Weekly Price,95.48
+Stevens,2014,TotCapacity,475.66
+Stevens,2014,AvgCapacity,11.33
+Stevens,2014,CCCShare,.02
+Stevens,2014,HRShare,.05
+Stevens,2014,PublicShare,.05
+Stevens,2015,Weekly Price,86.95999999999999
+Stevens,2015,TotCapacity,427.84
+Stevens,2015,AvgCapacity,11.26
+Stevens,2015,CCCShare,.03
+Stevens,2015,HRShare,.11
+Stevens,2015,PublicShare,.08
+Stevens,2016,Weekly Price,103.54
+Stevens,2016,TotCapacity,399.22
+Stevens,2016,AvgCapacity,12.1
+Stevens,2016,CCCShare,.03
+Stevens,2016,HRShare,.18
+Stevens,2016,PublicShare,.12
+Stevens,2017,Weekly Price,93.16
+Stevens,2017,TotCapacity,366.68
+Stevens,2017,AvgCapacity,11.83
+Stevens,2017,CCCShare,.06
+Stevens,2017,HRShare,.16
+Stevens,2017,PublicShare,.13
+Stevens,2018,Weekly Price,96.95
+Stevens,2018,TotCapacity,365.95
+Stevens,2018,AvgCapacity,11.81
+Stevens,2018,CCCShare,.06
+Stevens,2018,HRShare,.19
+Stevens,2018,PublicShare,.13
+Swift,2012,Weekly Price,86.88
+Swift,2012,TotCapacity,415.98
+Swift,2012,AvgCapacity,10.67
+Swift,2012,CCCShare,.03
+Swift,2012,HRShare,0
+Swift,2012,PublicShare,.08
+Swift,2013,Weekly Price,89.25
+Swift,2013,TotCapacity,459.68
+Swift,2013,AvgCapacity,11.49
+Swift,2013,CCCShare,.03
+Swift,2013,HRShare,.1
+Swift,2013,PublicShare,.08
+Swift,2014,Weekly Price,89.59
+Swift,2014,TotCapacity,507.08
+Swift,2014,AvgCapacity,11.79
+Swift,2014,CCCShare,.02
+Swift,2014,HRShare,.12
+Swift,2014,PublicShare,.09
+Swift,2015,Weekly Price,88.15000000000001
+Swift,2015,TotCapacity,418.23
+Swift,2015,AvgCapacity,11.62
+Swift,2015,CCCShare,.03
+Swift,2015,HRShare,.11
+Swift,2015,PublicShare,.08
+Swift,2016,Weekly Price,94.76000000000001
+Swift,2016,TotCapacity,375.91
+Swift,2016,AvgCapacity,12.13
+Swift,2016,CCCShare,.03
+Swift,2016,HRShare,.16
+Swift,2016,PublicShare,.16
+Swift,2017,Weekly Price,87.49
+Swift,2017,TotCapacity,332.51
+Swift,2017,AvgCapacity,11.47
+Swift,2017,CCCShare,.03
+Swift,2017,HRShare,.14
+Swift,2017,PublicShare,.14
+Swift,2018,Weekly Price,96.04000000000001
+Swift,2018,TotCapacity,402.09
+Swift,2018,AvgCapacity,14.89
+Swift,2018,CCCShare,.07
+Swift,2018,HRShare,.11
+Swift,2018,PublicShare,.11
+Todd,2012,Weekly Price,77.86
+Todd,2012,TotCapacity,594.89
+Todd,2012,AvgCapacity,11.9
+Todd,2012,CCCShare,0
+Todd,2012,HRShare,0
+Todd,2012,PublicShare,.14
+Todd,2013,Weekly Price,87.72
+Todd,2013,TotCapacity,608.47
+Todd,2013,AvgCapacity,11.06
+Todd,2013,CCCShare,0
+Todd,2013,HRShare,.09
+Todd,2013,PublicShare,.09
+Todd,2014,Weekly Price,79.74
+Todd,2014,TotCapacity,617.4
+Todd,2014,AvgCapacity,11.43
+Todd,2014,CCCShare,0
+Todd,2014,HRShare,.15
+Todd,2014,PublicShare,.15
+Todd,2015,Weekly Price,80.3
+Todd,2015,TotCapacity,680.5700000000001
+Todd,2015,AvgCapacity,12.6
+Todd,2015,CCCShare,.02
+Todd,2015,HRShare,.2
+Todd,2015,PublicShare,.17
+Todd,2016,Weekly Price,100.99
+Todd,2016,TotCapacity,691.88
+Todd,2016,AvgCapacity,12.14
+Todd,2016,CCCShare,.02
+Todd,2016,HRShare,.21
+Todd,2016,PublicShare,.16
+Todd,2017,Weekly Price,84.39
+Todd,2017,TotCapacity,668.1
+Todd,2017,AvgCapacity,12.37
+Todd,2017,CCCShare,.02
+Todd,2017,HRShare,.26
+Todd,2017,PublicShare,.17
+Todd,2018,Weekly Price,91.09999999999999
+Todd,2018,TotCapacity,644
+Todd,2018,AvgCapacity,10.92
+Todd,2018,CCCShare,0
+Todd,2018,HRShare,.24
+Todd,2018,PublicShare,.15
+Traverse,2012,Weekly Price,79.77
+Traverse,2012,TotCapacity,133.5
+Traverse,2012,AvgCapacity,10.27
+Traverse,2012,CCCShare,0
+Traverse,2012,HRShare,0
+Traverse,2012,PublicShare,.15
+Traverse,2013,Weekly Price,90.04000000000001
+Traverse,2013,TotCapacity,170.6
+Traverse,2013,AvgCapacity,10.66
+Traverse,2013,CCCShare,0
+Traverse,2013,HRShare,.13
+Traverse,2013,PublicShare,.13
+Traverse,2014,Weekly Price,74.56999999999999
+Traverse,2014,TotCapacity,185.23
+Traverse,2014,AvgCapacity,11.58
+Traverse,2014,CCCShare,0
+Traverse,2014,HRShare,.25
+Traverse,2014,PublicShare,.25
+Traverse,2015,Weekly Price,85.56
+Traverse,2015,TotCapacity,135.6
+Traverse,2015,AvgCapacity,11.3
+Traverse,2015,CCCShare,0
+Traverse,2015,HRShare,.17
+Traverse,2015,PublicShare,.17
+Traverse,2016,Weekly Price,95.76000000000001
+Traverse,2016,TotCapacity,134
+Traverse,2016,AvgCapacity,11.17
+Traverse,2016,CCCShare,0
+Traverse,2016,HRShare,.17
+Traverse,2016,PublicShare,.17
+Traverse,2017,Weekly Price,86.97
+Traverse,2017,TotCapacity,133.3
+Traverse,2017,AvgCapacity,11.11
+Traverse,2017,CCCShare,0
+Traverse,2017,HRShare,.17
+Traverse,2017,PublicShare,.17
+Traverse,2018,Weekly Price,85.29000000000001
+Traverse,2018,TotCapacity,114
+Traverse,2018,AvgCapacity,11.4
+Traverse,2018,CCCShare,0
+Traverse,2018,HRShare,.2
+Traverse,2018,PublicShare,.2
+Wabasha,2012,Weekly Price,114.58
+Wabasha,2012,TotCapacity,743.03
+Wabasha,2012,AvgCapacity,10.93
+Wabasha,2012,CCCShare,.03
+Wabasha,2012,HRShare,0
+Wabasha,2012,PublicShare,.01
+Wabasha,2013,Weekly Price,119.51
+Wabasha,2013,TotCapacity,788.66
+Wabasha,2013,AvgCapacity,10.66
+Wabasha,2013,CCCShare,.03
+Wabasha,2013,HRShare,.01
+Wabasha,2013,PublicShare,.01
+Wabasha,2014,Weekly Price,114.4
+Wabasha,2014,TotCapacity,799.8200000000001
+Wabasha,2014,AvgCapacity,11.11
+Wabasha,2014,CCCShare,.03
+Wabasha,2014,HRShare,.06
+Wabasha,2014,PublicShare,.06
+Wabasha,2015,Weekly Price,115.82
+Wabasha,2015,TotCapacity,780.52
+Wabasha,2015,AvgCapacity,10.99
+Wabasha,2015,CCCShare,.03
+Wabasha,2015,HRShare,.11
+Wabasha,2015,PublicShare,.06
+Wabasha,2016,Weekly Price,119.03
+Wabasha,2016,TotCapacity,720.31
+Wabasha,2016,AvgCapacity,11.43
+Wabasha,2016,CCCShare,.03
+Wabasha,2016,HRShare,.16
+Wabasha,2016,PublicShare,.06
+Wabasha,2017,Weekly Price,117.02
+Wabasha,2017,TotCapacity,740.79
+Wabasha,2017,AvgCapacity,11.06
+Wabasha,2017,CCCShare,.03
+Wabasha,2017,HRShare,.15
+Wabasha,2017,PublicShare,.06
+Wabasha,2018,Weekly Price,122.3
+Wabasha,2018,TotCapacity,752.79
+Wabasha,2018,AvgCapacity,10.75
+Wabasha,2018,CCCShare,.03
+Wabasha,2018,HRShare,.16
+Wabasha,2018,PublicShare,.06
+Wadena,2012,Weekly Price,89.70999999999999
+Wadena,2012,TotCapacity,371.76
+Wadena,2012,AvgCapacity,10.62
+Wadena,2012,CCCShare,.03
+Wadena,2012,HRShare,0
+Wadena,2012,PublicShare,.11
+Wadena,2013,Weekly Price,95.09
+Wadena,2013,TotCapacity,423.03
+Wadena,2013,AvgCapacity,10.58
+Wadena,2013,CCCShare,.03
+Wadena,2013,HRShare,.15
+Wadena,2013,PublicShare,.1
+Wadena,2014,Weekly Price,90.11
+Wadena,2014,TotCapacity,482.26
+Wadena,2014,AvgCapacity,10.72
+Wadena,2014,CCCShare,.02
+Wadena,2014,HRShare,.18
+Wadena,2014,PublicShare,.13
+Wadena,2015,Weekly Price,91.28
+Wadena,2015,TotCapacity,489.92
+Wadena,2015,AvgCapacity,11.39
+Wadena,2015,CCCShare,.05
+Wadena,2015,HRShare,.19
+Wadena,2015,PublicShare,.14
+Wadena,2016,Weekly Price,104
+Wadena,2016,TotCapacity,466.94
+Wadena,2016,AvgCapacity,11.39
+Wadena,2016,CCCShare,.05
+Wadena,2016,HRShare,.2
+Wadena,2016,PublicShare,.15
+Wadena,2017,Weekly Price,87.99
+Wadena,2017,TotCapacity,402.24
+Wadena,2017,AvgCapacity,11.49
+Wadena,2017,CCCShare,.06
+Wadena,2017,HRShare,.26
+Wadena,2017,PublicShare,.17
+Wadena,2018,Weekly Price,96.59
+Wadena,2018,TotCapacity,446.14
+Wadena,2018,AvgCapacity,11.74
+Wadena,2018,CCCShare,.08
+Wadena,2018,HRShare,.24
+Wadena,2018,PublicShare,.16
+Waseca,2012,Weekly Price,100.21
+Waseca,2012,TotCapacity,776.52
+Waseca,2012,AvgCapacity,10.35
+Waseca,2012,CCCShare,.03
+Waseca,2012,HRShare,0
+Waseca,2012,PublicShare,.01
+Waseca,2013,Weekly Price,103.21
+Waseca,2013,TotCapacity,723.02
+Waseca,2013,AvgCapacity,10.63
+Waseca,2013,CCCShare,.03
+Waseca,2013,HRShare,.01
+Waseca,2013,PublicShare,.01
+Waseca,2014,Weekly Price,99.12000000000001
+Waseca,2014,TotCapacity,668.55
+Waseca,2014,AvgCapacity,11.53
+Waseca,2014,CCCShare,.03
+Waseca,2014,HRShare,.05
+Waseca,2014,PublicShare,.05
+Waseca,2015,Weekly Price,100.93
+Waseca,2015,TotCapacity,595.75
+Waseca,2015,AvgCapacity,11.46
+Waseca,2015,CCCShare,.04
+Waseca,2015,HRShare,.06
+Waseca,2015,PublicShare,.06
+Waseca,2016,Weekly Price,114.38
+Waseca,2016,TotCapacity,540.26
+Waseca,2016,AvgCapacity,12.28
+Waseca,2016,CCCShare,.05
+Waseca,2016,HRShare,.09
+Waseca,2016,PublicShare,.09
+Waseca,2017,Weekly Price,99.44
+Waseca,2017,TotCapacity,511.52
+Waseca,2017,AvgCapacity,12.18
+Waseca,2017,CCCShare,.05
+Waseca,2017,HRShare,.1
+Waseca,2017,PublicShare,.1
+Waseca,2018,Weekly Price,102.86
+Waseca,2018,TotCapacity,515.43
+Waseca,2018,AvgCapacity,12.27
+Waseca,2018,CCCShare,.05
+Waseca,2018,HRShare,.1
+Waseca,2018,PublicShare,.1
+Washington,2012,Weekly Price,157.04
+Washington,2012,TotCapacity,8383.860000000001
+Washington,2012,AvgCapacity,16.31
+Washington,2012,CCCShare,.09
+Washington,2012,HRShare,0
+Washington,2012,PublicShare,.01
+Washington,2013,Weekly Price,160.75
+Washington,2013,TotCapacity,8236.690000000001
+Washington,2013,AvgCapacity,16.44
+Washington,2013,CCCShare,.09
+Washington,2013,HRShare,.05
+Washington,2013,PublicShare,.01
+Washington,2014,Weekly Price,160.15
+Washington,2014,TotCapacity,8911.299999999999
+Washington,2014,AvgCapacity,17.82
+Washington,2014,CCCShare,.1
+Washington,2014,HRShare,.08
+Washington,2014,PublicShare,.04
+Washington,2015,Weekly Price,162.73
+Washington,2015,TotCapacity,8357.58
+Washington,2015,AvgCapacity,17.02
+Washington,2015,CCCShare,.11
+Washington,2015,HRShare,.1
+Washington,2015,PublicShare,.04
+Washington,2016,Weekly Price,163.93
+Washington,2016,TotCapacity,8547.01
+Washington,2016,AvgCapacity,18.15
+Washington,2016,CCCShare,.11
+Washington,2016,HRShare,.17
+Washington,2016,PublicShare,.07
+Washington,2017,Weekly Price,163.16
+Washington,2017,TotCapacity,8804.43
+Washington,2017,AvgCapacity,19.14
+Washington,2017,CCCShare,.12
+Washington,2017,HRShare,.19
+Washington,2017,PublicShare,.08
+Washington,2018,Weekly Price,177.73
+Washington,2018,TotCapacity,8748.15
+Washington,2018,AvgCapacity,19.57
+Washington,2018,CCCShare,.12
+Washington,2018,HRShare,.17
+Washington,2018,PublicShare,.06
+Watonwan,2012,Weekly Price,85.36
+Watonwan,2012,TotCapacity,426.59
+Watonwan,2012,AvgCapacity,13.33
+Watonwan,2012,CCCShare,.09
+Watonwan,2012,HRShare,0
+Watonwan,2012,PublicShare,.03
+Watonwan,2013,Weekly Price,90.49
+Watonwan,2013,TotCapacity,433.29
+Watonwan,2013,AvgCapacity,13.54
+Watonwan,2013,CCCShare,.09
+Watonwan,2013,HRShare,.03
+Watonwan,2013,PublicShare,.03
+Watonwan,2014,Weekly Price,81.81999999999999
+Watonwan,2014,TotCapacity,412.56
+Watonwan,2014,AvgCapacity,14.73
+Watonwan,2014,CCCShare,.11
+Watonwan,2014,HRShare,.14
+Watonwan,2014,PublicShare,.11
+Watonwan,2015,Weekly Price,78.11
+Watonwan,2015,TotCapacity,391.99
+Watonwan,2015,AvgCapacity,15.08
+Watonwan,2015,CCCShare,.12
+Watonwan,2015,HRShare,.19
+Watonwan,2015,PublicShare,.12
+Watonwan,2016,Weekly Price,124.54
+Watonwan,2016,TotCapacity,334.03
+Watonwan,2016,AvgCapacity,14.52
+Watonwan,2016,CCCShare,.13
+Watonwan,2016,HRShare,.22
+Watonwan,2016,PublicShare,.09
+Watonwan,2017,Weekly Price,86.42
+Watonwan,2017,TotCapacity,418.19
+Watonwan,2017,AvgCapacity,17.42
+Watonwan,2017,CCCShare,.17
+Watonwan,2017,HRShare,.17
+Watonwan,2017,PublicShare,.08
+Watonwan,2018,Weekly Price,100.94
+Watonwan,2018,TotCapacity,395.48
+Watonwan,2018,AvgCapacity,14.65
+Watonwan,2018,CCCShare,.11
+Watonwan,2018,HRShare,.15
+Watonwan,2018,PublicShare,.11
+Wilkin,2012,Weekly Price,93.5
+Wilkin,2012,TotCapacity,234.4
+Wilkin,2012,AvgCapacity,9.380000000000001
+Wilkin,2012,CCCShare,0
+Wilkin,2012,HRShare,0
+Wilkin,2012,PublicShare,.04
+Wilkin,2013,Weekly Price,96.81999999999999
+Wilkin,2013,TotCapacity,256.3
+Wilkin,2013,AvgCapacity,9.15
+Wilkin,2013,CCCShare,0
+Wilkin,2013,HRShare,.04
+Wilkin,2013,PublicShare,.04
+Wilkin,2014,Weekly Price,91.65000000000001
+Wilkin,2014,TotCapacity,256.47
+Wilkin,2014,AvgCapacity,9.859999999999999
+Wilkin,2014,CCCShare,0
+Wilkin,2014,HRShare,.08
+Wilkin,2014,PublicShare,.08
+Wilkin,2015,Weekly Price,90.23
+Wilkin,2015,TotCapacity,272.57
+Wilkin,2015,AvgCapacity,10.48
+Wilkin,2015,CCCShare,0
+Wilkin,2015,HRShare,.12
+Wilkin,2015,PublicShare,.12
+Wilkin,2016,Weekly Price,94.41
+Wilkin,2016,TotCapacity,262
+Wilkin,2016,AvgCapacity,11.39
+Wilkin,2016,CCCShare,0
+Wilkin,2016,HRShare,.17
+Wilkin,2016,PublicShare,.17
+Wilkin,2017,Weekly Price,93.01000000000001
+Wilkin,2017,TotCapacity,237.76
+Wilkin,2017,AvgCapacity,10.34
+Wilkin,2017,CCCShare,.04
+Wilkin,2017,HRShare,.13
+Wilkin,2017,PublicShare,.13
+Wilkin,2018,Weekly Price,95.58
+Wilkin,2018,TotCapacity,222.47
+Wilkin,2018,AvgCapacity,10.59
+Wilkin,2018,CCCShare,.05
+Wilkin,2018,HRShare,.1
+Wilkin,2018,PublicShare,.1
+Winona,2012,Weekly Price,107.79
+Winona,2012,TotCapacity,1728.37
+Winona,2012,AvgCapacity,12.09
+Winona,2012,CCCShare,.05
+Winona,2012,HRShare,0
+Winona,2012,PublicShare,.02
+Winona,2013,Weekly Price,110.68
+Winona,2013,TotCapacity,1790.28
+Winona,2013,AvgCapacity,12.02
+Winona,2013,CCCShare,.05
+Winona,2013,HRShare,.03
+Winona,2013,PublicShare,.02
+Winona,2014,Weekly Price,108.89
+Winona,2014,TotCapacity,1897.44
+Winona,2014,AvgCapacity,12.82
+Winona,2014,CCCShare,.05
+Winona,2014,HRShare,.05
+Winona,2014,PublicShare,.04
+Winona,2015,Weekly Price,109.48
+Winona,2015,TotCapacity,1846.54
+Winona,2015,AvgCapacity,12.73
+Winona,2015,CCCShare,.06
+Winona,2015,HRShare,.07
+Winona,2015,PublicShare,.04
+Winona,2016,Weekly Price,115.94
+Winona,2016,TotCapacity,1702.53
+Winona,2016,AvgCapacity,12.9
+Winona,2016,CCCShare,.06
+Winona,2016,HRShare,.09
+Winona,2016,PublicShare,.06
+Winona,2017,Weekly Price,109.95
+Winona,2017,TotCapacity,1368.84
+Winona,2017,AvgCapacity,15.38
+Winona,2017,CCCShare,.08
+Winona,2017,HRShare,.16
+Winona,2017,PublicShare,.09
+Winona,2018,Weekly Price,116.6
+Winona,2018,TotCapacity,1546.98
+Winona,2018,AvgCapacity,13.94
+Winona,2018,CCCShare,.07
+Winona,2018,HRShare,.13
+Winona,2018,PublicShare,.07
+Wright,2012,Weekly Price,133.39
+Wright,2012,TotCapacity,5001.23
+Wright,2012,AvgCapacity,11.63
+Wright,2012,CCCShare,.03
+Wright,2012,HRShare,0
+Wright,2012,PublicShare,.02
+Wright,2013,Weekly Price,136.33
+Wright,2013,TotCapacity,5207.51
+Wright,2013,AvgCapacity,11.86
+Wright,2013,CCCShare,.03
+Wright,2013,HRShare,.02
+Wright,2013,PublicShare,.02
+Wright,2014,Weekly Price,133.95
+Wright,2014,TotCapacity,5179.48
+Wright,2014,AvgCapacity,12.69
+Wright,2014,CCCShare,.04
+Wright,2014,HRShare,.06
+Wright,2014,PublicShare,.05
+Wright,2015,Weekly Price,133.77
+Wright,2015,TotCapacity,4821.34
+Wright,2015,AvgCapacity,12.49
+Wright,2015,CCCShare,.04
+Wright,2015,HRShare,.07
+Wright,2015,PublicShare,.05
+Wright,2016,Weekly Price,143.07
+Wright,2016,TotCapacity,4624.87
+Wright,2016,AvgCapacity,13.6
+Wright,2016,CCCShare,.04
+Wright,2016,HRShare,.1
+Wright,2016,PublicShare,.06
+Wright,2017,Weekly Price,138.75
+Wright,2017,TotCapacity,4497.87
+Wright,2017,AvgCapacity,13.51
+Wright,2017,CCCShare,.05
+Wright,2017,HRShare,.1
+Wright,2017,PublicShare,.07
+Wright,2018,Weekly Price,152.41
+Wright,2018,TotCapacity,4310.03
+Wright,2018,AvgCapacity,14.09
+Wright,2018,CCCShare,.04
+Wright,2018,HRShare,.08
+Wright,2018,PublicShare,.05
+Yellow Medicine,2012,Weekly Price,87.43000000000001
+Yellow Medicine,2012,TotCapacity,528.09
+Yellow Medicine,2012,AvgCapacity,10.56
+Yellow Medicine,2012,CCCShare,.02
+Yellow Medicine,2012,HRShare,0
+Yellow Medicine,2012,PublicShare,.08
+Yellow Medicine,2013,Weekly Price,93.31
+Yellow Medicine,2013,TotCapacity,537.1900000000001
+Yellow Medicine,2013,AvgCapacity,10.33
+Yellow Medicine,2013,CCCShare,.02
+Yellow Medicine,2013,HRShare,.08
+Yellow Medicine,2013,PublicShare,.06
+Yellow Medicine,2014,Weekly Price,95.39
+Yellow Medicine,2014,TotCapacity,474.65
+Yellow Medicine,2014,AvgCapacity,10.32
+Yellow Medicine,2014,CCCShare,.04
+Yellow Medicine,2014,HRShare,.07
+Yellow Medicine,2014,PublicShare,.04
+Yellow Medicine,2015,Weekly Price,90.77
+Yellow Medicine,2015,TotCapacity,482.62
+Yellow Medicine,2015,AvgCapacity,10.72
+Yellow Medicine,2015,CCCShare,.04
+Yellow Medicine,2015,HRShare,.11
+Yellow Medicine,2015,PublicShare,.07
+Yellow Medicine,2016,Weekly Price,105.73
+Yellow Medicine,2016,TotCapacity,514.92
+Yellow Medicine,2016,AvgCapacity,10.96
+Yellow Medicine,2016,CCCShare,.04
+Yellow Medicine,2016,HRShare,.19
+Yellow Medicine,2016,PublicShare,.09
+Yellow Medicine,2017,Weekly Price,90.42
+Yellow Medicine,2017,TotCapacity,387.37
+Yellow Medicine,2017,AvgCapacity,10.19
+Yellow Medicine,2017,CCCShare,0
+Yellow Medicine,2017,HRShare,.21
+Yellow Medicine,2017,PublicShare,.11
+Yellow Medicine,2018,Weekly Price,104.07
+Yellow Medicine,2018,TotCapacity,366.79
+Yellow Medicine,2018,AvgCapacity,9.4
+Yellow Medicine,2018,CCCShare,.03
+Yellow Medicine,2018,HRShare,.18
+Yellow Medicine,2018,PublicShare,.05
