@@ -35,15 +35,15 @@ Aitkin,2015,totcost_ccc,187.42
 Aitkin,2015,totcost_hr,148.37
 Aitkin,2015,totcost_public,15.5
 Aitkin,2015,quality_premium,1.17
-Aitkin,2016,adj_supply_any,.6
+Aitkin,2016,adj_supply_any,.09
 Aitkin,2016,adj_supply_ccc,0
-Aitkin,2016,adj_supply_hr,.09
-Aitkin,2016,adj_supply_public,.16
-Aitkin,2016,totcost_any,64.72
-Aitkin,2016,totcost_ccc,362.25
-Aitkin,2016,totcost_hr,159.47
-Aitkin,2016,totcost_public,50.48
-Aitkin,2016,quality_premium,2.44
+Aitkin,2016,adj_supply_hr,0
+Aitkin,2016,adj_supply_public,0
+Aitkin,2016,totcost_any,113.59
+Aitkin,2016,totcost_ccc,195.36
+Aitkin,2016,totcost_hr,206.02
+Aitkin,2016,totcost_public,203.37
+Aitkin,2016,quality_premium,2.55
 Aitkin,2017,adj_supply_any,.44
 Aitkin,2017,adj_supply_ccc,0
 Aitkin,2017,adj_supply_hr,.08
@@ -98,15 +98,15 @@ Anoka,2015,totcost_ccc,250.23
 Anoka,2015,totcost_hr,251.9
 Anoka,2015,totcost_public,10.16
 Anoka,2015,quality_premium,1.36
-Anoka,2016,adj_supply_any,.5
-Anoka,2016,adj_supply_ccc,.24
-Anoka,2016,adj_supply_hr,.14
-Anoka,2016,adj_supply_public,.03
-Anoka,2016,totcost_any,196.53
-Anoka,2016,totcost_ccc,257
-Anoka,2016,totcost_hr,253.84
-Anoka,2016,totcost_public,9.83
-Anoka,2016,quality_premium,1.35
+Anoka,2016,adj_supply_any,.37
+Anoka,2016,adj_supply_ccc,.21
+Anoka,2016,adj_supply_hr,.12
+Anoka,2016,adj_supply_public,.02
+Anoka,2016,totcost_any,200.72
+Anoka,2016,totcost_ccc,257.7
+Anoka,2016,totcost_hr,261.59
+Anoka,2016,totcost_public,12.06
+Anoka,2016,quality_premium,1.37
 Anoka,2017,adj_supply_any,.43
 Anoka,2017,adj_supply_ccc,.22
 Anoka,2017,adj_supply_hr,.14
@@ -161,15 +161,15 @@ Becker,2015,totcost_ccc,198.15
 Becker,2015,totcost_hr,154.39
 Becker,2015,totcost_public,18.19
 Becker,2015,quality_premium,1.21
-Becker,2016,adj_supply_any,.6
-Becker,2016,adj_supply_ccc,.06
-Becker,2016,adj_supply_hr,.11
-Becker,2016,adj_supply_public,.13
-Becker,2016,totcost_any,78.43000000000001
-Becker,2016,totcost_ccc,366.23
-Becker,2016,totcost_hr,197.54
-Becker,2016,totcost_public,48.4
-Becker,2016,quality_premium,1.83
+Becker,2016,adj_supply_any,.2
+Becker,2016,adj_supply_ccc,.01
+Becker,2016,adj_supply_hr,.03
+Becker,2016,adj_supply_public,.07
+Becker,2016,totcost_any,76.34
+Becker,2016,totcost_ccc,186.06
+Becker,2016,totcost_hr,141.43
+Becker,2016,totcost_public,67.40000000000001
+Becker,2016,quality_premium,1.44
 Becker,2017,adj_supply_any,.45
 Becker,2017,adj_supply_ccc,.02
 Becker,2017,adj_supply_hr,.1
@@ -224,15 +224,15 @@ Beltrami,2015,totcost_ccc,178.22
 Beltrami,2015,totcost_hr,158.56
 Beltrami,2015,totcost_public,16.59
 Beltrami,2015,quality_premium,1.27
-Beltrami,2016,adj_supply_any,.52
-Beltrami,2016,adj_supply_ccc,.05
+Beltrami,2016,adj_supply_any,.17
+Beltrami,2016,adj_supply_ccc,.03
 Beltrami,2016,adj_supply_hr,.01
-Beltrami,2016,adj_supply_public,.14
-Beltrami,2016,totcost_any,61.69
-Beltrami,2016,totcost_ccc,311.93
-Beltrami,2016,totcost_hr,257.37
-Beltrami,2016,totcost_public,39.91
-Beltrami,2016,quality_premium,2.8
+Beltrami,2016,adj_supply_public,.05
+Beltrami,2016,totcost_any,75.99
+Beltrami,2016,totcost_ccc,161.16
+Beltrami,2016,totcost_hr,98.16
+Beltrami,2016,totcost_public,76.27
+Beltrami,2016,quality_premium,1.19
 Beltrami,2017,adj_supply_any,.39
 Beltrami,2017,adj_supply_ccc,.05
 Beltrami,2017,adj_supply_hr,.02
@@ -287,15 +287,15 @@ Benton,2015,totcost_ccc,199.39
 Benton,2015,totcost_hr,199.56
 Benton,2015,totcost_public,13.01
 Benton,2015,quality_premium,1.53
-Benton,2016,adj_supply_any,.66
-Benton,2016,adj_supply_ccc,.18
-Benton,2016,adj_supply_hr,.06
-Benton,2016,adj_supply_public,.03
-Benton,2016,totcost_any,116.48
-Benton,2016,totcost_ccc,200
-Benton,2016,totcost_hr,190.12
-Benton,2016,totcost_public,21.34
-Benton,2016,quality_premium,1.7
+Benton,2016,adj_supply_any,.25
+Benton,2016,adj_supply_ccc,.08
+Benton,2016,adj_supply_hr,.03
+Benton,2016,adj_supply_public,.02
+Benton,2016,totcost_any,125.95
+Benton,2016,totcost_ccc,206.89
+Benton,2016,totcost_hr,237.99
+Benton,2016,totcost_public,36.74
+Benton,2016,quality_premium,2.04
 Benton,2017,adj_supply_any,.49
 Benton,2017,adj_supply_ccc,.15
 Benton,2017,adj_supply_hr,.06
@@ -350,15 +350,15 @@ Big Stone,2015,totcost_ccc,134.49
 Big Stone,2015,totcost_hr,134.49
 Big Stone,2015,totcost_public,15.25
 Big Stone,2015,quality_premium,1.25
-Big Stone,2016,adj_supply_any,.6
+Big Stone,2016,adj_supply_any,.15
 Big Stone,2016,adj_supply_ccc,0
 Big Stone,2016,adj_supply_hr,0
-Big Stone,2016,adj_supply_public,.13
-Big Stone,2016,totcost_any,36.12
-Big Stone,2016,totcost_ccc,394.59
+Big Stone,2016,adj_supply_public,0
+Big Stone,2016,totcost_any,38.83
+Big Stone,2016,totcost_ccc,371.15
 Big Stone,2016,totcost_hr,560.24
-Big Stone,2016,totcost_public,53.97
-Big Stone,2016,quality_premium,1.27
+Big Stone,2016,totcost_public,145.45
+Big Stone,2016,quality_premium,12.07
 Big Stone,2017,adj_supply_any,.42
 Big Stone,2017,adj_supply_ccc,0
 Big Stone,2017,adj_supply_hr,
@@ -413,15 +413,15 @@ Blue Earth,2015,totcost_ccc,165.42
 Blue Earth,2015,totcost_hr,132.06
 Blue Earth,2015,totcost_public,9.800000000000001
 Blue Earth,2015,quality_premium,.97
-Blue Earth,2016,adj_supply_any,.83
-Blue Earth,2016,adj_supply_ccc,.28
-Blue Earth,2016,adj_supply_hr,.02
-Blue Earth,2016,adj_supply_public,.2
-Blue Earth,2016,totcost_any,101.66
-Blue Earth,2016,totcost_ccc,168.68
-Blue Earth,2016,totcost_hr,156.11
-Blue Earth,2016,totcost_public,12.23
-Blue Earth,2016,quality_premium,1.35
+Blue Earth,2016,adj_supply_any,.25
+Blue Earth,2016,adj_supply_ccc,.14
+Blue Earth,2016,adj_supply_hr,.01
+Blue Earth,2016,adj_supply_public,.01
+Blue Earth,2016,totcost_any,138.6
+Blue Earth,2016,totcost_ccc,177.21
+Blue Earth,2016,totcost_hr,153.48
+Blue Earth,2016,totcost_public,144.58
+Blue Earth,2016,quality_premium,1.24
 Blue Earth,2017,adj_supply_any,.71
 Blue Earth,2017,adj_supply_ccc,.29
 Blue Earth,2017,adj_supply_hr,.05
@@ -476,15 +476,15 @@ Brown,2015,totcost_ccc,142.63
 Brown,2015,totcost_hr,130.25
 Brown,2015,totcost_public,7.62
 Brown,2015,quality_premium,1.14
-Brown,2016,adj_supply_any,.89
-Brown,2016,adj_supply_ccc,.16
-Brown,2016,adj_supply_hr,.07
-Brown,2016,adj_supply_public,.14
-Brown,2016,totcost_any,67.90000000000001
-Brown,2016,totcost_ccc,174.29
-Brown,2016,totcost_hr,123.88
-Brown,2016,totcost_public,17.33
-Brown,2016,quality_premium,1.71
+Brown,2016,adj_supply_any,.38
+Brown,2016,adj_supply_ccc,.11
+Brown,2016,adj_supply_hr,.03
+Brown,2016,adj_supply_public,.05
+Brown,2016,totcost_any,80.36
+Brown,2016,totcost_ccc,151.94
+Brown,2016,totcost_hr,125.28
+Brown,2016,totcost_public,120.05
+Brown,2016,quality_premium,1.54
 Brown,2017,adj_supply_any,.67
 Brown,2017,adj_supply_ccc,.14
 Brown,2017,adj_supply_hr,.09
@@ -539,15 +539,15 @@ Carlton,2015,totcost_ccc,139.6
 Carlton,2015,totcost_hr,125.84
 Carlton,2015,totcost_public,12.77
 Carlton,2015,quality_premium,.97
-Carlton,2016,adj_supply_any,.57
-Carlton,2016,adj_supply_ccc,.24
-Carlton,2016,adj_supply_hr,.27
-Carlton,2016,adj_supply_public,.07
-Carlton,2016,totcost_any,75.37000000000001
-Carlton,2016,totcost_ccc,167.89
-Carlton,2016,totcost_hr,136.27
-Carlton,2016,totcost_public,21.55
-Carlton,2016,quality_premium,2.65
+Carlton,2016,adj_supply_any,.27
+Carlton,2016,adj_supply_ccc,.16
+Carlton,2016,adj_supply_hr,.18
+Carlton,2016,adj_supply_public,.02
+Carlton,2016,totcost_any,75.54000000000001
+Carlton,2016,totcost_ccc,106
+Carlton,2016,totcost_hr,107.25
+Carlton,2016,totcost_public,39.06
+Carlton,2016,quality_premium,2.42
 Carlton,2017,adj_supply_any,.47
 Carlton,2017,adj_supply_ccc,.21
 Carlton,2017,adj_supply_hr,.22
@@ -602,15 +602,15 @@ Carver,2015,totcost_ccc,247.82
 Carver,2015,totcost_hr,270.18
 Carver,2015,totcost_public,9.83
 Carver,2015,quality_premium,1.4
-Carver,2016,adj_supply_any,.53
-Carver,2016,adj_supply_ccc,.34
+Carver,2016,adj_supply_any,.41
+Carver,2016,adj_supply_ccc,.27
 Carver,2016,adj_supply_hr,.15
-Carver,2016,adj_supply_public,.02
-Carver,2016,totcost_any,209.15
-Carver,2016,totcost_ccc,256.22
-Carver,2016,totcost_hr,264.65
-Carver,2016,totcost_public,9.91
-Carver,2016,quality_premium,1.32
+Carver,2016,adj_supply_public,.01
+Carver,2016,totcost_any,213.46
+Carver,2016,totcost_ccc,265.42
+Carver,2016,totcost_hr,283.83
+Carver,2016,totcost_public,24.1
+Carver,2016,quality_premium,1.42
 Carver,2017,adj_supply_any,.41
 Carver,2017,adj_supply_ccc,.27
 Carver,2017,adj_supply_hr,.15
@@ -665,15 +665,15 @@ Cass,2015,totcost_ccc,191.98
 Cass,2015,totcost_hr,174.6
 Cass,2015,totcost_public,23.36
 Cass,2015,quality_premium,1.34
-Cass,2016,adj_supply_any,.45
+Cass,2016,adj_supply_any,.16
 Cass,2016,adj_supply_ccc,.03
-Cass,2016,adj_supply_hr,.1
-Cass,2016,adj_supply_public,.17
-Cass,2016,totcost_any,62.83
-Cass,2016,totcost_ccc,372.22
-Cass,2016,totcost_hr,166.27
-Cass,2016,totcost_public,51.28
-Cass,2016,quality_premium,2.44
+Cass,2016,adj_supply_hr,.08
+Cass,2016,adj_supply_public,.05
+Cass,2016,totcost_any,101.61
+Cass,2016,totcost_ccc,186.19
+Cass,2016,totcost_hr,155.95
+Cass,2016,totcost_public,133.86
+Cass,2016,quality_premium,1.4
 Cass,2017,adj_supply_any,.35
 Cass,2017,adj_supply_ccc,.03
 Cass,2017,adj_supply_hr,.08
@@ -728,15 +728,15 @@ Chippewa,2015,totcost_ccc,115.78
 Chippewa,2015,totcost_hr,108.02
 Chippewa,2015,totcost_public,15.88
 Chippewa,2015,quality_premium,.96
-Chippewa,2016,adj_supply_any,.64
+Chippewa,2016,adj_supply_any,.24
 Chippewa,2016,adj_supply_ccc,.08
-Chippewa,2016,adj_supply_hr,.05
-Chippewa,2016,adj_supply_public,.1
-Chippewa,2016,totcost_any,56.17
-Chippewa,2016,totcost_ccc,164.19
-Chippewa,2016,totcost_hr,124.88
-Chippewa,2016,totcost_public,35.32
-Chippewa,2016,quality_premium,2.37
+Chippewa,2016,adj_supply_hr,.02
+Chippewa,2016,adj_supply_public,.05
+Chippewa,2016,totcost_any,45.77
+Chippewa,2016,totcost_ccc,99.3
+Chippewa,2016,totcost_hr,165.75
+Chippewa,2016,totcost_public,39.21
+Chippewa,2016,quality_premium,3.48
 Chippewa,2017,adj_supply_any,.45
 Chippewa,2017,adj_supply_ccc,.11
 Chippewa,2017,adj_supply_hr,.03
@@ -791,15 +791,15 @@ Chisago,2015,totcost_ccc,216.91
 Chisago,2015,totcost_hr,228.54
 Chisago,2015,totcost_public,11.88
 Chisago,2015,quality_premium,1.55
-Chisago,2016,adj_supply_any,.41
-Chisago,2016,adj_supply_ccc,.13
+Chisago,2016,adj_supply_any,.22
+Chisago,2016,adj_supply_ccc,.11
 Chisago,2016,adj_supply_hr,.04
-Chisago,2016,adj_supply_public,.04
-Chisago,2016,totcost_any,137.74
-Chisago,2016,totcost_ccc,237.05
-Chisago,2016,totcost_hr,230.35
-Chisago,2016,totcost_public,13.09
-Chisago,2016,quality_premium,1.61
+Chisago,2016,adj_supply_public,.01
+Chisago,2016,totcost_any,163.22
+Chisago,2016,totcost_ccc,224.82
+Chisago,2016,totcost_hr,243.53
+Chisago,2016,totcost_public,76.62000000000001
+Chisago,2016,quality_premium,1.58
 Chisago,2017,adj_supply_any,.41
 Chisago,2017,adj_supply_ccc,.14
 Chisago,2017,adj_supply_hr,.05
@@ -854,15 +854,15 @@ Clay,2015,totcost_ccc,188.03
 Clay,2015,totcost_hr,174.55
 Clay,2015,totcost_public,13.39
 Clay,2015,quality_premium,1.26
-Clay,2016,adj_supply_any,.5600000000000001
-Clay,2016,adj_supply_ccc,.16
-Clay,2016,adj_supply_hr,.06
-Clay,2016,adj_supply_public,.04
-Clay,2016,totcost_any,120.37
-Clay,2016,totcost_ccc,229.15
-Clay,2016,totcost_hr,149.63
-Clay,2016,totcost_public,28.33
-Clay,2016,quality_premium,1.22
+Clay,2016,adj_supply_any,.18
+Clay,2016,adj_supply_ccc,.09
+Clay,2016,adj_supply_hr,.02
+Clay,2016,adj_supply_public,.01
+Clay,2016,totcost_any,136.74
+Clay,2016,totcost_ccc,182.78
+Clay,2016,totcost_hr,145.63
+Clay,2016,totcost_public,103.61
+Clay,2016,quality_premium,1.01
 Clay,2017,adj_supply_any,.41
 Clay,2017,adj_supply_ccc,.13
 Clay,2017,adj_supply_hr,.09
@@ -917,15 +917,15 @@ Clearwater,2015,totcost_ccc,199.24
 Clearwater,2015,totcost_hr,149.91
 Clearwater,2015,totcost_public,17.89
 Clearwater,2015,quality_premium,1.29
-Clearwater,2016,adj_supply_any,.46
+Clearwater,2016,adj_supply_any,.15
 Clearwater,2016,adj_supply_ccc,0
-Clearwater,2016,adj_supply_hr,.06
-Clearwater,2016,adj_supply_public,.1
-Clearwater,2016,totcost_any,61.13
-Clearwater,2016,totcost_ccc,589.28
-Clearwater,2016,totcost_hr,321.67
-Clearwater,2016,totcost_public,59.01
-Clearwater,2016,quality_premium,5.35
+Clearwater,2016,adj_supply_hr,.16
+Clearwater,2016,adj_supply_public,.03
+Clearwater,2016,totcost_any,63
+Clearwater,2016,totcost_ccc,200.87
+Clearwater,2016,totcost_hr,120.97
+Clearwater,2016,totcost_public,97.44
+Clearwater,2016,quality_premium,1.35
 Clearwater,2017,adj_supply_any,.33
 Clearwater,2017,adj_supply_ccc,0
 Clearwater,2017,adj_supply_hr,.03
@@ -980,15 +980,15 @@ Cook,2015,totcost_ccc,152.82
 Cook,2015,totcost_hr,377.41
 Cook,2015,totcost_public,32.54
 Cook,2015,quality_premium,3.01
-Cook,2016,adj_supply_any,.87
-Cook,2016,adj_supply_ccc,.07
-Cook,2016,adj_supply_hr,.23
-Cook,2016,adj_supply_public,.14
-Cook,2016,totcost_any,71.49
-Cook,2016,totcost_ccc,607.15
-Cook,2016,totcost_hr,262.89
-Cook,2016,totcost_public,219.46
-Cook,2016,quality_premium,3.48
+Cook,2016,adj_supply_any,.22
+Cook,2016,adj_supply_ccc,0
+Cook,2016,adj_supply_hr,0
+Cook,2016,adj_supply_public,0
+Cook,2016,totcost_any,103.89
+Cook,2016,totcost_ccc,470.86
+Cook,2016,totcost_hr,468.92
+Cook,2016,totcost_public,231.2
+Cook,2016,quality_premium,5.68
 Cook,2017,adj_supply_any,.57
 Cook,2017,adj_supply_ccc,.07
 Cook,2017,adj_supply_hr,.21
@@ -1043,15 +1043,15 @@ Cottonwood,2015,totcost_ccc,114.13
 Cottonwood,2015,totcost_hr,133.3
 Cottonwood,2015,totcost_public,11.59
 Cottonwood,2015,quality_premium,1.25
-Cottonwood,2016,adj_supply_any,.52
+Cottonwood,2016,adj_supply_any,.19
 Cottonwood,2016,adj_supply_ccc,.03
 Cottonwood,2016,adj_supply_hr,.04
-Cottonwood,2016,adj_supply_public,.08
-Cottonwood,2016,totcost_any,30.83
-Cottonwood,2016,totcost_ccc,158.02
-Cottonwood,2016,totcost_hr,51.3
-Cottonwood,2016,totcost_public,18.13
-Cottonwood,2016,quality_premium,1.63
+Cottonwood,2016,adj_supply_public,.02
+Cottonwood,2016,totcost_any,35.83
+Cottonwood,2016,totcost_ccc,129.74
+Cottonwood,2016,totcost_hr,51.38
+Cottonwood,2016,totcost_public,35.12
+Cottonwood,2016,quality_premium,1.3
 Cottonwood,2017,adj_supply_any,.38
 Cottonwood,2017,adj_supply_ccc,.05
 Cottonwood,2017,adj_supply_hr,.06
@@ -1106,15 +1106,15 @@ Crow Wing,2015,totcost_ccc,167.77
 Crow Wing,2015,totcost_hr,156.5
 Crow Wing,2015,totcost_public,15.75
 Crow Wing,2015,quality_premium,1.16
-Crow Wing,2016,adj_supply_any,.48
-Crow Wing,2016,adj_supply_ccc,.16
-Crow Wing,2016,adj_supply_hr,.04
-Crow Wing,2016,adj_supply_public,.06
-Crow Wing,2016,totcost_any,96.03
-Crow Wing,2016,totcost_ccc,212.38
-Crow Wing,2016,totcost_hr,192.65
-Crow Wing,2016,totcost_public,32.54
-Crow Wing,2016,quality_premium,2.19
+Crow Wing,2016,adj_supply_any,.26
+Crow Wing,2016,adj_supply_ccc,.13
+Crow Wing,2016,adj_supply_hr,.07
+Crow Wing,2016,adj_supply_public,.02
+Crow Wing,2016,totcost_any,105.27
+Crow Wing,2016,totcost_ccc,149.11
+Crow Wing,2016,totcost_hr,151.38
+Crow Wing,2016,totcost_public,87.27
+Crow Wing,2016,quality_premium,1.42
 Crow Wing,2017,adj_supply_any,.43
 Crow Wing,2017,adj_supply_ccc,.17
 Crow Wing,2017,adj_supply_hr,.08
@@ -1169,15 +1169,15 @@ Dakota,2015,totcost_ccc,267.89
 Dakota,2015,totcost_hr,281.76
 Dakota,2015,totcost_public,8.17
 Dakota,2015,quality_premium,1.41
-Dakota,2016,adj_supply_any,.57
-Dakota,2016,adj_supply_ccc,.32
-Dakota,2016,adj_supply_hr,.14
-Dakota,2016,adj_supply_public,.03
-Dakota,2016,totcost_any,218.31
-Dakota,2016,totcost_ccc,275.26
-Dakota,2016,totcost_hr,284.07
-Dakota,2016,totcost_public,8.109999999999999
-Dakota,2016,quality_premium,1.36
+Dakota,2016,adj_supply_any,.41
+Dakota,2016,adj_supply_ccc,.25
+Dakota,2016,adj_supply_hr,.11
+Dakota,2016,adj_supply_public,.02
+Dakota,2016,totcost_any,223.11
+Dakota,2016,totcost_ccc,273.15
+Dakota,2016,totcost_hr,285.5
+Dakota,2016,totcost_public,11.43
+Dakota,2016,quality_premium,1.34
 Dakota,2017,adj_supply_any,.49
 Dakota,2017,adj_supply_ccc,.29
 Dakota,2017,adj_supply_hr,.16
@@ -1232,15 +1232,15 @@ Dodge,2015,totcost_ccc,200.79
 Dodge,2015,totcost_hr,189.93
 Dodge,2015,totcost_public,15.23
 Dodge,2015,quality_premium,1.46
-Dodge,2016,adj_supply_any,.67
+Dodge,2016,adj_supply_any,.26
 Dodge,2016,adj_supply_ccc,.11
 Dodge,2016,adj_supply_hr,0
-Dodge,2016,adj_supply_public,.05
-Dodge,2016,totcost_any,99.04000000000001
-Dodge,2016,totcost_ccc,216.11
-Dodge,2016,totcost_hr,169.92
-Dodge,2016,totcost_public,26.52
-Dodge,2016,quality_premium,1.84
+Dodge,2016,adj_supply_public,0
+Dodge,2016,totcost_any,112.95
+Dodge,2016,totcost_ccc,162.89
+Dodge,2016,totcost_hr,107.26
+Dodge,2016,totcost_public,78.01000000000001
+Dodge,2016,quality_premium,1.48
 Dodge,2017,adj_supply_any,.52
 Dodge,2017,adj_supply_ccc,.07
 Dodge,2017,adj_supply_hr,0
@@ -1295,15 +1295,15 @@ Douglas,2015,totcost_ccc,171.43
 Douglas,2015,totcost_hr,138.78
 Douglas,2015,totcost_public,13.43
 Douglas,2015,quality_premium,1.16
-Douglas,2016,adj_supply_any,.85
-Douglas,2016,adj_supply_ccc,.12
-Douglas,2016,adj_supply_hr,.02
-Douglas,2016,adj_supply_public,.08
-Douglas,2016,totcost_any,74.77
-Douglas,2016,totcost_ccc,211.97
-Douglas,2016,totcost_hr,182.9
-Douglas,2016,totcost_public,28.86
-Douglas,2016,quality_premium,2.59
+Douglas,2016,adj_supply_any,.21
+Douglas,2016,adj_supply_ccc,.04
+Douglas,2016,adj_supply_hr,.01
+Douglas,2016,adj_supply_public,.01
+Douglas,2016,totcost_any,80.76000000000001
+Douglas,2016,totcost_ccc,148.51
+Douglas,2016,totcost_hr,199.5
+Douglas,2016,totcost_public,185.05
+Douglas,2016,quality_premium,2.54
 Douglas,2017,adj_supply_any,.6800000000000001
 Douglas,2017,adj_supply_ccc,.14
 Douglas,2017,adj_supply_hr,.12
@@ -1358,15 +1358,15 @@ Faribault,2015,totcost_ccc,139.21
 Faribault,2015,totcost_hr,172.38
 Faribault,2015,totcost_public,19.1
 Faribault,2015,quality_premium,1.6
-Faribault,2016,adj_supply_any,.72
-Faribault,2016,adj_supply_ccc,.19
-Faribault,2016,adj_supply_hr,.15
-Faribault,2016,adj_supply_public,.12
-Faribault,2016,totcost_any,51.14
-Faribault,2016,totcost_ccc,174.47
-Faribault,2016,totcost_hr,145.75
-Faribault,2016,totcost_public,51.43
-Faribault,2016,quality_premium,3.89
+Faribault,2016,adj_supply_any,.28
+Faribault,2016,adj_supply_ccc,.12
+Faribault,2016,adj_supply_hr,.06
+Faribault,2016,adj_supply_public,.03
+Faribault,2016,totcost_any,71.87000000000001
+Faribault,2016,totcost_ccc,142.48
+Faribault,2016,totcost_hr,204.35
+Faribault,2016,totcost_public,95.84
+Faribault,2016,quality_premium,4.89
 Faribault,2017,adj_supply_any,.5
 Faribault,2017,adj_supply_ccc,.14
 Faribault,2017,adj_supply_hr,.14
@@ -1421,15 +1421,15 @@ Fillmore,2015,totcost_ccc,163.35
 Fillmore,2015,totcost_hr,200.48
 Fillmore,2015,totcost_public,20.64
 Fillmore,2015,quality_premium,1.72
-Fillmore,2016,adj_supply_any,.6800000000000001
+Fillmore,2016,adj_supply_any,.4
 Fillmore,2016,adj_supply_ccc,.23
 Fillmore,2016,adj_supply_hr,0
-Fillmore,2016,adj_supply_public,.1
-Fillmore,2016,totcost_any,51.59
-Fillmore,2016,totcost_ccc,251.38
-Fillmore,2016,totcost_hr,301.66
-Fillmore,2016,totcost_public,48.88
-Fillmore,2016,quality_premium,3.94
+Fillmore,2016,adj_supply_public,.07
+Fillmore,2016,totcost_any,65.17
+Fillmore,2016,totcost_ccc,179.89
+Fillmore,2016,totcost_hr,284.83
+Fillmore,2016,totcost_public,63.85
+Fillmore,2016,quality_premium,13.4
 Fillmore,2017,adj_supply_any,.46
 Fillmore,2017,adj_supply_ccc,.16
 Fillmore,2017,adj_supply_hr,.03
@@ -1484,15 +1484,15 @@ Freeborn,2015,totcost_ccc,179.66
 Freeborn,2015,totcost_hr,207.62
 Freeborn,2015,totcost_public,14.23
 Freeborn,2015,quality_premium,1.71
-Freeborn,2016,adj_supply_any,.43
+Freeborn,2016,adj_supply_any,.25
 Freeborn,2016,adj_supply_ccc,.1
-Freeborn,2016,adj_supply_hr,.05
-Freeborn,2016,adj_supply_public,.04
-Freeborn,2016,totcost_any,66.67
-Freeborn,2016,totcost_ccc,187.55
-Freeborn,2016,totcost_hr,85.3
-Freeborn,2016,totcost_public,23.68
-Freeborn,2016,quality_premium,1.42
+Freeborn,2016,adj_supply_hr,.04
+Freeborn,2016,adj_supply_public,.03
+Freeborn,2016,totcost_any,85.95999999999999
+Freeborn,2016,totcost_ccc,150.46
+Freeborn,2016,totcost_hr,107.03
+Freeborn,2016,totcost_public,30.05
+Freeborn,2016,quality_premium,1.69
 Freeborn,2017,adj_supply_any,.31
 Freeborn,2017,adj_supply_ccc,.11
 Freeborn,2017,adj_supply_hr,.14
@@ -1547,15 +1547,15 @@ Goodhue,2015,totcost_ccc,174.33
 Goodhue,2015,totcost_hr,214.45
 Goodhue,2015,totcost_public,10.21
 Goodhue,2015,quality_premium,1.54
-Goodhue,2016,adj_supply_any,.5
-Goodhue,2016,adj_supply_ccc,.1
-Goodhue,2016,adj_supply_hr,.09
-Goodhue,2016,adj_supply_public,.05
-Goodhue,2016,totcost_any,109.45
-Goodhue,2016,totcost_ccc,192.36
-Goodhue,2016,totcost_hr,221.01
-Goodhue,2016,totcost_public,13.22
-Goodhue,2016,quality_premium,2.29
+Goodhue,2016,adj_supply_any,.22
+Goodhue,2016,adj_supply_ccc,.05
+Goodhue,2016,adj_supply_hr,.03
+Goodhue,2016,adj_supply_public,.02
+Goodhue,2016,totcost_any,121.54
+Goodhue,2016,totcost_ccc,180.65
+Goodhue,2016,totcost_hr,196.19
+Goodhue,2016,totcost_public,90.34
+Goodhue,2016,quality_premium,1.71
 Goodhue,2017,adj_supply_any,.31
 Goodhue,2017,adj_supply_ccc,.08
 Goodhue,2017,adj_supply_hr,.1
@@ -1610,15 +1610,15 @@ Grant,2015,totcost_ccc,190.95
 Grant,2015,totcost_hr,138.43
 Grant,2015,totcost_public,18.25
 Grant,2015,quality_premium,1.21
-Grant,2016,adj_supply_any,.59
+Grant,2016,adj_supply_any,.1
 Grant,2016,adj_supply_ccc,0
-Grant,2016,adj_supply_hr,.05
-Grant,2016,adj_supply_public,.23
-Grant,2016,totcost_any,52.5
-Grant,2016,totcost_ccc,590.84
-Grant,2016,totcost_hr,73.06
-Grant,2016,totcost_public,16.47
-Grant,2016,quality_premium,.88
+Grant,2016,adj_supply_hr,
+Grant,2016,adj_supply_public,.08
+Grant,2016,totcost_any,84.11
+Grant,2016,totcost_ccc,298.27
+Grant,2016,totcost_hr,
+Grant,2016,totcost_public,52.99
+Grant,2016,quality_premium,
 Grant,2017,adj_supply_any,.36
 Grant,2017,adj_supply_ccc,0
 Grant,2017,adj_supply_hr,0
@@ -1673,14 +1673,14 @@ Hennepin,2015,totcost_ccc,270.52
 Hennepin,2015,totcost_hr,290.7
 Hennepin,2015,totcost_public,8.220000000000001
 Hennepin,2015,quality_premium,1.3
-Hennepin,2016,adj_supply_any,.54
-Hennepin,2016,adj_supply_ccc,.4
-Hennepin,2016,adj_supply_hr,.18
-Hennepin,2016,adj_supply_public,.04
-Hennepin,2016,totcost_any,242.38
-Hennepin,2016,totcost_ccc,284.88
-Hennepin,2016,totcost_hr,300.13
-Hennepin,2016,totcost_public,7.86
+Hennepin,2016,adj_supply_any,.39
+Hennepin,2016,adj_supply_ccc,.29
+Hennepin,2016,adj_supply_hr,.12
+Hennepin,2016,adj_supply_public,.03
+Hennepin,2016,totcost_any,238.66
+Hennepin,2016,totcost_ccc,280.74
+Hennepin,2016,totcost_hr,296.86
+Hennepin,2016,totcost_public,10.02
 Hennepin,2016,quality_premium,1.27
 Hennepin,2017,adj_supply_any,.46
 Hennepin,2017,adj_supply_ccc,.35
@@ -1736,15 +1736,15 @@ Houston,2015,totcost_ccc,177.83
 Houston,2015,totcost_hr,181.56
 Houston,2015,totcost_public,13.11
 Houston,2015,quality_premium,1.52
-Houston,2016,adj_supply_any,.79
-Houston,2016,adj_supply_ccc,.1
-Houston,2016,adj_supply_hr,.28
-Houston,2016,adj_supply_public,.14
-Houston,2016,totcost_any,67.09
-Houston,2016,totcost_ccc,226.44
-Houston,2016,totcost_hr,157.39
-Houston,2016,totcost_public,36.31
-Houston,2016,quality_premium,2.71
+Houston,2016,adj_supply_any,.23
+Houston,2016,adj_supply_ccc,0
+Houston,2016,adj_supply_hr,0
+Houston,2016,adj_supply_public,.03
+Houston,2016,totcost_any,69.41
+Houston,2016,totcost_ccc,205.36
+Houston,2016,totcost_hr,470.68
+Houston,2016,totcost_public,231.5
+Houston,2016,quality_premium,8.19
 Houston,2017,adj_supply_any,.51
 Houston,2017,adj_supply_ccc,.07
 Houston,2017,adj_supply_hr,.13
@@ -1799,15 +1799,15 @@ Hubbard,2015,totcost_ccc,175.25
 Hubbard,2015,totcost_hr,155.59
 Hubbard,2015,totcost_public,27.93
 Hubbard,2015,quality_premium,1.29
-Hubbard,2016,adj_supply_any,.47
-Hubbard,2016,adj_supply_ccc,.07
-Hubbard,2016,adj_supply_hr,.14
+Hubbard,2016,adj_supply_any,.14
+Hubbard,2016,adj_supply_ccc,.04
+Hubbard,2016,adj_supply_hr,.08
 Hubbard,2016,adj_supply_public,.02
-Hubbard,2016,totcost_any,78.25
-Hubbard,2016,totcost_ccc,285.79
-Hubbard,2016,totcost_hr,194.29
-Hubbard,2016,totcost_public,185.33
-Hubbard,2016,quality_premium,2.92
+Hubbard,2016,totcost_any,108.17
+Hubbard,2016,totcost_ccc,168.57
+Hubbard,2016,totcost_hr,145.11
+Hubbard,2016,totcost_public,180.09
+Hubbard,2016,quality_premium,2.25
 Hubbard,2017,adj_supply_any,.36
 Hubbard,2017,adj_supply_ccc,.08
 Hubbard,2017,adj_supply_hr,.13
@@ -1862,15 +1862,15 @@ Isanti,2015,totcost_ccc,198.05
 Isanti,2015,totcost_hr,187.93
 Isanti,2015,totcost_public,13.22
 Isanti,2015,quality_premium,1.23
-Isanti,2016,adj_supply_any,.35
-Isanti,2016,adj_supply_ccc,.17
-Isanti,2016,adj_supply_hr,.09
-Isanti,2016,adj_supply_public,.03
-Isanti,2016,totcost_any,140.26
-Isanti,2016,totcost_ccc,224.55
-Isanti,2016,totcost_hr,184.69
-Isanti,2016,totcost_public,23.64
-Isanti,2016,quality_premium,1.38
+Isanti,2016,adj_supply_any,.18
+Isanti,2016,adj_supply_ccc,.09
+Isanti,2016,adj_supply_hr,.07
+Isanti,2016,adj_supply_public,.02
+Isanti,2016,totcost_any,146.09
+Isanti,2016,totcost_ccc,197.5
+Isanti,2016,totcost_hr,173.97
+Isanti,2016,totcost_public,22.79
+Isanti,2016,quality_premium,1.1
 Isanti,2017,adj_supply_any,.27
 Isanti,2017,adj_supply_ccc,.17
 Isanti,2017,adj_supply_hr,.1
@@ -1925,15 +1925,15 @@ Itasca,2015,totcost_ccc,134.23
 Itasca,2015,totcost_hr,144.63
 Itasca,2015,totcost_public,14.79
 Itasca,2015,quality_premium,1.17
-Itasca,2016,adj_supply_any,.51
-Itasca,2016,adj_supply_ccc,.09
-Itasca,2016,adj_supply_hr,.15
-Itasca,2016,adj_supply_public,.15
-Itasca,2016,totcost_any,56.09
-Itasca,2016,totcost_ccc,103.94
-Itasca,2016,totcost_hr,104.51
-Itasca,2016,totcost_public,49.82
-Itasca,2016,quality_premium,1.87
+Itasca,2016,adj_supply_any,.14
+Itasca,2016,adj_supply_ccc,.05
+Itasca,2016,adj_supply_hr,.06
+Itasca,2016,adj_supply_public,.04
+Itasca,2016,totcost_any,72.74
+Itasca,2016,totcost_ccc,116.15
+Itasca,2016,totcost_hr,127.84
+Itasca,2016,totcost_public,41.52
+Itasca,2016,quality_premium,2.01
 Itasca,2017,adj_supply_any,.34
 Itasca,2017,adj_supply_ccc,.09
 Itasca,2017,adj_supply_hr,.15
@@ -1988,15 +1988,15 @@ Jackson,2015,totcost_ccc,127.57
 Jackson,2015,totcost_hr,161.31
 Jackson,2015,totcost_public,15.49
 Jackson,2015,quality_premium,1.44
-Jackson,2016,adj_supply_any,.77
-Jackson,2016,adj_supply_ccc,.16
-Jackson,2016,adj_supply_hr,.03
-Jackson,2016,adj_supply_public,.17
-Jackson,2016,totcost_any,65.04000000000001
-Jackson,2016,totcost_ccc,199.85
-Jackson,2016,totcost_hr,84.83
-Jackson,2016,totcost_public,38.37
-Jackson,2016,quality_premium,1.81
+Jackson,2016,adj_supply_any,.21
+Jackson,2016,adj_supply_ccc,0
+Jackson,2016,adj_supply_hr,
+Jackson,2016,adj_supply_public,.07
+Jackson,2016,totcost_any,57.48
+Jackson,2016,totcost_ccc,358.36
+Jackson,2016,totcost_hr,
+Jackson,2016,totcost_public,29.91
+Jackson,2016,quality_premium,
 Jackson,2017,adj_supply_any,.5600000000000001
 Jackson,2017,adj_supply_ccc,.16
 Jackson,2017,adj_supply_hr,.06
@@ -2051,15 +2051,15 @@ Kanabec,2015,totcost_ccc,168.36
 Kanabec,2015,totcost_hr,157.67
 Kanabec,2015,totcost_public,15.81
 Kanabec,2015,quality_premium,1.27
-Kanabec,2016,adj_supply_any,1.1
-Kanabec,2016,adj_supply_ccc,.12
-Kanabec,2016,adj_supply_hr,.07
-Kanabec,2016,adj_supply_public,.55
-Kanabec,2016,totcost_any,62.97
-Kanabec,2016,totcost_ccc,214.9
-Kanabec,2016,totcost_hr,120.82
-Kanabec,2016,totcost_public,25.74
-Kanabec,2016,quality_premium,1.52
+Kanabec,2016,adj_supply_any,.21
+Kanabec,2016,adj_supply_ccc,.04
+Kanabec,2016,adj_supply_hr,.03
+Kanabec,2016,adj_supply_public,0
+Kanabec,2016,totcost_any,100.26
+Kanabec,2016,totcost_ccc,175.81
+Kanabec,2016,totcost_hr,140.04
+Kanabec,2016,totcost_public,178.91
+Kanabec,2016,quality_premium,1.61
 Kanabec,2017,adj_supply_any,.83
 Kanabec,2017,adj_supply_ccc,.04
 Kanabec,2017,adj_supply_hr,.09
@@ -2114,15 +2114,15 @@ Kandiyohi,2015,totcost_ccc,172.84
 Kandiyohi,2015,totcost_hr,159.01
 Kandiyohi,2015,totcost_public,9.119999999999999
 Kandiyohi,2015,quality_premium,1.39
-Kandiyohi,2016,adj_supply_any,.49
-Kandiyohi,2016,adj_supply_ccc,.1
-Kandiyohi,2016,adj_supply_hr,.09
-Kandiyohi,2016,adj_supply_public,.07
-Kandiyohi,2016,totcost_any,71.84
-Kandiyohi,2016,totcost_ccc,209.76
-Kandiyohi,2016,totcost_hr,148.23
-Kandiyohi,2016,totcost_public,10.74
-Kandiyohi,2016,quality_premium,2.89
+Kandiyohi,2016,adj_supply_any,.2
+Kandiyohi,2016,adj_supply_ccc,.07
+Kandiyohi,2016,adj_supply_hr,.05
+Kandiyohi,2016,adj_supply_public,.04
+Kandiyohi,2016,totcost_any,79.40000000000001
+Kandiyohi,2016,totcost_ccc,188.11
+Kandiyohi,2016,totcost_hr,185.83
+Kandiyohi,2016,totcost_public,14.3
+Kandiyohi,2016,quality_premium,2.53
 Kandiyohi,2017,adj_supply_any,.38
 Kandiyohi,2017,adj_supply_ccc,.1
 Kandiyohi,2017,adj_supply_hr,.12
@@ -2177,15 +2177,15 @@ Kittson,2015,totcost_ccc,244.97
 Kittson,2015,totcost_hr,300.74
 Kittson,2015,totcost_public,23.72
 Kittson,2015,quality_premium,2.57
-Kittson,2016,adj_supply_any,.69
+Kittson,2016,adj_supply_any,.26
 Kittson,2016,adj_supply_ccc,0
 Kittson,2016,adj_supply_hr,0
-Kittson,2016,adj_supply_public,.21
-Kittson,2016,totcost_any,47.9
-Kittson,2016,totcost_ccc,1035.09
+Kittson,2016,adj_supply_public,.04
+Kittson,2016,totcost_any,44.21
+Kittson,2016,totcost_ccc,954.4500000000001
 Kittson,2016,totcost_hr,1045.54
-Kittson,2016,totcost_public,87.31
-Kittson,2016,quality_premium,19.75
+Kittson,2016,totcost_public,449.48
+Kittson,2016,quality_premium,13.61
 Kittson,2017,adj_supply_any,.42
 Kittson,2017,adj_supply_ccc,0
 Kittson,2017,adj_supply_hr,
@@ -2240,15 +2240,15 @@ Koochiching,2015,totcost_ccc,298.56
 Koochiching,2015,totcost_hr,292.2
 Koochiching,2015,totcost_public,10.17
 Koochiching,2015,quality_premium,2.52
-Koochiching,2016,adj_supply_any,.52
+Koochiching,2016,adj_supply_any,.22
 Koochiching,2016,adj_supply_ccc,0
 Koochiching,2016,adj_supply_hr,0
-Koochiching,2016,adj_supply_public,.19
-Koochiching,2016,totcost_any,34.55
-Koochiching,2016,totcost_ccc,811.25
-Koochiching,2016,totcost_hr,428.28
-Koochiching,2016,totcost_public,16.17
-Koochiching,2016,quality_premium,3.68
+Koochiching,2016,adj_supply_public,.12
+Koochiching,2016,totcost_any,27.71
+Koochiching,2016,totcost_ccc,299.3
+Koochiching,2016,totcost_hr,336.97
+Koochiching,2016,totcost_public,11.24
+Koochiching,2016,quality_premium,1.2
 Koochiching,2017,adj_supply_any,.29
 Koochiching,2017,adj_supply_ccc,0
 Koochiching,2017,adj_supply_hr,.02
@@ -2303,15 +2303,15 @@ Lac qui Parle,2015,totcost_ccc,167.58
 Lac qui Parle,2015,totcost_hr,144.18
 Lac qui Parle,2015,totcost_public,17.97
 Lac qui Parle,2015,quality_premium,1.15
-Lac qui Parle,2016,adj_supply_any,.52
-Lac qui Parle,2016,adj_supply_ccc,.02
+Lac qui Parle,2016,adj_supply_any,.17
+Lac qui Parle,2016,adj_supply_ccc,0
 Lac qui Parle,2016,adj_supply_hr,0
-Lac qui Parle,2016,adj_supply_public,.17
-Lac qui Parle,2016,totcost_any,57.38
-Lac qui Parle,2016,totcost_ccc,314.63
-Lac qui Parle,2016,totcost_hr,116.05
-Lac qui Parle,2016,totcost_public,89.69
-Lac qui Parle,2016,quality_premium,1.67
+Lac qui Parle,2016,adj_supply_public,.04
+Lac qui Parle,2016,totcost_any,40.02
+Lac qui Parle,2016,totcost_ccc,288.27
+Lac qui Parle,2016,totcost_hr,236.53
+Lac qui Parle,2016,totcost_public,30.64
+Lac qui Parle,2016,quality_premium,10.22
 Lac qui Parle,2017,adj_supply_any,.34
 Lac qui Parle,2017,adj_supply_ccc,.02
 Lac qui Parle,2017,adj_supply_hr,0
@@ -2366,15 +2366,15 @@ Lake,2015,totcost_ccc,260.43
 Lake,2015,totcost_hr,177.92
 Lake,2015,totcost_public,9.32
 Lake,2015,quality_premium,1.4
-Lake,2016,adj_supply_any,.24
+Lake,2016,adj_supply_any,.09
 Lake,2016,adj_supply_ccc,0
 Lake,2016,adj_supply_hr,0
 Lake,2016,adj_supply_public,.05
-Lake,2016,totcost_any,44.71
-Lake,2016,totcost_ccc,518.83
-Lake,2016,totcost_hr,517.87
-Lake,2016,totcost_public,23.26
-Lake,2016,quality_premium,9.92
+Lake,2016,totcost_any,24.2
+Lake,2016,totcost_ccc,257.41
+Lake,2016,totcost_hr,257.34
+Lake,2016,totcost_public,17.37
+Lake,2016,quality_premium,9.359999999999999
 Lake,2017,adj_supply_any,.19
 Lake,2017,adj_supply_ccc,0
 Lake,2017,adj_supply_hr,.01
@@ -2429,15 +2429,15 @@ Lake of the Woods,2015,totcost_ccc,385.25
 Lake of the Woods,2015,totcost_hr,116.31
 Lake of the Woods,2015,totcost_public,25.69
 Lake of the Woods,2015,quality_premium,1.03
-Lake of the Woods,2016,adj_supply_any,.44
+Lake of the Woods,2016,adj_supply_any,.08
 Lake of the Woods,2016,adj_supply_ccc,0
-Lake of the Woods,2016,adj_supply_hr,.05
-Lake of the Woods,2016,adj_supply_public,.16
-Lake of the Woods,2016,totcost_any,54.59
-Lake of the Woods,2016,totcost_ccc,708.36
-Lake of the Woods,2016,totcost_hr,92.29000000000001
-Lake of the Woods,2016,totcost_public,157.55
-Lake of the Woods,2016,quality_premium,1.12
+Lake of the Woods,2016,adj_supply_hr,0
+Lake of the Woods,2016,adj_supply_public,.08
+Lake of the Woods,2016,totcost_any,31.67
+Lake of the Woods,2016,totcost_ccc,433.06
+Lake of the Woods,2016,totcost_hr,83.87000000000001
+Lake of the Woods,2016,totcost_public,101.69
+Lake of the Woods,2016,quality_premium,.31
 Lake of the Woods,2017,adj_supply_any,.27
 Lake of the Woods,2017,adj_supply_ccc,0
 Lake of the Woods,2017,adj_supply_hr,.05
@@ -2492,15 +2492,15 @@ Le Sueur,2015,totcost_ccc,218.21
 Le Sueur,2015,totcost_hr,171.52
 Le Sueur,2015,totcost_public,8.92
 Le Sueur,2015,quality_premium,1.29
-Le Sueur,2016,adj_supply_any,.69
-Le Sueur,2016,adj_supply_ccc,.08
-Le Sueur,2016,adj_supply_hr,.08
-Le Sueur,2016,adj_supply_public,.1
-Le Sueur,2016,totcost_any,92.69
-Le Sueur,2016,totcost_ccc,236.73
-Le Sueur,2016,totcost_hr,173.85
-Le Sueur,2016,totcost_public,10.48
-Le Sueur,2016,quality_premium,2.25
+Le Sueur,2016,adj_supply_any,.24
+Le Sueur,2016,adj_supply_ccc,.05
+Le Sueur,2016,adj_supply_hr,.11
+Le Sueur,2016,adj_supply_public,.04
+Le Sueur,2016,totcost_any,111.66
+Le Sueur,2016,totcost_ccc,220.48
+Le Sueur,2016,totcost_hr,191.83
+Le Sueur,2016,totcost_public,51.93
+Le Sueur,2016,quality_premium,3.08
 Le Sueur,2017,adj_supply_any,.55
 Le Sueur,2017,adj_supply_ccc,.09
 Le Sueur,2017,adj_supply_hr,.11
@@ -2555,15 +2555,15 @@ Lincoln,2015,totcost_ccc,186.07
 Lincoln,2015,totcost_hr,204.63
 Lincoln,2015,totcost_public,14.29
 Lincoln,2015,quality_premium,2.05
-Lincoln,2016,adj_supply_any,.75
+Lincoln,2016,adj_supply_any,.26
 Lincoln,2016,adj_supply_ccc,0
 Lincoln,2016,adj_supply_hr,0
-Lincoln,2016,adj_supply_public,.18
-Lincoln,2016,totcost_any,29.04
-Lincoln,2016,totcost_ccc,605.18
-Lincoln,2016,totcost_hr,211.2
-Lincoln,2016,totcost_public,27.23
-Lincoln,2016,quality_premium,3.8
+Lincoln,2016,adj_supply_public,.08
+Lincoln,2016,totcost_any,38.09
+Lincoln,2016,totcost_ccc,144.3
+Lincoln,2016,totcost_hr,517.35
+Lincoln,2016,totcost_public,186.84
+Lincoln,2016,quality_premium,9.199999999999999
 Lincoln,2017,adj_supply_any,.57
 Lincoln,2017,adj_supply_ccc,0
 Lincoln,2017,adj_supply_hr,.06
@@ -2618,15 +2618,15 @@ Lyon,2015,totcost_ccc,131.81
 Lyon,2015,totcost_hr,139.13
 Lyon,2015,totcost_public,7.56
 Lyon,2015,quality_premium,1.23
-Lyon,2016,adj_supply_any,.86
-Lyon,2016,adj_supply_ccc,.15
-Lyon,2016,adj_supply_hr,.06
-Lyon,2016,adj_supply_public,.12
-Lyon,2016,totcost_any,54.61
-Lyon,2016,totcost_ccc,187.35
-Lyon,2016,totcost_hr,80.34
-Lyon,2016,totcost_public,8.93
-Lyon,2016,quality_premium,1.39
+Lyon,2016,adj_supply_any,.32
+Lyon,2016,adj_supply_ccc,.1
+Lyon,2016,adj_supply_hr,.27
+Lyon,2016,adj_supply_public,.03
+Lyon,2016,totcost_any,62.41
+Lyon,2016,totcost_ccc,70.06
+Lyon,2016,totcost_hr,93.74
+Lyon,2016,totcost_public,40.35
+Lyon,2016,quality_premium,1.98
 Lyon,2017,adj_supply_any,.62
 Lyon,2017,adj_supply_ccc,.13
 Lyon,2017,adj_supply_hr,.07
@@ -2681,15 +2681,15 @@ Mahnomen,2015,totcost_ccc,254.78
 Mahnomen,2015,totcost_hr,145.77
 Mahnomen,2015,totcost_public,12.6
 Mahnomen,2015,quality_premium,1.29
-Mahnomen,2016,adj_supply_any,.44
+Mahnomen,2016,adj_supply_any,.17
 Mahnomen,2016,adj_supply_ccc,0
-Mahnomen,2016,adj_supply_hr,.15
-Mahnomen,2016,adj_supply_public,.18
-Mahnomen,2016,totcost_any,38.55
-Mahnomen,2016,totcost_ccc,486.34
-Mahnomen,2016,totcost_hr,265.47
-Mahnomen,2016,totcost_public,23.61
-Mahnomen,2016,quality_premium,4.31
+Mahnomen,2016,adj_supply_hr,.05
+Mahnomen,2016,adj_supply_public,.06
+Mahnomen,2016,totcost_any,53.6
+Mahnomen,2016,totcost_ccc,180.41
+Mahnomen,2016,totcost_hr,184.54
+Mahnomen,2016,totcost_public,174.23
+Mahnomen,2016,quality_premium,1.99
 Mahnomen,2017,adj_supply_any,.38
 Mahnomen,2017,adj_supply_ccc,0
 Mahnomen,2017,adj_supply_hr,.13
@@ -2744,15 +2744,15 @@ Marshall,2015,totcost_ccc,175.6
 Marshall,2015,totcost_hr,223.71
 Marshall,2015,totcost_public,35.23
 Marshall,2015,quality_premium,1.87
-Marshall,2016,adj_supply_any,.5600000000000001
-Marshall,2016,adj_supply_ccc,.05
-Marshall,2016,adj_supply_hr,.02
-Marshall,2016,adj_supply_public,.13
-Marshall,2016,totcost_any,67.43000000000001
-Marshall,2016,totcost_ccc,716.7000000000001
-Marshall,2016,totcost_hr,672.21
-Marshall,2016,totcost_public,78.87000000000001
-Marshall,2016,quality_premium,9.35
+Marshall,2016,adj_supply_any,.18
+Marshall,2016,adj_supply_ccc,0
+Marshall,2016,adj_supply_hr,0
+Marshall,2016,adj_supply_public,.08
+Marshall,2016,totcost_any,61.68
+Marshall,2016,totcost_ccc,649.65
+Marshall,2016,totcost_hr,913.53
+Marshall,2016,totcost_public,40.23
+Marshall,2016,quality_premium,8.23
 Marshall,2017,adj_supply_any,.43
 Marshall,2017,adj_supply_ccc,.05
 Marshall,2017,adj_supply_hr,.06
@@ -2807,15 +2807,15 @@ Martin,2015,totcost_ccc,159
 Martin,2015,totcost_hr,149.83
 Martin,2015,totcost_public,12.03
 Martin,2015,quality_premium,1.35
-Martin,2016,adj_supply_any,.91
-Martin,2016,adj_supply_ccc,.15
+Martin,2016,adj_supply_any,.21
+Martin,2016,adj_supply_ccc,.02
 Martin,2016,adj_supply_hr,0
-Martin,2016,adj_supply_public,.11
-Martin,2016,totcost_any,61.87
-Martin,2016,totcost_ccc,229.07
-Martin,2016,totcost_hr,465.89
-Martin,2016,totcost_public,43.17
-Martin,2016,quality_premium,11.44
+Martin,2016,adj_supply_public,0
+Martin,2016,totcost_any,46.39
+Martin,2016,totcost_ccc,147.68
+Martin,2016,totcost_hr,209.45
+Martin,2016,totcost_public,149.31
+Martin,2016,quality_premium,4.39
 Martin,2017,adj_supply_any,.65
 Martin,2017,adj_supply_ccc,0
 Martin,2017,adj_supply_hr,.01
@@ -2870,15 +2870,15 @@ McLeod,2015,totcost_ccc,199.68
 McLeod,2015,totcost_hr,151.74
 McLeod,2015,totcost_public,10
 McLeod,2015,quality_premium,1.19
-McLeod,2016,adj_supply_any,.6800000000000001
-McLeod,2016,adj_supply_ccc,.14
-McLeod,2016,adj_supply_hr,.04
-McLeod,2016,adj_supply_public,.09
-McLeod,2016,totcost_any,89.8
-McLeod,2016,totcost_ccc,201.76
-McLeod,2016,totcost_hr,141.94
-McLeod,2016,totcost_public,9.300000000000001
-McLeod,2016,quality_premium,1.72
+McLeod,2016,adj_supply_any,.26
+McLeod,2016,adj_supply_ccc,.05
+McLeod,2016,adj_supply_hr,.03
+McLeod,2016,adj_supply_public,.03
+McLeod,2016,totcost_any,81.18000000000001
+McLeod,2016,totcost_ccc,163.01
+McLeod,2016,totcost_hr,156.47
+McLeod,2016,totcost_public,43.35
+McLeod,2016,quality_premium,2.15
 McLeod,2017,adj_supply_any,.53
 McLeod,2017,adj_supply_ccc,.12
 McLeod,2017,adj_supply_hr,.08
@@ -2933,15 +2933,15 @@ Meeker,2015,totcost_ccc,186.71
 Meeker,2015,totcost_hr,137.82
 Meeker,2015,totcost_public,13.53
 Meeker,2015,quality_premium,1.09
-Meeker,2016,adj_supply_any,.47
-Meeker,2016,adj_supply_ccc,.13
-Meeker,2016,adj_supply_hr,.11
-Meeker,2016,adj_supply_public,.07
-Meeker,2016,totcost_any,83.5
-Meeker,2016,totcost_ccc,272.35
-Meeker,2016,totcost_hr,196.49
-Meeker,2016,totcost_public,14.93
-Meeker,2016,quality_premium,2.76
+Meeker,2016,adj_supply_any,.19
+Meeker,2016,adj_supply_ccc,.08
+Meeker,2016,adj_supply_hr,.12
+Meeker,2016,adj_supply_public,.01
+Meeker,2016,totcost_any,100.87
+Meeker,2016,totcost_ccc,195.21
+Meeker,2016,totcost_hr,171.59
+Meeker,2016,totcost_public,101.34
+Meeker,2016,quality_premium,2.72
 Meeker,2017,adj_supply_any,.33
 Meeker,2017,adj_supply_ccc,.13
 Meeker,2017,adj_supply_hr,.15
@@ -2996,15 +2996,15 @@ Mille Lacs,2015,totcost_ccc,156.54
 Mille Lacs,2015,totcost_hr,169.95
 Mille Lacs,2015,totcost_public,15.54
 Mille Lacs,2015,quality_premium,1.41
-Mille Lacs,2016,adj_supply_any,.54
-Mille Lacs,2016,adj_supply_ccc,.26
-Mille Lacs,2016,adj_supply_hr,.06
-Mille Lacs,2016,adj_supply_public,.06
-Mille Lacs,2016,totcost_any,108.83
-Mille Lacs,2016,totcost_ccc,190.74
-Mille Lacs,2016,totcost_hr,156.42
-Mille Lacs,2016,totcost_public,37.25
-Mille Lacs,2016,quality_premium,1.7
+Mille Lacs,2016,adj_supply_any,.25
+Mille Lacs,2016,adj_supply_ccc,.12
+Mille Lacs,2016,adj_supply_hr,.05
+Mille Lacs,2016,adj_supply_public,.02
+Mille Lacs,2016,totcost_any,130.72
+Mille Lacs,2016,totcost_ccc,175.68
+Mille Lacs,2016,totcost_hr,156.39
+Mille Lacs,2016,totcost_public,127.29
+Mille Lacs,2016,quality_premium,1.47
 Mille Lacs,2017,adj_supply_any,.41
 Mille Lacs,2017,adj_supply_ccc,.23
 Mille Lacs,2017,adj_supply_hr,.1
@@ -3059,15 +3059,15 @@ Morrison,2015,totcost_ccc,173.67
 Morrison,2015,totcost_hr,155.77
 Morrison,2015,totcost_public,17.69
 Morrison,2015,quality_premium,1.37
-Morrison,2016,adj_supply_any,.55
-Morrison,2016,adj_supply_ccc,.05
-Morrison,2016,adj_supply_hr,.11
-Morrison,2016,adj_supply_public,.07
-Morrison,2016,totcost_any,76.84999999999999
-Morrison,2016,totcost_ccc,221.62
-Morrison,2016,totcost_hr,144.81
-Morrison,2016,totcost_public,44.74
-Morrison,2016,quality_premium,2.48
+Morrison,2016,adj_supply_any,.22
+Morrison,2016,adj_supply_ccc,.04
+Morrison,2016,adj_supply_hr,.08
+Morrison,2016,adj_supply_public,.02
+Morrison,2016,totcost_any,84.86
+Morrison,2016,totcost_ccc,181.86
+Morrison,2016,totcost_hr,148.15
+Morrison,2016,totcost_public,89.7
+Morrison,2016,quality_premium,2.28
 Morrison,2017,adj_supply_any,.45
 Morrison,2017,adj_supply_ccc,.06
 Morrison,2017,adj_supply_hr,.06
@@ -3122,15 +3122,15 @@ Mower,2015,totcost_ccc,150.29
 Mower,2015,totcost_hr,228.8
 Mower,2015,totcost_public,10.25
 Mower,2015,quality_premium,1.89
-Mower,2016,adj_supply_any,.41
-Mower,2016,adj_supply_ccc,.08
-Mower,2016,adj_supply_hr,.07
-Mower,2016,adj_supply_public,.07
-Mower,2016,totcost_any,55.34
-Mower,2016,totcost_ccc,149.55
-Mower,2016,totcost_hr,68.39
-Mower,2016,totcost_public,11.24
-Mower,2016,quality_premium,1.05
+Mower,2016,adj_supply_any,.14
+Mower,2016,adj_supply_ccc,.02
+Mower,2016,adj_supply_hr,0
+Mower,2016,adj_supply_public,.02
+Mower,2016,totcost_any,66.92
+Mower,2016,totcost_ccc,191.75
+Mower,2016,totcost_hr,197.84
+Mower,2016,totcost_public,18.25
+Mower,2016,quality_premium,2.86
 Mower,2017,adj_supply_any,.31
 Mower,2017,adj_supply_ccc,.08
 Mower,2017,adj_supply_hr,.06
@@ -3185,15 +3185,15 @@ Murray,2015,totcost_ccc,151.63
 Murray,2015,totcost_hr,169.43
 Murray,2015,totcost_public,24.88
 Murray,2015,quality_premium,1.48
-Murray,2016,adj_supply_any,.75
-Murray,2016,adj_supply_ccc,.15
+Murray,2016,adj_supply_any,.31
+Murray,2016,adj_supply_ccc,0
 Murray,2016,adj_supply_hr,0
 Murray,2016,adj_supply_public,.11
-Murray,2016,totcost_any,48.6
-Murray,2016,totcost_ccc,312.59
-Murray,2016,totcost_hr,529.4
-Murray,2016,totcost_public,56.12
-Murray,2016,quality_premium,11.84
+Murray,2016,totcost_any,37.81
+Murray,2016,totcost_ccc,508.15
+Murray,2016,totcost_hr,515.08
+Murray,2016,totcost_public,48.23
+Murray,2016,quality_premium,13.14
 Murray,2017,adj_supply_any,.57
 Murray,2017,adj_supply_ccc,.15
 Murray,2017,adj_supply_hr,0
@@ -3248,15 +3248,15 @@ Nicollet,2015,totcost_ccc,173.37
 Nicollet,2015,totcost_hr,132.1
 Nicollet,2015,totcost_public,8.970000000000001
 Nicollet,2015,quality_premium,.92
-Nicollet,2016,adj_supply_any,.63
-Nicollet,2016,adj_supply_ccc,.25
-Nicollet,2016,adj_supply_hr,.02
-Nicollet,2016,adj_supply_public,.05
-Nicollet,2016,totcost_any,111.25
-Nicollet,2016,totcost_ccc,188.09
-Nicollet,2016,totcost_hr,138.01
-Nicollet,2016,totcost_public,13.35
-Nicollet,2016,quality_premium,1.34
+Nicollet,2016,adj_supply_any,.24
+Nicollet,2016,adj_supply_ccc,.14
+Nicollet,2016,adj_supply_hr,0
+Nicollet,2016,adj_supply_public,0
+Nicollet,2016,totcost_any,126.62
+Nicollet,2016,totcost_ccc,180.18
+Nicollet,2016,totcost_hr,154.21
+Nicollet,2016,totcost_public,109.88
+Nicollet,2016,quality_premium,1.6
 Nicollet,2017,adj_supply_any,.51
 Nicollet,2017,adj_supply_ccc,.24
 Nicollet,2017,adj_supply_hr,.04
@@ -3311,15 +3311,15 @@ Nobles,2015,totcost_ccc,127.16
 Nobles,2015,totcost_hr,119.39
 Nobles,2015,totcost_public,12.35
 Nobles,2015,quality_premium,1.1
-Nobles,2016,adj_supply_any,.43
-Nobles,2016,adj_supply_ccc,.05
-Nobles,2016,adj_supply_hr,.04
-Nobles,2016,adj_supply_public,.13
-Nobles,2016,totcost_any,39.85
-Nobles,2016,totcost_ccc,189.94
-Nobles,2016,totcost_hr,66.95
-Nobles,2016,totcost_public,40.79
-Nobles,2016,quality_premium,1.35
+Nobles,2016,adj_supply_any,.12
+Nobles,2016,adj_supply_ccc,.02
+Nobles,2016,adj_supply_hr,0
+Nobles,2016,adj_supply_public,.05
+Nobles,2016,totcost_any,61.58
+Nobles,2016,totcost_ccc,223.29
+Nobles,2016,totcost_hr,517.49
+Nobles,2016,totcost_public,150.12
+Nobles,2016,quality_premium,11.28
 Nobles,2017,adj_supply_any,.31
 Nobles,2017,adj_supply_ccc,.05
 Nobles,2017,adj_supply_hr,.04
@@ -3374,15 +3374,15 @@ Norman,2015,totcost_ccc,198.01
 Norman,2015,totcost_hr,176.64
 Norman,2015,totcost_public,17.03
 Norman,2015,quality_premium,1.44
-Norman,2016,adj_supply_any,.78
+Norman,2016,adj_supply_any,.18
 Norman,2016,adj_supply_ccc,.08
-Norman,2016,adj_supply_hr,0
-Norman,2016,adj_supply_public,.31
-Norman,2016,totcost_any,38.36
-Norman,2016,totcost_ccc,232.57
-Norman,2016,totcost_hr,76.79000000000001
-Norman,2016,totcost_public,65.99
-Norman,2016,quality_premium,2.54
+Norman,2016,adj_supply_hr,
+Norman,2016,adj_supply_public,0
+Norman,2016,totcost_any,56.36
+Norman,2016,totcost_ccc,67.52
+Norman,2016,totcost_hr,
+Norman,2016,totcost_public,213.52
+Norman,2016,quality_premium,
 Norman,2017,adj_supply_any,.63
 Norman,2017,adj_supply_ccc,.08
 Norman,2017,adj_supply_hr,0
@@ -3437,15 +3437,15 @@ Olmsted,2015,totcost_ccc,239.26
 Olmsted,2015,totcost_hr,242.72
 Olmsted,2015,totcost_public,7.97
 Olmsted,2015,quality_premium,1.51
-Olmsted,2016,adj_supply_any,.72
-Olmsted,2016,adj_supply_ccc,.27
-Olmsted,2016,adj_supply_hr,.17
-Olmsted,2016,adj_supply_public,.1
-Olmsted,2016,totcost_any,152.58
-Olmsted,2016,totcost_ccc,245.05
-Olmsted,2016,totcost_hr,242.87
-Olmsted,2016,totcost_public,8.25
-Olmsted,2016,quality_premium,1.77
+Olmsted,2016,adj_supply_any,.33
+Olmsted,2016,adj_supply_ccc,.19
+Olmsted,2016,adj_supply_hr,.12
+Olmsted,2016,adj_supply_public,.02
+Olmsted,2016,totcost_any,176.77
+Olmsted,2016,totcost_ccc,240.63
+Olmsted,2016,totcost_hr,253.28
+Olmsted,2016,totcost_public,24.07
+Olmsted,2016,quality_premium,1.93
 Olmsted,2017,adj_supply_any,.57
 Olmsted,2017,adj_supply_ccc,.23
 Olmsted,2017,adj_supply_hr,.16
@@ -3500,15 +3500,15 @@ Otter Tail,2015,totcost_ccc,163.79
 Otter Tail,2015,totcost_hr,143.99
 Otter Tail,2015,totcost_public,14.76
 Otter Tail,2015,quality_premium,1.2
-Otter Tail,2016,adj_supply_any,.46
-Otter Tail,2016,adj_supply_ccc,.04
-Otter Tail,2016,adj_supply_hr,.02
-Otter Tail,2016,adj_supply_public,.08
-Otter Tail,2016,totcost_any,59.81
-Otter Tail,2016,totcost_ccc,270.24
-Otter Tail,2016,totcost_hr,171.46
-Otter Tail,2016,totcost_public,40.01
-Otter Tail,2016,quality_premium,2.92
+Otter Tail,2016,adj_supply_any,.14
+Otter Tail,2016,adj_supply_ccc,.02
+Otter Tail,2016,adj_supply_hr,0
+Otter Tail,2016,adj_supply_public,.02
+Otter Tail,2016,totcost_any,63.62
+Otter Tail,2016,totcost_ccc,126.1
+Otter Tail,2016,totcost_hr,178.83
+Otter Tail,2016,totcost_public,112.02
+Otter Tail,2016,quality_premium,2.8
 Otter Tail,2017,adj_supply_any,.32
 Otter Tail,2017,adj_supply_ccc,.03
 Otter Tail,2017,adj_supply_hr,.08
@@ -3563,15 +3563,15 @@ Pennington,2015,totcost_ccc,141.53
 Pennington,2015,totcost_hr,175.48
 Pennington,2015,totcost_public,13.56
 Pennington,2015,quality_premium,1.49
-Pennington,2016,adj_supply_any,.72
-Pennington,2016,adj_supply_ccc,.11
+Pennington,2016,adj_supply_any,.14
+Pennington,2016,adj_supply_ccc,0
 Pennington,2016,adj_supply_hr,.01
-Pennington,2016,adj_supply_public,.06
-Pennington,2016,totcost_any,103.29
-Pennington,2016,totcost_ccc,203.17
+Pennington,2016,adj_supply_public,.02
+Pennington,2016,totcost_any,95.64
+Pennington,2016,totcost_ccc,896.66
 Pennington,2016,totcost_hr,160.99
-Pennington,2016,totcost_public,39.2
-Pennington,2016,quality_premium,1.51
+Pennington,2016,totcost_public,33.74
+Pennington,2016,quality_premium,1.41
 Pennington,2017,adj_supply_any,.55
 Pennington,2017,adj_supply_ccc,.11
 Pennington,2017,adj_supply_hr,.01
@@ -3626,15 +3626,15 @@ Pine,2015,totcost_ccc,147.77
 Pine,2015,totcost_hr,147.49
 Pine,2015,totcost_public,18.85
 Pine,2015,quality_premium,1.11
-Pine,2016,adj_supply_any,.39
-Pine,2016,adj_supply_ccc,.05
-Pine,2016,adj_supply_hr,.09
-Pine,2016,adj_supply_public,.06
-Pine,2016,totcost_any,81.95999999999999
-Pine,2016,totcost_ccc,255.54
-Pine,2016,totcost_hr,154.69
-Pine,2016,totcost_public,35.23
-Pine,2016,quality_premium,2.47
+Pine,2016,adj_supply_any,.11
+Pine,2016,adj_supply_ccc,.02
+Pine,2016,adj_supply_hr,.03
+Pine,2016,adj_supply_public,.03
+Pine,2016,totcost_any,99.26000000000001
+Pine,2016,totcost_ccc,190.81
+Pine,2016,totcost_hr,152.06
+Pine,2016,totcost_public,100.14
+Pine,2016,quality_premium,2.09
 Pine,2017,adj_supply_any,.3
 Pine,2017,adj_supply_ccc,.02
 Pine,2017,adj_supply_hr,.05
@@ -3689,15 +3689,15 @@ Pipestone,2015,totcost_ccc,143.73
 Pipestone,2015,totcost_hr,217.33
 Pipestone,2015,totcost_public,16.01
 Pipestone,2015,quality_premium,2.01
-Pipestone,2016,adj_supply_any,.7
-Pipestone,2016,adj_supply_ccc,.07
-Pipestone,2016,adj_supply_hr,.02
-Pipestone,2016,adj_supply_public,.15
-Pipestone,2016,totcost_any,47.43
-Pipestone,2016,totcost_ccc,273.23
-Pipestone,2016,totcost_hr,146.82
-Pipestone,2016,totcost_public,14.12
-Pipestone,2016,quality_premium,3.38
+Pipestone,2016,adj_supply_any,.25
+Pipestone,2016,adj_supply_ccc,0
+Pipestone,2016,adj_supply_hr,0
+Pipestone,2016,adj_supply_public,.06
+Pipestone,2016,totcost_any,46.06
+Pipestone,2016,totcost_ccc,287.31
+Pipestone,2016,totcost_hr,573.48
+Pipestone,2016,totcost_public,32.84
+Pipestone,2016,quality_premium,15.76
 Pipestone,2017,adj_supply_any,.41
 Pipestone,2017,adj_supply_ccc,.07
 Pipestone,2017,adj_supply_hr,0
@@ -3752,15 +3752,15 @@ Polk,2015,totcost_ccc,164.5
 Polk,2015,totcost_hr,135.82
 Polk,2015,totcost_public,11.56
 Polk,2015,quality_premium,1.07
-Polk,2016,adj_supply_any,.7
-Polk,2016,adj_supply_ccc,.18
-Polk,2016,adj_supply_hr,.15
-Polk,2016,adj_supply_public,.1
-Polk,2016,totcost_any,83.88
-Polk,2016,totcost_ccc,244.32
-Polk,2016,totcost_hr,167.34
-Polk,2016,totcost_public,37.56
-Polk,2016,quality_premium,2.21
+Polk,2016,adj_supply_any,.25
+Polk,2016,adj_supply_ccc,.08
+Polk,2016,adj_supply_hr,.09
+Polk,2016,adj_supply_public,.03
+Polk,2016,totcost_any,96.34
+Polk,2016,totcost_ccc,182.14
+Polk,2016,totcost_hr,140.45
+Polk,2016,totcost_public,67.02
+Polk,2016,quality_premium,1.65
 Polk,2017,adj_supply_any,.58
 Polk,2017,adj_supply_ccc,.21
 Polk,2017,adj_supply_hr,.17
@@ -3815,15 +3815,15 @@ Pope,2015,totcost_ccc,167.26
 Pope,2015,totcost_hr,170.32
 Pope,2015,totcost_public,26.14
 Pope,2015,quality_premium,1.48
-Pope,2016,adj_supply_any,.45
+Pope,2016,adj_supply_any,.2
 Pope,2016,adj_supply_ccc,.09
 Pope,2016,adj_supply_hr,0
-Pope,2016,adj_supply_public,.05
-Pope,2016,totcost_any,66.95
-Pope,2016,totcost_ccc,235.25
-Pope,2016,totcost_hr,291.54
-Pope,2016,totcost_public,37.32
-Pope,2016,quality_premium,3.82
+Pope,2016,adj_supply_public,.02
+Pope,2016,totcost_any,88.84999999999999
+Pope,2016,totcost_ccc,173.11
+Pope,2016,totcost_hr,124.1
+Pope,2016,totcost_public,80.8
+Pope,2016,quality_premium,1.44
 Pope,2017,adj_supply_any,.37
 Pope,2017,adj_supply_ccc,.09
 Pope,2017,adj_supply_hr,0
@@ -3878,15 +3878,15 @@ Ramsey,2015,totcost_ccc,263.05
 Ramsey,2015,totcost_hr,274.98
 Ramsey,2015,totcost_public,7.76
 Ramsey,2015,quality_premium,1.36
-Ramsey,2016,adj_supply_any,.44
-Ramsey,2016,adj_supply_ccc,.26
-Ramsey,2016,adj_supply_hr,.15
-Ramsey,2016,adj_supply_public,.06
-Ramsey,2016,totcost_any,207.42
-Ramsey,2016,totcost_ccc,274.43
-Ramsey,2016,totcost_hr,278.92
-Ramsey,2016,totcost_public,7.47
-Ramsey,2016,quality_premium,1.33
+Ramsey,2016,adj_supply_any,.33
+Ramsey,2016,adj_supply_ccc,.22
+Ramsey,2016,adj_supply_hr,.13
+Ramsey,2016,adj_supply_public,.04
+Ramsey,2016,totcost_any,213.13
+Ramsey,2016,totcost_ccc,274.54
+Ramsey,2016,totcost_hr,279.64
+Ramsey,2016,totcost_public,8.33
+Ramsey,2016,quality_premium,1.32
 Ramsey,2017,adj_supply_any,.38
 Ramsey,2017,adj_supply_ccc,.25
 Ramsey,2017,adj_supply_hr,.15
@@ -3941,15 +3941,15 @@ Red Lake,2015,totcost_ccc,127.52
 Red Lake,2015,totcost_hr,141.55
 Red Lake,2015,totcost_public,10.84
 Red Lake,2015,quality_premium,1.45
-Red Lake,2016,adj_supply_any,1.62
-Red Lake,2016,adj_supply_ccc,.11
-Red Lake,2016,adj_supply_hr,.05
-Red Lake,2016,adj_supply_public,.9
-Red Lake,2016,totcost_any,51.24
-Red Lake,2016,totcost_ccc,365.72
-Red Lake,2016,totcost_hr,146.36
-Red Lake,2016,totcost_public,10.84
-Red Lake,2016,quality_premium,3.16
+Red Lake,2016,adj_supply_any,.75
+Red Lake,2016,adj_supply_ccc,0
+Red Lake,2016,adj_supply_hr,0
+Red Lake,2016,adj_supply_public,.72
+Red Lake,2016,totcost_any,16.57
+Red Lake,2016,totcost_ccc,654.46
+Red Lake,2016,totcost_hr,312.23
+Red Lake,2016,totcost_public,34.74
+Red Lake,2016,quality_premium,2.33
 Red Lake,2017,adj_supply_any,1.48
 Red Lake,2017,adj_supply_ccc,.14
 Red Lake,2017,adj_supply_hr,.06
@@ -4004,15 +4004,15 @@ Redwood,2015,totcost_ccc,158.34
 Redwood,2015,totcost_hr,145.98
 Redwood,2015,totcost_public,21.42
 Redwood,2015,quality_premium,1.37
-Redwood,2016,adj_supply_any,.55
+Redwood,2016,adj_supply_any,.11
 Redwood,2016,adj_supply_ccc,0
-Redwood,2016,adj_supply_hr,.04
-Redwood,2016,adj_supply_public,.1
-Redwood,2016,totcost_any,50.09
-Redwood,2016,totcost_ccc,421.23
-Redwood,2016,totcost_hr,174.31
-Redwood,2016,totcost_public,53.07
-Redwood,2016,quality_premium,3.7
+Redwood,2016,adj_supply_hr,.02
+Redwood,2016,adj_supply_public,0
+Redwood,2016,totcost_any,64.56999999999999
+Redwood,2016,totcost_ccc,164.49
+Redwood,2016,totcost_hr,163.61
+Redwood,2016,totcost_public,96.52
+Redwood,2016,quality_premium,3.02
 Redwood,2017,adj_supply_any,.41
 Redwood,2017,adj_supply_ccc,0
 Redwood,2017,adj_supply_hr,.03
@@ -4067,15 +4067,15 @@ Renville,2015,totcost_ccc,161.01
 Renville,2015,totcost_hr,183.29
 Renville,2015,totcost_public,13.23
 Renville,2015,quality_premium,1.6
-Renville,2016,adj_supply_any,.67
-Renville,2016,adj_supply_ccc,.14
+Renville,2016,adj_supply_any,.2
+Renville,2016,adj_supply_ccc,0
 Renville,2016,adj_supply_hr,0
-Renville,2016,adj_supply_public,.11
-Renville,2016,totcost_any,39.86
-Renville,2016,totcost_ccc,212.18
-Renville,2016,totcost_hr,231.86
-Renville,2016,totcost_public,15.54
-Renville,2016,quality_premium,7.16
+Renville,2016,adj_supply_public,.04
+Renville,2016,totcost_any,42.09
+Renville,2016,totcost_ccc,235.43
+Renville,2016,totcost_hr,201.29
+Renville,2016,totcost_public,61.99
+Renville,2016,quality_premium,5.12
 Renville,2017,adj_supply_any,.48
 Renville,2017,adj_supply_ccc,.12
 Renville,2017,adj_supply_hr,0
@@ -4130,15 +4130,15 @@ Rice,2015,totcost_ccc,175.72
 Rice,2015,totcost_hr,138.41
 Rice,2015,totcost_public,8.02
 Rice,2015,quality_premium,.94
-Rice,2016,adj_supply_any,.43
-Rice,2016,adj_supply_ccc,.12
+Rice,2016,adj_supply_any,.2
+Rice,2016,adj_supply_ccc,.06
 Rice,2016,adj_supply_hr,.03
-Rice,2016,adj_supply_public,.04
-Rice,2016,totcost_any,116.57
-Rice,2016,totcost_ccc,172.71
-Rice,2016,totcost_hr,100.44
-Rice,2016,totcost_public,8.94
-Rice,2016,quality_premium,.82
+Rice,2016,adj_supply_public,.01
+Rice,2016,totcost_any,128.99
+Rice,2016,totcost_ccc,171.26
+Rice,2016,totcost_hr,126.43
+Rice,2016,totcost_public,33.6
+Rice,2016,quality_premium,.88
 Rice,2017,adj_supply_any,.34
 Rice,2017,adj_supply_ccc,.11
 Rice,2017,adj_supply_hr,.07
@@ -4193,15 +4193,15 @@ Rock,2015,totcost_ccc,166.14
 Rock,2015,totcost_hr,170.14
 Rock,2015,totcost_public,18
 Rock,2015,quality_premium,1.64
-Rock,2016,adj_supply_any,.7
+Rock,2016,adj_supply_any,.29
 Rock,2016,adj_supply_ccc,0
 Rock,2016,adj_supply_hr,0
-Rock,2016,adj_supply_public,.06
-Rock,2016,totcost_any,55.08
-Rock,2016,totcost_ccc,560.93
-Rock,2016,totcost_hr,521.41
-Rock,2016,totcost_public,27.7
-Rock,2016,quality_premium,9.619999999999999
+Rock,2016,adj_supply_public,.04
+Rock,2016,totcost_any,50.76
+Rock,2016,totcost_ccc,564.51
+Rock,2016,totcost_hr,530.28
+Rock,2016,totcost_public,23.62
+Rock,2016,quality_premium,10.58
 Rock,2017,adj_supply_any,.36
 Rock,2017,adj_supply_ccc,0
 Rock,2017,adj_supply_hr,
@@ -4256,15 +4256,15 @@ Roseau,2015,totcost_ccc,318.66
 Roseau,2015,totcost_hr,204.83
 Roseau,2015,totcost_public,16.75
 Roseau,2015,quality_premium,1.93
-Roseau,2016,adj_supply_any,.66
+Roseau,2016,adj_supply_any,.18
 Roseau,2016,adj_supply_ccc,0
-Roseau,2016,adj_supply_hr,.02
-Roseau,2016,adj_supply_public,.09
-Roseau,2016,totcost_any,54.89
-Roseau,2016,totcost_ccc,1041.86
-Roseau,2016,totcost_hr,631.04
-Roseau,2016,totcost_public,72.02
-Roseau,2016,quality_premium,11.77
+Roseau,2016,adj_supply_hr,.01
+Roseau,2016,adj_supply_public,.01
+Roseau,2016,totcost_any,58.49
+Roseau,2016,totcost_ccc,835.84
+Roseau,2016,totcost_hr,622.03
+Roseau,2016,totcost_public,384.65
+Roseau,2016,quality_premium,11.88
 Roseau,2017,adj_supply_any,.41
 Roseau,2017,adj_supply_ccc,0
 Roseau,2017,adj_supply_hr,.04
@@ -4319,15 +4319,15 @@ Scott,2015,totcost_ccc,266.46
 Scott,2015,totcost_hr,273.6
 Scott,2015,totcost_public,10.56
 Scott,2015,quality_premium,1.45
-Scott,2016,adj_supply_any,.53
-Scott,2016,adj_supply_ccc,.2
-Scott,2016,adj_supply_hr,.07
-Scott,2016,adj_supply_public,.02
-Scott,2016,totcost_any,198.21
-Scott,2016,totcost_ccc,269.83
-Scott,2016,totcost_hr,280.53
-Scott,2016,totcost_public,8.699999999999999
-Scott,2016,quality_premium,1.47
+Scott,2016,adj_supply_any,.31
+Scott,2016,adj_supply_ccc,.13
+Scott,2016,adj_supply_hr,.04
+Scott,2016,adj_supply_public,.01
+Scott,2016,totcost_any,194.29
+Scott,2016,totcost_ccc,252.77
+Scott,2016,totcost_hr,238.9
+Scott,2016,totcost_public,29.96
+Scott,2016,quality_premium,1.26
 Scott,2017,adj_supply_any,.42
 Scott,2017,adj_supply_ccc,.17
 Scott,2017,adj_supply_hr,.08
@@ -4382,15 +4382,15 @@ Sherburne,2015,totcost_ccc,209.88
 Sherburne,2015,totcost_hr,230.59
 Sherburne,2015,totcost_public,11.86
 Sherburne,2015,quality_premium,1.53
-Sherburne,2016,adj_supply_any,.5
-Sherburne,2016,adj_supply_ccc,.17
-Sherburne,2016,adj_supply_hr,.03
-Sherburne,2016,adj_supply_public,.02
-Sherburne,2016,totcost_any,148.71
-Sherburne,2016,totcost_ccc,214.78
-Sherburne,2016,totcost_hr,220.52
-Sherburne,2016,totcost_public,12.37
-Sherburne,2016,quality_premium,1.5
+Sherburne,2016,adj_supply_any,.31
+Sherburne,2016,adj_supply_ccc,.13
+Sherburne,2016,adj_supply_hr,.01
+Sherburne,2016,adj_supply_public,.01
+Sherburne,2016,totcost_any,153.8
+Sherburne,2016,totcost_ccc,211.47
+Sherburne,2016,totcost_hr,172.17
+Sherburne,2016,totcost_public,30.91
+Sherburne,2016,quality_premium,1.12
 Sherburne,2017,adj_supply_any,.38
 Sherburne,2017,adj_supply_ccc,.16
 Sherburne,2017,adj_supply_hr,.04
@@ -4445,15 +4445,15 @@ Sibley,2015,totcost_ccc,221.56
 Sibley,2015,totcost_hr,214.51
 Sibley,2015,totcost_public,8.279999999999999
 Sibley,2015,quality_premium,1.83
-Sibley,2016,adj_supply_any,.61
+Sibley,2016,adj_supply_any,.16
 Sibley,2016,adj_supply_ccc,0
-Sibley,2016,adj_supply_hr,.02
-Sibley,2016,adj_supply_public,.1
-Sibley,2016,totcost_any,54.74
-Sibley,2016,totcost_ccc,339.84
-Sibley,2016,totcost_hr,91.06999999999999
-Sibley,2016,totcost_public,9.390000000000001
-Sibley,2016,quality_premium,2.01
+Sibley,2016,adj_supply_hr,0
+Sibley,2016,adj_supply_public,0
+Sibley,2016,totcost_any,54.42
+Sibley,2016,totcost_ccc,243.84
+Sibley,2016,totcost_hr,223.19
+Sibley,2016,totcost_public,141.97
+Sibley,2016,quality_premium,4.71
 Sibley,2017,adj_supply_any,.42
 Sibley,2017,adj_supply_ccc,0
 Sibley,2017,adj_supply_hr,.03
@@ -4508,15 +4508,15 @@ St. Louis,2015,totcost_ccc,163.37
 St. Louis,2015,totcost_hr,168.88
 St. Louis,2015,totcost_public,9.69
 St. Louis,2015,quality_premium,1.25
-St. Louis,2016,adj_supply_any,.5
-St. Louis,2016,adj_supply_ccc,.17
-St. Louis,2016,adj_supply_hr,.05
-St. Louis,2016,adj_supply_public,.11
-St. Louis,2016,totcost_any,65.83
-St. Louis,2016,totcost_ccc,177.63
-St. Louis,2016,totcost_hr,152.26
-St. Louis,2016,totcost_public,20.26
-St. Louis,2016,quality_premium,2.64
+St. Louis,2016,adj_supply_any,.23
+St. Louis,2016,adj_supply_ccc,.1
+St. Louis,2016,adj_supply_hr,.04
+St. Louis,2016,adj_supply_public,.06
+St. Louis,2016,totcost_any,71.31
+St. Louis,2016,totcost_ccc,127.38
+St. Louis,2016,totcost_hr,157.26
+St. Louis,2016,totcost_public,44.18
+St. Louis,2016,quality_premium,2.47
 St. Louis,2017,adj_supply_any,.44
 St. Louis,2017,adj_supply_ccc,.17
 St. Louis,2017,adj_supply_hr,.08
@@ -4571,15 +4571,15 @@ Stearns,2015,totcost_ccc,188.65
 Stearns,2015,totcost_hr,175.34
 Stearns,2015,totcost_public,11.06
 Stearns,2015,quality_premium,1.36
-Stearns,2016,adj_supply_any,.62
-Stearns,2016,adj_supply_ccc,.16
-Stearns,2016,adj_supply_hr,.08
-Stearns,2016,adj_supply_public,.05
-Stearns,2016,totcost_any,110.75
-Stearns,2016,totcost_ccc,203.39
-Stearns,2016,totcost_hr,221.76
-Stearns,2016,totcost_public,14.98
-Stearns,2016,quality_premium,2.63
+Stearns,2016,adj_supply_any,.27
+Stearns,2016,adj_supply_ccc,.1
+Stearns,2016,adj_supply_hr,.06
+Stearns,2016,adj_supply_public,.02
+Stearns,2016,totcost_any,112.45
+Stearns,2016,totcost_ccc,200.28
+Stearns,2016,totcost_hr,199.69
+Stearns,2016,totcost_public,33.08
+Stearns,2016,quality_premium,1.75
 Stearns,2017,adj_supply_any,.49
 Stearns,2017,adj_supply_ccc,.15
 Stearns,2017,adj_supply_hr,.08
@@ -4634,15 +4634,15 @@ Steele,2015,totcost_ccc,205.44
 Steele,2015,totcost_hr,211.46
 Steele,2015,totcost_public,8.130000000000001
 Steele,2015,quality_premium,1.66
-Steele,2016,adj_supply_any,.71
-Steele,2016,adj_supply_ccc,.16
-Steele,2016,adj_supply_hr,.09
-Steele,2016,adj_supply_public,.06
-Steele,2016,totcost_any,96.49
-Steele,2016,totcost_ccc,205.13
-Steele,2016,totcost_hr,216.04
-Steele,2016,totcost_public,7.69
-Steele,2016,quality_premium,2.66
+Steele,2016,adj_supply_any,.23
+Steele,2016,adj_supply_ccc,.06
+Steele,2016,adj_supply_hr,0
+Steele,2016,adj_supply_public,0
+Steele,2016,totcost_any,105.36
+Steele,2016,totcost_ccc,196.66
+Steele,2016,totcost_hr,282.04
+Steele,2016,totcost_public,78.34
+Steele,2016,quality_premium,4.36
 Steele,2017,adj_supply_any,.55
 Steele,2017,adj_supply_ccc,.15
 Steele,2017,adj_supply_hr,.1
@@ -4697,15 +4697,15 @@ Stevens,2015,totcost_ccc,127.58
 Stevens,2015,totcost_hr,127.58
 Stevens,2015,totcost_public,9.74
 Stevens,2015,quality_premium,1.26
-Stevens,2016,adj_supply_any,.73
+Stevens,2016,adj_supply_any,.33
 Stevens,2016,adj_supply_ccc,.08
 Stevens,2016,adj_supply_hr,.12
-Stevens,2016,adj_supply_public,.16
-Stevens,2016,totcost_any,34.2
-Stevens,2016,totcost_ccc,180.72
-Stevens,2016,totcost_hr,76.76000000000001
-Stevens,2016,totcost_public,22.19
-Stevens,2016,quality_premium,2.95
+Stevens,2016,adj_supply_public,.03
+Stevens,2016,totcost_any,43.85
+Stevens,2016,totcost_ccc,147.74
+Stevens,2016,totcost_hr,76.81999999999999
+Stevens,2016,totcost_public,19.92
+Stevens,2016,quality_premium,2.8
 Stevens,2017,adj_supply_any,.4
 Stevens,2017,adj_supply_ccc,.08
 Stevens,2017,adj_supply_hr,.02
@@ -4760,15 +4760,15 @@ Swift,2015,totcost_ccc,132.42
 Swift,2015,totcost_hr,121.68
 Swift,2015,totcost_public,35.35
 Swift,2015,quality_premium,1.12
-Swift,2016,adj_supply_any,.72
+Swift,2016,adj_supply_any,.28
 Swift,2016,adj_supply_ccc,.11
 Swift,2016,adj_supply_hr,0
-Swift,2016,adj_supply_public,.16
-Swift,2016,totcost_any,49.64
-Swift,2016,totcost_ccc,309.01
-Swift,2016,totcost_hr,396.22
-Swift,2016,totcost_public,86.77
-Swift,2016,quality_premium,5.58
+Swift,2016,adj_supply_public,.07
+Swift,2016,totcost_any,44.72
+Swift,2016,totcost_ccc,213.98
+Swift,2016,totcost_hr,208.67
+Swift,2016,totcost_public,30.53
+Swift,2016,quality_premium,1.71
 Swift,2017,adj_supply_any,.52
 Swift,2017,adj_supply_ccc,.11
 Swift,2017,adj_supply_hr,0
@@ -4823,15 +4823,15 @@ Todd,2015,totcost_ccc,155.34
 Todd,2015,totcost_hr,123.58
 Todd,2015,totcost_public,13.98
 Todd,2015,quality_premium,1.11
-Todd,2016,adj_supply_any,.44
-Todd,2016,adj_supply_ccc,.03
-Todd,2016,adj_supply_hr,.05
-Todd,2016,adj_supply_public,.13
-Todd,2016,totcost_any,52.82
-Todd,2016,totcost_ccc,363.76
-Todd,2016,totcost_hr,223.99
-Todd,2016,totcost_public,28.95
-Todd,2016,quality_premium,5.64
+Todd,2016,adj_supply_any,.16
+Todd,2016,adj_supply_ccc,.01
+Todd,2016,adj_supply_hr,.01
+Todd,2016,adj_supply_public,.05
+Todd,2016,totcost_any,75.16
+Todd,2016,totcost_ccc,272.24
+Todd,2016,totcost_hr,211.34
+Todd,2016,totcost_public,78.94
+Todd,2016,quality_premium,2.76
 Todd,2017,adj_supply_any,.27
 Todd,2017,adj_supply_ccc,0
 Todd,2017,adj_supply_hr,.02
@@ -4886,14 +4886,14 @@ Traverse,2015,totcost_ccc,217.32
 Traverse,2015,totcost_hr,217.32
 Traverse,2015,totcost_public,11.17
 Traverse,2015,quality_premium,1.9
-Traverse,2016,adj_supply_any,.8
+Traverse,2016,adj_supply_any,.21
 Traverse,2016,adj_supply_ccc,0
 Traverse,2016,adj_supply_hr,
-Traverse,2016,adj_supply_public,.25
-Traverse,2016,totcost_any,35.31
-Traverse,2016,totcost_ccc,400.53
+Traverse,2016,adj_supply_public,0
+Traverse,2016,totcost_any,34.42
+Traverse,2016,totcost_ccc,275.39
 Traverse,2016,totcost_hr,
-Traverse,2016,totcost_public,25.72
+Traverse,2016,totcost_public,286.32
 Traverse,2016,quality_premium,
 Traverse,2017,adj_supply_any,.74
 Traverse,2017,adj_supply_ccc,0
@@ -4949,15 +4949,15 @@ Wabasha,2015,totcost_ccc,187.32
 Wabasha,2015,totcost_hr,214.25
 Wabasha,2015,totcost_public,14.17
 Wabasha,2015,quality_premium,1.63
-Wabasha,2016,adj_supply_any,.65
-Wabasha,2016,adj_supply_ccc,.07
-Wabasha,2016,adj_supply_hr,.05
-Wabasha,2016,adj_supply_public,.07
-Wabasha,2016,totcost_any,76.70999999999999
-Wabasha,2016,totcost_ccc,181.61
-Wabasha,2016,totcost_hr,143.93
-Wabasha,2016,totcost_public,29.34
-Wabasha,2016,quality_premium,2.46
+Wabasha,2016,adj_supply_any,.21
+Wabasha,2016,adj_supply_ccc,0
+Wabasha,2016,adj_supply_hr,.02
+Wabasha,2016,adj_supply_public,.02
+Wabasha,2016,totcost_any,77.36
+Wabasha,2016,totcost_ccc,279.32
+Wabasha,2016,totcost_hr,205.31
+Wabasha,2016,totcost_public,95.63
+Wabasha,2016,quality_premium,3.16
 Wabasha,2017,adj_supply_any,.48
 Wabasha,2017,adj_supply_ccc,.07
 Wabasha,2017,adj_supply_hr,.05
@@ -5012,15 +5012,15 @@ Wadena,2015,totcost_ccc,140.47
 Wadena,2015,totcost_hr,136.01
 Wadena,2015,totcost_public,10.41
 Wadena,2015,quality_premium,1.18
-Wadena,2016,adj_supply_any,.55
-Wadena,2016,adj_supply_ccc,.04
-Wadena,2016,adj_supply_hr,.02
-Wadena,2016,adj_supply_public,.15
-Wadena,2016,totcost_any,48.68
-Wadena,2016,totcost_ccc,348.65
-Wadena,2016,totcost_hr,176.66
-Wadena,2016,totcost_public,31.9
-Wadena,2016,quality_premium,3.28
+Wadena,2016,adj_supply_any,.18
+Wadena,2016,adj_supply_ccc,0
+Wadena,2016,adj_supply_hr,.03
+Wadena,2016,adj_supply_public,.05
+Wadena,2016,totcost_any,59.8
+Wadena,2016,totcost_ccc,185.3
+Wadena,2016,totcost_hr,90.75
+Wadena,2016,totcost_public,65.11
+Wadena,2016,quality_premium,1.55
 Wadena,2017,adj_supply_any,.43
 Wadena,2017,adj_supply_ccc,.03
 Wadena,2017,adj_supply_hr,.04
@@ -5075,15 +5075,15 @@ Waseca,2015,totcost_ccc,143.61
 Waseca,2015,totcost_hr,221.79
 Waseca,2015,totcost_public,10.71
 Waseca,2015,quality_premium,1.94
-Waseca,2016,adj_supply_any,.49
-Waseca,2016,adj_supply_ccc,.07
+Waseca,2016,adj_supply_any,.16
+Waseca,2016,adj_supply_ccc,0
 Waseca,2016,adj_supply_hr,0
-Waseca,2016,adj_supply_public,.07
-Waseca,2016,totcost_any,61.99
-Waseca,2016,totcost_ccc,119.64
-Waseca,2016,totcost_hr,314.39
-Waseca,2016,totcost_public,6.01
-Waseca,2016,quality_premium,4.63
+Waseca,2016,adj_supply_public,.02
+Waseca,2016,totcost_any,55.03
+Waseca,2016,totcost_ccc,311.27
+Waseca,2016,totcost_hr,318.54
+Waseca,2016,totcost_public,14.03
+Waseca,2016,quality_premium,5.06
 Waseca,2017,adj_supply_any,.41
 Waseca,2017,adj_supply_ccc,.08
 Waseca,2017,adj_supply_hr,0
@@ -5138,15 +5138,15 @@ Washington,2015,totcost_ccc,269.53
 Washington,2015,totcost_hr,274.38
 Washington,2015,totcost_public,10.9
 Washington,2015,quality_premium,1.41
-Washington,2016,adj_supply_any,.51
-Washington,2016,adj_supply_ccc,.25
-Washington,2016,adj_supply_hr,.13
-Washington,2016,adj_supply_public,.05
-Washington,2016,totcost_any,199.28
-Washington,2016,totcost_ccc,281.28
-Washington,2016,totcost_hr,278.3
-Washington,2016,totcost_public,8.220000000000001
-Washington,2016,quality_premium,1.39
+Washington,2016,adj_supply_any,.3
+Washington,2016,adj_supply_ccc,.16
+Washington,2016,adj_supply_hr,.09
+Washington,2016,adj_supply_public,.02
+Washington,2016,totcost_any,207.49
+Washington,2016,totcost_ccc,287.85
+Washington,2016,totcost_hr,264.4
+Washington,2016,totcost_public,12.2
+Washington,2016,quality_premium,1.32
 Washington,2017,adj_supply_any,.42
 Washington,2017,adj_supply_ccc,.24
 Washington,2017,adj_supply_hr,.12
@@ -5201,15 +5201,15 @@ Watonwan,2015,totcost_ccc,87.8
 Watonwan,2015,totcost_hr,86.98
 Watonwan,2015,totcost_public,6.31
 Watonwan,2015,quality_premium,.92
-Watonwan,2016,adj_supply_any,.4
+Watonwan,2016,adj_supply_any,.27
 Watonwan,2016,adj_supply_ccc,.14
 Watonwan,2016,adj_supply_hr,.09
-Watonwan,2016,adj_supply_public,.04
-Watonwan,2016,totcost_any,36.14
-Watonwan,2016,totcost_ccc,58.33
-Watonwan,2016,totcost_hr,41.71
-Watonwan,2016,totcost_public,17.02
-Watonwan,2016,quality_premium,1.24
+Watonwan,2016,adj_supply_public,.02
+Watonwan,2016,totcost_any,36.84
+Watonwan,2016,totcost_ccc,41.13
+Watonwan,2016,totcost_hr,35.26
+Watonwan,2016,totcost_public,15.4
+Watonwan,2016,quality_premium,.97
 Watonwan,2017,adj_supply_any,.41
 Watonwan,2017,adj_supply_ccc,.16
 Watonwan,2017,adj_supply_hr,.18
@@ -5264,15 +5264,15 @@ Wilkin,2015,totcost_ccc,193.07
 Wilkin,2015,totcost_hr,185.64
 Wilkin,2015,totcost_public,12.86
 Wilkin,2015,quality_premium,1.58
-Wilkin,2016,adj_supply_any,.66
-Wilkin,2016,adj_supply_ccc,.01
+Wilkin,2016,adj_supply_any,.22
+Wilkin,2016,adj_supply_ccc,0
 Wilkin,2016,adj_supply_hr,0
-Wilkin,2016,adj_supply_public,.16
-Wilkin,2016,totcost_any,55.14
-Wilkin,2016,totcost_ccc,602.18
+Wilkin,2016,adj_supply_public,0
+Wilkin,2016,totcost_any,62.83
+Wilkin,2016,totcost_ccc,164.98
 Wilkin,2016,totcost_hr,480.13
-Wilkin,2016,totcost_public,32.83
-Wilkin,2016,quality_premium,8.76
+Wilkin,2016,totcost_public,270.51
+Wilkin,2016,quality_premium,9.33
 Wilkin,2017,adj_supply_any,.46
 Wilkin,2017,adj_supply_ccc,.01
 Wilkin,2017,adj_supply_hr,
@@ -5327,15 +5327,15 @@ Winona,2015,totcost_ccc,181.21
 Winona,2015,totcost_hr,170.96
 Winona,2015,totcost_public,12.2
 Winona,2015,quality_premium,1.36
-Winona,2016,adj_supply_any,.73
-Winona,2016,adj_supply_ccc,.19
-Winona,2016,adj_supply_hr,.11
-Winona,2016,adj_supply_public,.06
-Winona,2016,totcost_any,105.3
-Winona,2016,totcost_ccc,199.1
-Winona,2016,totcost_hr,176.65
-Winona,2016,totcost_public,20.75
-Winona,2016,quality_premium,1.63
+Winona,2016,adj_supply_any,.28
+Winona,2016,adj_supply_ccc,.12
+Winona,2016,adj_supply_hr,.12
+Winona,2016,adj_supply_public,0
+Winona,2016,totcost_any,117.41
+Winona,2016,totcost_ccc,177.18
+Winona,2016,totcost_hr,151.86
+Winona,2016,totcost_public,87.58
+Winona,2016,quality_premium,1.1
 Winona,2017,adj_supply_any,.39
 Winona,2017,adj_supply_ccc,.13
 Winona,2017,adj_supply_hr,.04
@@ -5390,15 +5390,15 @@ Wright,2015,totcost_ccc,239.17
 Wright,2015,totcost_hr,243.18
 Wright,2015,totcost_public,11.53
 Wright,2015,quality_premium,1.61
-Wright,2016,adj_supply_any,.45
-Wright,2016,adj_supply_ccc,.13
-Wright,2016,adj_supply_hr,.07
-Wright,2016,adj_supply_public,.04
-Wright,2016,totcost_any,152.15
-Wright,2016,totcost_ccc,244.7
-Wright,2016,totcost_hr,203.83
-Wright,2016,totcost_public,10.89
-Wright,2016,quality_premium,1.3
+Wright,2016,adj_supply_any,.25
+Wright,2016,adj_supply_ccc,.1
+Wright,2016,adj_supply_hr,.06
+Wright,2016,adj_supply_public,.01
+Wright,2016,totcost_any,159.83
+Wright,2016,totcost_ccc,228.56
+Wright,2016,totcost_hr,171.86
+Wright,2016,totcost_public,58.51
+Wright,2016,quality_premium,1.09
 Wright,2017,adj_supply_any,.35
 Wright,2017,adj_supply_ccc,.11
 Wright,2017,adj_supply_hr,.07
@@ -5453,15 +5453,15 @@ Yellow Medicine,2015,totcost_ccc,146.52
 Yellow Medicine,2015,totcost_hr,113.12
 Yellow Medicine,2015,totcost_public,20.89
 Yellow Medicine,2015,quality_premium,1.11
-Yellow Medicine,2016,adj_supply_any,.8
+Yellow Medicine,2016,adj_supply_any,.26
 Yellow Medicine,2016,adj_supply_ccc,.07
 Yellow Medicine,2016,adj_supply_hr,.12
-Yellow Medicine,2016,adj_supply_public,.12
-Yellow Medicine,2016,totcost_any,41.84
-Yellow Medicine,2016,totcost_ccc,302.96
-Yellow Medicine,2016,totcost_hr,86.26000000000001
-Yellow Medicine,2016,totcost_public,51.06
-Yellow Medicine,2016,quality_premium,2.65
+Yellow Medicine,2016,adj_supply_public,.06
+Yellow Medicine,2016,totcost_any,45.61
+Yellow Medicine,2016,totcost_ccc,113.52
+Yellow Medicine,2016,totcost_hr,121.65
+Yellow Medicine,2016,totcost_public,36.59
+Yellow Medicine,2016,quality_premium,2.59
 Yellow Medicine,2017,adj_supply_any,.45
 Yellow Medicine,2017,adj_supply_ccc,.05
 Yellow Medicine,2017,adj_supply_hr,.06

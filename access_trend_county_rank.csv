@@ -35,15 +35,15 @@ Aitkin,2015,rank_totcost_ccc,54
 Aitkin,2015,rank_totcost_hr,29
 Aitkin,2015,rank_totcost_public,59
 Aitkin,2015,rank_quality_premium,20
-Aitkin,2016,rank_adj_supply_any,40
-Aitkin,2016,rank_adj_supply_ccc,73
-Aitkin,2016,rank_adj_supply_hr,23
-Aitkin,2016,rank_adj_supply_public,15
-Aitkin,2016,rank_totcost_any,42
-Aitkin,2016,rank_totcost_ccc,67
-Aitkin,2016,rank_totcost_hr,35
-Aitkin,2016,rank_totcost_public,71
-Aitkin,2016,rank_quality_premium,45
+Aitkin,2016,rank_adj_supply_any,86
+Aitkin,2016,rank_adj_supply_ccc,59
+Aitkin,2016,rank_adj_supply_hr,76
+Aitkin,2016,rank_adj_supply_public,84.5
+Aitkin,2016,rank_totcost_any,67
+Aitkin,2016,rank_totcost_ccc,45
+Aitkin,2016,rank_totcost_hr,50
+Aitkin,2016,rank_totcost_public,80
+Aitkin,2016,rank_quality_premium,52
 Aitkin,2017,rank_adj_supply_any,39
 Aitkin,2017,rank_adj_supply_ccc,71
 Aitkin,2017,rank_adj_supply_hr,36
@@ -98,15 +98,15 @@ Anoka,2015,rank_totcost_ccc,77
 Anoka,2015,rank_totcost_hr,78
 Anoka,2015,rank_totcost_public,20
 Anoka,2015,rank_quality_premium,42
-Anoka,2016,rank_adj_supply_any,64
-Anoka,2016,rank_adj_supply_ccc,10
-Anoka,2016,rank_adj_supply_hr,14
-Anoka,2016,rank_adj_supply_public,81
-Anoka,2016,rank_totcost_any,81
-Anoka,2016,rank_totcost_ccc,50
-Anoka,2016,rank_totcost_hr,62
-Anoka,2016,rank_totcost_public,13
-Anoka,2016,rank_quality_premium,15
+Anoka,2016,rank_adj_supply_any,7
+Anoka,2016,rank_adj_supply_ccc,6
+Anoka,2016,rank_adj_supply_hr,7
+Anoka,2016,rank_adj_supply_public,43
+Anoka,2016,rank_totcost_any,82
+Anoka,2016,rank_totcost_ccc,63
+Anoka,2016,rank_totcost_hr,61
+Anoka,2016,rank_totcost_public,5
+Anoka,2016,rank_quality_premium,19
 Anoka,2017,rank_adj_supply_any,42
 Anoka,2017,rank_adj_supply_ccc,10
 Anoka,2017,rank_adj_supply_hr,12
@@ -161,15 +161,15 @@ Becker,2015,rank_totcost_ccc,62
 Becker,2015,rank_totcost_hr,33
 Becker,2015,rank_totcost_public,72
 Becker,2015,rank_quality_premium,25
-Becker,2016,rank_adj_supply_any,41
-Becker,2016,rank_adj_supply_ccc,60
-Becker,2016,rank_adj_supply_hr,19
-Becker,2016,rank_adj_supply_public,29
-Becker,2016,rank_totcost_any,57
-Becker,2016,rank_totcost_ccc,70
-Becker,2016,rank_totcost_hr,51
-Becker,2016,rank_totcost_public,68
-Becker,2016,rank_quality_premium,35
+Becker,2016,rank_adj_supply_any,58
+Becker,2016,rank_adj_supply_ccc,58
+Becker,2016,rank_adj_supply_hr,39
+Becker,2016,rank_adj_supply_public,8
+Becker,2016,rank_totcost_any,44
+Becker,2016,rank_totcost_ccc,39
+Becker,2016,rank_totcost_hr,19
+Becker,2016,rank_totcost_public,46
+Becker,2016,rank_quality_premium,25
 Becker,2017,rank_adj_supply_any,34
 Becker,2017,rank_adj_supply_ccc,67
 Becker,2017,rank_adj_supply_hr,23
@@ -224,15 +224,15 @@ Beltrami,2015,rank_totcost_ccc,48
 Beltrami,2015,rank_totcost_hr,38
 Beltrami,2015,rank_totcost_public,65
 Beltrami,2015,rank_quality_premium,34
-Beltrami,2016,rank_adj_supply_any,56
-Beltrami,2016,rank_adj_supply_ccc,65
-Beltrami,2016,rank_adj_supply_hr,68
-Beltrami,2016,rank_adj_supply_public,24
-Beltrami,2016,rank_totcost_any,37
-Beltrami,2016,rank_totcost_ccc,62
-Beltrami,2016,rank_totcost_hr,63
-Beltrami,2016,rank_totcost_public,63
-Beltrami,2016,rank_quality_premium,58
+Beltrami,2016,rank_adj_supply_any,67
+Beltrami,2016,rank_adj_supply_ccc,50
+Beltrami,2016,rank_adj_supply_hr,54
+Beltrami,2016,rank_adj_supply_public,17
+Beltrami,2016,rank_totcost_any,43
+Beltrami,2016,rank_totcost_ccc,19
+Beltrami,2016,rank_totcost_hr,7
+Beltrami,2016,rank_totcost_public,47
+Beltrami,2016,rank_quality_premium,9
 Beltrami,2017,rank_adj_supply_any,60
 Beltrami,2017,rank_adj_supply_ccc,59
 Beltrami,2017,rank_adj_supply_hr,69
@@ -287,15 +287,15 @@ Benton,2015,rank_totcost_ccc,64
 Benton,2015,rank_totcost_hr,60
 Benton,2015,rank_totcost_public,42
 Benton,2015,rank_quality_premium,64
-Benton,2016,rank_adj_supply_any,32
-Benton,2016,rank_adj_supply_ccc,17
-Benton,2016,rank_adj_supply_hr,38
-Benton,2016,rank_adj_supply_public,82
-Benton,2016,rank_totcost_any,73
-Benton,2016,rank_totcost_ccc,23
-Benton,2016,rank_totcost_hr,47
-Benton,2016,rank_totcost_public,36
-Benton,2016,rank_quality_premium,29
+Benton,2016,rank_adj_supply_any,30
+Benton,2016,rank_adj_supply_ccc,35
+Benton,2016,rank_adj_supply_hr,42
+Benton,2016,rank_adj_supply_public,52
+Benton,2016,rank_totcost_any,70
+Benton,2016,rank_totcost_ccc,51
+Benton,2016,rank_totcost_hr,56
+Benton,2016,rank_totcost_public,30
+Benton,2016,rank_quality_premium,42
 Benton,2017,rank_adj_supply_any,26
 Benton,2017,rank_adj_supply_ccc,24
 Benton,2017,rank_adj_supply_hr,41
@@ -350,15 +350,15 @@ Big Stone,2015,rank_totcost_ccc,11
 Big Stone,2015,rank_totcost_hr,14
 Big Stone,2015,rank_totcost_public,57
 Big Stone,2015,rank_quality_premium,30
-Big Stone,2016,rank_adj_supply_any,42
-Big Stone,2016,rank_adj_supply_ccc,76
-Big Stone,2016,rank_adj_supply_hr,83.5
-Big Stone,2016,rank_adj_supply_public,26
-Big Stone,2016,rank_totcost_any,6
-Big Stone,2016,rank_totcost_ccc,72
-Big Stone,2016,rank_totcost_hr,83
-Big Stone,2016,rank_totcost_public,76
-Big Stone,2016,rank_quality_premium,7
+Big Stone,2016,rank_adj_supply_any,75
+Big Stone,2016,rank_adj_supply_ccc,67
+Big Stone,2016,rank_adj_supply_hr,76
+Big Stone,2016,rank_adj_supply_public,84.5
+Big Stone,2016,rank_totcost_any,10
+Big Stone,2016,rank_totcost_ccc,78
+Big Stone,2016,rank_totcost_hr,79
+Big Stone,2016,rank_totcost_public,72
+Big Stone,2016,rank_quality_premium,79
 Big Stone,2017,rank_adj_supply_any,47
 Big Stone,2017,rank_adj_supply_ccc,75
 Big Stone,2017,rank_adj_supply_hr,
@@ -413,15 +413,15 @@ Blue Earth,2015,rank_totcost_ccc,33
 Blue Earth,2015,rank_totcost_hr,11
 Blue Earth,2015,rank_totcost_public,17
 Blue Earth,2015,rank_quality_premium,5
-Blue Earth,2016,rank_adj_supply_any,8
-Blue Earth,2016,rank_adj_supply_ccc,4
-Blue Earth,2016,rank_adj_supply_hr,60
-Blue Earth,2016,rank_adj_supply_public,7
-Blue Earth,2016,rank_totcost_any,66
-Blue Earth,2016,rank_totcost_ccc,8
-Blue Earth,2016,rank_totcost_hr,32
-Blue Earth,2016,rank_totcost_public,20
-Blue Earth,2016,rank_quality_premium,14
+Blue Earth,2016,rank_adj_supply_any,32
+Blue Earth,2016,rank_adj_supply_ccc,10
+Blue Earth,2016,rank_adj_supply_hr,49
+Blue Earth,2016,rank_adj_supply_public,70
+Blue Earth,2016,rank_totcost_any,75
+Blue Earth,2016,rank_totcost_ccc,30
+Blue Earth,2016,rank_totcost_hr,26
+Blue Earth,2016,rank_totcost_public,71
+Blue Earth,2016,rank_quality_premium,11
 Blue Earth,2017,rank_adj_supply_any,4
 Blue Earth,2017,rank_adj_supply_ccc,2
 Blue Earth,2017,rank_adj_supply_hr,51
@@ -476,15 +476,15 @@ Brown,2015,rank_totcost_ccc,16
 Brown,2015,rank_totcost_hr,10
 Brown,2015,rank_totcost_public,3
 Brown,2015,rank_quality_premium,15
-Brown,2016,rank_adj_supply_any,4
-Brown,2016,rank_adj_supply_ccc,24
-Brown,2016,rank_adj_supply_hr,33
-Brown,2016,rank_adj_supply_public,25
-Brown,2016,rank_totcost_any,49
-Brown,2016,rank_totcost_ccc,10
-Brown,2016,rank_totcost_hr,18
-Brown,2016,rank_totcost_public,32
-Brown,2016,rank_quality_premium,31
+Brown,2016,rank_adj_supply_any,6
+Brown,2016,rank_adj_supply_ccc,20
+Brown,2016,rank_adj_supply_hr,38
+Brown,2016,rank_adj_supply_public,21
+Brown,2016,rank_totcost_any,47
+Brown,2016,rank_totcost_ccc,18
+Brown,2016,rank_totcost_hr,14
+Brown,2016,rank_totcost_public,67
+Brown,2016,rank_quality_premium,28
 Brown,2017,rank_adj_supply_any,6
 Brown,2017,rank_adj_supply_ccc,29
 Brown,2017,rank_adj_supply_hr,27
@@ -539,15 +539,15 @@ Carlton,2015,rank_totcost_ccc,13
 Carlton,2015,rank_totcost_hr,8
 Carlton,2015,rank_totcost_public,40
 Carlton,2015,rank_quality_premium,6
-Carlton,2016,rank_adj_supply_any,45
-Carlton,2016,rank_adj_supply_ccc,11
+Carlton,2016,rank_adj_supply_any,22
+Carlton,2016,rank_adj_supply_ccc,8
 Carlton,2016,rank_adj_supply_hr,2
-Carlton,2016,rank_adj_supply_public,55
-Carlton,2016,rank_totcost_any,53
-Carlton,2016,rank_totcost_ccc,7
-Carlton,2016,rank_totcost_hr,20
-Carlton,2016,rank_totcost_public,37
-Carlton,2016,rank_quality_premium,54
+Carlton,2016,rank_adj_supply_public,59
+Carlton,2016,rank_totcost_any,42
+Carlton,2016,rank_totcost_ccc,5
+Carlton,2016,rank_totcost_hr,9
+Carlton,2016,rank_totcost_public,31
+Carlton,2016,rank_quality_premium,48
 Carlton,2017,rank_adj_supply_any,30
 Carlton,2017,rank_adj_supply_ccc,12
 Carlton,2017,rank_adj_supply_hr,1
@@ -602,15 +602,15 @@ Carver,2015,rank_totcost_ccc,76
 Carver,2015,rank_totcost_hr,79
 Carver,2015,rank_totcost_public,18
 Carver,2015,rank_quality_premium,49
-Carver,2016,rank_adj_supply_any,53
+Carver,2016,rank_adj_supply_any,3
 Carver,2016,rank_adj_supply_ccc,2
-Carver,2016,rank_adj_supply_hr,8
-Carver,2016,rank_adj_supply_public,86
+Carver,2016,rank_adj_supply_hr,4
+Carver,2016,rank_adj_supply_public,65
 Carver,2016,rank_totcost_any,85
-Carver,2016,rank_totcost_ccc,49
+Carver,2016,rank_totcost_ccc,64
 Carver,2016,rank_totcost_hr,65
-Carver,2016,rank_totcost_public,14
-Carver,2016,rank_quality_premium,10
+Carver,2016,rank_totcost_public,16
+Carver,2016,rank_quality_premium,22
 Carver,2017,rank_adj_supply_any,52
 Carver,2017,rank_adj_supply_ccc,4
 Carver,2017,rank_adj_supply_hr,11
@@ -665,15 +665,15 @@ Cass,2015,rank_totcost_ccc,58
 Cass,2015,rank_totcost_hr,50
 Cass,2015,rank_totcost_public,79
 Cass,2015,rank_quality_premium,40
-Cass,2016,rank_adj_supply_any,74
-Cass,2016,rank_adj_supply_ccc,70
-Cass,2016,rank_adj_supply_hr,22
-Cass,2016,rank_adj_supply_public,12
-Cass,2016,rank_totcost_any,40
-Cass,2016,rank_totcost_ccc,71
-Cass,2016,rank_totcost_hr,37
-Cass,2016,rank_totcost_public,73
-Cass,2016,rank_quality_premium,44
+Cass,2016,rank_adj_supply_any,70
+Cass,2016,rank_adj_supply_ccc,51
+Cass,2016,rank_adj_supply_hr,19
+Cass,2016,rank_adj_supply_public,20
+Cass,2016,rank_totcost_any,59
+Cass,2016,rank_totcost_ccc,40
+Cass,2016,rank_totcost_hr,28
+Cass,2016,rank_totcost_public,69
+Cass,2016,rank_quality_premium,20
 Cass,2017,rank_adj_supply_any,71
 Cass,2017,rank_adj_supply_ccc,66
 Cass,2017,rank_adj_supply_hr,30
@@ -728,15 +728,15 @@ Chippewa,2015,rank_totcost_ccc,3
 Chippewa,2015,rank_totcost_hr,2
 Chippewa,2015,rank_totcost_public,63
 Chippewa,2015,rank_quality_premium,4
-Chippewa,2016,rank_adj_supply_any,36
-Chippewa,2016,rank_adj_supply_ccc,49
-Chippewa,2016,rank_adj_supply_hr,43
-Chippewa,2016,rank_adj_supply_public,44
-Chippewa,2016,rank_totcost_any,33
-Chippewa,2016,rank_totcost_ccc,6
-Chippewa,2016,rank_totcost_hr,19
-Chippewa,2016,rank_totcost_public,56
-Chippewa,2016,rank_quality_premium,43
+Chippewa,2016,rank_adj_supply_any,37
+Chippewa,2016,rank_adj_supply_ccc,31
+Chippewa,2016,rank_adj_supply_hr,44
+Chippewa,2016,rank_adj_supply_public,18
+Chippewa,2016,rank_totcost_any,17
+Chippewa,2016,rank_totcost_ccc,4
+Chippewa,2016,rank_totcost_hr,34
+Chippewa,2016,rank_totcost_public,32
+Chippewa,2016,rank_quality_premium,62
 Chippewa,2017,rank_adj_supply_any,35
 Chippewa,2017,rank_adj_supply_ccc,41
 Chippewa,2017,rank_adj_supply_hr,65
@@ -791,15 +791,15 @@ Chisago,2015,rank_totcost_ccc,69
 Chisago,2015,rank_totcost_hr,73
 Chisago,2015,rank_totcost_public,35
 Chisago,2015,rank_quality_premium,67
-Chisago,2016,rank_adj_supply_any,83
-Chisago,2016,rank_adj_supply_ccc,34
-Chisago,2016,rank_adj_supply_hr,53
-Chisago,2016,rank_adj_supply_public,74
-Chisago,2016,rank_totcost_any,76
-Chisago,2016,rank_totcost_ccc,43
-Chisago,2016,rank_totcost_hr,59
-Chisago,2016,rank_totcost_public,22
-Chisago,2016,rank_quality_premium,25
+Chisago,2016,rank_adj_supply_any,43
+Chisago,2016,rank_adj_supply_ccc,22
+Chisago,2016,rank_adj_supply_hr,30
+Chisago,2016,rank_adj_supply_public,73
+Chisago,2016,rank_totcost_any,79
+Chisago,2016,rank_totcost_ccc,56
+Chisago,2016,rank_totcost_hr,58
+Chisago,2016,rank_totcost_public,48
+Chisago,2016,rank_quality_premium,30
 Chisago,2017,rank_adj_supply_any,53
 Chisago,2017,rank_adj_supply_ccc,28
 Chisago,2017,rank_adj_supply_hr,50
@@ -854,15 +854,15 @@ Clay,2015,rank_totcost_ccc,55
 Clay,2015,rank_totcost_hr,49
 Clay,2015,rank_totcost_public,46
 Clay,2015,rank_quality_premium,31
-Clay,2016,rank_adj_supply_any,47
-Clay,2016,rank_adj_supply_ccc,25
-Clay,2016,rank_adj_supply_hr,40
-Clay,2016,rank_adj_supply_public,75
-Clay,2016,rank_totcost_any,75
-Clay,2016,rank_totcost_ccc,39
-Clay,2016,rank_totcost_hr,29
-Clay,2016,rank_totcost_public,48
-Clay,2016,rank_quality_premium,5
+Clay,2016,rank_adj_supply_any,61
+Clay,2016,rank_adj_supply_ccc,29
+Clay,2016,rank_adj_supply_hr,46
+Clay,2016,rank_adj_supply_public,71
+Clay,2016,rank_totcost_any,74
+Clay,2016,rank_totcost_ccc,37
+Clay,2016,rank_totcost_hr,21
+Clay,2016,rank_totcost_public,64
+Clay,2016,rank_quality_premium,4
 Clay,2017,rank_adj_supply_any,49
 Clay,2017,rank_adj_supply_ccc,32
 Clay,2017,rank_adj_supply_hr,28
@@ -917,15 +917,15 @@ Clearwater,2015,rank_totcost_ccc,63
 Clearwater,2015,rank_totcost_hr,31
 Clearwater,2015,rank_totcost_public,69
 Clearwater,2015,rank_quality_premium,35
-Clearwater,2016,rank_adj_supply_any,71
-Clearwater,2016,rank_adj_supply_ccc,82
-Clearwater,2016,rank_adj_supply_hr,41
-Clearwater,2016,rank_adj_supply_public,45
-Clearwater,2016,rank_totcost_any,36
-Clearwater,2016,rank_totcost_ccc,78
-Clearwater,2016,rank_totcost_hr,75
-Clearwater,2016,rank_totcost_public,78
-Clearwater,2016,rank_quality_premium,75
+Clearwater,2016,rank_adj_supply_any,74
+Clearwater,2016,rank_adj_supply_ccc,78.5
+Clearwater,2016,rank_adj_supply_hr,3
+Clearwater,2016,rank_adj_supply_public,37
+Clearwater,2016,rank_totcost_any,32
+Clearwater,2016,rank_totcost_ccc,49
+Clearwater,2016,rank_totcost_hr,11
+Clearwater,2016,rank_totcost_public,60
+Clearwater,2016,rank_quality_premium,18
 Clearwater,2017,rank_adj_supply_any,75
 Clearwater,2017,rank_adj_supply_ccc,82
 Clearwater,2017,rank_adj_supply_hr,62
@@ -980,15 +980,15 @@ Cook,2015,rank_totcost_ccc,23
 Cook,2015,rank_totcost_hr,87
 Cook,2015,rank_totcost_public,85
 Cook,2015,rank_quality_premium,87
-Cook,2016,rank_adj_supply_any,5
-Cook,2016,rank_adj_supply_ccc,57
-Cook,2016,rank_adj_supply_hr,3
-Cook,2016,rank_adj_supply_public,22
-Cook,2016,rank_totcost_any,50
-Cook,2016,rank_totcost_ccc,82
-Cook,2016,rank_totcost_hr,64
-Cook,2016,rank_totcost_public,87
-Cook,2016,rank_quality_premium,66
+Cook,2016,rank_adj_supply_any,47
+Cook,2016,rank_adj_supply_ccc,78.5
+Cook,2016,rank_adj_supply_hr,76
+Cook,2016,rank_adj_supply_public,84.5
+Cook,2016,rank_totcost_any,60
+Cook,2016,rank_totcost_ccc,80
+Cook,2016,rank_totcost_hr,72
+Cook,2016,rank_totcost_public,82
+Cook,2016,rank_quality_premium,69
 Cook,2017,rank_adj_supply_any,14
 Cook,2017,rank_adj_supply_ccc,55
 Cook,2017,rank_adj_supply_hr,2
@@ -1043,15 +1043,15 @@ Cottonwood,2015,rank_totcost_ccc,2
 Cottonwood,2015,rank_totcost_hr,13
 Cottonwood,2015,rank_totcost_public,33
 Cottonwood,2015,rank_quality_premium,28
-Cottonwood,2016,rank_adj_supply_any,58
-Cottonwood,2016,rank_adj_supply_ccc,68
-Cottonwood,2016,rank_adj_supply_hr,51
-Cottonwood,2016,rank_adj_supply_public,50
-Cottonwood,2016,rank_totcost_any,2
-Cottonwood,2016,rank_totcost_ccc,5
+Cottonwood,2016,rank_adj_supply_any,59
+Cottonwood,2016,rank_adj_supply_ccc,49
+Cottonwood,2016,rank_adj_supply_hr,31
+Cottonwood,2016,rank_adj_supply_public,62
+Cottonwood,2016,rank_totcost_any,6
+Cottonwood,2016,rank_totcost_ccc,10
 Cottonwood,2016,rank_totcost_hr,2
-Cottonwood,2016,rank_totcost_public,33
-Cottonwood,2016,rank_quality_premium,27
+Cottonwood,2016,rank_totcost_public,28
+Cottonwood,2016,rank_quality_premium,14
 Cottonwood,2017,rank_adj_supply_any,61
 Cottonwood,2017,rank_adj_supply_ccc,62
 Cottonwood,2017,rank_adj_supply_hr,48
@@ -1106,15 +1106,15 @@ Crow Wing,2015,rank_totcost_ccc,37
 Crow Wing,2015,rank_totcost_hr,36
 Crow Wing,2015,rank_totcost_public,61
 Crow Wing,2015,rank_quality_premium,18
-Crow Wing,2016,rank_adj_supply_any,67
-Crow Wing,2016,rank_adj_supply_ccc,21
-Crow Wing,2016,rank_adj_supply_hr,50
-Crow Wing,2016,rank_adj_supply_public,64
-Crow Wing,2016,rank_totcost_any,63
-Crow Wing,2016,rank_totcost_ccc,31
-Crow Wing,2016,rank_totcost_hr,48
+Crow Wing,2016,rank_adj_supply_any,28
+Crow Wing,2016,rank_adj_supply_ccc,14
+Crow Wing,2016,rank_adj_supply_hr,22
+Crow Wing,2016,rank_adj_supply_public,44
+Crow Wing,2016,rank_totcost_any,61
+Crow Wing,2016,rank_totcost_ccc,16
+Crow Wing,2016,rank_totcost_hr,23
 Crow Wing,2016,rank_totcost_public,53
-Crow Wing,2016,rank_quality_premium,39
+Crow Wing,2016,rank_quality_premium,23
 Crow Wing,2017,rank_adj_supply_any,40
 Crow Wing,2017,rank_adj_supply_ccc,15
 Crow Wing,2017,rank_adj_supply_hr,33
@@ -1169,15 +1169,15 @@ Dakota,2015,rank_totcost_ccc,82
 Dakota,2015,rank_totcost_hr,83
 Dakota,2015,rank_totcost_public,8
 Dakota,2015,rank_quality_premium,53
-Dakota,2016,rank_adj_supply_any,44
+Dakota,2016,rank_adj_supply_any,2
 Dakota,2016,rank_adj_supply_ccc,3
 Dakota,2016,rank_adj_supply_hr,13
-Dakota,2016,rank_adj_supply_public,80
+Dakota,2016,rank_adj_supply_public,47
 Dakota,2016,rank_totcost_any,86
-Dakota,2016,rank_totcost_ccc,56
-Dakota,2016,rank_totcost_hr,70
-Dakota,2016,rank_totcost_public,5
-Dakota,2016,rank_quality_premium,16
+Dakota,2016,rank_totcost_ccc,66
+Dakota,2016,rank_totcost_hr,67
+Dakota,2016,rank_totcost_public,4
+Dakota,2016,rank_quality_premium,17
 Dakota,2017,rank_adj_supply_any,25
 Dakota,2017,rank_adj_supply_ccc,3
 Dakota,2017,rank_adj_supply_hr,7
@@ -1232,15 +1232,15 @@ Dodge,2015,rank_totcost_ccc,66
 Dodge,2015,rank_totcost_hr,59
 Dodge,2015,rank_totcost_public,56
 Dodge,2015,rank_quality_premium,58
-Dodge,2016,rank_adj_supply_any,30
-Dodge,2016,rank_adj_supply_ccc,40
-Dodge,2016,rank_adj_supply_hr,71
-Dodge,2016,rank_adj_supply_public,66
-Dodge,2016,rank_totcost_any,65
-Dodge,2016,rank_totcost_ccc,34
-Dodge,2016,rank_totcost_hr,39
-Dodge,2016,rank_totcost_public,45
-Dodge,2016,rank_quality_premium,36
+Dodge,2016,rank_adj_supply_any,24
+Dodge,2016,rank_adj_supply_ccc,21
+Dodge,2016,rank_adj_supply_hr,57
+Dodge,2016,rank_adj_supply_public,76
+Dodge,2016,rank_totcost_any,66
+Dodge,2016,rank_totcost_ccc,20
+Dodge,2016,rank_totcost_hr,10
+Dodge,2016,rank_totcost_public,49
+Dodge,2016,rank_quality_premium,27
 Dodge,2017,rank_adj_supply_any,20
 Dodge,2017,rank_adj_supply_ccc,52
 Dodge,2017,rank_adj_supply_hr,74
@@ -1295,15 +1295,15 @@ Douglas,2015,rank_totcost_ccc,39
 Douglas,2015,rank_totcost_hr,20
 Douglas,2015,rank_totcost_public,47
 Douglas,2015,rank_quality_premium,17
-Douglas,2016,rank_adj_supply_any,7
-Douglas,2016,rank_adj_supply_ccc,36
-Douglas,2016,rank_adj_supply_hr,65
-Douglas,2016,rank_adj_supply_public,49
-Douglas,2016,rank_totcost_any,52
-Douglas,2016,rank_totcost_ccc,29
+Douglas,2016,rank_adj_supply_any,51
+Douglas,2016,rank_adj_supply_ccc,48
+Douglas,2016,rank_adj_supply_hr,48
+Douglas,2016,rank_adj_supply_public,64
+Douglas,2016,rank_totcost_any,48
+Douglas,2016,rank_totcost_ccc,15
 Douglas,2016,rank_totcost_hr,45
-Douglas,2016,rank_totcost_public,49
-Douglas,2016,rank_quality_premium,50
+Douglas,2016,rank_totcost_public,78
+Douglas,2016,rank_quality_premium,51
 Douglas,2017,rank_adj_supply_any,5
 Douglas,2017,rank_adj_supply_ccc,25
 Douglas,2017,rank_adj_supply_hr,19
@@ -1358,15 +1358,15 @@ Faribault,2015,rank_totcost_ccc,12
 Faribault,2015,rank_totcost_hr,48
 Faribault,2015,rank_totcost_public,75
 Faribault,2015,rank_quality_premium,70
-Faribault,2016,rank_adj_supply_any,21
-Faribault,2016,rank_adj_supply_ccc,14
-Faribault,2016,rank_adj_supply_hr,7
-Faribault,2016,rank_adj_supply_public,32
-Faribault,2016,rank_totcost_any,20
+Faribault,2016,rank_adj_supply_any,18
+Faribault,2016,rank_adj_supply_ccc,18
+Faribault,2016,rank_adj_supply_hr,23
+Faribault,2016,rank_adj_supply_public,35
+Faribault,2016,rank_totcost_any,39
 Faribault,2016,rank_totcost_ccc,11
-Faribault,2016,rank_totcost_hr,25
-Faribault,2016,rank_totcost_public,74
-Faribault,2016,rank_quality_premium,71
+Faribault,2016,rank_totcost_hr,48
+Faribault,2016,rank_totcost_public,58
+Faribault,2016,rank_quality_premium,66
 Faribault,2017,rank_adj_supply_any,24
 Faribault,2017,rank_adj_supply_ccc,27
 Faribault,2017,rank_adj_supply_hr,13
@@ -1421,15 +1421,15 @@ Fillmore,2015,rank_totcost_ccc,29
 Fillmore,2015,rank_totcost_hr,61
 Fillmore,2015,rank_totcost_public,76
 Fillmore,2015,rank_quality_premium,76
-Fillmore,2016,rank_adj_supply_any,29
-Fillmore,2016,rank_adj_supply_ccc,12
-Fillmore,2016,rank_adj_supply_hr,78
-Fillmore,2016,rank_adj_supply_public,42
-Fillmore,2016,rank_totcost_any,22
-Fillmore,2016,rank_totcost_ccc,47
-Fillmore,2016,rank_totcost_hr,73
-Fillmore,2016,rank_totcost_public,69
-Fillmore,2016,rank_quality_premium,72
+Fillmore,2016,rank_adj_supply_any,4
+Fillmore,2016,rank_adj_supply_ccc,4
+Fillmore,2016,rank_adj_supply_hr,67
+Fillmore,2016,rank_adj_supply_public,11
+Fillmore,2016,rank_totcost_any,35
+Fillmore,2016,rank_totcost_ccc,31
+Fillmore,2016,rank_totcost_hr,66
+Fillmore,2016,rank_totcost_public,43
+Fillmore,2016,rank_quality_premium,81
 Fillmore,2017,rank_adj_supply_any,33
 Fillmore,2017,rank_adj_supply_ccc,19
 Fillmore,2017,rank_adj_supply_hr,63
@@ -1484,15 +1484,15 @@ Freeborn,2015,rank_totcost_ccc,49
 Freeborn,2015,rank_totcost_hr,64
 Freeborn,2015,rank_totcost_public,52
 Freeborn,2015,rank_quality_premium,75
-Freeborn,2016,rank_adj_supply_any,79
-Freeborn,2016,rank_adj_supply_ccc,44
-Freeborn,2016,rank_adj_supply_hr,48
-Freeborn,2016,rank_adj_supply_public,77
-Freeborn,2016,rank_totcost_any,45
-Freeborn,2016,rank_totcost_ccc,16
-Freeborn,2016,rank_totcost_hr,10
-Freeborn,2016,rank_totcost_public,42
-Freeborn,2016,rank_quality_premium,20
+Freeborn,2016,rank_adj_supply_any,34
+Freeborn,2016,rank_adj_supply_ccc,24
+Freeborn,2016,rank_adj_supply_hr,32
+Freeborn,2016,rank_adj_supply_public,39
+Freeborn,2016,rank_totcost_any,52
+Freeborn,2016,rank_totcost_ccc,17
+Freeborn,2016,rank_totcost_hr,8
+Freeborn,2016,rank_totcost_public,19
+Freeborn,2016,rank_quality_premium,34
 Freeborn,2017,rank_adj_supply_any,78
 Freeborn,2017,rank_adj_supply_ccc,40
 Freeborn,2017,rank_adj_supply_hr,14
@@ -1547,15 +1547,15 @@ Goodhue,2015,rank_totcost_ccc,43
 Goodhue,2015,rank_totcost_hr,67
 Goodhue,2015,rank_totcost_public,22
 Goodhue,2015,rank_quality_premium,66
-Goodhue,2016,rank_adj_supply_any,62
-Goodhue,2016,rank_adj_supply_ccc,43
-Goodhue,2016,rank_adj_supply_hr,26
-Goodhue,2016,rank_adj_supply_public,67
-Goodhue,2016,rank_totcost_any,70
-Goodhue,2016,rank_totcost_ccc,20
-Goodhue,2016,rank_totcost_hr,56
-Goodhue,2016,rank_totcost_public,23
-Goodhue,2016,rank_quality_premium,42
+Goodhue,2016,rank_adj_supply_any,44
+Goodhue,2016,rank_adj_supply_ccc,42
+Goodhue,2016,rank_adj_supply_hr,37
+Goodhue,2016,rank_adj_supply_public,53
+Goodhue,2016,rank_totcost_any,69
+Goodhue,2016,rank_totcost_ccc,34
+Goodhue,2016,rank_totcost_hr,43
+Goodhue,2016,rank_totcost_public,56
+Goodhue,2016,rank_quality_premium,35
 Goodhue,2017,rank_adj_supply_any,81
 Goodhue,2017,rank_adj_supply_ccc,50
 Goodhue,2017,rank_adj_supply_hr,24
@@ -1610,15 +1610,15 @@ Grant,2015,rank_totcost_ccc,57
 Grant,2015,rank_totcost_hr,19
 Grant,2015,rank_totcost_public,73
 Grant,2015,rank_quality_premium,24
-Grant,2016,rank_adj_supply_any,43
-Grant,2016,rank_adj_supply_ccc,82
-Grant,2016,rank_adj_supply_hr,47
+Grant,2016,rank_adj_supply_any,84
+Grant,2016,rank_adj_supply_ccc,78.5
+Grant,2016,rank_adj_supply_hr,
 Grant,2016,rank_adj_supply_public,5
-Grant,2016,rank_totcost_any,23
-Grant,2016,rank_totcost_ccc,79
-Grant,2016,rank_totcost_hr,5
-Grant,2016,rank_totcost_public,30
-Grant,2016,rank_quality_premium,2
+Grant,2016,rank_totcost_any,50
+Grant,2016,rank_totcost_ccc,74
+Grant,2016,rank_totcost_hr,
+Grant,2016,rank_totcost_public,40
+Grant,2016,rank_quality_premium,
 Grant,2017,rank_adj_supply_any,69
 Grant,2017,rank_adj_supply_ccc,82
 Grant,2017,rank_adj_supply_hr,82
@@ -1673,15 +1673,15 @@ Hennepin,2015,rank_totcost_ccc,84
 Hennepin,2015,rank_totcost_hr,84
 Hennepin,2015,rank_totcost_public,9
 Hennepin,2015,rank_quality_premium,39
-Hennepin,2016,rank_adj_supply_any,51
+Hennepin,2016,rank_adj_supply_any,5
 Hennepin,2016,rank_adj_supply_ccc,1
-Hennepin,2016,rank_adj_supply_hr,4
-Hennepin,2016,rank_adj_supply_public,79
+Hennepin,2016,rank_adj_supply_hr,8
+Hennepin,2016,rank_adj_supply_public,41
 Hennepin,2016,rank_totcost_any,87
-Hennepin,2016,rank_totcost_ccc,58
-Hennepin,2016,rank_totcost_hr,72
-Hennepin,2016,rank_totcost_public,4
-Hennepin,2016,rank_quality_premium,8
+Hennepin,2016,rank_totcost_ccc,70
+Hennepin,2016,rank_totcost_hr,68
+Hennepin,2016,rank_totcost_public,2
+Hennepin,2016,rank_quality_premium,13
 Hennepin,2017,rank_adj_supply_any,31
 Hennepin,2017,rank_adj_supply_ccc,1
 Hennepin,2017,rank_adj_supply_hr,4
@@ -1736,15 +1736,15 @@ Houston,2015,rank_totcost_ccc,47
 Houston,2015,rank_totcost_hr,55
 Houston,2015,rank_totcost_public,43
 Houston,2015,rank_quality_premium,63
-Houston,2016,rank_adj_supply_any,11
-Houston,2016,rank_adj_supply_ccc,45
-Houston,2016,rank_adj_supply_hr,1
-Houston,2016,rank_adj_supply_public,23
-Houston,2016,rank_totcost_any,47
-Houston,2016,rank_totcost_ccc,37
-Houston,2016,rank_totcost_hr,34
-Houston,2016,rank_totcost_public,57
-Houston,2016,rank_quality_premium,56
+Houston,2016,rank_adj_supply_any,39
+Houston,2016,rank_adj_supply_ccc,60
+Houston,2016,rank_adj_supply_hr,76
+Houston,2016,rank_adj_supply_public,40
+Houston,2016,rank_totcost_any,37
+Houston,2016,rank_totcost_ccc,50
+Houston,2016,rank_totcost_hr,73
+Houston,2016,rank_totcost_public,83
+Houston,2016,rank_quality_premium,70
 Houston,2017,rank_adj_supply_any,23
 Houston,2017,rank_adj_supply_ccc,53
 Houston,2017,rank_adj_supply_hr,15
@@ -1799,15 +1799,15 @@ Hubbard,2015,rank_totcost_ccc,44
 Hubbard,2015,rank_totcost_hr,34
 Hubbard,2015,rank_totcost_public,84
 Hubbard,2015,rank_quality_premium,37
-Hubbard,2016,rank_adj_supply_any,69
-Hubbard,2016,rank_adj_supply_ccc,54
-Hubbard,2016,rank_adj_supply_hr,12
-Hubbard,2016,rank_adj_supply_public,87
-Hubbard,2016,rank_totcost_any,56
-Hubbard,2016,rank_totcost_ccc,59
-Hubbard,2016,rank_totcost_hr,49
-Hubbard,2016,rank_totcost_public,86
-Hubbard,2016,rank_quality_premium,60
+Hubbard,2016,rank_adj_supply_any,76
+Hubbard,2016,rank_adj_supply_ccc,47
+Hubbard,2016,rank_adj_supply_hr,20
+Hubbard,2016,rank_adj_supply_public,61
+Hubbard,2016,rank_totcost_any,63
+Hubbard,2016,rank_totcost_ccc,24
+Hubbard,2016,rank_totcost_hr,20
+Hubbard,2016,rank_totcost_public,77
+Hubbard,2016,rank_quality_premium,45
 Hubbard,2017,rank_adj_supply_any,68
 Hubbard,2017,rank_adj_supply_ccc,46
 Hubbard,2017,rank_adj_supply_hr,17
@@ -1862,15 +1862,15 @@ Isanti,2015,rank_totcost_ccc,61
 Isanti,2015,rank_totcost_hr,58
 Isanti,2015,rank_totcost_public,44
 Isanti,2015,rank_quality_premium,26
-Isanti,2016,rank_adj_supply_any,86
-Isanti,2016,rank_adj_supply_ccc,19
-Isanti,2016,rank_adj_supply_hr,27
-Isanti,2016,rank_adj_supply_public,83
-Isanti,2016,rank_totcost_any,77
-Isanti,2016,rank_totcost_ccc,36
-Isanti,2016,rank_totcost_hr,46
-Isanti,2016,rank_totcost_public,41
-Isanti,2016,rank_quality_premium,17
+Isanti,2016,rank_adj_supply_any,63
+Isanti,2016,rank_adj_supply_ccc,30
+Isanti,2016,rank_adj_supply_hr,21
+Isanti,2016,rank_adj_supply_public,42
+Isanti,2016,rank_totcost_any,76
+Isanti,2016,rank_totcost_ccc,47
+Isanti,2016,rank_totcost_hr,38
+Isanti,2016,rank_totcost_public,13
+Isanti,2016,rank_quality_premium,6
 Isanti,2017,rank_adj_supply_any,85
 Isanti,2017,rank_adj_supply_ccc,14
 Isanti,2017,rank_adj_supply_hr,26
@@ -1925,15 +1925,15 @@ Itasca,2015,rank_totcost_ccc,10
 Itasca,2015,rank_totcost_hr,25
 Itasca,2015,rank_totcost_public,55
 Itasca,2015,rank_quality_premium,19
-Itasca,2016,rank_adj_supply_any,60
-Itasca,2016,rank_adj_supply_ccc,48
-Itasca,2016,rank_adj_supply_hr,11
-Itasca,2016,rank_adj_supply_public,21
-Itasca,2016,rank_totcost_any,32
-Itasca,2016,rank_totcost_ccc,2
-Itasca,2016,rank_totcost_hr,15
-Itasca,2016,rank_totcost_public,70
-Itasca,2016,rank_quality_premium,37
+Itasca,2016,rank_adj_supply_any,78
+Itasca,2016,rank_adj_supply_ccc,41
+Itasca,2016,rank_adj_supply_hr,26
+Itasca,2016,rank_adj_supply_public,27
+Itasca,2016,rank_totcost_any,40
+Itasca,2016,rank_totcost_ccc,7
+Itasca,2016,rank_totcost_hr,16
+Itasca,2016,rank_totcost_public,35
+Itasca,2016,rank_quality_premium,41
 Itasca,2017,rank_adj_supply_any,73
 Itasca,2017,rank_adj_supply_ccc,45
 Itasca,2017,rank_adj_supply_hr,9
@@ -1988,15 +1988,15 @@ Jackson,2015,rank_totcost_ccc,6
 Jackson,2015,rank_totcost_hr,40
 Jackson,2015,rank_totcost_public,58
 Jackson,2015,rank_quality_premium,55
-Jackson,2016,rank_adj_supply_any,13
-Jackson,2016,rank_adj_supply_ccc,26
-Jackson,2016,rank_adj_supply_hr,57
-Jackson,2016,rank_adj_supply_public,13
-Jackson,2016,rank_totcost_any,43
-Jackson,2016,rank_totcost_ccc,22
-Jackson,2016,rank_totcost_hr,9
-Jackson,2016,rank_totcost_public,61
-Jackson,2016,rank_quality_premium,34
+Jackson,2016,rank_adj_supply_any,49
+Jackson,2016,rank_adj_supply_ccc,78.5
+Jackson,2016,rank_adj_supply_hr,
+Jackson,2016,rank_adj_supply_public,10
+Jackson,2016,rank_totcost_any,25
+Jackson,2016,rank_totcost_ccc,77
+Jackson,2016,rank_totcost_hr,
+Jackson,2016,rank_totcost_public,17
+Jackson,2016,rank_quality_premium,
 Jackson,2017,rank_adj_supply_any,15
 Jackson,2017,rank_adj_supply_ccc,20
 Jackson,2017,rank_adj_supply_hr,46
@@ -2051,15 +2051,15 @@ Kanabec,2015,rank_totcost_ccc,38
 Kanabec,2015,rank_totcost_hr,37
 Kanabec,2015,rank_totcost_public,62
 Kanabec,2015,rank_quality_premium,33
-Kanabec,2016,rank_adj_supply_any,2
-Kanabec,2016,rank_adj_supply_ccc,38
-Kanabec,2016,rank_adj_supply_hr,35
-Kanabec,2016,rank_adj_supply_public,2
-Kanabec,2016,rank_totcost_any,41
-Kanabec,2016,rank_totcost_ccc,33
+Kanabec,2016,rank_adj_supply_any,48
+Kanabec,2016,rank_adj_supply_ccc,46
+Kanabec,2016,rank_adj_supply_hr,43
+Kanabec,2016,rank_adj_supply_public,78
+Kanabec,2016,rank_totcost_any,57
+Kanabec,2016,rank_totcost_ccc,28
 Kanabec,2016,rank_totcost_hr,17
-Kanabec,2016,rank_totcost_public,44
-Kanabec,2016,rank_quality_premium,24
+Kanabec,2016,rank_totcost_public,76
+Kanabec,2016,rank_quality_premium,32
 Kanabec,2017,rank_adj_supply_any,2
 Kanabec,2017,rank_adj_supply_ccc,63
 Kanabec,2017,rank_adj_supply_hr,29
@@ -2114,15 +2114,15 @@ Kandiyohi,2015,rank_totcost_ccc,40
 Kandiyohi,2015,rank_totcost_hr,39
 Kandiyohi,2015,rank_totcost_public,13
 Kandiyohi,2015,rank_quality_premium,48
-Kandiyohi,2016,rank_adj_supply_any,66
-Kandiyohi,2016,rank_adj_supply_ccc,46
-Kandiyohi,2016,rank_adj_supply_hr,24
-Kandiyohi,2016,rank_adj_supply_public,53
-Kandiyohi,2016,rank_totcost_any,51
-Kandiyohi,2016,rank_totcost_ccc,28
-Kandiyohi,2016,rank_totcost_hr,28
-Kandiyohi,2016,rank_totcost_public,16
-Kandiyohi,2016,rank_quality_premium,59
+Kandiyohi,2016,rank_adj_supply_any,57
+Kandiyohi,2016,rank_adj_supply_ccc,38
+Kandiyohi,2016,rank_adj_supply_hr,29
+Kandiyohi,2016,rank_adj_supply_public,24
+Kandiyohi,2016,rank_totcost_any,46
+Kandiyohi,2016,rank_totcost_ccc,41
+Kandiyohi,2016,rank_totcost_hr,41
+Kandiyohi,2016,rank_totcost_public,8
+Kandiyohi,2016,rank_quality_premium,50
 Kandiyohi,2017,rank_adj_supply_any,65
 Kandiyohi,2017,rank_adj_supply_ccc,42
 Kandiyohi,2017,rank_adj_supply_hr,20
@@ -2177,15 +2177,15 @@ Kittson,2015,rank_totcost_ccc,75
 Kittson,2015,rank_totcost_hr,86
 Kittson,2015,rank_totcost_public,80
 Kittson,2015,rank_quality_premium,86
-Kittson,2016,rank_adj_supply_any,26
-Kittson,2016,rank_adj_supply_ccc,82
-Kittson,2016,rank_adj_supply_hr,83.5
-Kittson,2016,rank_adj_supply_public,6
-Kittson,2016,rank_totcost_any,15
-Kittson,2016,rank_totcost_ccc,86
-Kittson,2016,rank_totcost_hr,86
-Kittson,2016,rank_totcost_public,83
-Kittson,2016,rank_quality_premium,86
+Kittson,2016,rank_adj_supply_any,25
+Kittson,2016,rank_adj_supply_ccc,78.5
+Kittson,2016,rank_adj_supply_hr,76
+Kittson,2016,rank_adj_supply_public,26
+Kittson,2016,rank_totcost_any,14
+Kittson,2016,rank_totcost_ccc,87
+Kittson,2016,rank_totcost_hr,83
+Kittson,2016,rank_totcost_public,87
+Kittson,2016,rank_quality_premium,82
 Kittson,2017,rank_adj_supply_any,46
 Kittson,2017,rank_adj_supply_ccc,82
 Kittson,2017,rank_adj_supply_hr,
@@ -2240,15 +2240,15 @@ Koochiching,2015,rank_totcost_ccc,85
 Koochiching,2015,rank_totcost_hr,85
 Koochiching,2015,rank_totcost_public,21
 Koochiching,2015,rank_quality_premium,85
-Koochiching,2016,rank_adj_supply_any,55
-Koochiching,2016,rank_adj_supply_ccc,82
-Koochiching,2016,rank_adj_supply_hr,83.5
-Koochiching,2016,rank_adj_supply_public,8
-Koochiching,2016,rank_totcost_any,4
-Koochiching,2016,rank_totcost_ccc,85
-Koochiching,2016,rank_totcost_hr,77
-Koochiching,2016,rank_totcost_public,29
-Koochiching,2016,rank_quality_premium,67
+Koochiching,2016,rank_adj_supply_any,42
+Koochiching,2016,rank_adj_supply_ccc,78.5
+Koochiching,2016,rank_adj_supply_hr,76
+Koochiching,2016,rank_adj_supply_public,2
+Koochiching,2016,rank_totcost_any,3
+Koochiching,2016,rank_totcost_ccc,75
+Koochiching,2016,rank_totcost_hr,71
+Koochiching,2016,rank_totcost_public,3
+Koochiching,2016,rank_quality_premium,10
 Koochiching,2017,rank_adj_supply_any,83
 Koochiching,2017,rank_adj_supply_ccc,82
 Koochiching,2017,rank_adj_supply_hr,68
@@ -2303,15 +2303,15 @@ Lac qui Parle,2015,rank_totcost_ccc,36
 Lac qui Parle,2015,rank_totcost_hr,24
 Lac qui Parle,2015,rank_totcost_public,70
 Lac qui Parle,2015,rank_quality_premium,16
-Lac qui Parle,2016,rank_adj_supply_any,57
-Lac qui Parle,2016,rank_adj_supply_ccc,71
-Lac qui Parle,2016,rank_adj_supply_hr,73
-Lac qui Parle,2016,rank_adj_supply_public,11
-Lac qui Parle,2016,rank_totcost_any,34
-Lac qui Parle,2016,rank_totcost_ccc,64
-Lac qui Parle,2016,rank_totcost_hr,16
-Lac qui Parle,2016,rank_totcost_public,84
-Lac qui Parle,2016,rank_quality_premium,28
+Lac qui Parle,2016,rank_adj_supply_any,68
+Lac qui Parle,2016,rank_adj_supply_ccc,65
+Lac qui Parle,2016,rank_adj_supply_hr,76
+Lac qui Parle,2016,rank_adj_supply_public,29
+Lac qui Parle,2016,rank_totcost_any,11
+Lac qui Parle,2016,rank_totcost_ccc,73
+Lac qui Parle,2016,rank_totcost_hr,55
+Lac qui Parle,2016,rank_totcost_public,21
+Lac qui Parle,2016,rank_quality_premium,75
 Lac qui Parle,2017,rank_adj_supply_any,72
 Lac qui Parle,2017,rank_adj_supply_ccc,69
 Lac qui Parle,2017,rank_adj_supply_hr,76
@@ -2366,15 +2366,15 @@ Lake,2015,rank_totcost_ccc,79
 Lake,2015,rank_totcost_hr,54
 Lake,2015,rank_totcost_public,14
 Lake,2015,rank_quality_premium,50
-Lake,2016,rank_adj_supply_any,87
-Lake,2016,rank_adj_supply_ccc,82
-Lake,2016,rank_adj_supply_hr,83.5
-Lake,2016,rank_adj_supply_public,72
-Lake,2016,rank_totcost_any,13
-Lake,2016,rank_totcost_ccc,76
-Lake,2016,rank_totcost_hr,80
-Lake,2016,rank_totcost_public,39
-Lake,2016,rank_quality_premium,82
+Lake,2016,rank_adj_supply_any,85
+Lake,2016,rank_adj_supply_ccc,78.5
+Lake,2016,rank_adj_supply_hr,76
+Lake,2016,rank_adj_supply_public,23
+Lake,2016,rank_totcost_any,2
+Lake,2016,rank_totcost_ccc,62
+Lake,2016,rank_totcost_hr,60
+Lake,2016,rank_totcost_public,10
+Lake,2016,rank_quality_premium,74
 Lake,2017,rank_adj_supply_any,87
 Lake,2017,rank_adj_supply_ccc,82
 Lake,2017,rank_adj_supply_hr,70
@@ -2429,15 +2429,15 @@ Lake of the Woods,2015,rank_totcost_ccc,87
 Lake of the Woods,2015,rank_totcost_hr,4
 Lake of the Woods,2015,rank_totcost_public,82
 Lake of the Woods,2015,rank_quality_premium,7
-Lake of the Woods,2016,rank_adj_supply_any,77
-Lake of the Woods,2016,rank_adj_supply_ccc,82
-Lake of the Woods,2016,rank_adj_supply_hr,46
-Lake of the Woods,2016,rank_adj_supply_public,18
-Lake of the Woods,2016,rank_totcost_any,25
-Lake of the Woods,2016,rank_totcost_ccc,83
-Lake of the Woods,2016,rank_totcost_hr,13
-Lake of the Woods,2016,rank_totcost_public,85
-Lake of the Woods,2016,rank_quality_premium,4
+Lake of the Woods,2016,rank_adj_supply_any,87
+Lake of the Woods,2016,rank_adj_supply_ccc,78.5
+Lake of the Woods,2016,rank_adj_supply_hr,68
+Lake of the Woods,2016,rank_adj_supply_public,6
+Lake of the Woods,2016,rank_totcost_any,4
+Lake of the Woods,2016,rank_totcost_ccc,79
+Lake of the Woods,2016,rank_totcost_hr,4
+Lake of the Woods,2016,rank_totcost_public,63
+Lake of the Woods,2016,rank_quality_premium,1
 Lake of the Woods,2017,rank_adj_supply_any,86
 Lake of the Woods,2017,rank_adj_supply_ccc,82
 Lake of the Woods,2017,rank_adj_supply_hr,52
@@ -2492,15 +2492,15 @@ Le Sueur,2015,rank_totcost_ccc,71
 Le Sueur,2015,rank_totcost_hr,47
 Le Sueur,2015,rank_totcost_public,11
 Le Sueur,2015,rank_quality_premium,36
-Le Sueur,2016,rank_adj_supply_any,27
-Le Sueur,2016,rank_adj_supply_ccc,52
-Le Sueur,2016,rank_adj_supply_hr,30
-Le Sueur,2016,rank_adj_supply_public,38
-Le Sueur,2016,rank_totcost_any,62
-Le Sueur,2016,rank_totcost_ccc,42
-Le Sueur,2016,rank_totcost_hr,41
-Le Sueur,2016,rank_totcost_public,15
-Le Sueur,2016,rank_quality_premium,41
+Le Sueur,2016,rank_adj_supply_any,38
+Le Sueur,2016,rank_adj_supply_ccc,43
+Le Sueur,2016,rank_adj_supply_hr,14
+Le Sueur,2016,rank_adj_supply_public,30
+Le Sueur,2016,rank_totcost_any,64
+Le Sueur,2016,rank_totcost_ccc,54
+Le Sueur,2016,rank_totcost_hr,42
+Le Sueur,2016,rank_totcost_public,39
+Le Sueur,2016,rank_quality_premium,60
 Le Sueur,2017,rank_adj_supply_any,18
 Le Sueur,2017,rank_adj_supply_ccc,43
 Le Sueur,2017,rank_adj_supply_hr,21
@@ -2555,15 +2555,15 @@ Lincoln,2015,rank_totcost_ccc,51
 Lincoln,2015,rank_totcost_hr,62
 Lincoln,2015,rank_totcost_public,53
 Lincoln,2015,rank_quality_premium,84
-Lincoln,2016,rank_adj_supply_any,14
-Lincoln,2016,rank_adj_supply_ccc,82
-Lincoln,2016,rank_adj_supply_hr,70
-Lincoln,2016,rank_adj_supply_public,9
-Lincoln,2016,rank_totcost_any,1
-Lincoln,2016,rank_totcost_ccc,81
-Lincoln,2016,rank_totcost_hr,53
-Lincoln,2016,rank_totcost_public,46
-Lincoln,2016,rank_quality_premium,69
+Lincoln,2016,rank_adj_supply_any,27
+Lincoln,2016,rank_adj_supply_ccc,78.5
+Lincoln,2016,rank_adj_supply_hr,76
+Lincoln,2016,rank_adj_supply_public,7
+Lincoln,2016,rank_totcost_any,9
+Lincoln,2016,rank_totcost_ccc,12
+Lincoln,2016,rank_totcost_hr,76
+Lincoln,2016,rank_totcost_public,79
+Lincoln,2016,rank_quality_premium,72
 Lincoln,2017,rank_adj_supply_any,13
 Lincoln,2017,rank_adj_supply_ccc,82
 Lincoln,2017,rank_adj_supply_hr,43
@@ -2618,15 +2618,15 @@ Lyon,2015,rank_totcost_ccc,8
 Lyon,2015,rank_totcost_hr,21
 Lyon,2015,rank_totcost_public,2
 Lyon,2015,rank_quality_premium,27
-Lyon,2016,rank_adj_supply_any,6
-Lyon,2016,rank_adj_supply_ccc,28
-Lyon,2016,rank_adj_supply_hr,37
-Lyon,2016,rank_adj_supply_public,31
-Lyon,2016,rank_totcost_any,26
-Lyon,2016,rank_totcost_ccc,15
-Lyon,2016,rank_totcost_hr,8
-Lyon,2016,rank_totcost_public,9
-Lyon,2016,rank_quality_premium,19
+Lyon,2016,rank_adj_supply_any,11
+Lyon,2016,rank_adj_supply_ccc,25
+Lyon,2016,rank_adj_supply_hr,1
+Lyon,2016,rank_adj_supply_public,36
+Lyon,2016,rank_totcost_any,30
+Lyon,2016,rank_totcost_ccc,3
+Lyon,2016,rank_totcost_hr,6
+Lyon,2016,rank_totcost_public,34
+Lyon,2016,rank_quality_premium,39
 Lyon,2017,rank_adj_supply_any,9
 Lyon,2017,rank_adj_supply_ccc,31
 Lyon,2017,rank_adj_supply_hr,38
@@ -2681,15 +2681,15 @@ Mahnomen,2015,rank_totcost_ccc,78
 Mahnomen,2015,rank_totcost_hr,26
 Mahnomen,2015,rank_totcost_public,39
 Mahnomen,2015,rank_quality_premium,38
-Mahnomen,2016,rank_adj_supply_any,75
-Mahnomen,2016,rank_adj_supply_ccc,82
-Mahnomen,2016,rank_adj_supply_hr,10
-Mahnomen,2016,rank_adj_supply_public,10
-Mahnomen,2016,rank_totcost_any,9
-Mahnomen,2016,rank_totcost_ccc,75
-Mahnomen,2016,rank_totcost_hr,66
-Mahnomen,2016,rank_totcost_public,40
-Mahnomen,2016,rank_quality_premium,73
+Mahnomen,2016,rank_adj_supply_any,69
+Mahnomen,2016,rank_adj_supply_ccc,78.5
+Mahnomen,2016,rank_adj_supply_hr,27
+Mahnomen,2016,rank_adj_supply_public,12
+Mahnomen,2016,rank_totcost_any,21
+Mahnomen,2016,rank_totcost_ccc,33
+Mahnomen,2016,rank_totcost_hr,40
+Mahnomen,2016,rank_totcost_public,75
+Mahnomen,2016,rank_quality_premium,40
 Mahnomen,2017,rank_adj_supply_any,63
 Mahnomen,2017,rank_adj_supply_ccc,82
 Mahnomen,2017,rank_adj_supply_hr,16
@@ -2744,15 +2744,15 @@ Marshall,2015,rank_totcost_ccc,45
 Marshall,2015,rank_totcost_hr,72
 Marshall,2015,rank_totcost_public,86
 Marshall,2015,rank_quality_premium,78
-Marshall,2016,rank_adj_supply_any,46
-Marshall,2016,rank_adj_supply_ccc,64
+Marshall,2016,rank_adj_supply_any,62
+Marshall,2016,rank_adj_supply_ccc,78.5
 Marshall,2016,rank_adj_supply_hr,62
-Marshall,2016,rank_adj_supply_public,28
-Marshall,2016,rank_totcost_any,48
-Marshall,2016,rank_totcost_ccc,84
-Marshall,2016,rank_totcost_hr,85
-Marshall,2016,rank_totcost_public,81
-Marshall,2016,rank_quality_premium,80
+Marshall,2016,rank_adj_supply_public,4
+Marshall,2016,rank_totcost_any,29
+Marshall,2016,rank_totcost_ccc,83
+Marshall,2016,rank_totcost_hr,82
+Marshall,2016,rank_totcost_public,33
+Marshall,2016,rank_quality_premium,71
 Marshall,2017,rank_adj_supply_any,43
 Marshall,2017,rank_adj_supply_ccc,61
 Marshall,2017,rank_adj_supply_hr,44
@@ -2807,15 +2807,15 @@ Martin,2015,rank_totcost_ccc,27
 Martin,2015,rank_totcost_hr,30
 Martin,2015,rank_totcost_public,36
 Martin,2015,rank_quality_premium,41
-Martin,2016,rank_adj_supply_any,3
-Martin,2016,rank_adj_supply_ccc,29
-Martin,2016,rank_adj_supply_hr,77
-Martin,2016,rank_adj_supply_public,34
-Martin,2016,rank_totcost_any,38
-Martin,2016,rank_totcost_ccc,38
-Martin,2016,rank_totcost_hr,78
-Martin,2016,rank_totcost_public,66
-Martin,2016,rank_quality_premium,83
+Martin,2016,rank_adj_supply_any,53
+Martin,2016,rank_adj_supply_ccc,56
+Martin,2016,rank_adj_supply_hr,64
+Martin,2016,rank_adj_supply_public,84.5
+Martin,2016,rank_totcost_any,19
+Martin,2016,rank_totcost_ccc,13
+Martin,2016,rank_totcost_hr,52
+Martin,2016,rank_totcost_public,73
+Martin,2016,rank_quality_premium,64
 Martin,2017,rank_adj_supply_any,7
 Martin,2017,rank_adj_supply_ccc,76
 Martin,2017,rank_adj_supply_hr,72
@@ -2870,15 +2870,15 @@ McLeod,2015,rank_totcost_ccc,65
 McLeod,2015,rank_totcost_hr,32
 McLeod,2015,rank_totcost_public,19
 McLeod,2015,rank_quality_premium,22
-McLeod,2016,rank_adj_supply_any,28
-McLeod,2016,rank_adj_supply_ccc,32
-McLeod,2016,rank_adj_supply_hr,55
-McLeod,2016,rank_adj_supply_public,46
-McLeod,2016,rank_totcost_any,61
-McLeod,2016,rank_totcost_ccc,24
-McLeod,2016,rank_totcost_hr,22
-McLeod,2016,rank_totcost_public,11
-McLeod,2016,rank_quality_premium,32
+McLeod,2016,rank_adj_supply_any,26
+McLeod,2016,rank_adj_supply_ccc,44
+McLeod,2016,rank_adj_supply_hr,35
+McLeod,2016,rank_adj_supply_public,34
+McLeod,2016,rank_totcost_any,49
+McLeod,2016,rank_totcost_ccc,21
+McLeod,2016,rank_totcost_hr,30
+McLeod,2016,rank_totcost_public,36
+McLeod,2016,rank_quality_premium,44
 McLeod,2017,rank_adj_supply_any,19
 McLeod,2017,rank_adj_supply_ccc,34
 McLeod,2017,rank_adj_supply_hr,34
@@ -2933,15 +2933,15 @@ Meeker,2015,rank_totcost_ccc,52
 Meeker,2015,rank_totcost_hr,17
 Meeker,2015,rank_totcost_public,48
 Meeker,2015,rank_quality_premium,9
-Meeker,2016,rank_adj_supply_any,68
+Meeker,2016,rank_adj_supply_any,60
 Meeker,2016,rank_adj_supply_ccc,33
-Meeker,2016,rank_adj_supply_hr,21
-Meeker,2016,rank_adj_supply_public,52
-Meeker,2016,rank_totcost_any,59
-Meeker,2016,rank_totcost_ccc,53
-Meeker,2016,rank_totcost_hr,50
-Meeker,2016,rank_totcost_public,26
-Meeker,2016,rank_quality_premium,57
+Meeker,2016,rank_adj_supply_hr,12
+Meeker,2016,rank_adj_supply_public,63
+Meeker,2016,rank_totcost_any,58
+Meeker,2016,rank_totcost_ccc,44
+Meeker,2016,rank_totcost_hr,35
+Meeker,2016,rank_totcost_public,62
+Meeker,2016,rank_quality_premium,54
 Meeker,2017,rank_adj_supply_any,76
 Meeker,2017,rank_adj_supply_ccc,30
 Meeker,2017,rank_adj_supply_hr,8
@@ -2996,15 +2996,15 @@ Mille Lacs,2015,rank_totcost_ccc,25
 Mille Lacs,2015,rank_totcost_hr,43
 Mille Lacs,2015,rank_totcost_public,60
 Mille Lacs,2015,rank_quality_premium,52
-Mille Lacs,2016,rank_adj_supply_any,52
-Mille Lacs,2016,rank_adj_supply_ccc,6
-Mille Lacs,2016,rank_adj_supply_hr,39
-Mille Lacs,2016,rank_adj_supply_public,65
-Mille Lacs,2016,rank_totcost_any,69
-Mille Lacs,2016,rank_totcost_ccc,19
-Mille Lacs,2016,rank_totcost_hr,33
-Mille Lacs,2016,rank_totcost_public,58
-Mille Lacs,2016,rank_quality_premium,30
+Mille Lacs,2016,rank_adj_supply_any,35
+Mille Lacs,2016,rank_adj_supply_ccc,17
+Mille Lacs,2016,rank_adj_supply_hr,28
+Mille Lacs,2016,rank_adj_supply_public,48
+Mille Lacs,2016,rank_totcost_any,73
+Mille Lacs,2016,rank_totcost_ccc,27
+Mille Lacs,2016,rank_totcost_hr,29
+Mille Lacs,2016,rank_totcost_public,68
+Mille Lacs,2016,rank_quality_premium,26
 Mille Lacs,2017,rank_adj_supply_any,55
 Mille Lacs,2017,rank_adj_supply_ccc,8
 Mille Lacs,2017,rank_adj_supply_hr,25
@@ -3059,15 +3059,15 @@ Morrison,2015,rank_totcost_ccc,42
 Morrison,2015,rank_totcost_hr,35
 Morrison,2015,rank_totcost_public,68
 Morrison,2015,rank_quality_premium,47
-Morrison,2016,rank_adj_supply_any,50
-Morrison,2016,rank_adj_supply_ccc,63
+Morrison,2016,rank_adj_supply_any,45
+Morrison,2016,rank_adj_supply_ccc,45
 Morrison,2016,rank_adj_supply_hr,18
-Morrison,2016,rank_adj_supply_public,54
-Morrison,2016,rank_totcost_any,55
+Morrison,2016,rank_adj_supply_public,55
+Morrison,2016,rank_totcost_any,51
 Morrison,2016,rank_totcost_ccc,35
-Morrison,2016,rank_totcost_hr,24
-Morrison,2016,rank_totcost_public,67
-Morrison,2016,rank_quality_premium,48
+Morrison,2016,rank_totcost_hr,22
+Morrison,2016,rank_totcost_public,55
+Morrison,2016,rank_quality_premium,46
 Morrison,2017,rank_adj_supply_any,36
 Morrison,2017,rank_adj_supply_ccc,57
 Morrison,2017,rank_adj_supply_hr,42
@@ -3122,15 +3122,15 @@ Mower,2015,rank_totcost_ccc,21
 Mower,2015,rank_totcost_hr,74
 Mower,2015,rank_totcost_public,23
 Mower,2015,rank_quality_premium,79
-Mower,2016,rank_adj_supply_any,82
-Mower,2016,rank_adj_supply_ccc,53
-Mower,2016,rank_adj_supply_hr,36
-Mower,2016,rank_adj_supply_public,51
-Mower,2016,rank_totcost_any,31
-Mower,2016,rank_totcost_ccc,4
-Mower,2016,rank_totcost_hr,4
-Mower,2016,rank_totcost_public,19
-Mower,2016,rank_quality_premium,3
+Mower,2016,rank_adj_supply_any,79
+Mower,2016,rank_adj_supply_ccc,54
+Mower,2016,rank_adj_supply_hr,63
+Mower,2016,rank_adj_supply_public,45
+Mower,2016,rank_totcost_any,36
+Mower,2016,rank_totcost_ccc,43
+Mower,2016,rank_totcost_hr,44
+Mower,2016,rank_totcost_public,11
+Mower,2016,rank_quality_premium,58
 Mower,2017,rank_adj_supply_any,79
 Mower,2017,rank_adj_supply_ccc,48
 Mower,2017,rank_adj_supply_hr,45
@@ -3185,15 +3185,15 @@ Murray,2015,rank_totcost_ccc,22
 Murray,2015,rank_totcost_hr,42
 Murray,2015,rank_totcost_public,81
 Murray,2015,rank_quality_premium,60
-Murray,2016,rank_adj_supply_any,15
-Murray,2016,rank_adj_supply_ccc,27
-Murray,2016,rank_adj_supply_hr,72
-Murray,2016,rank_adj_supply_public,37
-Murray,2016,rank_totcost_any,16
-Murray,2016,rank_totcost_ccc,63
-Murray,2016,rank_totcost_hr,82
-Murray,2016,rank_totcost_public,77
-Murray,2016,rank_quality_premium,85
+Murray,2016,rank_adj_supply_any,14
+Murray,2016,rank_adj_supply_ccc,64
+Murray,2016,rank_adj_supply_hr,58
+Murray,2016,rank_adj_supply_public,3
+Murray,2016,rank_totcost_any,8
+Murray,2016,rank_totcost_ccc,81
+Murray,2016,rank_totcost_hr,75
+Murray,2016,rank_totcost_public,38
+Murray,2016,rank_quality_premium,80
 Murray,2017,rank_adj_supply_any,11
 Murray,2017,rank_adj_supply_ccc,22
 Murray,2017,rank_adj_supply_hr,73
@@ -3248,15 +3248,15 @@ Nicollet,2015,rank_totcost_ccc,41
 Nicollet,2015,rank_totcost_hr,12
 Nicollet,2015,rank_totcost_public,12
 Nicollet,2015,rank_quality_premium,2
-Nicollet,2016,rank_adj_supply_any,37
-Nicollet,2016,rank_adj_supply_ccc,8
-Nicollet,2016,rank_adj_supply_hr,66
-Nicollet,2016,rank_adj_supply_public,70
-Nicollet,2016,rank_totcost_any,72
-Nicollet,2016,rank_totcost_ccc,17
-Nicollet,2016,rank_totcost_hr,21
-Nicollet,2016,rank_totcost_public,24
-Nicollet,2016,rank_quality_premium,12
+Nicollet,2016,rank_adj_supply_any,36
+Nicollet,2016,rank_adj_supply_ccc,12
+Nicollet,2016,rank_adj_supply_hr,55
+Nicollet,2016,rank_adj_supply_public,79
+Nicollet,2016,rank_totcost_any,71
+Nicollet,2016,rank_totcost_ccc,32
+Nicollet,2016,rank_totcost_hr,27
+Nicollet,2016,rank_totcost_public,65
+Nicollet,2016,rank_quality_premium,31
 Nicollet,2017,rank_adj_supply_any,22
 Nicollet,2017,rank_adj_supply_ccc,7
 Nicollet,2017,rank_adj_supply_hr,55
@@ -3312,14 +3312,14 @@ Nobles,2015,rank_totcost_hr,5
 Nobles,2015,rank_totcost_public,38
 Nobles,2015,rank_quality_premium,10
 Nobles,2016,rank_adj_supply_any,81
-Nobles,2016,rank_adj_supply_ccc,62
-Nobles,2016,rank_adj_supply_hr,52
-Nobles,2016,rank_adj_supply_public,30
-Nobles,2016,rank_totcost_any,10
-Nobles,2016,rank_totcost_ccc,18
-Nobles,2016,rank_totcost_hr,3
-Nobles,2016,rank_totcost_public,65
-Nobles,2016,rank_quality_premium,13
+Nobles,2016,rank_adj_supply_ccc,53
+Nobles,2016,rank_adj_supply_hr,76
+Nobles,2016,rank_adj_supply_public,22
+Nobles,2016,rank_totcost_any,28
+Nobles,2016,rank_totcost_ccc,55
+Nobles,2016,rank_totcost_hr,77
+Nobles,2016,rank_totcost_public,74
+Nobles,2016,rank_quality_premium,77
 Nobles,2017,rank_adj_supply_any,80
 Nobles,2017,rank_adj_supply_ccc,58
 Nobles,2017,rank_adj_supply_hr,57
@@ -3374,15 +3374,15 @@ Norman,2015,rank_totcost_ccc,60
 Norman,2015,rank_totcost_hr,53
 Norman,2015,rank_totcost_public,67
 Norman,2015,rank_quality_premium,54
-Norman,2016,rank_adj_supply_any,12
-Norman,2016,rank_adj_supply_ccc,50
-Norman,2016,rank_adj_supply_hr,76
-Norman,2016,rank_adj_supply_public,3
-Norman,2016,rank_totcost_any,8
-Norman,2016,rank_totcost_ccc,40
-Norman,2016,rank_totcost_hr,7
-Norman,2016,rank_totcost_public,79
-Norman,2016,rank_quality_premium,49
+Norman,2016,rank_adj_supply_any,66
+Norman,2016,rank_adj_supply_ccc,32
+Norman,2016,rank_adj_supply_hr,
+Norman,2016,rank_adj_supply_public,81
+Norman,2016,rank_totcost_any,24
+Norman,2016,rank_totcost_ccc,2
+Norman,2016,rank_totcost_hr,
+Norman,2016,rank_totcost_public,81
+Norman,2016,rank_quality_premium,
 Norman,2017,rank_adj_supply_any,8
 Norman,2017,rank_adj_supply_ccc,47
 Norman,2017,rank_adj_supply_hr,78
@@ -3437,15 +3437,15 @@ Olmsted,2015,rank_totcost_ccc,74
 Olmsted,2015,rank_totcost_hr,76
 Olmsted,2015,rank_totcost_public,5
 Olmsted,2015,rank_quality_premium,62
-Olmsted,2016,rank_adj_supply_any,20
-Olmsted,2016,rank_adj_supply_ccc,5
-Olmsted,2016,rank_adj_supply_hr,5
-Olmsted,2016,rank_adj_supply_public,40
+Olmsted,2016,rank_adj_supply_any,10
+Olmsted,2016,rank_adj_supply_ccc,7
+Olmsted,2016,rank_adj_supply_hr,9
+Olmsted,2016,rank_adj_supply_public,56
 Olmsted,2016,rank_totcost_any,80
-Olmsted,2016,rank_totcost_ccc,46
-Olmsted,2016,rank_totcost_hr,61
-Olmsted,2016,rank_totcost_public,7
-Olmsted,2016,rank_quality_premium,33
+Olmsted,2016,rank_totcost_ccc,59
+Olmsted,2016,rank_totcost_hr,59
+Olmsted,2016,rank_totcost_public,15
+Olmsted,2016,rank_quality_premium,38
 Olmsted,2017,rank_adj_supply_any,12
 Olmsted,2017,rank_adj_supply_ccc,9
 Olmsted,2017,rank_adj_supply_hr,6
@@ -3500,15 +3500,15 @@ Otter Tail,2015,rank_totcost_ccc,31
 Otter Tail,2015,rank_totcost_hr,23
 Otter Tail,2015,rank_totcost_public,54
 Otter Tail,2015,rank_quality_premium,23
-Otter Tail,2016,rank_adj_supply_any,70
-Otter Tail,2016,rank_adj_supply_ccc,66
-Otter Tail,2016,rank_adj_supply_hr,63
-Otter Tail,2016,rank_adj_supply_public,48
-Otter Tail,2016,rank_totcost_any,35
-Otter Tail,2016,rank_totcost_ccc,52
-Otter Tail,2016,rank_totcost_hr,40
-Otter Tail,2016,rank_totcost_public,64
-Otter Tail,2016,rank_quality_premium,61
+Otter Tail,2016,rank_adj_supply_any,77
+Otter Tail,2016,rank_adj_supply_ccc,52
+Otter Tail,2016,rank_adj_supply_hr,56
+Otter Tail,2016,rank_adj_supply_public,51
+Otter Tail,2016,rank_totcost_any,33
+Otter Tail,2016,rank_totcost_ccc,8
+Otter Tail,2016,rank_totcost_hr,39
+Otter Tail,2016,rank_totcost_public,66
+Otter Tail,2016,rank_quality_premium,56
 Otter Tail,2017,rank_adj_supply_any,77
 Otter Tail,2017,rank_adj_supply_ccc,65
 Otter Tail,2017,rank_adj_supply_hr,35
@@ -3563,15 +3563,15 @@ Pennington,2015,rank_totcost_ccc,15
 Pennington,2015,rank_totcost_hr,52
 Pennington,2015,rank_totcost_public,49
 Pennington,2015,rank_quality_premium,61
-Pennington,2016,rank_adj_supply_any,19
-Pennington,2016,rank_adj_supply_ccc,39
-Pennington,2016,rank_adj_supply_hr,69
-Pennington,2016,rank_adj_supply_public,63
-Pennington,2016,rank_totcost_any,67
-Pennington,2016,rank_totcost_ccc,25
-Pennington,2016,rank_totcost_hr,36
-Pennington,2016,rank_totcost_public,62
-Pennington,2016,rank_quality_premium,23
+Pennington,2016,rank_adj_supply_any,80
+Pennington,2016,rank_adj_supply_ccc,78.5
+Pennington,2016,rank_adj_supply_hr,50
+Pennington,2016,rank_adj_supply_public,50
+Pennington,2016,rank_totcost_any,54
+Pennington,2016,rank_totcost_ccc,86
+Pennington,2016,rank_totcost_hr,32
+Pennington,2016,rank_totcost_public,26
+Pennington,2016,rank_quality_premium,21
 Pennington,2017,rank_adj_supply_any,17
 Pennington,2017,rank_adj_supply_ccc,38
 Pennington,2017,rank_adj_supply_hr,71
@@ -3626,15 +3626,15 @@ Pine,2015,rank_totcost_ccc,20
 Pine,2015,rank_totcost_hr,28
 Pine,2015,rank_totcost_public,74
 Pine,2015,rank_quality_premium,11
-Pine,2016,rank_adj_supply_any,85
-Pine,2016,rank_adj_supply_ccc,61
-Pine,2016,rank_adj_supply_hr,28
-Pine,2016,rank_adj_supply_public,58
-Pine,2016,rank_totcost_any,58
-Pine,2016,rank_totcost_ccc,48
-Pine,2016,rank_totcost_hr,31
-Pine,2016,rank_totcost_public,55
-Pine,2016,rank_quality_premium,47
+Pine,2016,rank_adj_supply_any,82
+Pine,2016,rank_adj_supply_ccc,55
+Pine,2016,rank_adj_supply_hr,40
+Pine,2016,rank_adj_supply_public,38
+Pine,2016,rank_totcost_any,56
+Pine,2016,rank_totcost_ccc,42
+Pine,2016,rank_totcost_hr,25
+Pine,2016,rank_totcost_public,61
+Pine,2016,rank_quality_premium,43
 Pine,2017,rank_adj_supply_any,82
 Pine,2017,rank_adj_supply_ccc,68
 Pine,2017,rank_adj_supply_hr,54
@@ -3689,15 +3689,15 @@ Pipestone,2015,rank_totcost_ccc,18
 Pipestone,2015,rank_totcost_hr,70
 Pipestone,2015,rank_totcost_public,64
 Pipestone,2015,rank_quality_premium,83
-Pipestone,2016,rank_adj_supply_any,23
-Pipestone,2016,rank_adj_supply_ccc,56
-Pipestone,2016,rank_adj_supply_hr,64
-Pipestone,2016,rank_adj_supply_public,19
-Pipestone,2016,rank_totcost_any,14
-Pipestone,2016,rank_totcost_ccc,54
-Pipestone,2016,rank_totcost_hr,27
-Pipestone,2016,rank_totcost_public,25
-Pipestone,2016,rank_quality_premium,65
+Pipestone,2016,rank_adj_supply_any,29
+Pipestone,2016,rank_adj_supply_ccc,78.5
+Pipestone,2016,rank_adj_supply_hr,76
+Pipestone,2016,rank_adj_supply_public,13
+Pipestone,2016,rank_totcost_any,18
+Pipestone,2016,rank_totcost_ccc,71
+Pipestone,2016,rank_totcost_hr,80
+Pipestone,2016,rank_totcost_public,23
+Pipestone,2016,rank_quality_premium,83
 Pipestone,2017,rank_adj_supply_any,56
 Pipestone,2017,rank_adj_supply_ccc,54
 Pipestone,2017,rank_adj_supply_hr,77
@@ -3752,15 +3752,15 @@ Polk,2015,rank_totcost_ccc,32
 Polk,2015,rank_totcost_hr,15
 Polk,2015,rank_totcost_public,32
 Polk,2015,rank_quality_premium,8
-Polk,2016,rank_adj_supply_any,24
-Polk,2016,rank_adj_supply_ccc,16
-Polk,2016,rank_adj_supply_hr,9
-Polk,2016,rank_adj_supply_public,41
-Polk,2016,rank_totcost_any,60
-Polk,2016,rank_totcost_ccc,44
-Polk,2016,rank_totcost_hr,38
-Polk,2016,rank_totcost_public,60
-Polk,2016,rank_quality_premium,40
+Polk,2016,rank_adj_supply_any,31
+Polk,2016,rank_adj_supply_ccc,34
+Polk,2016,rank_adj_supply_hr,17
+Polk,2016,rank_adj_supply_public,33
+Polk,2016,rank_totcost_any,55
+Polk,2016,rank_totcost_ccc,36
+Polk,2016,rank_totcost_hr,18
+Polk,2016,rank_totcost_public,45
+Polk,2016,rank_quality_premium,33
 Polk,2017,rank_adj_supply_any,10
 Polk,2017,rank_adj_supply_ccc,11
 Polk,2017,rank_adj_supply_hr,5
@@ -3815,15 +3815,15 @@ Pope,2015,rank_totcost_ccc,35
 Pope,2015,rank_totcost_hr,45
 Pope,2015,rank_totcost_public,83
 Pope,2015,rank_quality_premium,59
-Pope,2016,rank_adj_supply_any,73
-Pope,2016,rank_adj_supply_ccc,47
-Pope,2016,rank_adj_supply_hr,74
-Pope,2016,rank_adj_supply_public,69
-Pope,2016,rank_totcost_any,46
-Pope,2016,rank_totcost_ccc,41
-Pope,2016,rank_totcost_hr,71
-Pope,2016,rank_totcost_public,59
-Pope,2016,rank_quality_premium,70
+Pope,2016,rank_adj_supply_any,56
+Pope,2016,rank_adj_supply_ccc,28
+Pope,2016,rank_adj_supply_hr,59
+Pope,2016,rank_adj_supply_public,46
+Pope,2016,rank_totcost_any,53
+Pope,2016,rank_totcost_ccc,26
+Pope,2016,rank_totcost_hr,13
+Pope,2016,rank_totcost_public,52
+Pope,2016,rank_quality_premium,24
 Pope,2017,rank_adj_supply_any,66
 Pope,2017,rank_adj_supply_ccc,44
 Pope,2017,rank_adj_supply_hr,81
@@ -3878,15 +3878,15 @@ Ramsey,2015,rank_totcost_ccc,80
 Ramsey,2015,rank_totcost_hr,82
 Ramsey,2015,rank_totcost_public,4
 Ramsey,2015,rank_quality_premium,44
-Ramsey,2016,rank_adj_supply_any,78
-Ramsey,2016,rank_adj_supply_ccc,7
-Ramsey,2016,rank_adj_supply_hr,6
-Ramsey,2016,rank_adj_supply_public,62
+Ramsey,2016,rank_adj_supply_any,8
+Ramsey,2016,rank_adj_supply_ccc,5
+Ramsey,2016,rank_adj_supply_hr,5
+Ramsey,2016,rank_adj_supply_public,25
 Ramsey,2016,rank_totcost_any,84
-Ramsey,2016,rank_totcost_ccc,55
-Ramsey,2016,rank_totcost_hr,68
-Ramsey,2016,rank_totcost_public,2
-Ramsey,2016,rank_quality_premium,11
+Ramsey,2016,rank_totcost_ccc,67
+Ramsey,2016,rank_totcost_hr,63
+Ramsey,2016,rank_totcost_public,1
+Ramsey,2016,rank_quality_premium,15
 Ramsey,2017,rank_adj_supply_any,64
 Ramsey,2017,rank_adj_supply_ccc,5
 Ramsey,2017,rank_adj_supply_hr,10
@@ -3942,14 +3942,14 @@ Red Lake,2015,rank_totcost_hr,22
 Red Lake,2015,rank_totcost_public,27
 Red Lake,2015,rank_quality_premium,57
 Red Lake,2016,rank_adj_supply_any,1
-Red Lake,2016,rank_adj_supply_ccc,42
-Red Lake,2016,rank_adj_supply_hr,49
+Red Lake,2016,rank_adj_supply_ccc,78.5
+Red Lake,2016,rank_adj_supply_hr,76
 Red Lake,2016,rank_adj_supply_public,1
-Red Lake,2016,rank_totcost_any,21
-Red Lake,2016,rank_totcost_ccc,69
-Red Lake,2016,rank_totcost_hr,26
-Red Lake,2016,rank_totcost_public,17
-Red Lake,2016,rank_quality_premium,63
+Red Lake,2016,rank_totcost_any,1
+Red Lake,2016,rank_totcost_ccc,84
+Red Lake,2016,rank_totcost_hr,69
+Red Lake,2016,rank_totcost_public,27
+Red Lake,2016,rank_quality_premium,47
 Red Lake,2017,rank_adj_supply_any,1
 Red Lake,2017,rank_adj_supply_ccc,26
 Red Lake,2017,rank_adj_supply_hr,49
@@ -4004,15 +4004,15 @@ Redwood,2015,rank_totcost_ccc,26
 Redwood,2015,rank_totcost_hr,27
 Redwood,2015,rank_totcost_public,78
 Redwood,2015,rank_quality_premium,46
-Redwood,2016,rank_adj_supply_any,48
-Redwood,2016,rank_adj_supply_ccc,74
-Redwood,2016,rank_adj_supply_hr,54
-Redwood,2016,rank_adj_supply_public,43
-Redwood,2016,rank_totcost_any,19
-Redwood,2016,rank_totcost_ccc,74
-Redwood,2016,rank_totcost_hr,42
-Redwood,2016,rank_totcost_public,75
-Redwood,2016,rank_quality_premium,68
+Redwood,2016,rank_adj_supply_any,83
+Redwood,2016,rank_adj_supply_ccc,62
+Redwood,2016,rank_adj_supply_hr,47
+Redwood,2016,rank_adj_supply_public,75
+Redwood,2016,rank_totcost_any,34
+Redwood,2016,rank_totcost_ccc,22
+Redwood,2016,rank_totcost_hr,33
+Redwood,2016,rank_totcost_public,59
+Redwood,2016,rank_quality_premium,59
 Redwood,2017,rank_adj_supply_any,54
 Redwood,2017,rank_adj_supply_ccc,73
 Redwood,2017,rank_adj_supply_hr,64
@@ -4067,15 +4067,15 @@ Renville,2015,rank_totcost_ccc,28
 Renville,2015,rank_totcost_hr,56
 Renville,2015,rank_totcost_public,45
 Renville,2015,rank_quality_premium,69
-Renville,2016,rank_adj_supply_any,31
-Renville,2016,rank_adj_supply_ccc,31
-Renville,2016,rank_adj_supply_hr,75
-Renville,2016,rank_adj_supply_public,35
-Renville,2016,rank_totcost_any,11
-Renville,2016,rank_totcost_ccc,30
-Renville,2016,rank_totcost_hr,60
-Renville,2016,rank_totcost_public,28
-Renville,2016,rank_quality_premium,78
+Renville,2016,rank_adj_supply_any,54
+Renville,2016,rank_adj_supply_ccc,66
+Renville,2016,rank_adj_supply_hr,61
+Renville,2016,rank_adj_supply_public,28
+Renville,2016,rank_totcost_any,12
+Renville,2016,rank_totcost_ccc,58
+Renville,2016,rank_totcost_hr,47
+Renville,2016,rank_totcost_public,42
+Renville,2016,rank_quality_premium,68
 Renville,2017,rank_adj_supply_any,28
 Renville,2017,rank_adj_supply_ccc,35
 Renville,2017,rank_adj_supply_hr,75
@@ -4130,15 +4130,15 @@ Rice,2015,rank_totcost_ccc,46
 Rice,2015,rank_totcost_hr,18
 Rice,2015,rank_totcost_public,6
 Rice,2015,rank_quality_premium,3
-Rice,2016,rank_adj_supply_any,80
-Rice,2016,rank_adj_supply_ccc,37
-Rice,2016,rank_adj_supply_hr,56
-Rice,2016,rank_adj_supply_public,76
-Rice,2016,rank_totcost_any,74
-Rice,2016,rank_totcost_ccc,9
-Rice,2016,rank_totcost_hr,14
-Rice,2016,rank_totcost_public,10
-Rice,2016,rank_quality_premium,1
+Rice,2016,rank_adj_supply_any,55
+Rice,2016,rank_adj_supply_ccc,39
+Rice,2016,rank_adj_supply_hr,36
+Rice,2016,rank_adj_supply_public,72
+Rice,2016,rank_totcost_any,72
+Rice,2016,rank_totcost_ccc,25
+Rice,2016,rank_totcost_hr,15
+Rice,2016,rank_totcost_public,25
+Rice,2016,rank_quality_premium,2
 Rice,2017,rank_adj_supply_any,74
 Rice,2017,rank_adj_supply_ccc,36
 Rice,2017,rank_adj_supply_hr,40
@@ -4193,15 +4193,15 @@ Rock,2015,rank_totcost_ccc,34
 Rock,2015,rank_totcost_hr,44
 Rock,2015,rank_totcost_public,71
 Rock,2015,rank_quality_premium,73
-Rock,2016,rank_adj_supply_any,25
-Rock,2016,rank_adj_supply_ccc,82
-Rock,2016,rank_adj_supply_hr,83.5
-Rock,2016,rank_adj_supply_public,60
-Rock,2016,rank_totcost_any,29
-Rock,2016,rank_totcost_ccc,77
-Rock,2016,rank_totcost_hr,81
-Rock,2016,rank_totcost_public,47
-Rock,2016,rank_quality_premium,81
+Rock,2016,rank_adj_supply_any,16
+Rock,2016,rank_adj_supply_ccc,78.5
+Rock,2016,rank_adj_supply_hr,76
+Rock,2016,rank_adj_supply_public,31
+Rock,2016,rank_totcost_any,20
+Rock,2016,rank_totcost_ccc,82
+Rock,2016,rank_totcost_hr,78
+Rock,2016,rank_totcost_public,14
+Rock,2016,rank_quality_premium,76
 Rock,2017,rank_adj_supply_any,67
 Rock,2017,rank_adj_supply_ccc,82
 Rock,2017,rank_adj_supply_hr,
@@ -4256,15 +4256,15 @@ Roseau,2015,rank_totcost_ccc,86
 Roseau,2015,rank_totcost_hr,63
 Roseau,2015,rank_totcost_public,66
 Roseau,2015,rank_quality_premium,81
-Roseau,2016,rank_adj_supply_any,33
-Roseau,2016,rank_adj_supply_ccc,82
-Roseau,2016,rank_adj_supply_hr,67
-Roseau,2016,rank_adj_supply_public,47
-Roseau,2016,rank_totcost_any,28
-Roseau,2016,rank_totcost_ccc,87
-Roseau,2016,rank_totcost_hr,84
-Roseau,2016,rank_totcost_public,80
-Roseau,2016,rank_quality_premium,84
+Roseau,2016,rank_adj_supply_any,65
+Roseau,2016,rank_adj_supply_ccc,78.5
+Roseau,2016,rank_adj_supply_hr,52
+Roseau,2016,rank_adj_supply_public,67
+Roseau,2016,rank_totcost_any,26
+Roseau,2016,rank_totcost_ccc,85
+Roseau,2016,rank_totcost_hr,81
+Roseau,2016,rank_totcost_public,86
+Roseau,2016,rank_quality_premium,78
 Roseau,2017,rank_adj_supply_any,50
 Roseau,2017,rank_adj_supply_ccc,82
 Roseau,2017,rank_adj_supply_hr,59
@@ -4319,15 +4319,15 @@ Scott,2015,rank_totcost_ccc,81
 Scott,2015,rank_totcost_hr,80
 Scott,2015,rank_totcost_public,25
 Scott,2015,rank_quality_premium,56
-Scott,2016,rank_adj_supply_any,54
-Scott,2016,rank_adj_supply_ccc,13
-Scott,2016,rank_adj_supply_hr,34
-Scott,2016,rank_adj_supply_public,85
-Scott,2016,rank_totcost_any,82
-Scott,2016,rank_totcost_ccc,51
-Scott,2016,rank_totcost_hr,69
-Scott,2016,rank_totcost_public,8
-Scott,2016,rank_quality_premium,21
+Scott,2016,rank_adj_supply_any,12
+Scott,2016,rank_adj_supply_ccc,15
+Scott,2016,rank_adj_supply_hr,33
+Scott,2016,rank_adj_supply_public,68
+Scott,2016,rank_totcost_any,81
+Scott,2016,rank_totcost_ccc,61
+Scott,2016,rank_totcost_hr,57
+Scott,2016,rank_totcost_public,18
+Scott,2016,rank_quality_premium,12
 Scott,2017,rank_adj_supply_any,44
 Scott,2017,rank_adj_supply_ccc,16
 Scott,2017,rank_adj_supply_hr,31
@@ -4382,15 +4382,15 @@ Sherburne,2015,rank_totcost_ccc,68
 Sherburne,2015,rank_totcost_hr,75
 Sherburne,2015,rank_totcost_public,34
 Sherburne,2015,rank_quality_premium,65
-Sherburne,2016,rank_adj_supply_any,61
-Sherburne,2016,rank_adj_supply_ccc,20
-Sherburne,2016,rank_adj_supply_hr,58
-Sherburne,2016,rank_adj_supply_public,84
-Sherburne,2016,rank_totcost_any,78
-Sherburne,2016,rank_totcost_ccc,32
-Sherburne,2016,rank_totcost_hr,55
-Sherburne,2016,rank_totcost_public,21
-Sherburne,2016,rank_quality_premium,22
+Sherburne,2016,rank_adj_supply_any,13
+Sherburne,2016,rank_adj_supply_ccc,13
+Sherburne,2016,rank_adj_supply_hr,51
+Sherburne,2016,rank_adj_supply_public,69
+Sherburne,2016,rank_totcost_any,77
+Sherburne,2016,rank_totcost_ccc,52
+Sherburne,2016,rank_totcost_hr,37
+Sherburne,2016,rank_totcost_public,22
+Sherburne,2016,rank_quality_premium,8
 Sherburne,2017,rank_adj_supply_any,62
 Sherburne,2017,rank_adj_supply_ccc,18
 Sherburne,2017,rank_adj_supply_hr,58
@@ -4445,15 +4445,15 @@ Sibley,2015,rank_totcost_ccc,72
 Sibley,2015,rank_totcost_hr,68
 Sibley,2015,rank_totcost_public,10
 Sibley,2015,rank_quality_premium,77
-Sibley,2016,rank_adj_supply_any,39
-Sibley,2016,rank_adj_supply_ccc,75
-Sibley,2016,rank_adj_supply_hr,61
-Sibley,2016,rank_adj_supply_public,39
-Sibley,2016,rank_totcost_any,27
-Sibley,2016,rank_totcost_ccc,65
-Sibley,2016,rank_totcost_hr,12
-Sibley,2016,rank_totcost_public,12
-Sibley,2016,rank_quality_premium,38
+Sibley,2016,rank_adj_supply_any,72
+Sibley,2016,rank_adj_supply_ccc,63
+Sibley,2016,rank_adj_supply_hr,60
+Sibley,2016,rank_adj_supply_public,77
+Sibley,2016,rank_totcost_any,22
+Sibley,2016,rank_totcost_ccc,60
+Sibley,2016,rank_totcost_hr,54
+Sibley,2016,rank_totcost_public,70
+Sibley,2016,rank_quality_premium,65
 Sibley,2017,rank_adj_supply_any,48
 Sibley,2017,rank_adj_supply_ccc,74
 Sibley,2017,rank_adj_supply_hr,61
@@ -4508,15 +4508,15 @@ St. Louis,2015,rank_totcost_ccc,30
 St. Louis,2015,rank_totcost_hr,41
 St. Louis,2015,rank_totcost_public,15
 St. Louis,2015,rank_quality_premium,29
-St. Louis,2016,rank_adj_supply_any,63
-St. Louis,2016,rank_adj_supply_ccc,18
-St. Louis,2016,rank_adj_supply_hr,44
-St. Louis,2016,rank_adj_supply_public,36
-St. Louis,2016,rank_totcost_any,44
-St. Louis,2016,rank_totcost_ccc,12
-St. Louis,2016,rank_totcost_hr,30
-St. Louis,2016,rank_totcost_public,34
-St. Louis,2016,rank_quality_premium,52
+St. Louis,2016,rank_adj_supply_any,41
+St. Louis,2016,rank_adj_supply_ccc,23
+St. Louis,2016,rank_adj_supply_hr,34
+St. Louis,2016,rank_adj_supply_public,14
+St. Louis,2016,rank_totcost_any,38
+St. Louis,2016,rank_totcost_ccc,9
+St. Louis,2016,rank_totcost_hr,31
+St. Louis,2016,rank_totcost_public,37
+St. Louis,2016,rank_quality_premium,49
 St. Louis,2017,rank_adj_supply_any,38
 St. Louis,2017,rank_adj_supply_ccc,13
 St. Louis,2017,rank_adj_supply_hr,37
@@ -4571,15 +4571,15 @@ Stearns,2015,rank_totcost_ccc,56
 Stearns,2015,rank_totcost_hr,51
 Stearns,2015,rank_totcost_public,29
 Stearns,2015,rank_quality_premium,43
-Stearns,2016,rank_adj_supply_any,38
-Stearns,2016,rank_adj_supply_ccc,22
-Stearns,2016,rank_adj_supply_hr,31
-Stearns,2016,rank_adj_supply_public,71
-Stearns,2016,rank_totcost_any,71
-Stearns,2016,rank_totcost_ccc,26
-Stearns,2016,rank_totcost_hr,57
-Stearns,2016,rank_totcost_public,27
-Stearns,2016,rank_quality_premium,51
+Stearns,2016,rank_adj_supply_any,20
+Stearns,2016,rank_adj_supply_ccc,26
+Stearns,2016,rank_adj_supply_hr,24
+Stearns,2016,rank_adj_supply_public,54
+Stearns,2016,rank_totcost_any,65
+Stearns,2016,rank_totcost_ccc,48
+Stearns,2016,rank_totcost_hr,46
+Stearns,2016,rank_totcost_public,24
+Stearns,2016,rank_quality_premium,37
 Stearns,2017,rank_adj_supply_any,27
 Stearns,2017,rank_adj_supply_ccc,23
 Stearns,2017,rank_adj_supply_hr,32
@@ -4634,15 +4634,15 @@ Steele,2015,rank_totcost_ccc,67
 Steele,2015,rank_totcost_hr,65
 Steele,2015,rank_totcost_public,7
 Steele,2015,rank_quality_premium,74
-Steele,2016,rank_adj_supply_any,22
-Steele,2016,rank_adj_supply_ccc,23
-Steele,2016,rank_adj_supply_hr,29
-Steele,2016,rank_adj_supply_public,61
-Steele,2016,rank_totcost_any,64
-Steele,2016,rank_totcost_ccc,27
-Steele,2016,rank_totcost_hr,54
-Steele,2016,rank_totcost_public,3
-Steele,2016,rank_quality_premium,55
+Steele,2016,rank_adj_supply_any,40
+Steele,2016,rank_adj_supply_ccc,40
+Steele,2016,rank_adj_supply_hr,76
+Steele,2016,rank_adj_supply_public,80
+Steele,2016,rank_totcost_any,62
+Steele,2016,rank_totcost_ccc,46
+Steele,2016,rank_totcost_hr,64
+Steele,2016,rank_totcost_public,50
+Steele,2016,rank_quality_premium,63
 Steele,2017,rank_adj_supply_any,16
 Steele,2017,rank_adj_supply_ccc,21
 Steele,2017,rank_adj_supply_hr,22
@@ -4697,15 +4697,15 @@ Stevens,2015,rank_totcost_ccc,7
 Stevens,2015,rank_totcost_hr,9
 Stevens,2015,rank_totcost_public,16
 Stevens,2015,rank_quality_premium,32
-Stevens,2016,rank_adj_supply_any,17
-Stevens,2016,rank_adj_supply_ccc,51
-Stevens,2016,rank_adj_supply_hr,17
-Stevens,2016,rank_adj_supply_public,16
-Stevens,2016,rank_totcost_any,3
-Stevens,2016,rank_totcost_ccc,13
-Stevens,2016,rank_totcost_hr,6
-Stevens,2016,rank_totcost_public,38
-Stevens,2016,rank_quality_premium,62
+Stevens,2016,rank_adj_supply_any,9
+Stevens,2016,rank_adj_supply_ccc,36
+Stevens,2016,rank_adj_supply_hr,10
+Stevens,2016,rank_adj_supply_public,32
+Stevens,2016,rank_totcost_any,13
+Stevens,2016,rank_totcost_ccc,14
+Stevens,2016,rank_totcost_hr,3
+Stevens,2016,rank_totcost_public,12
+Stevens,2016,rank_quality_premium,57
 Stevens,2017,rank_adj_supply_any,58
 Stevens,2017,rank_adj_supply_ccc,49
 Stevens,2017,rank_adj_supply_hr,67
@@ -4760,15 +4760,15 @@ Swift,2015,rank_totcost_ccc,9
 Swift,2015,rank_totcost_hr,6
 Swift,2015,rank_totcost_public,87
 Swift,2015,rank_quality_premium,14
-Swift,2016,rank_adj_supply_any,18
-Swift,2016,rank_adj_supply_ccc,41
-Swift,2016,rank_adj_supply_hr,80
-Swift,2016,rank_adj_supply_public,14
-Swift,2016,rank_totcost_any,18
-Swift,2016,rank_totcost_ccc,61
-Swift,2016,rank_totcost_hr,76
-Swift,2016,rank_totcost_public,82
-Swift,2016,rank_quality_premium,76
+Swift,2016,rank_adj_supply_any,17
+Swift,2016,rank_adj_supply_ccc,19
+Swift,2016,rank_adj_supply_hr,66
+Swift,2016,rank_adj_supply_public,9
+Swift,2016,rank_totcost_any,15
+Swift,2016,rank_totcost_ccc,53
+Swift,2016,rank_totcost_hr,51
+Swift,2016,rank_totcost_public,20
+Swift,2016,rank_quality_premium,36
 Swift,2017,rank_adj_supply_any,21
 Swift,2017,rank_adj_supply_ccc,39
 Swift,2017,rank_adj_supply_hr,80
@@ -4823,15 +4823,15 @@ Todd,2015,rank_totcost_ccc,24
 Todd,2015,rank_totcost_hr,7
 Todd,2015,rank_totcost_public,50
 Todd,2015,rank_quality_premium,13
-Todd,2016,rank_adj_supply_any,76
-Todd,2016,rank_adj_supply_ccc,69
-Todd,2016,rank_adj_supply_hr,42
-Todd,2016,rank_adj_supply_public,27
-Todd,2016,rank_totcost_any,24
-Todd,2016,rank_totcost_ccc,68
-Todd,2016,rank_totcost_hr,58
-Todd,2016,rank_totcost_public,50
-Todd,2016,rank_quality_premium,77
+Todd,2016,rank_adj_supply_any,73
+Todd,2016,rank_adj_supply_ccc,57
+Todd,2016,rank_adj_supply_hr,53
+Todd,2016,rank_adj_supply_public,16
+Todd,2016,rank_totcost_any,41
+Todd,2016,rank_totcost_ccc,65
+Todd,2016,rank_totcost_hr,53
+Todd,2016,rank_totcost_public,51
+Todd,2016,rank_quality_premium,55
 Todd,2017,rank_adj_supply_any,84
 Todd,2017,rank_adj_supply_ccc,72
 Todd,2017,rank_adj_supply_hr,66
@@ -4886,14 +4886,14 @@ Traverse,2015,rank_totcost_ccc,70
 Traverse,2015,rank_totcost_hr,69
 Traverse,2015,rank_totcost_public,30
 Traverse,2015,rank_quality_premium,80
-Traverse,2016,rank_adj_supply_any,10
-Traverse,2016,rank_adj_supply_ccc,82
+Traverse,2016,rank_adj_supply_any,50
+Traverse,2016,rank_adj_supply_ccc,78.5
 Traverse,2016,rank_adj_supply_hr,
-Traverse,2016,rank_adj_supply_public,4
+Traverse,2016,rank_adj_supply_public,84.5
 Traverse,2016,rank_totcost_any,5
-Traverse,2016,rank_totcost_ccc,73
+Traverse,2016,rank_totcost_ccc,68
 Traverse,2016,rank_totcost_hr,
-Traverse,2016,rank_totcost_public,43
+Traverse,2016,rank_totcost_public,85
 Traverse,2016,rank_quality_premium,
 Traverse,2017,rank_adj_supply_any,3
 Traverse,2017,rank_adj_supply_ccc,82
@@ -4949,15 +4949,15 @@ Wabasha,2015,rank_totcost_ccc,53
 Wabasha,2015,rank_totcost_hr,66
 Wabasha,2015,rank_totcost_public,51
 Wabasha,2015,rank_quality_premium,72
-Wabasha,2016,rank_adj_supply_any,35
-Wabasha,2016,rank_adj_supply_ccc,59
+Wabasha,2016,rank_adj_supply_any,52
+Wabasha,2016,rank_adj_supply_ccc,68
 Wabasha,2016,rank_adj_supply_hr,45
-Wabasha,2016,rank_adj_supply_public,57
-Wabasha,2016,rank_totcost_any,54
-Wabasha,2016,rank_totcost_ccc,14
-Wabasha,2016,rank_totcost_hr,23
-Wabasha,2016,rank_totcost_public,51
-Wabasha,2016,rank_quality_premium,46
+Wabasha,2016,rank_adj_supply_public,60
+Wabasha,2016,rank_totcost_any,45
+Wabasha,2016,rank_totcost_ccc,69
+Wabasha,2016,rank_totcost_hr,49
+Wabasha,2016,rank_totcost_public,57
+Wabasha,2016,rank_quality_premium,61
 Wabasha,2017,rank_adj_supply_any,29
 Wabasha,2017,rank_adj_supply_ccc,56
 Wabasha,2017,rank_adj_supply_hr,53
@@ -5012,15 +5012,15 @@ Wadena,2015,rank_totcost_ccc,14
 Wadena,2015,rank_totcost_hr,16
 Wadena,2015,rank_totcost_public,24
 Wadena,2015,rank_quality_premium,21
-Wadena,2016,rank_adj_supply_any,49
-Wadena,2016,rank_adj_supply_ccc,67
-Wadena,2016,rank_adj_supply_hr,59
-Wadena,2016,rank_adj_supply_public,20
-Wadena,2016,rank_totcost_any,17
-Wadena,2016,rank_totcost_ccc,66
-Wadena,2016,rank_totcost_hr,44
-Wadena,2016,rank_totcost_public,52
-Wadena,2016,rank_quality_premium,64
+Wadena,2016,rank_adj_supply_any,64
+Wadena,2016,rank_adj_supply_ccc,61
+Wadena,2016,rank_adj_supply_hr,41
+Wadena,2016,rank_adj_supply_public,19
+Wadena,2016,rank_totcost_any,27
+Wadena,2016,rank_totcost_ccc,38
+Wadena,2016,rank_totcost_hr,5
+Wadena,2016,rank_totcost_public,44
+Wadena,2016,rank_quality_premium,29
 Wadena,2017,rank_adj_supply_any,41
 Wadena,2017,rank_adj_supply_ccc,64
 Wadena,2017,rank_adj_supply_hr,60
@@ -5075,15 +5075,15 @@ Waseca,2015,rank_totcost_ccc,17
 Waseca,2015,rank_totcost_hr,71
 Waseca,2015,rank_totcost_public,26
 Waseca,2015,rank_quality_premium,82
-Waseca,2016,rank_adj_supply_any,65
-Waseca,2016,rank_adj_supply_ccc,58
-Waseca,2016,rank_adj_supply_hr,79
-Waseca,2016,rank_adj_supply_public,56
-Waseca,2016,rank_totcost_any,39
-Waseca,2016,rank_totcost_ccc,3
-Waseca,2016,rank_totcost_hr,74
-Waseca,2016,rank_totcost_public,1
-Waseca,2016,rank_quality_premium,74
+Waseca,2016,rank_adj_supply_any,71
+Waseca,2016,rank_adj_supply_ccc,69
+Waseca,2016,rank_adj_supply_hr,65
+Waseca,2016,rank_adj_supply_public,58
+Waseca,2016,rank_totcost_any,23
+Waseca,2016,rank_totcost_ccc,76
+Waseca,2016,rank_totcost_hr,70
+Waseca,2016,rank_totcost_public,7
+Waseca,2016,rank_quality_premium,67
 Waseca,2017,rank_adj_supply_any,51
 Waseca,2017,rank_adj_supply_ccc,51
 Waseca,2017,rank_adj_supply_hr,79
@@ -5138,15 +5138,15 @@ Washington,2015,rank_totcost_ccc,83
 Washington,2015,rank_totcost_hr,81
 Washington,2015,rank_totcost_public,28
 Washington,2015,rank_quality_premium,51
-Washington,2016,rank_adj_supply_any,59
+Washington,2016,rank_adj_supply_any,15
 Washington,2016,rank_adj_supply_ccc,9
 Washington,2016,rank_adj_supply_hr,15
-Washington,2016,rank_adj_supply_public,68
+Washington,2016,rank_adj_supply_public,49
 Washington,2016,rank_totcost_any,83
-Washington,2016,rank_totcost_ccc,57
-Washington,2016,rank_totcost_hr,67
+Washington,2016,rank_totcost_ccc,72
+Washington,2016,rank_totcost_hr,62
 Washington,2016,rank_totcost_public,6
-Washington,2016,rank_quality_premium,18
+Washington,2016,rank_quality_premium,16
 Washington,2017,rank_adj_supply_any,45
 Washington,2017,rank_adj_supply_ccc,6
 Washington,2017,rank_adj_supply_hr,18
@@ -5201,15 +5201,15 @@ Watonwan,2015,rank_totcost_ccc,1
 Watonwan,2015,rank_totcost_hr,1
 Watonwan,2015,rank_totcost_public,1
 Watonwan,2015,rank_quality_premium,1
-Watonwan,2016,rank_adj_supply_any,84
-Watonwan,2016,rank_adj_supply_ccc,30
-Watonwan,2016,rank_adj_supply_hr,25
-Watonwan,2016,rank_adj_supply_public,78
+Watonwan,2016,rank_adj_supply_any,21
+Watonwan,2016,rank_adj_supply_ccc,11
+Watonwan,2016,rank_adj_supply_hr,16
+Watonwan,2016,rank_adj_supply_public,57
 Watonwan,2016,rank_totcost_any,7
 Watonwan,2016,rank_totcost_ccc,1
 Watonwan,2016,rank_totcost_hr,1
-Watonwan,2016,rank_totcost_public,31
-Watonwan,2016,rank_quality_premium,6
+Watonwan,2016,rank_totcost_public,9
+Watonwan,2016,rank_quality_premium,3
 Watonwan,2017,rank_adj_supply_any,57
 Watonwan,2017,rank_adj_supply_ccc,17
 Watonwan,2017,rank_adj_supply_hr,3
@@ -5264,15 +5264,15 @@ Wilkin,2015,rank_totcost_ccc,59
 Wilkin,2015,rank_totcost_hr,57
 Wilkin,2015,rank_totcost_public,41
 Wilkin,2015,rank_quality_premium,68
-Wilkin,2016,rank_adj_supply_any,34
-Wilkin,2016,rank_adj_supply_ccc,72
-Wilkin,2016,rank_adj_supply_hr,83.5
-Wilkin,2016,rank_adj_supply_public,17
-Wilkin,2016,rank_totcost_any,30
-Wilkin,2016,rank_totcost_ccc,80
-Wilkin,2016,rank_totcost_hr,79
-Wilkin,2016,rank_totcost_public,54
-Wilkin,2016,rank_quality_premium,79
+Wilkin,2016,rank_adj_supply_any,46
+Wilkin,2016,rank_adj_supply_ccc,78.5
+Wilkin,2016,rank_adj_supply_hr,76
+Wilkin,2016,rank_adj_supply_public,84.5
+Wilkin,2016,rank_totcost_any,31
+Wilkin,2016,rank_totcost_ccc,23
+Wilkin,2016,rank_totcost_hr,74
+Wilkin,2016,rank_totcost_public,84
+Wilkin,2016,rank_quality_premium,73
 Wilkin,2017,rank_adj_supply_any,32
 Wilkin,2017,rank_adj_supply_ccc,70
 Wilkin,2017,rank_adj_supply_hr,
@@ -5327,15 +5327,15 @@ Winona,2015,rank_totcost_ccc,50
 Winona,2015,rank_totcost_hr,46
 Winona,2015,rank_totcost_public,37
 Winona,2015,rank_quality_premium,45
-Winona,2016,rank_adj_supply_any,16
-Winona,2016,rank_adj_supply_ccc,15
-Winona,2016,rank_adj_supply_hr,20
-Winona,2016,rank_adj_supply_public,59
+Winona,2016,rank_adj_supply_any,19
+Winona,2016,rank_adj_supply_ccc,16
+Winona,2016,rank_adj_supply_hr,6
+Winona,2016,rank_adj_supply_public,74
 Winona,2016,rank_totcost_any,68
-Winona,2016,rank_totcost_ccc,21
-Winona,2016,rank_totcost_hr,43
-Winona,2016,rank_totcost_public,35
-Winona,2016,rank_quality_premium,26
+Winona,2016,rank_totcost_ccc,29
+Winona,2016,rank_totcost_hr,24
+Winona,2016,rank_totcost_public,54
+Winona,2016,rank_quality_premium,7
 Winona,2017,rank_adj_supply_any,59
 Winona,2017,rank_adj_supply_ccc,33
 Winona,2017,rank_adj_supply_hr,56
@@ -5390,15 +5390,15 @@ Wright,2015,rank_totcost_ccc,73
 Wright,2015,rank_totcost_hr,77
 Wright,2015,rank_totcost_public,31
 Wright,2015,rank_quality_premium,71
-Wright,2016,rank_adj_supply_any,72
-Wright,2016,rank_adj_supply_ccc,35
-Wright,2016,rank_adj_supply_hr,32
-Wright,2016,rank_adj_supply_public,73
-Wright,2016,rank_totcost_any,79
-Wright,2016,rank_totcost_ccc,45
-Wright,2016,rank_totcost_hr,52
-Wright,2016,rank_totcost_public,18
-Wright,2016,rank_quality_premium,9
+Wright,2016,rank_adj_supply_any,33
+Wright,2016,rank_adj_supply_ccc,27
+Wright,2016,rank_adj_supply_hr,25
+Wright,2016,rank_adj_supply_public,66
+Wright,2016,rank_totcost_any,78
+Wright,2016,rank_totcost_ccc,57
+Wright,2016,rank_totcost_hr,36
+Wright,2016,rank_totcost_public,41
+Wright,2016,rank_quality_premium,5
 Wright,2017,rank_adj_supply_any,70
 Wright,2017,rank_adj_supply_ccc,37
 Wright,2017,rank_adj_supply_hr,39
@@ -5453,14 +5453,14 @@ Yellow Medicine,2015,rank_totcost_ccc,19
 Yellow Medicine,2015,rank_totcost_hr,3
 Yellow Medicine,2015,rank_totcost_public,77
 Yellow Medicine,2015,rank_quality_premium,12
-Yellow Medicine,2016,rank_adj_supply_any,9
-Yellow Medicine,2016,rank_adj_supply_ccc,55
-Yellow Medicine,2016,rank_adj_supply_hr,16
-Yellow Medicine,2016,rank_adj_supply_public,33
-Yellow Medicine,2016,rank_totcost_any,12
-Yellow Medicine,2016,rank_totcost_ccc,60
-Yellow Medicine,2016,rank_totcost_hr,11
-Yellow Medicine,2016,rank_totcost_public,72
+Yellow Medicine,2016,rank_adj_supply_any,23
+Yellow Medicine,2016,rank_adj_supply_ccc,37
+Yellow Medicine,2016,rank_adj_supply_hr,11
+Yellow Medicine,2016,rank_adj_supply_public,15
+Yellow Medicine,2016,rank_totcost_any,16
+Yellow Medicine,2016,rank_totcost_ccc,6
+Yellow Medicine,2016,rank_totcost_hr,12
+Yellow Medicine,2016,rank_totcost_public,29
 Yellow Medicine,2016,rank_quality_premium,53
 Yellow Medicine,2017,rank_adj_supply_any,37
 Yellow Medicine,2017,rank_adj_supply_ccc,60
