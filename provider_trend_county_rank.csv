@@ -35,12 +35,12 @@ Aitkin,2017,AvgCapacity(rank),60
 Aitkin,2017,CCCShare(rank),79.5
 Aitkin,2017,HRShare(rank),7
 Aitkin,2017,Public(rank),9
-Aitkin,2018,Weekly Price(rank),51
-Aitkin,2018,TotCapacity(rank),78
-Aitkin,2018,AvgCapacity(rank),60
-Aitkin,2018,CCCShare(rank),79
+Aitkin,2018,Weekly Price(rank),49
+Aitkin,2018,TotCapacity(rank),79
+Aitkin,2018,AvgCapacity(rank),66
+Aitkin,2018,CCCShare(rank),79.5
 Aitkin,2018,HRShare(rank),7.5
-Aitkin,2018,Public(rank),9
+Aitkin,2018,Public(rank),12
 Anoka,2012,Weekly Price(rank),7
 Anoka,2012,TotCapacity(rank),4
 Anoka,2012,AvgCapacity(rank),16
@@ -73,16 +73,16 @@ Anoka,2016,HRShare(rank),41
 Anoka,2016,Public(rank),71
 Anoka,2017,Weekly Price(rank),7
 Anoka,2017,TotCapacity(rank),4
-Anoka,2017,AvgCapacity(rank),11
-Anoka,2017,CCCShare(rank),11
+Anoka,2017,AvgCapacity(rank),10
+Anoka,2017,CCCShare(rank),12
 Anoka,2017,HRShare(rank),34
-Anoka,2017,Public(rank),70
+Anoka,2017,Public(rank),71
 Anoka,2018,Weekly Price(rank),7
 Anoka,2018,TotCapacity(rank),4
-Anoka,2018,AvgCapacity(rank),11
+Anoka,2018,AvgCapacity(rank),13
 Anoka,2018,CCCShare(rank),9
-Anoka,2018,HRShare(rank),28
-Anoka,2018,Public(rank),62
+Anoka,2018,HRShare(rank),33
+Anoka,2018,Public(rank),69
 Becker,2012,Weekly Price(rank),33
 Becker,2012,TotCapacity(rank),31
 Becker,2012,AvgCapacity(rank),57
@@ -114,17 +114,17 @@ Becker,2016,CCCShare(rank),47.5
 Becker,2016,HRShare(rank),6
 Becker,2016,Public(rank),29
 Becker,2017,Weekly Price(rank),32
-Becker,2017,TotCapacity(rank),33
-Becker,2017,AvgCapacity(rank),54
+Becker,2017,TotCapacity(rank),34
+Becker,2017,AvgCapacity(rank),53
 Becker,2017,CCCShare(rank),60
 Becker,2017,HRShare(rank),9
-Becker,2017,Public(rank),31
+Becker,2017,Public(rank),30
 Becker,2018,Weekly Price(rank),37
-Becker,2018,TotCapacity(rank),33
-Becker,2018,AvgCapacity(rank),59
-Becker,2018,CCCShare(rank),70
+Becker,2018,TotCapacity(rank),34
+Becker,2018,AvgCapacity(rank),60
+Becker,2018,CCCShare(rank),65
 Becker,2018,HRShare(rank),4
-Becker,2018,Public(rank),22
+Becker,2018,Public(rank),20
 Beltrami,2012,Weekly Price(rank),35
 Beltrami,2012,TotCapacity(rank),21
 Beltrami,2012,AvgCapacity(rank),21
@@ -157,16 +157,16 @@ Beltrami,2016,HRShare(rank),55
 Beltrami,2016,Public(rank),39
 Beltrami,2017,Weekly Price(rank),37
 Beltrami,2017,TotCapacity(rank),21
-Beltrami,2017,AvgCapacity(rank),37
+Beltrami,2017,AvgCapacity(rank),36
 Beltrami,2017,CCCShare(rank),55.5
 Beltrami,2017,HRShare(rank),47
-Beltrami,2017,Public(rank),47
+Beltrami,2017,Public(rank),46
 Beltrami,2018,Weekly Price(rank),36
 Beltrami,2018,TotCapacity(rank),21
-Beltrami,2018,AvgCapacity(rank),55
-Beltrami,2018,CCCShare(rank),62
-Beltrami,2018,HRShare(rank),44
-Beltrami,2018,Public(rank),61
+Beltrami,2018,AvgCapacity(rank),40
+Beltrami,2018,CCCShare(rank),52
+Beltrami,2018,HRShare(rank),40
+Beltrami,2018,Public(rank),52
 Benton,2012,Weekly Price(rank),24
 Benton,2012,TotCapacity(rank),18
 Benton,2012,AvgCapacity(rank),55
@@ -199,16 +199,16 @@ Benton,2016,HRShare(rank),85.5
 Benton,2016,Public(rank),87
 Benton,2017,Weekly Price(rank),19
 Benton,2017,TotCapacity(rank),16
-Benton,2017,AvgCapacity(rank),50
+Benton,2017,AvgCapacity(rank),49
 Benton,2017,CCCShare(rank),49
 Benton,2017,HRShare(rank),85
 Benton,2017,Public(rank),87
-Benton,2018,Weekly Price(rank),17
+Benton,2018,Weekly Price(rank),18
 Benton,2018,TotCapacity(rank),16
-Benton,2018,AvgCapacity(rank),45
-Benton,2018,CCCShare(rank),49
-Benton,2018,HRShare(rank),80
-Benton,2018,Public(rank),81
+Benton,2018,AvgCapacity(rank),51
+Benton,2018,CCCShare(rank),51
+Benton,2018,HRShare(rank),82
+Benton,2018,Public(rank),84
 Big Stone,2012,Weekly Price(rank),78
 Big Stone,2012,TotCapacity(rank),82
 Big Stone,2012,AvgCapacity(rank),83
@@ -244,13 +244,13 @@ Big Stone,2017,TotCapacity(rank),82
 Big Stone,2017,AvgCapacity(rank),86
 Big Stone,2017,CCCShare(rank),79.5
 Big Stone,2017,HRShare(rank),72
-Big Stone,2017,Public(rank),32.5
-Big Stone,2018,Weekly Price(rank),82
-Big Stone,2018,TotCapacity(rank),80
-Big Stone,2018,AvgCapacity(rank),80
-Big Stone,2018,CCCShare(rank),79
-Big Stone,2018,HRShare(rank),75
-Big Stone,2018,Public(rank),43
+Big Stone,2017,Public(rank),31.5
+Big Stone,2018,Weekly Price(rank),77
+Big Stone,2018,TotCapacity(rank),81
+Big Stone,2018,AvgCapacity(rank),85
+Big Stone,2018,CCCShare(rank),79.5
+Big Stone,2018,HRShare(rank),77.5
+Big Stone,2018,Public(rank),45.5
 Blue Earth,2012,Weekly Price(rank),21
 Blue Earth,2012,TotCapacity(rank),13
 Blue Earth,2012,AvgCapacity(rank),14
@@ -283,16 +283,16 @@ Blue Earth,2016,HRShare(rank),67
 Blue Earth,2016,Public(rank),67
 Blue Earth,2017,Weekly Price(rank),25
 Blue Earth,2017,TotCapacity(rank),12
-Blue Earth,2017,AvgCapacity(rank),7
-Blue Earth,2017,CCCShare(rank),12
-Blue Earth,2017,HRShare(rank),52
-Blue Earth,2017,Public(rank),44
+Blue Earth,2017,AvgCapacity(rank),6
+Blue Earth,2017,CCCShare(rank),11
+Blue Earth,2017,HRShare(rank),56
+Blue Earth,2017,Public(rank),50
 Blue Earth,2018,Weekly Price(rank),25
-Blue Earth,2018,TotCapacity(rank),12
-Blue Earth,2018,AvgCapacity(rank),6
-Blue Earth,2018,CCCShare(rank),8
-Blue Earth,2018,HRShare(rank),51.5
-Blue Earth,2018,Public(rank),41
+Blue Earth,2018,TotCapacity(rank),13
+Blue Earth,2018,AvgCapacity(rank),7
+Blue Earth,2018,CCCShare(rank),10
+Blue Earth,2018,HRShare(rank),56
+Blue Earth,2018,Public(rank),44
 Brown,2012,Weekly Price(rank),51
 Brown,2012,TotCapacity(rank),28
 Brown,2012,AvgCapacity(rank),37
@@ -324,17 +324,17 @@ Brown,2016,CCCShare(rank),45
 Brown,2016,HRShare(rank),31
 Brown,2016,Public(rank),56
 Brown,2017,Weekly Price(rank),56
-Brown,2017,TotCapacity(rank),23
-Brown,2017,AvgCapacity(rank),24
+Brown,2017,TotCapacity(rank),28
+Brown,2017,AvgCapacity(rank),27
 Brown,2017,CCCShare(rank),50
 Brown,2017,HRShare(rank),29
-Brown,2017,Public(rank),48
-Brown,2018,Weekly Price(rank),40
-Brown,2018,TotCapacity(rank),29
-Brown,2018,AvgCapacity(rank),34
-Brown,2018,CCCShare(rank),47.5
-Brown,2018,HRShare(rank),55
-Brown,2018,Public(rank),59
+Brown,2017,Public(rank),47
+Brown,2018,Weekly Price(rank),41
+Brown,2018,TotCapacity(rank),28
+Brown,2018,AvgCapacity(rank),37
+Brown,2018,CCCShare(rank),46
+Brown,2018,HRShare(rank),52.5
+Brown,2018,Public(rank),61
 Carlton,2012,Weekly Price(rank),22
 Carlton,2012,TotCapacity(rank),38
 Carlton,2012,AvgCapacity(rank),18
@@ -365,18 +365,18 @@ Carlton,2016,AvgCapacity(rank),14
 Carlton,2016,CCCShare(rank),14
 Carlton,2016,HRShare(rank),7
 Carlton,2016,Public(rank),30
-Carlton,2017,Weekly Price(rank),36
-Carlton,2017,TotCapacity(rank),32
-Carlton,2017,AvgCapacity(rank),15
+Carlton,2017,Weekly Price(rank),34
+Carlton,2017,TotCapacity(rank),33
+Carlton,2017,AvgCapacity(rank),14
 Carlton,2017,CCCShare(rank),14
 Carlton,2017,HRShare(rank),4
 Carlton,2017,Public(rank),11.5
-Carlton,2018,Weekly Price(rank),50
-Carlton,2018,TotCapacity(rank),34
-Carlton,2018,AvgCapacity(rank),18
-Carlton,2018,CCCShare(rank),20
+Carlton,2018,Weekly Price(rank),47
+Carlton,2018,TotCapacity(rank),29
+Carlton,2018,AvgCapacity(rank),9
+Carlton,2018,CCCShare(rank),16
 Carlton,2018,HRShare(rank),6
-Carlton,2018,Public(rank),8
+Carlton,2018,Public(rank),9
 Carver,2012,Weekly Price(rank),4
 Carver,2012,TotCapacity(rank),11
 Carver,2012,AvgCapacity(rank),12
@@ -412,13 +412,13 @@ Carver,2017,TotCapacity(rank),11
 Carver,2017,AvgCapacity(rank),2
 Carver,2017,CCCShare(rank),3
 Carver,2017,HRShare(rank),62
-Carver,2017,Public(rank),79
+Carver,2017,Public(rank),80
 Carver,2018,Weekly Price(rank),4
 Carver,2018,TotCapacity(rank),11
 Carver,2018,AvgCapacity(rank),2
-Carver,2018,CCCShare(rank),6
-Carver,2018,HRShare(rank),59
-Carver,2018,Public(rank),64.5
+Carver,2018,CCCShare(rank),4
+Carver,2018,HRShare(rank),60
+Carver,2018,Public(rank),71
 Cass,2012,Weekly Price(rank),61
 Cass,2012,TotCapacity(rank),32
 Cass,2012,AvgCapacity(rank),3
@@ -451,16 +451,16 @@ Cass,2016,HRShare(rank),2
 Cass,2016,Public(rank),5
 Cass,2017,Weekly Price(rank),65
 Cass,2017,TotCapacity(rank),40
-Cass,2017,AvgCapacity(rank),36
+Cass,2017,AvgCapacity(rank),35
 Cass,2017,CCCShare(rank),57
 Cass,2017,HRShare(rank),2
 Cass,2017,Public(rank),4
-Cass,2018,Weekly Price(rank),54
-Cass,2018,TotCapacity(rank),45
-Cass,2018,AvgCapacity(rank),33
-Cass,2018,CCCShare(rank),32
+Cass,2018,Weekly Price(rank),61
+Cass,2018,TotCapacity(rank),39
+Cass,2018,AvgCapacity(rank),27
+Cass,2018,CCCShare(rank),34
 Cass,2018,HRShare(rank),3
-Cass,2018,Public(rank),10
+Cass,2018,Public(rank),4
 Chippewa,2012,Weekly Price(rank),67
 Chippewa,2012,TotCapacity(rank),59
 Chippewa,2012,AvgCapacity(rank),38
@@ -492,17 +492,17 @@ Chippewa,2016,CCCShare(rank),65.5
 Chippewa,2016,HRShare(rank),48.5
 Chippewa,2016,Public(rank),57
 Chippewa,2017,Weekly Price(rank),60
-Chippewa,2017,TotCapacity(rank),59
-Chippewa,2017,AvgCapacity(rank),28
+Chippewa,2017,TotCapacity(rank),58
+Chippewa,2017,AvgCapacity(rank),29
 Chippewa,2017,CCCShare(rank),31
-Chippewa,2017,HRShare(rank),69
+Chippewa,2017,HRShare(rank),68.5
 Chippewa,2017,Public(rank),51.5
-Chippewa,2018,Weekly Price(rank),45
-Chippewa,2018,TotCapacity(rank),64
-Chippewa,2018,AvgCapacity(rank),52
-Chippewa,2018,CCCShare(rank),54
-Chippewa,2018,HRShare(rank),63
-Chippewa,2018,Public(rank),64.5
+Chippewa,2018,Weekly Price(rank),57
+Chippewa,2018,TotCapacity(rank),63
+Chippewa,2018,AvgCapacity(rank),45
+Chippewa,2018,CCCShare(rank),57.5
+Chippewa,2018,HRShare(rank),52.5
+Chippewa,2018,Public(rank),51
 Chisago,2012,Weekly Price(rank),10
 Chisago,2012,TotCapacity(rank),27
 Chisago,2012,AvgCapacity(rank),27
@@ -535,16 +535,16 @@ Chisago,2016,HRShare(rank),71
 Chisago,2016,Public(rank),61
 Chisago,2017,Weekly Price(rank),13
 Chisago,2017,TotCapacity(rank),18
-Chisago,2017,AvgCapacity(rank),17
+Chisago,2017,AvgCapacity(rank),16
 Chisago,2017,CCCShare(rank),23
 Chisago,2017,HRShare(rank),43
-Chisago,2017,Public(rank),46
-Chisago,2018,Weekly Price(rank),11
-Chisago,2018,TotCapacity(rank),23
-Chisago,2018,AvgCapacity(rank),20
-Chisago,2018,CCCShare(rank),15
-Chisago,2018,HRShare(rank),45.5
-Chisago,2018,Public(rank),54
+Chisago,2017,Public(rank),45
+Chisago,2018,Weekly Price(rank),12
+Chisago,2018,TotCapacity(rank),20
+Chisago,2018,AvgCapacity(rank),17
+Chisago,2018,CCCShare(rank),17
+Chisago,2018,HRShare(rank),46.5
+Chisago,2018,Public(rank),57
 Clay,2012,Weekly Price(rank),23
 Clay,2012,TotCapacity(rank),14
 Clay,2012,AvgCapacity(rank),33
@@ -575,18 +575,18 @@ Clay,2016,AvgCapacity(rank),34
 Clay,2016,CCCShare(rank),26
 Clay,2016,HRShare(rank),66
 Clay,2016,Public(rank),78
-Clay,2017,Weekly Price(rank),17
+Clay,2017,Weekly Price(rank),16
 Clay,2017,TotCapacity(rank),14
 Clay,2017,AvgCapacity(rank),33
 Clay,2017,CCCShare(rank),27
-Clay,2017,HRShare(rank),55
-Clay,2017,Public(rank),81
+Clay,2017,HRShare(rank),54
+Clay,2017,Public(rank),82
 Clay,2018,Weekly Price(rank),19
 Clay,2018,TotCapacity(rank),14
 Clay,2018,AvgCapacity(rank),30
-Clay,2018,CCCShare(rank),34
-Clay,2018,HRShare(rank),43
-Clay,2018,Public(rank),77
+Clay,2018,CCCShare(rank),31
+Clay,2018,HRShare(rank),44
+Clay,2018,Public(rank),81
 Clearwater,2012,Weekly Price(rank),86
 Clearwater,2012,TotCapacity(rank),79
 Clearwater,2012,AvgCapacity(rank),53
@@ -617,18 +617,18 @@ Clearwater,2016,AvgCapacity(rank),78
 Clearwater,2016,CCCShare(rank),79.5
 Clearwater,2016,HRShare(rank),12
 Clearwater,2016,Public(rank),24
-Clearwater,2017,Weekly Price(rank),59
+Clearwater,2017,Weekly Price(rank),58
 Clearwater,2017,TotCapacity(rank),78
 Clearwater,2017,AvgCapacity(rank),79
 Clearwater,2017,CCCShare(rank),79.5
 Clearwater,2017,HRShare(rank),18.5
-Clearwater,2017,Public(rank),27.5
-Clearwater,2018,Weekly Price(rank),41
-Clearwater,2018,TotCapacity(rank),76
-Clearwater,2018,AvgCapacity(rank),84
-Clearwater,2018,CCCShare(rank),79
-Clearwater,2018,HRShare(rank),42
-Clearwater,2018,Public(rank),53
+Clearwater,2017,Public(rank),26.5
+Clearwater,2018,Weekly Price(rank),54
+Clearwater,2018,TotCapacity(rank),75
+Clearwater,2018,AvgCapacity(rank),81
+Clearwater,2018,CCCShare(rank),79.5
+Clearwater,2018,HRShare(rank),34.5
+Clearwater,2018,Public(rank),33.5
 Cook,2012,Weekly Price(rank),80
 Cook,2012,TotCapacity(rank),87
 Cook,2012,AvgCapacity(rank),77
@@ -662,15 +662,15 @@ Cook,2016,Public(rank),48
 Cook,2017,Weekly Price(rank),21
 Cook,2017,TotCapacity(rank),86
 Cook,2017,AvgCapacity(rank),78
-Cook,2017,CCCShare(rank),16.5
+Cook,2017,CCCShare(rank),17
 Cook,2017,HRShare(rank),3
 Cook,2017,Public(rank),38
-Cook,2018,Weekly Price(rank),15
+Cook,2018,Weekly Price(rank),14
 Cook,2018,TotCapacity(rank),84
-Cook,2018,AvgCapacity(rank),9
-Cook,2018,CCCShare(rank),2
+Cook,2018,AvgCapacity(rank),15
+Cook,2018,CCCShare(rank),3
 Cook,2018,HRShare(rank),2
-Cook,2018,Public(rank),30.5
+Cook,2018,Public(rank),33.5
 Cottonwood,2012,Weekly Price(rank),62
 Cottonwood,2012,TotCapacity(rank),65
 Cottonwood,2012,AvgCapacity(rank),66
@@ -701,18 +701,18 @@ Cottonwood,2016,AvgCapacity(rank),81
 Cottonwood,2016,CCCShare(rank),67
 Cottonwood,2016,HRShare(rank),56
 Cottonwood,2016,Public(rank),34
-Cottonwood,2017,Weekly Price(rank),71
-Cottonwood,2017,TotCapacity(rank),63
-Cottonwood,2017,AvgCapacity(rank),71
+Cottonwood,2017,Weekly Price(rank),72
+Cottonwood,2017,TotCapacity(rank),62
+Cottonwood,2017,AvgCapacity(rank),69
 Cottonwood,2017,CCCShare(rank),64
 Cottonwood,2017,HRShare(rank),20
 Cottonwood,2017,Public(rank),20
-Cottonwood,2018,Weekly Price(rank),75
-Cottonwood,2018,TotCapacity(rank),60
+Cottonwood,2018,Weekly Price(rank),74
+Cottonwood,2018,TotCapacity(rank),61
 Cottonwood,2018,AvgCapacity(rank),74
 Cottonwood,2018,CCCShare(rank),63
-Cottonwood,2018,HRShare(rank),21
-Cottonwood,2018,Public(rank),40
+Cottonwood,2018,HRShare(rank),17
+Cottonwood,2018,Public(rank),25
 Crow Wing,2012,Weekly Price(rank),18
 Crow Wing,2012,TotCapacity(rank),17
 Crow Wing,2012,AvgCapacity(rank),32
@@ -745,16 +745,16 @@ Crow Wing,2016,HRShare(rank),62
 Crow Wing,2016,Public(rank),65
 Crow Wing,2017,Weekly Price(rank),23
 Crow Wing,2017,TotCapacity(rank),15
-Crow Wing,2017,AvgCapacity(rank),18
+Crow Wing,2017,AvgCapacity(rank),17
 Crow Wing,2017,CCCShare(rank),10
 Crow Wing,2017,HRShare(rank),44
-Crow Wing,2017,Public(rank),61
-Crow Wing,2018,Weekly Price(rank),24
+Crow Wing,2017,Public(rank),62
+Crow Wing,2018,Weekly Price(rank),22
 Crow Wing,2018,TotCapacity(rank),15
-Crow Wing,2018,AvgCapacity(rank),16
-Crow Wing,2018,CCCShare(rank),10
-Crow Wing,2018,HRShare(rank),37
-Crow Wing,2018,Public(rank),46
+Crow Wing,2018,AvgCapacity(rank),20
+Crow Wing,2018,CCCShare(rank),12
+Crow Wing,2018,HRShare(rank),42
+Crow Wing,2018,Public(rank),56
 Dakota,2012,Weekly Price(rank),2
 Dakota,2012,TotCapacity(rank),2
 Dakota,2012,AvgCapacity(rank),9
@@ -787,16 +787,16 @@ Dakota,2016,HRShare(rank),50
 Dakota,2016,Public(rank),80
 Dakota,2017,Weekly Price(rank),2
 Dakota,2017,TotCapacity(rank),3
-Dakota,2017,AvgCapacity(rank),5
+Dakota,2017,AvgCapacity(rank),4
 Dakota,2017,CCCShare(rank),6
 Dakota,2017,HRShare(rank),49
-Dakota,2017,Public(rank),77
+Dakota,2017,Public(rank),78
 Dakota,2018,Weekly Price(rank),2
-Dakota,2018,TotCapacity(rank),2
-Dakota,2018,AvgCapacity(rank),4
-Dakota,2018,CCCShare(rank),7
-Dakota,2018,HRShare(rank),53
-Dakota,2018,Public(rank),80
+Dakota,2018,TotCapacity(rank),3
+Dakota,2018,AvgCapacity(rank),5
+Dakota,2018,CCCShare(rank),6
+Dakota,2018,HRShare(rank),51
+Dakota,2018,Public(rank),79
 Dodge,2012,Weekly Price(rank),15
 Dodge,2012,TotCapacity(rank),39
 Dodge,2012,AvgCapacity(rank),52
@@ -827,18 +827,18 @@ Dodge,2016,AvgCapacity(rank),55
 Dodge,2016,CCCShare(rank),63.5
 Dodge,2016,HRShare(rank),87
 Dodge,2016,Public(rank),82
-Dodge,2017,Weekly Price(rank),16
+Dodge,2017,Weekly Price(rank),15
 Dodge,2017,TotCapacity(rank),37
-Dodge,2017,AvgCapacity(rank),59
+Dodge,2017,AvgCapacity(rank),57
 Dodge,2017,CCCShare(rank),71
 Dodge,2017,HRShare(rank),86.5
 Dodge,2017,Public(rank),75
-Dodge,2018,Weekly Price(rank),18
-Dodge,2018,TotCapacity(rank),40
-Dodge,2018,AvgCapacity(rank),63
-Dodge,2018,CCCShare(rank),68
-Dodge,2018,HRShare(rank),83
-Dodge,2018,Public(rank),67
+Dodge,2018,Weekly Price(rank),17
+Dodge,2018,TotCapacity(rank),42
+Dodge,2018,AvgCapacity(rank),67
+Dodge,2018,CCCShare(rank),69
+Dodge,2018,HRShare(rank),84
+Dodge,2018,Public(rank),74
 Douglas,2012,Weekly Price(rank),38
 Douglas,2012,TotCapacity(rank),19
 Douglas,2012,AvgCapacity(rank),46
@@ -869,18 +869,18 @@ Douglas,2016,AvgCapacity(rank),49
 Douglas,2016,CCCShare(rank),60
 Douglas,2016,HRShare(rank),79
 Douglas,2016,Public(rank),72
-Douglas,2017,Weekly Price(rank),35
+Douglas,2017,Weekly Price(rank),36
 Douglas,2017,TotCapacity(rank),22
-Douglas,2017,AvgCapacity(rank),42
+Douglas,2017,AvgCapacity(rank),41
 Douglas,2017,CCCShare(rank),55.5
 Douglas,2017,HRShare(rank),66
-Douglas,2017,Public(rank),66
-Douglas,2018,Weekly Price(rank),30
-Douglas,2018,TotCapacity(rank),24
-Douglas,2018,AvgCapacity(rank),53
-Douglas,2018,CCCShare(rank),59
-Douglas,2018,HRShare(rank),70.5
-Douglas,2018,Public(rank),72.5
+Douglas,2017,Public(rank),67
+Douglas,2018,Weekly Price(rank),31
+Douglas,2018,TotCapacity(rank),25
+Douglas,2018,AvgCapacity(rank),59
+Douglas,2018,CCCShare(rank),50
+Douglas,2018,HRShare(rank),67
+Douglas,2018,Public(rank),72
 Faribault,2012,Weekly Price(rank),76
 Faribault,2012,TotCapacity(rank),66
 Faribault,2012,AvgCapacity(rank),22
@@ -911,18 +911,18 @@ Faribault,2016,AvgCapacity(rank),50
 Faribault,2016,CCCShare(rank),5
 Faribault,2016,HRShare(rank),25
 Faribault,2016,Public(rank),54.5
-Faribault,2017,Weekly Price(rank),52
-Faribault,2017,TotCapacity(rank),60
-Faribault,2017,AvgCapacity(rank),39
+Faribault,2017,Weekly Price(rank),55
+Faribault,2017,TotCapacity(rank),59
+Faribault,2017,AvgCapacity(rank),38
 Faribault,2017,CCCShare(rank),8
 Faribault,2017,HRShare(rank),28
 Faribault,2017,Public(rank),55
-Faribault,2018,Weekly Price(rank),80
-Faribault,2018,TotCapacity(rank),58
-Faribault,2018,AvgCapacity(rank),38
-Faribault,2018,CCCShare(rank),31
-Faribault,2018,HRShare(rank),25
-Faribault,2018,Public(rank),15.5
+Faribault,2018,Weekly Price(rank),70
+Faribault,2018,TotCapacity(rank),59
+Faribault,2018,AvgCapacity(rank),43
+Faribault,2018,CCCShare(rank),19
+Faribault,2018,HRShare(rank),30
+Faribault,2018,Public(rank),19
 Fillmore,2012,Weekly Price(rank),50
 Fillmore,2012,TotCapacity(rank),37
 Fillmore,2012,AvgCapacity(rank),6
@@ -953,18 +953,18 @@ Fillmore,2016,AvgCapacity(rank),17
 Fillmore,2016,CCCShare(rank),18
 Fillmore,2016,HRShare(rank),60
 Fillmore,2016,Public(rank),28
-Fillmore,2017,Weekly Price(rank),54
-Fillmore,2017,TotCapacity(rank),49
-Fillmore,2017,AvgCapacity(rank),19
+Fillmore,2017,Weekly Price(rank),52
+Fillmore,2017,TotCapacity(rank),48
+Fillmore,2017,AvgCapacity(rank),18
 Fillmore,2017,CCCShare(rank),18
 Fillmore,2017,HRShare(rank),59
-Fillmore,2017,Public(rank),30
-Fillmore,2018,Weekly Price(rank),57
-Fillmore,2018,TotCapacity(rank),43
-Fillmore,2018,AvgCapacity(rank),15
+Fillmore,2017,Public(rank),29
+Fillmore,2018,Weekly Price(rank),58
+Fillmore,2018,TotCapacity(rank),45
+Fillmore,2018,AvgCapacity(rank),18
 Fillmore,2018,CCCShare(rank),15
-Fillmore,2018,HRShare(rank),45.5
-Fillmore,2018,Public(rank),34.5
+Fillmore,2018,HRShare(rank),49
+Fillmore,2018,Public(rank),33.5
 Freeborn,2012,Weekly Price(rank),47
 Freeborn,2012,TotCapacity(rank),40
 Freeborn,2012,AvgCapacity(rank),36
@@ -995,18 +995,18 @@ Freeborn,2016,AvgCapacity(rank),39
 Freeborn,2016,CCCShare(rank),36.5
 Freeborn,2016,HRShare(rank),64
 Freeborn,2016,Public(rank),68.5
-Freeborn,2017,Weekly Price(rank),55
-Freeborn,2017,TotCapacity(rank),42
-Freeborn,2017,AvgCapacity(rank),43
+Freeborn,2017,Weekly Price(rank),54
+Freeborn,2017,TotCapacity(rank),41
+Freeborn,2017,AvgCapacity(rank),42
 Freeborn,2017,CCCShare(rank),39
-Freeborn,2017,HRShare(rank),54
+Freeborn,2017,HRShare(rank),53
 Freeborn,2017,Public(rank),57
-Freeborn,2018,Weekly Price(rank),56
-Freeborn,2018,TotCapacity(rank),37
-Freeborn,2018,AvgCapacity(rank),48
-Freeborn,2018,CCCShare(rank),55
-Freeborn,2018,HRShare(rank),57
-Freeborn,2018,Public(rank),55
+Freeborn,2018,Weekly Price(rank),52
+Freeborn,2018,TotCapacity(rank),40
+Freeborn,2018,AvgCapacity(rank),53
+Freeborn,2018,CCCShare(rank),56
+Freeborn,2018,HRShare(rank),62
+Freeborn,2018,Public(rank),63
 Goodhue,2012,Weekly Price(rank),14
 Goodhue,2012,TotCapacity(rank),22
 Goodhue,2012,AvgCapacity(rank),31
@@ -1038,17 +1038,17 @@ Goodhue,2016,CCCShare(rank),33
 Goodhue,2016,HRShare(rank),52
 Goodhue,2016,Public(rank),63
 Goodhue,2017,Weekly Price(rank),14
-Goodhue,2017,TotCapacity(rank),30
-Goodhue,2017,AvgCapacity(rank),41
+Goodhue,2017,TotCapacity(rank),31
+Goodhue,2017,AvgCapacity(rank),40
 Goodhue,2017,CCCShare(rank),25
 Goodhue,2017,HRShare(rank),58
 Goodhue,2017,Public(rank),60
-Goodhue,2018,Weekly Price(rank),14
-Goodhue,2018,TotCapacity(rank),27
-Goodhue,2018,AvgCapacity(rank),39
-Goodhue,2018,CCCShare(rank),23
-Goodhue,2018,HRShare(rank),67
-Goodhue,2018,Public(rank),52
+Goodhue,2018,Weekly Price(rank),15
+Goodhue,2018,TotCapacity(rank),30
+Goodhue,2018,AvgCapacity(rank),46
+Goodhue,2018,CCCShare(rank),27
+Goodhue,2018,HRShare(rank),69
+Goodhue,2018,Public(rank),62
 Grant,2012,Weekly Price(rank),71
 Grant,2012,TotCapacity(rank),81
 Grant,2012,AvgCapacity(rank),78
@@ -1079,18 +1079,18 @@ Grant,2016,AvgCapacity(rank),63
 Grant,2016,CCCShare(rank),79.5
 Grant,2016,HRShare(rank),9
 Grant,2016,Public(rank),2
-Grant,2017,Weekly Price(rank),74
+Grant,2017,Weekly Price(rank),76
 Grant,2017,TotCapacity(rank),75
 Grant,2017,AvgCapacity(rank),64
 Grant,2017,CCCShare(rank),79.5
 Grant,2017,HRShare(rank),27
 Grant,2017,Public(rank),7
-Grant,2018,Weekly Price(rank),81
-Grant,2018,TotCapacity(rank),77
-Grant,2018,AvgCapacity(rank),51
-Grant,2018,CCCShare(rank),79
-Grant,2018,HRShare(rank),15.5
-Grant,2018,Public(rank),2
+Grant,2018,Weekly Price(rank),78
+Grant,2018,TotCapacity(rank),78
+Grant,2018,AvgCapacity(rank),62
+Grant,2018,CCCShare(rank),79.5
+Grant,2018,HRShare(rank),18.5
+Grant,2018,Public(rank),3
 Hennepin,2012,Weekly Price(rank),1
 Hennepin,2012,TotCapacity(rank),1
 Hennepin,2012,AvgCapacity(rank),1
@@ -1131,8 +1131,8 @@ Hennepin,2018,Weekly Price(rank),1
 Hennepin,2018,TotCapacity(rank),1
 Hennepin,2018,AvgCapacity(rank),1
 Hennepin,2018,CCCShare(rank),1
-Hennepin,2018,HRShare(rank),12
-Hennepin,2018,Public(rank),45
+Hennepin,2018,HRShare(rank),13
+Hennepin,2018,Public(rank),50
 Houston,2012,Weekly Price(rank),43
 Houston,2012,TotCapacity(rank),43
 Houston,2012,AvgCapacity(rank),71
@@ -1164,17 +1164,17 @@ Houston,2016,CCCShare(rank),61
 Houston,2016,HRShare(rank),51
 Houston,2016,Public(rank),44
 Houston,2017,Weekly Price(rank),40
-Houston,2017,TotCapacity(rank),44
-Houston,2017,AvgCapacity(rank),46
+Houston,2017,TotCapacity(rank),43
+Houston,2017,AvgCapacity(rank),45
 Houston,2017,CCCShare(rank),37.5
 Houston,2017,HRShare(rank),40
 Houston,2017,Public(rank),38
-Houston,2018,Weekly Price(rank),49
-Houston,2018,TotCapacity(rank),44
-Houston,2018,AvgCapacity(rank),36
+Houston,2018,Weekly Price(rank),45
+Houston,2018,TotCapacity(rank),48
+Houston,2018,AvgCapacity(rank),42
 Houston,2018,CCCShare(rank),33
-Houston,2018,HRShare(rank),29.5
-Houston,2018,Public(rank),30.5
+Houston,2018,HRShare(rank),34.5
+Houston,2018,Public(rank),33.5
 Hubbard,2012,Weekly Price(rank),37
 Hubbard,2012,TotCapacity(rank),54
 Hubbard,2012,AvgCapacity(rank),51
@@ -1205,18 +1205,18 @@ Hubbard,2016,AvgCapacity(rank),62
 Hubbard,2016,CCCShare(rank),49
 Hubbard,2016,HRShare(rank),8
 Hubbard,2016,Public(rank),84
-Hubbard,2017,Weekly Price(rank),27
+Hubbard,2017,Weekly Price(rank),28
 Hubbard,2017,TotCapacity(rank),50
-Hubbard,2017,AvgCapacity(rank),70
+Hubbard,2017,AvgCapacity(rank),76
 Hubbard,2017,CCCShare(rank),52
 Hubbard,2017,HRShare(rank),8
 Hubbard,2017,Public(rank),85
-Hubbard,2018,Weekly Price(rank),28
-Hubbard,2018,TotCapacity(rank),50
-Hubbard,2018,AvgCapacity(rank),69
+Hubbard,2018,Weekly Price(rank),27
+Hubbard,2018,TotCapacity(rank),52
+Hubbard,2018,AvgCapacity(rank),71
 Hubbard,2018,CCCShare(rank),66
 Hubbard,2018,HRShare(rank),9
-Hubbard,2018,Public(rank),69
+Hubbard,2018,Public(rank),76
 Isanti,2012,Weekly Price(rank),11
 Isanti,2012,TotCapacity(rank),42
 Isanti,2012,AvgCapacity(rank),7
@@ -1248,17 +1248,17 @@ Isanti,2016,CCCShare(rank),7
 Isanti,2016,HRShare(rank),14.5
 Isanti,2016,Public(rank),42
 Isanti,2017,Weekly Price(rank),12
-Isanti,2017,TotCapacity(rank),43
-Isanti,2017,AvgCapacity(rank),14
+Isanti,2017,TotCapacity(rank),42
+Isanti,2017,AvgCapacity(rank),13
 Isanti,2017,CCCShare(rank),7
 Isanti,2017,HRShare(rank),23.5
-Isanti,2017,Public(rank),67
-Isanti,2018,Weekly Price(rank),12
-Isanti,2018,TotCapacity(rank),38
-Isanti,2018,AvgCapacity(rank),8
-Isanti,2018,CCCShare(rank),4
-Isanti,2018,HRShare(rank),15.5
-Isanti,2018,Public(rank),58
+Isanti,2017,Public(rank),68
+Isanti,2018,Weekly Price(rank),13
+Isanti,2018,TotCapacity(rank),41
+Isanti,2018,AvgCapacity(rank),10
+Isanti,2018,CCCShare(rank),7
+Isanti,2018,HRShare(rank),18.5
+Isanti,2018,Public(rank),66
 Itasca,2012,Weekly Price(rank),53
 Itasca,2012,TotCapacity(rank),33
 Itasca,2012,AvgCapacity(rank),20
@@ -1290,17 +1290,17 @@ Itasca,2016,CCCShare(rank),20
 Itasca,2016,HRShare(rank),3
 Itasca,2016,Public(rank),15
 Itasca,2017,Weekly Price(rank),48
-Itasca,2017,TotCapacity(rank),34
-Itasca,2017,AvgCapacity(rank),35
+Itasca,2017,TotCapacity(rank),30
+Itasca,2017,AvgCapacity(rank),20
 Itasca,2017,CCCShare(rank),20
 Itasca,2017,HRShare(rank),5
 Itasca,2017,Public(rank),16
-Itasca,2018,Weekly Price(rank),61
-Itasca,2018,TotCapacity(rank),32
-Itasca,2018,AvgCapacity(rank),35
+Itasca,2018,Weekly Price(rank),62
+Itasca,2018,TotCapacity(rank),33
+Itasca,2018,AvgCapacity(rank),33
 Itasca,2018,CCCShare(rank),64
 Itasca,2018,HRShare(rank),5
-Itasca,2018,Public(rank),3
+Itasca,2018,Public(rank),2
 Jackson,2012,Weekly Price(rank),64
 Jackson,2012,TotCapacity(rank),60
 Jackson,2012,AvgCapacity(rank),40
@@ -1331,18 +1331,18 @@ Jackson,2016,AvgCapacity(rank),43
 Jackson,2016,CCCShare(rank),30
 Jackson,2016,HRShare(rank),36
 Jackson,2016,Public(rank),20
-Jackson,2017,Weekly Price(rank),77
-Jackson,2017,TotCapacity(rank),62
-Jackson,2017,AvgCapacity(rank),47
+Jackson,2017,Weekly Price(rank),78
+Jackson,2017,TotCapacity(rank),61
+Jackson,2017,AvgCapacity(rank),46
 Jackson,2017,CCCShare(rank),31
 Jackson,2017,HRShare(rank),22
 Jackson,2017,Public(rank),17
-Jackson,2018,Weekly Price(rank),68
+Jackson,2018,Weekly Price(rank),73
 Jackson,2018,TotCapacity(rank),65
-Jackson,2018,AvgCapacity(rank),42
-Jackson,2018,CCCShare(rank),25
-Jackson,2018,HRShare(rank),19
-Jackson,2018,Public(rank),17.5
+Jackson,2018,AvgCapacity(rank),44
+Jackson,2018,CCCShare(rank),28.5
+Jackson,2018,HRShare(rank),12
+Jackson,2018,Public(rank),15
 Kanabec,2012,Weekly Price(rank),39
 Kanabec,2012,TotCapacity(rank),45
 Kanabec,2012,AvgCapacity(rank),2
@@ -1373,18 +1373,18 @@ Kanabec,2016,AvgCapacity(rank),2
 Kanabec,2016,CCCShare(rank),30
 Kanabec,2016,HRShare(rank),14.5
 Kanabec,2016,Public(rank),48
-Kanabec,2017,Weekly Price(rank),45
-Kanabec,2017,TotCapacity(rank),41
-Kanabec,2017,AvgCapacity(rank),4
+Kanabec,2017,Weekly Price(rank),44
+Kanabec,2017,TotCapacity(rank),67
+Kanabec,2017,AvgCapacity(rank),58
 Kanabec,2017,CCCShare(rank),31
 Kanabec,2017,HRShare(rank),10
 Kanabec,2017,Public(rank),51.5
-Kanabec,2018,Weekly Price(rank),31
-Kanabec,2018,TotCapacity(rank),71
-Kanabec,2018,AvgCapacity(rank),65
-Kanabec,2018,CCCShare(rank),29.5
+Kanabec,2018,Weekly Price(rank),38
+Kanabec,2018,TotCapacity(rank),37
+Kanabec,2018,AvgCapacity(rank),4
+Kanabec,2018,CCCShare(rank),32
 Kanabec,2018,HRShare(rank),11
-Kanabec,2018,Public(rank),63
+Kanabec,2018,Public(rank),47
 Kandiyohi,2012,Weekly Price(rank),42
 Kandiyohi,2012,TotCapacity(rank),30
 Kandiyohi,2012,AvgCapacity(rank),62
@@ -1417,16 +1417,16 @@ Kandiyohi,2016,HRShare(rank),33
 Kandiyohi,2016,Public(rank),64
 Kandiyohi,2017,Weekly Price(rank),38
 Kandiyohi,2017,TotCapacity(rank),27
-Kandiyohi,2017,AvgCapacity(rank),44
+Kandiyohi,2017,AvgCapacity(rank),43
 Kandiyohi,2017,CCCShare(rank),43
 Kandiyohi,2017,HRShare(rank),32
-Kandiyohi,2017,Public(rank),69
+Kandiyohi,2017,Public(rank),70
 Kandiyohi,2018,Weekly Price(rank),39
-Kandiyohi,2018,TotCapacity(rank),25
-Kandiyohi,2018,AvgCapacity(rank),43
-Kandiyohi,2018,CCCShare(rank),42
-Kandiyohi,2018,HRShare(rank),29.5
-Kandiyohi,2018,Public(rank),48
+Kandiyohi,2018,TotCapacity(rank),24
+Kandiyohi,2018,AvgCapacity(rank),39
+Kandiyohi,2018,CCCShare(rank),43
+Kandiyohi,2018,HRShare(rank),32
+Kandiyohi,2018,Public(rank),48.5
 Kittson,2012,Weekly Price(rank),84
 Kittson,2012,TotCapacity(rank),83
 Kittson,2012,AvgCapacity(rank),86
@@ -1459,16 +1459,16 @@ Kittson,2016,HRShare(rank),18.5
 Kittson,2016,Public(rank),6
 Kittson,2017,Weekly Price(rank),83
 Kittson,2017,TotCapacity(rank),83
-Kittson,2017,AvgCapacity(rank),75
+Kittson,2017,AvgCapacity(rank),73
 Kittson,2017,CCCShare(rank),79.5
 Kittson,2017,HRShare(rank),16
 Kittson,2017,Public(rank),2.5
-Kittson,2018,Weekly Price(rank),66
+Kittson,2018,Weekly Price(rank),83
 Kittson,2018,TotCapacity(rank),83
 Kittson,2018,AvgCapacity(rank),79
-Kittson,2018,CCCShare(rank),79
-Kittson,2018,HRShare(rank),65.5
-Kittson,2018,Public(rank),26
+Kittson,2018,CCCShare(rank),79.5
+Kittson,2018,HRShare(rank),26
+Kittson,2018,Public(rank),8
 Koochiching,2012,Weekly Price(rank),46
 Koochiching,2012,TotCapacity(rank),76
 Koochiching,2012,AvgCapacity(rank),70
@@ -1501,16 +1501,16 @@ Koochiching,2016,HRShare(rank),36
 Koochiching,2016,Public(rank),9.5
 Koochiching,2017,Weekly Price(rank),80
 Koochiching,2017,TotCapacity(rank),74
-Koochiching,2017,AvgCapacity(rank),58
+Koochiching,2017,AvgCapacity(rank),59
 Koochiching,2017,CCCShare(rank),79.5
 Koochiching,2017,HRShare(rank),18.5
 Koochiching,2017,Public(rank),8
-Koochiching,2018,Weekly Price(rank),79
-Koochiching,2018,TotCapacity(rank),82
-Koochiching,2018,AvgCapacity(rank),78
-Koochiching,2018,CCCShare(rank),79
-Koochiching,2018,HRShare(rank),47.5
-Koochiching,2018,Public(rank),13.5
+Koochiching,2018,Weekly Price(rank),85
+Koochiching,2018,TotCapacity(rank),76
+Koochiching,2018,AvgCapacity(rank),57
+Koochiching,2018,CCCShare(rank),79.5
+Koochiching,2018,HRShare(rank),21.5
+Koochiching,2018,Public(rank),5.5
 Lac qui Parle,2012,Weekly Price(rank),77
 Lac qui Parle,2012,TotCapacity(rank),78
 Lac qui Parle,2012,AvgCapacity(rank),69
@@ -1545,14 +1545,14 @@ Lac qui Parle,2017,Weekly Price(rank),46
 Lac qui Parle,2017,TotCapacity(rank),81
 Lac qui Parle,2017,AvgCapacity(rank),84
 Lac qui Parle,2017,CCCShare(rank),37.5
-Lac qui Parle,2017,HRShare(rank),75.5
+Lac qui Parle,2017,HRShare(rank),76
 Lac qui Parle,2017,Public(rank),38
-Lac qui Parle,2018,Weekly Price(rank),64
-Lac qui Parle,2018,TotCapacity(rank),81
-Lac qui Parle,2018,AvgCapacity(rank),75
-Lac qui Parle,2018,CCCShare(rank),37.5
-Lac qui Parle,2018,HRShare(rank),47.5
-Lac qui Parle,2018,Public(rank),13.5
+Lac qui Parle,2018,Weekly Price(rank),48
+Lac qui Parle,2018,TotCapacity(rank),82
+Lac qui Parle,2018,AvgCapacity(rank),82
+Lac qui Parle,2018,CCCShare(rank),38
+Lac qui Parle,2018,HRShare(rank),75
+Lac qui Parle,2018,Public(rank),43
 Lake,2012,Weekly Price(rank),34
 Lake,2012,TotCapacity(rank),84
 Lake,2012,AvgCapacity(rank),79
@@ -1587,14 +1587,14 @@ Lake,2017,Weekly Price(rank),24
 Lake,2017,TotCapacity(rank),85
 Lake,2017,AvgCapacity(rank),87
 Lake,2017,CCCShare(rank),79.5
-Lake,2017,HRShare(rank),56.5
-Lake,2017,Public(rank),63.5
-Lake,2018,Weekly Price(rank),42
+Lake,2017,HRShare(rank),56
+Lake,2017,Public(rank),64.5
+Lake,2018,Weekly Price(rank),30
 Lake,2018,TotCapacity(rank),85
-Lake,2018,AvgCapacity(rank),83
-Lake,2018,CCCShare(rank),79
-Lake,2018,HRShare(rank),25
-Lake,2018,Public(rank),17.5
+Lake,2018,AvgCapacity(rank),87
+Lake,2018,CCCShare(rank),79.5
+Lake,2018,HRShare(rank),58
+Lake,2018,Public(rank),66
 Lake of the Woods,2012,Weekly Price(rank),75
 Lake of the Woods,2012,TotCapacity(rank),86
 Lake of the Woods,2012,AvgCapacity(rank),80
@@ -1627,16 +1627,16 @@ Lake of the Woods,2016,HRShare(rank),4.5
 Lake of the Woods,2016,Public(rank),3
 Lake of the Woods,2017,Weekly Price(rank),87
 Lake of the Woods,2017,TotCapacity(rank),87
-Lake of the Woods,2017,AvgCapacity(rank),51
+Lake of the Woods,2017,AvgCapacity(rank),50
 Lake of the Woods,2017,CCCShare(rank),79.5
 Lake of the Woods,2017,HRShare(rank),6
 Lake of the Woods,2017,Public(rank),2.5
-Lake of the Woods,2018,Weekly Price(rank),86
+Lake of the Woods,2018,Weekly Price(rank),84
 Lake of the Woods,2018,TotCapacity(rank),87
-Lake of the Woods,2018,AvgCapacity(rank),58
-Lake of the Woods,2018,CCCShare(rank),79
+Lake of the Woods,2018,AvgCapacity(rank),55.5
+Lake of the Woods,2018,CCCShare(rank),79.5
 Lake of the Woods,2018,HRShare(rank),7.5
-Lake of the Woods,2018,Public(rank),5
+Lake of the Woods,2018,Public(rank),7
 Le Sueur,2012,Weekly Price(rank),16
 Le Sueur,2012,TotCapacity(rank),36
 Le Sueur,2012,AvgCapacity(rank),73
@@ -1672,13 +1672,13 @@ Le Sueur,2017,TotCapacity(rank),36
 Le Sueur,2017,AvgCapacity(rank),68
 Le Sueur,2017,CCCShare(rank),67
 Le Sueur,2017,HRShare(rank),64
-Le Sueur,2017,Public(rank),63.5
-Le Sueur,2018,Weekly Price(rank),23
+Le Sueur,2017,Public(rank),64.5
+Le Sueur,2018,Weekly Price(rank),24
 Le Sueur,2018,TotCapacity(rank),36
-Le Sueur,2018,AvgCapacity(rank),68
-Le Sueur,2018,CCCShare(rank),79
-Le Sueur,2018,HRShare(rank),56
-Le Sueur,2018,Public(rank),50
+Le Sueur,2018,AvgCapacity(rank),70
+Le Sueur,2018,CCCShare(rank),71
+Le Sueur,2018,HRShare(rank),61
+Le Sueur,2018,Public(rank),60
 Lincoln,2012,Weekly Price(rank),63
 Lincoln,2012,TotCapacity(rank),80
 Lincoln,2012,AvgCapacity(rank),84
@@ -1715,12 +1715,12 @@ Lincoln,2017,AvgCapacity(rank),77
 Lincoln,2017,CCCShare(rank),79.5
 Lincoln,2017,HRShare(rank),35.5
 Lincoln,2017,Public(rank),18
-Lincoln,2018,Weekly Price(rank),76
-Lincoln,2018,TotCapacity(rank),75
-Lincoln,2018,AvgCapacity(rank),77
-Lincoln,2018,CCCShare(rank),79
-Lincoln,2018,HRShare(rank),39
-Lincoln,2018,Public(rank),24
+Lincoln,2018,Weekly Price(rank),69
+Lincoln,2018,TotCapacity(rank),77
+Lincoln,2018,AvgCapacity(rank),78
+Lincoln,2018,CCCShare(rank),79.5
+Lincoln,2018,HRShare(rank),45
+Lincoln,2018,Public(rank),26.5
 Lyon,2012,Weekly Price(rank),41
 Lyon,2012,TotCapacity(rank),24
 Lyon,2012,AvgCapacity(rank),35
@@ -1751,18 +1751,18 @@ Lyon,2016,AvgCapacity(rank),36
 Lyon,2016,CCCShare(rank),28
 Lyon,2016,HRShare(rank),53
 Lyon,2016,Public(rank),48
-Lyon,2017,Weekly Price(rank),44
+Lyon,2017,Weekly Price(rank),45
 Lyon,2017,TotCapacity(rank),26
-Lyon,2017,AvgCapacity(rank),48
+Lyon,2017,AvgCapacity(rank),47
 Lyon,2017,CCCShare(rank),35
 Lyon,2017,HRShare(rank),46
-Lyon,2017,Public(rank),50
+Lyon,2017,Public(rank),49
 Lyon,2018,Weekly Price(rank),43
-Lyon,2018,TotCapacity(rank),22
-Lyon,2018,AvgCapacity(rank),37
-Lyon,2018,CCCShare(rank),28
-Lyon,2018,HRShare(rank),38
-Lyon,2018,Public(rank),48
+Lyon,2018,TotCapacity(rank),23
+Lyon,2018,AvgCapacity(rank),35
+Lyon,2018,CCCShare(rank),30
+Lyon,2018,HRShare(rank),39
+Lyon,2018,Public(rank),48.5
 Mahnomen,2012,Weekly Price(rank),81
 Mahnomen,2012,TotCapacity(rank),75
 Mahnomen,2012,AvgCapacity(rank),15
@@ -1795,14 +1795,14 @@ Mahnomen,2016,HRShare(rank),1
 Mahnomen,2016,Public(rank),1
 Mahnomen,2017,Weekly Price(rank),86
 Mahnomen,2017,TotCapacity(rank),72
-Mahnomen,2017,AvgCapacity(rank),25
+Mahnomen,2017,AvgCapacity(rank),24
 Mahnomen,2017,CCCShare(rank),79.5
 Mahnomen,2017,HRShare(rank),1
 Mahnomen,2017,Public(rank),1
-Mahnomen,2018,Weekly Price(rank),85
-Mahnomen,2018,TotCapacity(rank),73
-Mahnomen,2018,AvgCapacity(rank),24
-Mahnomen,2018,CCCShare(rank),79
+Mahnomen,2018,Weekly Price(rank),86
+Mahnomen,2018,TotCapacity(rank),72
+Mahnomen,2018,AvgCapacity(rank),22
+Mahnomen,2018,CCCShare(rank),79.5
 Mahnomen,2018,HRShare(rank),1
 Mahnomen,2018,Public(rank),1
 Marshall,2012,Weekly Price(rank),68
@@ -1836,17 +1836,17 @@ Marshall,2016,CCCShare(rank),58.5
 Marshall,2016,HRShare(rank),27.5
 Marshall,2016,Public(rank),17
 Marshall,2017,Weekly Price(rank),66
-Marshall,2017,TotCapacity(rank),65
+Marshall,2017,TotCapacity(rank),64
 Marshall,2017,AvgCapacity(rank),67
 Marshall,2017,CCCShare(rank),63
 Marshall,2017,HRShare(rank),30
 Marshall,2017,Public(rank),15
-Marshall,2018,Weekly Price(rank),58
-Marshall,2018,TotCapacity(rank),69
-Marshall,2018,AvgCapacity(rank),61
-Marshall,2018,CCCShare(rank),51.5
-Marshall,2018,HRShare(rank),60
-Marshall,2018,Public(rank),19.5
+Marshall,2018,Weekly Price(rank),66
+Marshall,2018,TotCapacity(rank),68
+Marshall,2018,AvgCapacity(rank),65
+Marshall,2018,CCCShare(rank),57.5
+Marshall,2018,HRShare(rank),36
+Marshall,2018,Public(rank),13
 Martin,2012,Weekly Price(rank),56
 Martin,2012,TotCapacity(rank),46
 Martin,2012,AvgCapacity(rank),58
@@ -1877,18 +1877,18 @@ Martin,2016,AvgCapacity(rank),48
 Martin,2016,CCCShare(rank),62
 Martin,2016,HRShare(rank),76.5
 Martin,2016,Public(rank),48
-Martin,2017,Weekly Price(rank),64
+Martin,2017,Weekly Price(rank),63
 Martin,2017,TotCapacity(rank),38
-Martin,2017,AvgCapacity(rank),55
+Martin,2017,AvgCapacity(rank),54
 Martin,2017,CCCShare(rank),62
 Martin,2017,HRShare(rank),70
 Martin,2017,Public(rank),36
-Martin,2018,Weekly Price(rank),72
-Martin,2018,TotCapacity(rank),42
-Martin,2018,AvgCapacity(rank),66
-Martin,2018,CCCShare(rank),67
-Martin,2018,HRShare(rank),65.5
-Martin,2018,Public(rank),39
+Martin,2018,Weekly Price(rank),67
+Martin,2018,TotCapacity(rank),44
+Martin,2018,AvgCapacity(rank),72
+Martin,2018,CCCShare(rank),68
+Martin,2018,HRShare(rank),68
+Martin,2018,Public(rank),41
 McLeod,2012,Weekly Price(rank),29
 McLeod,2012,TotCapacity(rank),26
 McLeod,2012,AvgCapacity(rank),50
@@ -1919,18 +1919,18 @@ McLeod,2016,AvgCapacity(rank),31
 McLeod,2016,CCCShare(rank),32
 McLeod,2016,HRShare(rank),65
 McLeod,2016,Public(rank),52
-McLeod,2017,Weekly Price(rank),28
+McLeod,2017,Weekly Price(rank),27
 McLeod,2017,TotCapacity(rank),25
-McLeod,2017,AvgCapacity(rank),45
+McLeod,2017,AvgCapacity(rank),44
 McLeod,2017,CCCShare(rank),44
 McLeod,2017,HRShare(rank),63
 McLeod,2017,Public(rank),58
-McLeod,2018,Weekly Price(rank),26
-McLeod,2018,TotCapacity(rank),28
-McLeod,2018,AvgCapacity(rank),40
-McLeod,2018,CCCShare(rank),39
-McLeod,2018,HRShare(rank),61
-McLeod,2018,Public(rank),60
+McLeod,2018,Weekly Price(rank),28
+McLeod,2018,TotCapacity(rank),27
+McLeod,2018,AvgCapacity(rank),41
+McLeod,2018,CCCShare(rank),41.5
+McLeod,2018,HRShare(rank),58
+McLeod,2018,Public(rank),55
 Meeker,2012,Weekly Price(rank),49
 Meeker,2012,TotCapacity(rank),51
 Meeker,2012,AvgCapacity(rank),29
@@ -1962,17 +1962,17 @@ Meeker,2016,CCCShare(rank),34.5
 Meeker,2016,HRShare(rank),43
 Meeker,2016,Public(rank),25
 Meeker,2017,Weekly Price(rank),50
-Meeker,2017,TotCapacity(rank),51
+Meeker,2017,TotCapacity(rank),49
 Meeker,2017,AvgCapacity(rank),23
 Meeker,2017,CCCShare(rank),41
 Meeker,2017,HRShare(rank),40
-Meeker,2017,Public(rank),29
-Meeker,2018,Weekly Price(rank),46
-Meeker,2018,TotCapacity(rank),49
-Meeker,2018,AvgCapacity(rank),19
+Meeker,2017,Public(rank),28
+Meeker,2018,Weekly Price(rank),50
+Meeker,2018,TotCapacity(rank),51
+Meeker,2018,AvgCapacity(rank),21
 Meeker,2018,CCCShare(rank),36
-Meeker,2018,HRShare(rank),33.5
-Meeker,2018,Public(rank),21
+Meeker,2018,HRShare(rank),38
+Meeker,2018,Public(rank),22.5
 Mille Lacs,2012,Weekly Price(rank),32
 Mille Lacs,2012,TotCapacity(rank),41
 Mille Lacs,2012,AvgCapacity(rank),8
@@ -2005,16 +2005,16 @@ Mille Lacs,2016,HRShare(rank),45
 Mille Lacs,2016,Public(rank),32
 Mille Lacs,2017,Weekly Price(rank),30
 Mille Lacs,2017,TotCapacity(rank),39
-Mille Lacs,2017,AvgCapacity(rank),16
-Mille Lacs,2017,CCCShare(rank),15
+Mille Lacs,2017,AvgCapacity(rank),15
+Mille Lacs,2017,CCCShare(rank),16
 Mille Lacs,2017,HRShare(rank),33
 Mille Lacs,2017,Public(rank),35
-Mille Lacs,2018,Weekly Price(rank),32
-Mille Lacs,2018,TotCapacity(rank),39
-Mille Lacs,2018,AvgCapacity(rank),13
-Mille Lacs,2018,CCCShare(rank),15
-Mille Lacs,2018,HRShare(rank),36
-Mille Lacs,2018,Public(rank),34.5
+Mille Lacs,2018,Weekly Price(rank),33
+Mille Lacs,2018,TotCapacity(rank),38
+Mille Lacs,2018,AvgCapacity(rank),16
+Mille Lacs,2018,CCCShare(rank),14
+Mille Lacs,2018,HRShare(rank),41
+Mille Lacs,2018,Public(rank),39
 Morrison,2012,Weekly Price(rank),52
 Morrison,2012,TotCapacity(rank),34
 Morrison,2012,AvgCapacity(rank),64
@@ -2046,17 +2046,17 @@ Morrison,2016,CCCShare(rank),63.5
 Morrison,2016,HRShare(rank),21
 Morrison,2016,Public(rank),54.5
 Morrison,2017,Weekly Price(rank),49
-Morrison,2017,TotCapacity(rank),31
+Morrison,2017,TotCapacity(rank),32
 Morrison,2017,AvgCapacity(rank),65
 Morrison,2017,CCCShare(rank),46
 Morrison,2017,HRShare(rank),35.5
 Morrison,2017,Public(rank),59
-Morrison,2018,Weekly Price(rank),48
-Morrison,2018,TotCapacity(rank),31
+Morrison,2018,Weekly Price(rank),53
+Morrison,2018,TotCapacity(rank),32
 Morrison,2018,AvgCapacity(rank),64
-Morrison,2018,CCCShare(rank),56
-Morrison,2018,HRShare(rank),22
-Morrison,2018,Public(rank),36
+Morrison,2018,CCCShare(rank),48
+Morrison,2018,HRShare(rank),24
+Morrison,2018,Public(rank),29
 Mower,2012,Weekly Price(rank),31
 Mower,2012,TotCapacity(rank),35
 Mower,2012,AvgCapacity(rank),48
@@ -2089,16 +2089,16 @@ Mower,2016,HRShare(rank),59
 Mower,2016,Public(rank),35
 Mower,2017,Weekly Price(rank),47
 Mower,2017,TotCapacity(rank),35
-Mower,2017,AvgCapacity(rank),38
+Mower,2017,AvgCapacity(rank),37
 Mower,2017,CCCShare(rank),66
-Mower,2017,HRShare(rank),53
-Mower,2017,Public(rank),25
-Mower,2018,Weekly Price(rank),44
+Mower,2017,HRShare(rank),52
+Mower,2017,Public(rank),24
+Mower,2018,Weekly Price(rank),42
 Mower,2018,TotCapacity(rank),35
-Mower,2018,AvgCapacity(rank),32
-Mower,2018,CCCShare(rank),59
-Mower,2018,HRShare(rank),40
-Mower,2018,Public(rank),25
+Mower,2018,AvgCapacity(rank),38
+Mower,2018,CCCShare(rank),60
+Mower,2018,HRShare(rank),46.5
+Mower,2018,Public(rank),28
 Murray,2012,Weekly Price(rank),72
 Murray,2012,TotCapacity(rank),73
 Murray,2012,AvgCapacity(rank),54
@@ -2129,18 +2129,18 @@ Murray,2016,AvgCapacity(rank),30
 Murray,2016,CCCShare(rank),38.5
 Murray,2016,HRShare(rank),73
 Murray,2016,Public(rank),39
-Murray,2017,Weekly Price(rank),69
+Murray,2017,Weekly Price(rank),71
 Murray,2017,TotCapacity(rank),76
-Murray,2017,AvgCapacity(rank),40
+Murray,2017,AvgCapacity(rank),39
 Murray,2017,CCCShare(rank),41
 Murray,2017,HRShare(rank),79.5
 Murray,2017,Public(rank),42.5
-Murray,2018,Weekly Price(rank),73
+Murray,2018,Weekly Price(rank),75
 Murray,2018,TotCapacity(rank),74
-Murray,2018,AvgCapacity(rank),50
-Murray,2018,CCCShare(rank),43.5
-Murray,2018,HRShare(rank),86
-Murray,2018,Public(rank),78
+Murray,2018,AvgCapacity(rank),49
+Murray,2018,CCCShare(rank),45
+Murray,2018,HRShare(rank),80
+Murray,2018,Public(rank),53
 Nicollet,2012,Weekly Price(rank),17
 Nicollet,2012,TotCapacity(rank),25
 Nicollet,2012,AvgCapacity(rank),10
@@ -2171,18 +2171,18 @@ Nicollet,2016,AvgCapacity(rank),12
 Nicollet,2016,CCCShare(rank),6
 Nicollet,2016,HRShare(rank),75
 Nicollet,2016,Public(rank),73
-Nicollet,2017,Weekly Price(rank),15
-Nicollet,2017,TotCapacity(rank),29
-Nicollet,2017,AvgCapacity(rank),9
-Nicollet,2017,CCCShare(rank),4.5
+Nicollet,2017,Weekly Price(rank),17
+Nicollet,2017,TotCapacity(rank),23
+Nicollet,2017,AvgCapacity(rank),7
+Nicollet,2017,CCCShare(rank),5
 Nicollet,2017,HRShare(rank),82
-Nicollet,2017,Public(rank),82
+Nicollet,2017,Public(rank),77
 Nicollet,2018,Weekly Price(rank),16
-Nicollet,2018,TotCapacity(rank),30
-Nicollet,2018,AvgCapacity(rank),14
+Nicollet,2018,TotCapacity(rank),31
+Nicollet,2018,AvgCapacity(rank),11
 Nicollet,2018,CCCShare(rank),5
-Nicollet,2018,HRShare(rank),81
-Nicollet,2018,Public(rank),79
+Nicollet,2018,HRShare(rank),83
+Nicollet,2018,Public(rank),83
 Nobles,2012,Weekly Price(rank),79
 Nobles,2012,TotCapacity(rank),55
 Nobles,2012,AvgCapacity(rank),42
@@ -2214,17 +2214,17 @@ Nobles,2016,CCCShare(rank),46
 Nobles,2016,HRShare(rank),20
 Nobles,2016,Public(rank),13
 Nobles,2017,Weekly Price(rank),82
-Nobles,2017,TotCapacity(rank),46
-Nobles,2017,AvgCapacity(rank),30
+Nobles,2017,TotCapacity(rank),45
+Nobles,2017,AvgCapacity(rank),28
 Nobles,2017,CCCShare(rank),51
 Nobles,2017,HRShare(rank),25
 Nobles,2017,Public(rank),10
-Nobles,2018,Weekly Price(rank),77
-Nobles,2018,TotCapacity(rank),48
-Nobles,2018,AvgCapacity(rank),41
-Nobles,2018,CCCShare(rank),46
-Nobles,2018,HRShare(rank),31
-Nobles,2018,Public(rank),15.5
+Nobles,2018,Weekly Price(rank),80
+Nobles,2018,TotCapacity(rank),47
+Nobles,2018,AvgCapacity(rank),29
+Nobles,2018,CCCShare(rank),47
+Nobles,2018,HRShare(rank),25
+Nobles,2018,Public(rank),14
 Norman,2012,Weekly Price(rank),83
 Norman,2012,TotCapacity(rank),74
 Norman,2012,AvgCapacity(rank),19
@@ -2261,12 +2261,12 @@ Norman,2017,AvgCapacity(rank),21
 Norman,2017,CCCShare(rank),34
 Norman,2017,HRShare(rank),23.5
 Norman,2017,Public(rank),5
-Norman,2018,Weekly Price(rank),83
-Norman,2018,TotCapacity(rank),72
-Norman,2018,AvgCapacity(rank),23
-Norman,2018,CCCShare(rank),37.5
-Norman,2018,HRShare(rank),13.5
-Norman,2018,Public(rank),6.5
+Norman,2018,Weekly Price(rank),81
+Norman,2018,TotCapacity(rank),73
+Norman,2018,AvgCapacity(rank),24
+Norman,2018,CCCShare(rank),38
+Norman,2018,HRShare(rank),14.5
+Norman,2018,Public(rank),10.5
 Olmsted,2012,Weekly Price(rank),8
 Olmsted,2012,TotCapacity(rank),6
 Olmsted,2012,AvgCapacity(rank),17
@@ -2299,16 +2299,16 @@ Olmsted,2016,HRShare(rank),58
 Olmsted,2016,Public(rank),81
 Olmsted,2017,Weekly Price(rank),8
 Olmsted,2017,TotCapacity(rank),6
-Olmsted,2017,AvgCapacity(rank),12
+Olmsted,2017,AvgCapacity(rank),11
 Olmsted,2017,CCCShare(rank),19
 Olmsted,2017,HRShare(rank),60
-Olmsted,2017,Public(rank),80
+Olmsted,2017,Public(rank),81
 Olmsted,2018,Weekly Price(rank),8
 Olmsted,2018,TotCapacity(rank),6
-Olmsted,2018,AvgCapacity(rank),10
-Olmsted,2018,CCCShare(rank),17
-Olmsted,2018,HRShare(rank),50
-Olmsted,2018,Public(rank),75
+Olmsted,2018,AvgCapacity(rank),14
+Olmsted,2018,CCCShare(rank),18
+Olmsted,2018,HRShare(rank),55
+Olmsted,2018,Public(rank),78
 Otter Tail,2012,Weekly Price(rank),40
 Otter Tail,2012,TotCapacity(rank),23
 Otter Tail,2012,AvgCapacity(rank),60
@@ -2343,14 +2343,14 @@ Otter Tail,2017,Weekly Price(rank),43
 Otter Tail,2017,TotCapacity(rank),19
 Otter Tail,2017,AvgCapacity(rank),63
 Otter Tail,2017,CCCShare(rank),68
-Otter Tail,2017,HRShare(rank),56.5
-Otter Tail,2017,Public(rank),45
-Otter Tail,2018,Weekly Price(rank),52
-Otter Tail,2018,TotCapacity(rank),17
-Otter Tail,2018,AvgCapacity(rank),49
-Otter Tail,2018,CCCShare(rank),69
-Otter Tail,2018,HRShare(rank),54
-Otter Tail,2018,Public(rank),28
+Otter Tail,2017,HRShare(rank),56
+Otter Tail,2017,Public(rank),44
+Otter Tail,2018,Weekly Price(rank),44
+Otter Tail,2018,TotCapacity(rank),18
+Otter Tail,2018,AvgCapacity(rank),58
+Otter Tail,2018,CCCShare(rank),70
+Otter Tail,2018,HRShare(rank),64
+Otter Tail,2018,Public(rank),38
 Pennington,2012,Weekly Price(rank),48
 Pennington,2012,TotCapacity(rank),49
 Pennington,2012,AvgCapacity(rank),56
@@ -2381,18 +2381,18 @@ Pennington,2016,AvgCapacity(rank),73
 Pennington,2016,CCCShare(rank),55.5
 Pennington,2016,HRShare(rank),82
 Pennington,2016,Public(rank),74
-Pennington,2017,Weekly Price(rank),34
-Pennington,2017,TotCapacity(rank),47
-Pennington,2017,AvgCapacity(rank),76
+Pennington,2017,Weekly Price(rank),35
+Pennington,2017,TotCapacity(rank),46
+Pennington,2017,AvgCapacity(rank),75
 Pennington,2017,CCCShare(rank),58
 Pennington,2017,HRShare(rank),84
-Pennington,2017,Public(rank),78
-Pennington,2018,Weekly Price(rank),35
-Pennington,2018,TotCapacity(rank),46
-Pennington,2018,AvgCapacity(rank),72
-Pennington,2018,CCCShare(rank),53
-Pennington,2018,HRShare(rank),85
-Pennington,2018,Public(rank),86
+Pennington,2017,Public(rank),79
+Pennington,2018,Weekly Price(rank),34
+Pennington,2018,TotCapacity(rank),49
+Pennington,2018,AvgCapacity(rank),75
+Pennington,2018,CCCShare(rank),55
+Pennington,2018,HRShare(rank),86
+Pennington,2018,Public(rank),82
 Pine,2012,Weekly Price(rank),19
 Pine,2012,TotCapacity(rank),56
 Pine,2012,AvgCapacity(rank),75
@@ -2424,17 +2424,17 @@ Pine,2016,CCCShare(rank),47.5
 Pine,2016,HRShare(rank),13
 Pine,2016,Public(rank),32
 Pine,2017,Weekly Price(rank),33
-Pine,2017,TotCapacity(rank),53
+Pine,2017,TotCapacity(rank),52
 Pine,2017,AvgCapacity(rank),66
 Pine,2017,CCCShare(rank),69
 Pine,2017,HRShare(rank),13
-Pine,2017,Public(rank),27.5
-Pine,2018,Weekly Price(rank),34
-Pine,2018,TotCapacity(rank),51
-Pine,2018,AvgCapacity(rank),67
-Pine,2018,CCCShare(rank),65
-Pine,2018,HRShare(rank),13.5
-Pine,2018,Public(rank),27
+Pine,2017,Public(rank),26.5
+Pine,2018,Weekly Price(rank),29
+Pine,2018,TotCapacity(rank),50
+Pine,2018,AvgCapacity(rank),54
+Pine,2018,CCCShare(rank),49
+Pine,2018,HRShare(rank),16
+Pine,2018,Public(rank),30
 Pipestone,2012,Weekly Price(rank),55
 Pipestone,2012,TotCapacity(rank),70
 Pipestone,2012,AvgCapacity(rank),61
@@ -2466,17 +2466,17 @@ Pipestone,2016,CCCShare(rank),65.5
 Pipestone,2016,HRShare(rank),42
 Pipestone,2016,Public(rank),22.5
 Pipestone,2017,Weekly Price(rank),67
-Pipestone,2017,TotCapacity(rank),61
+Pipestone,2017,TotCapacity(rank),60
 Pipestone,2017,AvgCapacity(rank),74
 Pipestone,2017,CCCShare(rank),65
 Pipestone,2017,HRShare(rank),50
-Pipestone,2017,Public(rank),23.5
-Pipestone,2018,Weekly Price(rank),70
-Pipestone,2018,TotCapacity(rank),61
-Pipestone,2018,AvgCapacity(rank),73
-Pipestone,2018,CCCShare(rank),59
-Pipestone,2018,HRShare(rank),58
-Pipestone,2018,Public(rank),37.5
+Pipestone,2017,Public(rank),23
+Pipestone,2018,Weekly Price(rank),72
+Pipestone,2018,TotCapacity(rank),62
+Pipestone,2018,AvgCapacity(rank),69
+Pipestone,2018,CCCShare(rank),61
+Pipestone,2018,HRShare(rank),50
+Pipestone,2018,Public(rank),22.5
 Polk,2012,Weekly Price(rank),44
 Polk,2012,TotCapacity(rank),29
 Polk,2012,AvgCapacity(rank),25
@@ -2507,18 +2507,18 @@ Polk,2016,AvgCapacity(rank),29
 Polk,2016,CCCShare(rank),23
 Polk,2016,HRShare(rank),30
 Polk,2016,Public(rank),36.5
-Polk,2017,Weekly Price(rank),42
+Polk,2017,Weekly Price(rank),41
 Polk,2017,TotCapacity(rank),24
-Polk,2017,AvgCapacity(rank),27
+Polk,2017,AvgCapacity(rank),26
 Polk,2017,CCCShare(rank),26
 Polk,2017,HRShare(rank),40
 Polk,2017,Public(rank),40.5
-Polk,2018,Weekly Price(rank),47
+Polk,2018,Weekly Price(rank),46
 Polk,2018,TotCapacity(rank),26
-Polk,2018,AvgCapacity(rank),29
-Polk,2018,CCCShare(rank),47.5
-Polk,2018,HRShare(rank),32
-Polk,2018,Public(rank),23
+Polk,2018,AvgCapacity(rank),31
+Polk,2018,CCCShare(rank),38
+Polk,2018,HRShare(rank),37
+Polk,2018,Public(rank),26.5
 Pope,2012,Weekly Price(rank),60
 Pope,2012,TotCapacity(rank),67
 Pope,2012,AvgCapacity(rank),43
@@ -2549,18 +2549,18 @@ Pope,2016,AvgCapacity(rank),40
 Pope,2016,CCCShare(rank),51
 Pope,2016,HRShare(rank),80
 Pope,2016,Public(rank),60
-Pope,2017,Weekly Price(rank),41
+Pope,2017,Weekly Price(rank),42
 Pope,2017,TotCapacity(rank),70
-Pope,2017,AvgCapacity(rank),52
+Pope,2017,AvgCapacity(rank),51
 Pope,2017,CCCShare(rank),53.5
 Pope,2017,HRShare(rank),83
-Pope,2017,Public(rank),65
-Pope,2018,Weekly Price(rank),29
-Pope,2018,TotCapacity(rank),70
-Pope,2018,AvgCapacity(rank),56
-Pope,2018,CCCShare(rank),50
-Pope,2018,HRShare(rank),87
-Pope,2018,Public(rank),84
+Pope,2017,Public(rank),66
+Pope,2018,Weekly Price(rank),35
+Pope,2018,TotCapacity(rank),69
+Pope,2018,AvgCapacity(rank),61
+Pope,2018,CCCShare(rank),53.5
+Pope,2018,HRShare(rank),85
+Pope,2018,Public(rank),70
 Ramsey,2012,Weekly Price(rank),3
 Ramsey,2012,TotCapacity(rank),3
 Ramsey,2012,AvgCapacity(rank),4
@@ -2596,13 +2596,13 @@ Ramsey,2017,TotCapacity(rank),2
 Ramsey,2017,AvgCapacity(rank),3
 Ramsey,2017,CCCShare(rank),2
 Ramsey,2017,HRShare(rank),11
-Ramsey,2017,Public(rank),34
+Ramsey,2017,Public(rank),33
 Ramsey,2018,Weekly Price(rank),3
-Ramsey,2018,TotCapacity(rank),3
+Ramsey,2018,TotCapacity(rank),2
 Ramsey,2018,AvgCapacity(rank),3
-Ramsey,2018,CCCShare(rank),3
+Ramsey,2018,CCCShare(rank),2
 Ramsey,2018,HRShare(rank),10
-Ramsey,2018,Public(rank),56
+Ramsey,2018,Public(rank),37
 Red Lake,2012,Weekly Price(rank),87
 Red Lake,2012,TotCapacity(rank),62
 Red Lake,2012,AvgCapacity(rank),5
@@ -2635,16 +2635,16 @@ Red Lake,2016,HRShare(rank),11
 Red Lake,2016,Public(rank),4
 Red Lake,2017,Weekly Price(rank),85
 Red Lake,2017,TotCapacity(rank),57
-Red Lake,2017,AvgCapacity(rank),6
+Red Lake,2017,AvgCapacity(rank),5
 Red Lake,2017,CCCShare(rank),47.5
 Red Lake,2017,HRShare(rank),12
 Red Lake,2017,Public(rank),6
 Red Lake,2018,Weekly Price(rank),87
-Red Lake,2018,TotCapacity(rank),57
-Red Lake,2018,AvgCapacity(rank),5
-Red Lake,2018,CCCShare(rank),43.5
-Red Lake,2018,HRShare(rank),20
-Red Lake,2018,Public(rank),4
+Red Lake,2018,TotCapacity(rank),60
+Red Lake,2018,AvgCapacity(rank),6
+Red Lake,2018,CCCShare(rank),44
+Red Lake,2018,HRShare(rank),21.5
+Red Lake,2018,Public(rank),5.5
 Redwood,2012,Weekly Price(rank),59
 Redwood,2012,TotCapacity(rank),52
 Redwood,2012,AvgCapacity(rank),85
@@ -2675,18 +2675,18 @@ Redwood,2016,AvgCapacity(rank),83
 Redwood,2016,CCCShare(rank),79.5
 Redwood,2016,HRShare(rank),61
 Redwood,2016,Public(rank),32
-Redwood,2017,Weekly Price(rank),57
-Redwood,2017,TotCapacity(rank),58
+Redwood,2017,Weekly Price(rank),59
+Redwood,2017,TotCapacity(rank),56
 Redwood,2017,AvgCapacity(rank),85
 Redwood,2017,CCCShare(rank),79.5
-Redwood,2017,HRShare(rank),75.5
-Redwood,2017,Public(rank),71
-Redwood,2018,Weekly Price(rank),62
-Redwood,2018,TotCapacity(rank),54
-Redwood,2018,AvgCapacity(rank),82
-Redwood,2018,CCCShare(rank),79
-Redwood,2018,HRShare(rank),64
-Redwood,2018,Public(rank),51
+Redwood,2017,HRShare(rank),68.5
+Redwood,2017,Public(rank),61
+Redwood,2018,Weekly Price(rank),60
+Redwood,2018,TotCapacity(rank),56
+Redwood,2018,AvgCapacity(rank),84
+Redwood,2018,CCCShare(rank),79.5
+Redwood,2018,HRShare(rank),66
+Redwood,2018,Public(rank),59
 Renville,2012,Weekly Price(rank),54
 Renville,2012,TotCapacity(rank),50
 Renville,2012,AvgCapacity(rank),24
@@ -2717,18 +2717,18 @@ Renville,2016,AvgCapacity(rank),42
 Renville,2016,CCCShare(rank),19
 Renville,2016,HRShare(rank),48.5
 Renville,2016,Public(rank),22.5
-Renville,2017,Weekly Price(rank),58
-Renville,2017,TotCapacity(rank),54
-Renville,2017,AvgCapacity(rank),29
-Renville,2017,CCCShare(rank),16.5
-Renville,2017,HRShare(rank),67
-Renville,2017,Public(rank),23.5
-Renville,2018,Weekly Price(rank),60
-Renville,2018,TotCapacity(rank),56
-Renville,2018,AvgCapacity(rank),44
-Renville,2018,CCCShare(rank),18.5
-Renville,2018,HRShare(rank),70.5
-Renville,2018,Public(rank),37.5
+Renville,2017,Weekly Price(rank),57
+Renville,2017,TotCapacity(rank),53
+Renville,2017,AvgCapacity(rank),30
+Renville,2017,CCCShare(rank),15
+Renville,2017,HRShare(rank),74
+Renville,2017,Public(rank),34
+Renville,2018,Weekly Price(rank),59
+Renville,2018,TotCapacity(rank),58
+Renville,2018,AvgCapacity(rank),48
+Renville,2018,CCCShare(rank),21.5
+Renville,2018,HRShare(rank),73
+Renville,2018,Public(rank),40
 Rice,2012,Weekly Price(rank),13
 Rice,2012,TotCapacity(rank),16
 Rice,2012,AvgCapacity(rank),44
@@ -2761,16 +2761,16 @@ Rice,2016,HRShare(rank),84
 Rice,2016,Public(rank),85
 Rice,2017,Weekly Price(rank),11
 Rice,2017,TotCapacity(rank),20
-Rice,2017,AvgCapacity(rank),56
+Rice,2017,AvgCapacity(rank),55
 Rice,2017,CCCShare(rank),45
 Rice,2017,HRShare(rank),78
 Rice,2017,Public(rank),83
-Rice,2018,Weekly Price(rank),13
+Rice,2018,Weekly Price(rank),11
 Rice,2018,TotCapacity(rank),19
-Rice,2018,AvgCapacity(rank),46
+Rice,2018,AvgCapacity(rank),50
 Rice,2018,CCCShare(rank),35
-Rice,2018,HRShare(rank),77
-Rice,2018,Public(rank),83
+Rice,2018,HRShare(rank),79
+Rice,2018,Public(rank),86
 Rock,2012,Weekly Price(rank),58
 Rock,2012,TotCapacity(rank),61
 Rock,2012,AvgCapacity(rank),81
@@ -2803,16 +2803,16 @@ Rock,2016,HRShare(rank),85.5
 Rock,2016,Public(rank),75
 Rock,2017,Weekly Price(rank),62
 Rock,2017,TotCapacity(rank),66
-Rock,2017,AvgCapacity(rank),69
+Rock,2017,AvgCapacity(rank),70
 Rock,2017,CCCShare(rank),79.5
 Rock,2017,HRShare(rank),86.5
 Rock,2017,Public(rank),75
-Rock,2018,Weekly Price(rank),74
-Rock,2018,TotCapacity(rank),68
-Rock,2018,AvgCapacity(rank),86
-Rock,2018,CCCShare(rank),79
-Rock,2018,HRShare(rank),84
-Rock,2018,Public(rank),72.5
+Rock,2018,Weekly Price(rank),68
+Rock,2018,TotCapacity(rank),64
+Rock,2018,AvgCapacity(rank),73
+Rock,2018,CCCShare(rank),79.5
+Rock,2018,HRShare(rank),87
+Rock,2018,Public(rank),80
 Roseau,2012,Weekly Price(rank),73
 Roseau,2012,TotCapacity(rank),48
 Roseau,2012,AvgCapacity(rank),76
@@ -2844,17 +2844,17 @@ Roseau,2016,CCCShare(rank),79.5
 Roseau,2016,HRShare(rank),69
 Roseau,2016,Public(rank),62
 Roseau,2017,Weekly Price(rank),70
-Roseau,2017,TotCapacity(rank),52
+Roseau,2017,TotCapacity(rank),51
 Roseau,2017,AvgCapacity(rank),83
 Roseau,2017,CCCShare(rank),79.5
-Roseau,2017,HRShare(rank),68
+Roseau,2017,HRShare(rank),67
 Roseau,2017,Public(rank),54
-Roseau,2018,Weekly Price(rank),63
+Roseau,2018,Weekly Price(rank),71
 Roseau,2018,TotCapacity(rank),53
-Roseau,2018,AvgCapacity(rank),87
-Roseau,2018,CCCShare(rank),79
-Roseau,2018,HRShare(rank),82
-Roseau,2018,Public(rank),87
+Roseau,2018,AvgCapacity(rank),83
+Roseau,2018,CCCShare(rank),79.5
+Roseau,2018,HRShare(rank),63
+Roseau,2018,Public(rank),54
 Saint Louis,2012,Weekly Price(rank),25
 Saint Louis,2012,TotCapacity(rank),9
 Saint Louis,2012,AvgCapacity(rank),13
@@ -2887,16 +2887,16 @@ Saint Louis,2016,HRShare(rank),26
 Saint Louis,2016,Public(rank),27
 Saint Louis,2017,Weekly Price(rank),22
 Saint Louis,2017,TotCapacity(rank),9
-Saint Louis,2017,AvgCapacity(rank),10
+Saint Louis,2017,AvgCapacity(rank),9
 Saint Louis,2017,CCCShare(rank),9
 Saint Louis,2017,HRShare(rank),21
-Saint Louis,2017,Public(rank),26
+Saint Louis,2017,Public(rank),25
 Saint Louis,2018,Weekly Price(rank),20
 Saint Louis,2018,TotCapacity(rank),9
 Saint Louis,2018,AvgCapacity(rank),12
-Saint Louis,2018,CCCShare(rank),11
+Saint Louis,2018,CCCShare(rank),8
 Saint Louis,2018,HRShare(rank),23
-Saint Louis,2018,Public(rank),33
+Saint Louis,2018,Public(rank),24
 Scott,2012,Weekly Price(rank),5
 Scott,2012,TotCapacity(rank),7
 Scott,2012,AvgCapacity(rank),30
@@ -2933,12 +2933,12 @@ Scott,2017,AvgCapacity(rank),22
 Scott,2017,CCCShare(rank),24
 Scott,2017,HRShare(rank),77
 Scott,2017,Public(rank),86
-Scott,2018,Weekly Price(rank),6
+Scott,2018,Weekly Price(rank),5
 Scott,2018,TotCapacity(rank),7
-Scott,2018,AvgCapacity(rank),17
-Scott,2018,CCCShare(rank),24
-Scott,2018,HRShare(rank),73
-Scott,2018,Public(rank),82
+Scott,2018,AvgCapacity(rank),19
+Scott,2018,CCCShare(rank),23
+Scott,2018,HRShare(rank),76
+Scott,2018,Public(rank),85
 Sherburne,2012,Weekly Price(rank),12
 Sherburne,2012,TotCapacity(rank),12
 Sherburne,2012,AvgCapacity(rank),28
@@ -2971,16 +2971,16 @@ Sherburne,2016,HRShare(rank),81
 Sherburne,2016,Public(rank),83
 Sherburne,2017,Weekly Price(rank),10
 Sherburne,2017,TotCapacity(rank),13
-Sherburne,2017,AvgCapacity(rank),26
+Sherburne,2017,AvgCapacity(rank),25
 Sherburne,2017,CCCShare(rank),22
 Sherburne,2017,HRShare(rank),81
 Sherburne,2017,Public(rank),84
 Sherburne,2018,Weekly Price(rank),10
-Sherburne,2018,TotCapacity(rank),13
+Sherburne,2018,TotCapacity(rank),12
 Sherburne,2018,AvgCapacity(rank),26
-Sherburne,2018,CCCShare(rank),26
-Sherburne,2018,HRShare(rank),79
-Sherburne,2018,Public(rank),85
+Sherburne,2018,CCCShare(rank),24
+Sherburne,2018,HRShare(rank),81
+Sherburne,2018,Public(rank),87
 Sibley,2012,Weekly Price(rank),36
 Sibley,2012,TotCapacity(rank),57
 Sibley,2012,AvgCapacity(rank),82
@@ -3012,17 +3012,17 @@ Sibley,2016,CCCShare(rank),79.5
 Sibley,2016,HRShare(rank),47
 Sibley,2016,Public(rank),36.5
 Sibley,2017,Weekly Price(rank),39
-Sibley,2017,TotCapacity(rank),55
+Sibley,2017,TotCapacity(rank),54
 Sibley,2017,AvgCapacity(rank),81
 Sibley,2017,CCCShare(rank),79.5
 Sibley,2017,HRShare(rank),37
 Sibley,2017,Public(rank),40.5
-Sibley,2018,Weekly Price(rank),38
+Sibley,2018,Weekly Price(rank),40
 Sibley,2018,TotCapacity(rank),55
-Sibley,2018,AvgCapacity(rank),81
-Sibley,2018,CCCShare(rank),79
-Sibley,2018,HRShare(rank),51.5
-Sibley,2018,Public(rank),48
+Sibley,2018,AvgCapacity(rank),80
+Sibley,2018,CCCShare(rank),79.5
+Sibley,2018,HRShare(rank),43
+Sibley,2018,Public(rank),42
 Stearns,2012,Weekly Price(rank),26
 Stearns,2012,TotCapacity(rank),8
 Stearns,2012,AvgCapacity(rank),41
@@ -3059,12 +3059,12 @@ Stearns,2017,AvgCapacity(rank),31
 Stearns,2017,CCCShare(rank),28
 Stearns,2017,HRShare(rank),71
 Stearns,2017,Public(rank),73
-Stearns,2018,Weekly Price(rank),22
+Stearns,2018,Weekly Price(rank),23
 Stearns,2018,TotCapacity(rank),8
-Stearns,2018,AvgCapacity(rank),31
-Stearns,2018,CCCShare(rank),27
+Stearns,2018,AvgCapacity(rank),34
+Stearns,2018,CCCShare(rank),26
 Stearns,2018,HRShare(rank),72
-Stearns,2018,Public(rank),71
+Stearns,2018,Public(rank),73
 Steele,2012,Weekly Price(rank),30
 Steele,2012,TotCapacity(rank),15
 Steele,2012,AvgCapacity(rank),23
@@ -3101,12 +3101,12 @@ Steele,2017,AvgCapacity(rank),34
 Steele,2017,CCCShare(rank),59
 Steele,2017,HRShare(rank),73
 Steele,2017,Public(rank),75
-Steele,2018,Weekly Price(rank),33
-Steele,2018,TotCapacity(rank),18
-Steele,2018,AvgCapacity(rank),28
-Steele,2018,CCCShare(rank),51.5
-Steele,2018,HRShare(rank),68
-Steele,2018,Public(rank),70
+Steele,2018,Weekly Price(rank),32
+Steele,2018,TotCapacity(rank),17
+Steele,2018,AvgCapacity(rank),32
+Steele,2018,CCCShare(rank),53.5
+Steele,2018,HRShare(rank),70
+Steele,2018,Public(rank),77
 Stevens,2012,Weekly Price(rank),65
 Stevens,2012,TotCapacity(rank),68
 Stevens,2012,AvgCapacity(rank),45
@@ -3137,18 +3137,18 @@ Stevens,2016,AvgCapacity(rank),54
 Stevens,2016,CCCShare(rank),58.5
 Stevens,2016,HRShare(rank),27.5
 Stevens,2016,Public(rank),26
-Stevens,2017,Weekly Price(rank),61
+Stevens,2017,Weekly Price(rank),64
 Stevens,2017,TotCapacity(rank),69
-Stevens,2017,AvgCapacity(rank),57
+Stevens,2017,AvgCapacity(rank),56
 Stevens,2017,CCCShare(rank),29
 Stevens,2017,HRShare(rank),45
 Stevens,2017,Public(rank),22
-Stevens,2018,Weekly Price(rank),65
-Stevens,2018,TotCapacity(rank),67
-Stevens,2018,AvgCapacity(rank),54
-Stevens,2018,CCCShare(rank),29.5
-Stevens,2018,HRShare(rank),27
-Stevens,2018,Public(rank),19.5
+Stevens,2018,Weekly Price(rank),63
+Stevens,2018,TotCapacity(rank),70
+Stevens,2018,AvgCapacity(rank),63
+Stevens,2018,CCCShare(rank),28.5
+Stevens,2018,HRShare(rank),31
+Stevens,2018,Public(rank),21
 Swift,2012,Weekly Price(rank),70
 Swift,2012,TotCapacity(rank),64
 Swift,2012,AvgCapacity(rank),65
@@ -3185,12 +3185,12 @@ Swift,2017,AvgCapacity(rank),62
 Swift,2017,CCCShare(rank),53.5
 Swift,2017,HRShare(rank),61
 Swift,2017,Public(rank),19
-Swift,2018,Weekly Price(rank),69
-Swift,2018,TotCapacity(rank),62
-Swift,2018,AvgCapacity(rank),21
-Swift,2018,CCCShare(rank),21
-Swift,2018,HRShare(rank),69
-Swift,2018,Public(rank),30.5
+Swift,2018,Weekly Price(rank),65
+Swift,2018,TotCapacity(rank),71
+Swift,2018,AvgCapacity(rank),36
+Swift,2018,CCCShare(rank),25
+Swift,2018,HRShare(rank),71
+Swift,2018,Public(rank),33.5
 Todd,2012,Weekly Price(rank),85
 Todd,2012,TotCapacity(rank),53
 Todd,2012,AvgCapacity(rank),47
@@ -3222,17 +3222,17 @@ Todd,2016,CCCShare(rank),69
 Todd,2016,HRShare(rank),18.5
 Todd,2016,Public(rank),14
 Todd,2017,Weekly Price(rank),81
-Todd,2017,TotCapacity(rank),48
-Todd,2017,AvgCapacity(rank),49
+Todd,2017,TotCapacity(rank),47
+Todd,2017,AvgCapacity(rank),48
 Todd,2017,CCCShare(rank),70
 Todd,2017,HRShare(rank),14
 Todd,2017,Public(rank),13.5
-Todd,2018,Weekly Price(rank),78
-Todd,2018,TotCapacity(rank),47
-Todd,2018,AvgCapacity(rank),70
-Todd,2018,CCCShare(rank),79
-Todd,2018,HRShare(rank),17
-Todd,2018,Public(rank),12
+Todd,2018,Weekly Price(rank),76
+Todd,2018,TotCapacity(rank),46
+Todd,2018,AvgCapacity(rank),55.5
+Todd,2018,CCCShare(rank),67
+Todd,2018,HRShare(rank),14.5
+Todd,2018,Public(rank),17
 Traverse,2012,Weekly Price(rank),82
 Traverse,2012,TotCapacity(rank),85
 Traverse,2012,AvgCapacity(rank),74
@@ -3263,18 +3263,18 @@ Traverse,2016,AvgCapacity(rank),74
 Traverse,2016,CCCShare(rank),79.5
 Traverse,2016,HRShare(rank),36
 Traverse,2016,Public(rank),9.5
-Traverse,2017,Weekly Price(rank),76
+Traverse,2017,Weekly Price(rank),74
 Traverse,2017,TotCapacity(rank),84
-Traverse,2017,AvgCapacity(rank),72
+Traverse,2017,AvgCapacity(rank),71
 Traverse,2017,CCCShare(rank),79.5
 Traverse,2017,HRShare(rank),40
 Traverse,2017,Public(rank),13.5
-Traverse,2018,Weekly Price(rank),84
+Traverse,2018,Weekly Price(rank),82
 Traverse,2018,TotCapacity(rank),86
-Traverse,2018,AvgCapacity(rank),62
-Traverse,2018,CCCShare(rank),79
-Traverse,2018,HRShare(rank),25
-Traverse,2018,Public(rank),6.5
+Traverse,2018,AvgCapacity(rank),68
+Traverse,2018,CCCShare(rank),79.5
+Traverse,2018,HRShare(rank),28.5
+Traverse,2018,Public(rank),10.5
 Wabasha,2012,Weekly Price(rank),20
 Wabasha,2012,TotCapacity(rank),47
 Wabasha,2012,AvgCapacity(rank),59
@@ -3306,17 +3306,17 @@ Wabasha,2016,CCCShare(rank),57
 Wabasha,2016,HRShare(rank),40
 Wabasha,2016,Public(rank),68.5
 Wabasha,2017,Weekly Price(rank),20
-Wabasha,2017,TotCapacity(rank),45
-Wabasha,2017,AvgCapacity(rank),73
+Wabasha,2017,TotCapacity(rank),44
+Wabasha,2017,AvgCapacity(rank),72
 Wabasha,2017,CCCShare(rank),61
 Wabasha,2017,HRShare(rank),51
 Wabasha,2017,Public(rank),72
 Wabasha,2018,Weekly Price(rank),21
-Wabasha,2018,TotCapacity(rank),41
-Wabasha,2018,AvgCapacity(rank),71
-Wabasha,2018,CCCShare(rank),57
-Wabasha,2018,HRShare(rank),41
-Wabasha,2018,Public(rank),68
+Wabasha,2018,TotCapacity(rank),43
+Wabasha,2018,AvgCapacity(rank),76
+Wabasha,2018,CCCShare(rank),59
+Wabasha,2018,HRShare(rank),48
+Wabasha,2018,Public(rank),75
 Wadena,2012,Weekly Price(rank),66
 Wadena,2012,TotCapacity(rank),69
 Wadena,2012,AvgCapacity(rank),67
@@ -3347,18 +3347,18 @@ Wadena,2016,AvgCapacity(rank),70
 Wadena,2016,CCCShare(rank),34.5
 Wadena,2016,HRShare(rank),22
 Wadena,2016,Public(rank),18
-Wadena,2017,Weekly Price(rank),72
-Wadena,2017,TotCapacity(rank),67
+Wadena,2017,Weekly Price(rank),69
+Wadena,2017,TotCapacity(rank),65
 Wadena,2017,AvgCapacity(rank),61
 Wadena,2017,CCCShare(rank),33
 Wadena,2017,HRShare(rank),15
 Wadena,2017,Public(rank),11.5
-Wadena,2018,Weekly Price(rank),67
-Wadena,2018,TotCapacity(rank),59
-Wadena,2018,AvgCapacity(rank),57
-Wadena,2018,CCCShare(rank),18.5
-Wadena,2018,HRShare(rank),18
-Wadena,2018,Public(rank),11
+Wadena,2018,Weekly Price(rank),64
+Wadena,2018,TotCapacity(rank),57
+Wadena,2018,AvgCapacity(rank),47
+Wadena,2018,CCCShare(rank),21.5
+Wadena,2018,HRShare(rank),20
+Wadena,2018,Public(rank),16
 Waseca,2012,Weekly Price(rank),45
 Waseca,2012,TotCapacity(rank),44
 Waseca,2012,AvgCapacity(rank),72
@@ -3390,17 +3390,17 @@ Waseca,2016,CCCShare(rank),38.5
 Waseca,2016,HRShare(rank),73
 Waseca,2016,Public(rank),39
 Waseca,2017,Weekly Price(rank),53
-Waseca,2017,TotCapacity(rank),56
-Waseca,2017,AvgCapacity(rank),53
+Waseca,2017,TotCapacity(rank),55
+Waseca,2017,AvgCapacity(rank),52
 Waseca,2017,CCCShare(rank),41
 Waseca,2017,HRShare(rank),79.5
 Waseca,2017,Public(rank),42.5
 Waseca,2018,Weekly Price(rank),55
-Waseca,2018,TotCapacity(rank),52
-Waseca,2018,AvgCapacity(rank),47
-Waseca,2018,CCCShare(rank),40.5
-Waseca,2018,HRShare(rank),75
-Waseca,2018,Public(rank),43
+Waseca,2018,TotCapacity(rank),54
+Waseca,2018,AvgCapacity(rank),52
+Waseca,2018,CCCShare(rank),41.5
+Waseca,2018,HRShare(rank),77.5
+Waseca,2018,Public(rank),45.5
 Washington,2012,Weekly Price(rank),6
 Washington,2012,TotCapacity(rank),5
 Washington,2012,AvgCapacity(rank),11
@@ -3436,13 +3436,13 @@ Washington,2017,TotCapacity(rank),5
 Washington,2017,AvgCapacity(rank),8
 Washington,2017,CCCShare(rank),13
 Washington,2017,HRShare(rank),31
-Washington,2017,Public(rank),62
-Washington,2018,Weekly Price(rank),5
+Washington,2017,Public(rank),63
+Washington,2018,Weekly Price(rank),6
 Washington,2018,TotCapacity(rank),5
-Washington,2018,AvgCapacity(rank),7
-Washington,2018,CCCShare(rank),12
-Washington,2018,HRShare(rank),35
-Washington,2018,Public(rank),66
+Washington,2018,AvgCapacity(rank),8
+Washington,2018,CCCShare(rank),11
+Washington,2018,HRShare(rank),27
+Washington,2018,Public(rank),58
 Watonwan,2012,Weekly Price(rank),74
 Watonwan,2012,TotCapacity(rank),63
 Watonwan,2012,AvgCapacity(rank),26
@@ -3473,18 +3473,18 @@ Watonwan,2016,AvgCapacity(rank),22
 Watonwan,2016,CCCShare(rank),8
 Watonwan,2016,HRShare(rank),16
 Watonwan,2016,Public(rank),43
-Watonwan,2017,Weekly Price(rank),78
-Watonwan,2017,TotCapacity(rank),64
-Watonwan,2017,AvgCapacity(rank),13
-Watonwan,2017,CCCShare(rank),4.5
+Watonwan,2017,Weekly Price(rank),77
+Watonwan,2017,TotCapacity(rank),63
+Watonwan,2017,AvgCapacity(rank),12
+Watonwan,2017,CCCShare(rank),4
 Watonwan,2017,HRShare(rank),40
 Watonwan,2017,Public(rank),56
-Watonwan,2018,Weekly Price(rank),59
-Watonwan,2018,TotCapacity(rank),63
-Watonwan,2018,AvgCapacity(rank),22
+Watonwan,2018,Weekly Price(rank),56
+Watonwan,2018,TotCapacity(rank),66
+Watonwan,2018,AvgCapacity(rank),23
 Watonwan,2018,CCCShare(rank),13
-Watonwan,2018,HRShare(rank),49
-Watonwan,2018,Public(rank),30.5
+Watonwan,2018,HRShare(rank),54
+Watonwan,2018,Public(rank),33.5
 Wilkin,2012,Weekly Price(rank),57
 Wilkin,2012,TotCapacity(rank),77
 Wilkin,2012,AvgCapacity(rank),87
@@ -3515,18 +3515,18 @@ Wilkin,2016,AvgCapacity(rank),69
 Wilkin,2016,CCCShare(rank),79.5
 Wilkin,2016,HRShare(rank),29
 Wilkin,2016,Public(rank),7
-Wilkin,2017,Weekly Price(rank),63
+Wilkin,2017,Weekly Price(rank),61
 Wilkin,2017,TotCapacity(rank),80
 Wilkin,2017,AvgCapacity(rank),80
 Wilkin,2017,CCCShare(rank),47.5
 Wilkin,2017,HRShare(rank),65
 Wilkin,2017,Public(rank),21
-Wilkin,2018,Weekly Price(rank),71
-Wilkin,2018,TotCapacity(rank),79
-Wilkin,2018,AvgCapacity(rank),76
-Wilkin,2018,CCCShare(rank),40.5
-Wilkin,2018,HRShare(rank),75
-Wilkin,2018,Public(rank),43
+Wilkin,2018,Weekly Price(rank),79
+Wilkin,2018,TotCapacity(rank),80
+Wilkin,2018,AvgCapacity(rank),77
+Wilkin,2018,CCCShare(rank),79.5
+Wilkin,2018,HRShare(rank),58
+Wilkin,2018,Public(rank),18
 Winona,2012,Weekly Price(rank),28
 Winona,2012,TotCapacity(rank),20
 Winona,2012,AvgCapacity(rank),39
@@ -3558,17 +3558,17 @@ Winona,2016,CCCShare(rank),27
 Winona,2016,HRShare(rank),73
 Winona,2016,Public(rank),70
 Winona,2017,Weekly Price(rank),29
-Winona,2017,TotCapacity(rank),28
-Winona,2017,AvgCapacity(rank),20
+Winona,2017,TotCapacity(rank),29
+Winona,2017,AvgCapacity(rank),19
 Winona,2017,CCCShare(rank),21
 Winona,2017,HRShare(rank),48
-Winona,2017,Public(rank),49
-Winona,2018,Weekly Price(rank),27
-Winona,2018,TotCapacity(rank),20
-Winona,2018,AvgCapacity(rank),27
-Winona,2018,CCCShare(rank),22
-Winona,2018,HRShare(rank),62
-Winona,2018,Public(rank),57
+Winona,2017,Public(rank),48
+Winona,2018,Weekly Price(rank),26
+Winona,2018,TotCapacity(rank),22
+Winona,2018,AvgCapacity(rank),28
+Winona,2018,CCCShare(rank),20
+Winona,2018,HRShare(rank),65
+Winona,2018,Public(rank),66
 Wright,2012,Weekly Price(rank),9
 Wright,2012,TotCapacity(rank),10
 Wright,2012,AvgCapacity(rank),49
@@ -3603,14 +3603,14 @@ Wright,2017,Weekly Price(rank),9
 Wright,2017,TotCapacity(rank),10
 Wright,2017,AvgCapacity(rank),32
 Wright,2017,CCCShare(rank),36
-Wright,2017,HRShare(rank),74
-Wright,2017,Public(rank),68
+Wright,2017,HRShare(rank),75
+Wright,2017,Public(rank),69
 Wright,2018,Weekly Price(rank),9
 Wright,2018,TotCapacity(rank),10
 Wright,2018,AvgCapacity(rank),25
-Wright,2018,CCCShare(rank),45
-Wright,2018,HRShare(rank),78
-Wright,2018,Public(rank),74
+Wright,2018,CCCShare(rank),40
+Wright,2018,HRShare(rank),74
+Wright,2018,Public(rank),68
 Yellow Medicine,2012,Weekly Price(rank),69
 Yellow Medicine,2012,TotCapacity(rank),58
 Yellow Medicine,2012,AvgCapacity(rank),68
@@ -3646,10 +3646,10 @@ Yellow Medicine,2017,TotCapacity(rank),68
 Yellow Medicine,2017,AvgCapacity(rank),82
 Yellow Medicine,2017,CCCShare(rank),79.5
 Yellow Medicine,2017,HRShare(rank),26
-Yellow Medicine,2017,Public(rank),32.5
-Yellow Medicine,2018,Weekly Price(rank),53
-Yellow Medicine,2018,TotCapacity(rank),66
-Yellow Medicine,2018,AvgCapacity(rank),85
-Yellow Medicine,2018,CCCShare(rank),61
-Yellow Medicine,2018,HRShare(rank),33.5
-Yellow Medicine,2018,Public(rank),76
+Yellow Medicine,2017,Public(rank),31.5
+Yellow Medicine,2018,Weekly Price(rank),51
+Yellow Medicine,2018,TotCapacity(rank),67
+Yellow Medicine,2018,AvgCapacity(rank),86
+Yellow Medicine,2018,CCCShare(rank),62
+Yellow Medicine,2018,HRShare(rank),28.5
+Yellow Medicine,2018,Public(rank),64

@@ -1,0 +1,610 @@
+year,ED_region,county,s_Price,s_Capacity,s_ShareCCC,s_ShareHighRated
+2012,Southeast,Freeborn,99.5,12.4,.029,0
+2012,Metro,Washington,157,16.3,.086,0
+2012,Southwestcentral,Kandiyohi,101,10.8,.024,0
+2012,Southern,Olmsted,138.6,14.6,.051,0
+2012,Southern,Winona,107.8,12.1,.049,0
+2012,Metro,Ramsey,161.9,19.1,.158,0
+2012,Metro,Hennepin,180.6,23.2,.2,0
+2012,NorthCentral,Wadena,89.7,10.6,.029,0
+2012,Metro,Dakota,163,16.4,.094,0
+2012,Metro,Anoka,146.5,14.9,.085,0
+2012,Southcentral,Sibley,104,9.800000000000001,0,0
+2012,Northwest,Polk,100.3,13.4,.058,0
+2012,Southern,Wabasha,114.6,10.9,.029,0
+2012,NorthCentral,Todd,77.90000000000001,11.9,0,0
+2012,Southwest,Nobles,82.2,12,.041,0
+2012,Northwest,Pennington,99.5,11,.031,0
+2012,Southwest,Lyon,101.3,12.5,.049,0
+2012,Southern,Mower,106.9,11.7,.043,0
+2012,Metro,Scott,158,13.1,.047,0
+2012,Southcentral,Nicollet,117.5,16.4,.088,0
+2012,Southwestcentral,Renville,95.5,13.5,.02,0
+2012,Southeast,Dodge,119,11.5,.012,0
+2012,Central,Stearns,110.3,12,.042,0
+2012,Southeast,Goodhue,122.9,13.1,.047,0
+2012,Central,Wright,133.4,11.6,.03,0
+2012,Southeast,Fillmore,99.09999999999999,17.9,.05,0
+2012,Southcentral,Le Sueur,117.9,10.3,0,0
+2012,Southern,Rice,126,12,.043,0
+2012,EastCentral,Mille Lacs,106.7,16.8,.083,0
+2012,Southeast,Houston,100.5,10.4,.027,0
+2012,Headwaters,Beltrami,104.9,13.7,.056,0
+2012,Central,Sherburne,127,13.3,.05,0
+2012,Southwestcentral,Meeker,99.5,13.2,.043,0
+2012,Arrowhead,Saint Louis,111.7,16,.1,0
+2012,Southcentral,Martin,93.8,10.9,.015,0
+2012,Westcentral,Wilkin,93.5,9.4,0,0
+2012,Westcentral,Otter Tail,101.4,10.8,.035,0
+2012,Southwestcentral,McLeod,107.6,11.6,.023,0
+2012,Westcentral,Clay,112.6,12.7,.049,0
+2012,NorthCentral,Morrison,96.09999999999999,10.7,.009,0
+2012,UpperMNvalley,Chippewa,89,12.2,.026,0
+2012,Northwest,Red Lake,76.5,18.7,.042,0
+2012,Southwest,Murray,85.40000000000001,11.5,.038,0
+2012,Metro,Carver,160.6,16.3,.088,0
+2012,NorthCentral,Crow Wing,116.4,13.1,.075,0
+2012,Westcentral,Stevens,90,11.9,.031,0
+2012,Southcentral,Blue Earth,114.4,15.7,.075,0
+2012,Southern,Steele,107.3,13.5,.038,0
+2012,Southcentral,Brown,96.3,12.3,.044,0
+2012,EastCentral,Chisago,131.9,13.3,.065,0
+2012,Central,Benton,112.6,11,.019,0
+2012,NorthCentral,Cass,93,21.9,.038,0
+2012,Northwest,Roseau,85.40000000000001,10.1,0,0
+2012,Southcentral,Watonwan,85.40000000000001,13.3,.094,0
+2012,Westcentral,Douglas,102.5,11.9,.021,0
+2012,Arrowhead,Cook,82.09999999999999,10.1,.1,0
+2012,Arrowhead,Itasca,96,13.9,.048,0
+2012,Southwest,Cottonwood,92.2,10.7,.026,0
+2012,Headwaters,Clearwater,77.2,11.5,0,0
+2012,Northwest,Norman,79.7,14.2,.053,0
+2012,Westcentral,Becker,106.1,10.9,.009,0
+2012,Southwest,Redwood,93.2,9.699999999999999,0,0
+2012,Arrowhead,Carlton,112.8,14.3,.06,0
+2012,Headwaters,Hubbard,102.8,11.6,.039,0
+2012,Arrowhead,Koochiching,100.2,10.4,0,0
+2012,Westcentral,Pope,93,12,.063,0
+2012,Southwest,Pipestone,94.8,10.8,.029,0
+2012,UpperMNvalley,Yellow Medicine,87.40000000000001,10.6,.02,0
+2012,Southcentral,Waseca,100.2,10.4,.027,0
+2012,UpperMNvalley,Lac qui Parle,82.8,10.5,0,0
+2012,Westcentral,Grant,86.40000000000001,10.1,0,0
+2012,EastCentral,Pine,115.9,10.2,.018,0
+2012,EastCentral,Isanti,128.9,17,.152,0
+2012,Northwest,Marshall,88,10.7,.031,0
+2012,EastCentral,Kanabec,102.2,22.4,.029,0
+2012,UpperMNvalley,Big Stone,82.5,9.800000000000001,0,0
+2012,Southwest,Lincoln,91.59999999999999,9.800000000000001,0,0
+2012,UpperMNvalley,Swift,86.90000000000001,10.7,.026,0
+2012,Headwaters,Lake of the Woods,84.09999999999999,9.9,0,0
+2012,Headwaters,Mahnomen,81.09999999999999,14.9,.059,0
+2012,Southwest,Jackson,91,12,.053,0
+2012,Arrowhead,Aitkin,108.8,12.6,.042,0
+2012,Southcentral,Faribault,83.2,13.7,.069,0
+2012,Northwest,Kittson,79.5,9.699999999999999,0,0
+2012,Southwest,Rock,93.3,9.9,0,0
+2012,Arrowhead,Lake,105.5,9.9,.067,0
+2012,Westcentral,Traverse,79.8,10.3,0,0
+2013,Headwaters,Mahnomen,87.09999999999999,14.7,.056,.444
+2013,Arrowhead,Saint Louis,117.2,15.9,.096,.063
+2013,Southern,Olmsted,142.8,14.4,.051,.056
+2013,Southcentral,Blue Earth,118.3,15.8,.07,.025
+2013,Southwest,Lyon,106.8,12.3,.039,.016
+2013,Arrowhead,Carlton,116.4,14.8,.079,.039
+2013,Southern,Rice,128.6,11.7,.042,.018
+2013,Westcentral,Clay,115.7,13.1,.048,.019
+2013,Central,Stearns,112.5,12.2,.046,.018
+2013,Southeast,Freeborn,104.1,12.1,.027,.013
+2013,NorthCentral,Crow Wing,118.7,12.9,.079,.018
+2013,Southcentral,Martin,99,10.9,.014,0
+2013,Arrowhead,Itasca,101,14.6,.045,.157
+2013,Southwestcentral,McLeod,109.5,12.5,.03,.038
+2013,Southcentral,Brown,101.6,11.8,.035,.017
+2013,Southern,Wabasha,119.5,10.7,.027,.014
+2013,Southwest,Cottonwood,98.3,10.5,.024,.049
+2013,Northwest,Roseau,90.2,10,0,.055
+2013,Southwestcentral,Renville,100.9,32.5,.019,.038
+2013,Arrowhead,Koochiching,106.8,10.2,0,.036
+2013,Westcentral,Otter Tail,106.7,10.5,.025,.019
+2013,Southeast,Fillmore,101.6,18.5,.052,.052
+2013,Westcentral,Douglas,105.5,12.6,.025,.032
+2013,Southern,Mower,111.3,11.2,.04,.02
+2013,NorthCentral,Todd,87.7,11.1,0,.091
+2013,NorthCentral,Cass,98.2,20.3,.034,.153
+2013,UpperMNvalley,Swift,89.2,11.5,.025,.1
+2013,Southern,Steele,110.1,13,.037,.019
+2013,Headwaters,Clearwater,84.59999999999999,11.1,0,.2
+2013,Southern,Winona,110.7,12,.047,.034
+2013,Southwest,Murray,90.3,11.1,.034,0
+2013,Southwest,Rock,99.40000000000001,9.699999999999999,0,0
+2013,Northwest,Pennington,103.3,10.9,.029,.015
+2013,Southcentral,Watonwan,90.5,13.5,.094,.031
+2013,Central,Benton,116,11.4,.018,.006
+2013,Arrowhead,Lake,111,10.6,.056,.056
+2013,Southeast,Goodhue,125.3,11.4,.046,.015
+2013,Northwest,Polk,105.8,13,.056,.065
+2013,EastCentral,Mille Lacs,113.5,18.2,.07,.053
+2013,Southcentral,Nicollet,120.9,15.3,.086,.032
+2013,Southwest,Lincoln,98.40000000000001,10,0,0
+2013,Westcentral,Stevens,100.4,11.5,.026,.026
+2013,Northwest,Marshall,95.40000000000001,10.6,.056,.083
+2013,Southcentral,Waseca,103.2,10.6,.029,.015
+2013,Southcentral,Faribault,85.5,13.5,.067,.1
+2013,UpperMNvalley,Chippewa,91.40000000000001,12.2,.027,.054
+2013,Headwaters,Beltrami,107.4,13.5,.047,.047
+2013,NorthCentral,Morrison,101.2,10.4,.025,.025
+2013,Southcentral,Sibley,109.8,9.9,0,.054
+2013,Southcentral,Le Sueur,121.1,10.4,0,.019
+2013,Southwestcentral,Meeker,100.4,12.9,.043,.065
+2013,Southwest,Nobles,84.3,11.9,.042,.063
+2013,Westcentral,Pope,100.4,11.5,.051,.051
+2013,Southeast,Dodge,121.3,11.3,.011,.022
+2013,UpperMNvalley,Yellow Medicine,93.3,10.3,.019,.077
+2013,Arrowhead,Aitkin,112.1,12.2,.032,.065
+2013,Southeast,Houston,104.2,10.1,.025,.051
+2013,Westcentral,Becker,109.3,10.9,.016,.172
+2013,EastCentral,Kanabec,104.9,22.3,.029,.029
+2013,Northwest,Norman,88.40000000000001,13.2,.045,.136
+2013,Southwest,Redwood,99.09999999999999,10.2,.015,.015
+2013,Headwaters,Lake of the Woods,86.90000000000001,10.2,0,.091
+2013,EastCentral,Pine,119,10.1,.016,.066
+2013,Headwaters,Hubbard,105.2,11.3,.038,.077
+2013,Westcentral,Traverse,90,10.7,0,.125
+2013,Southwestcentral,Kandiyohi,105.2,10.9,.024,.041
+2013,NorthCentral,Wadena,95.09999999999999,10.6,.025,.15
+2013,Northwest,Kittson,83,9.300000000000001,0,.15
+2013,Southwest,Jackson,97.7,11.6,.05,.025
+2013,Northwest,Red Lake,76.5,18.6,.042,.125
+2013,Westcentral,Wilkin,96.8,9.199999999999999,0,.036
+2013,Southwest,Pipestone,100.2,10.6,.026,.026
+2013,UpperMNvalley,Lac qui Parle,87.09999999999999,10.4,0,.095
+2013,Westcentral,Grant,90.8,10.6,0,.15
+2013,UpperMNvalley,Big Stone,89.40000000000001,9.800000000000001,0,.1
+2013,Arrowhead,Cook,125.1,10.7,.111,0
+2013,Metro,Carver,166.6,17.1,.099,.038
+2013,Metro,Ramsey,167.9,20.6,.179,.084
+2013,Central,Wright,136.3,11.9,.032,.021
+2013,Central,Sherburne,131,12.9,.046,.011
+2013,Metro,Hennepin,186.1,24.5,.227,.079
+2013,Metro,Dakota,168.3,17.1,.108,.045
+2013,Metro,Anoka,150.6,15.4,.097,.036
+2013,EastCentral,Isanti,129.8,17.1,.137,.02
+2013,EastCentral,Chisago,133.8,13.1,.06,.017
+2013,Metro,Washington,160.8,16.4,.086,.048
+2013,Metro,Scott,162.6,13.2,.05,.015
+2014,Southern,Steele,106,13.2,.033,.053
+2014,Southcentral,Martin,90,11.7,.014,.082
+2014,Northwest,Red Lake,69.40000000000001,20.2,.043,.261
+2014,NorthCentral,Todd,79.7,11.4,0,.148
+2014,Southwest,Pipestone,92.2,11.2,.024,.098
+2014,UpperMNvalley,Swift,89.59999999999999,11.8,.023,.116
+2014,Southern,Mower,104.3,13,.039,.068
+2014,Headwaters,Beltrami,106.8,14,.063,.091
+2014,Central,Stearns,110.5,12.9,.057,.057
+2014,Arrowhead,Saint Louis,110.8,17.1,.105,.124
+2014,Southern,Wabasha,114.4,11.1,.028,.056
+2014,Southcentral,Waseca,99.09999999999999,11.5,.034,.052
+2014,Westcentral,Clay,116.7,13.1,.055,.03
+2014,Southwestcentral,Kandiyohi,102.1,11.2,.031,.109
+2014,NorthCentral,Crow Wing,114.7,14.3,.096,.071
+2014,NorthCentral,Morrison,96.90000000000001,11.1,.031,.118
+2014,Southwest,Jackson,90.09999999999999,12.7,.049,.098
+2014,Southern,Rice,123.1,12,.038,.051
+2014,Southwest,Lyon,101.4,12.8,.043,.051
+2014,Southwest,Lincoln,89.8,10.8,0,.107
+2014,Southwest,Rock,99,9.9,0,0
+2014,Westcentral,Becker,105.7,11.4,.024,.244
+2014,Southeast,Goodhue,117.5,12.2,.048,.063
+2014,Southern,Olmsted,138.8,16.6,.062,.094
+2014,Southcentral,Nicollet,118.8,16.3,.108,.06
+2014,Southcentral,Faribault,89.59999999999999,13.3,.088,.147
+2014,Southwestcentral,McLeod,107.4,13,.04,.065
+2014,Southcentral,Blue Earth,117.6,17.3,.096,.064
+2014,Southcentral,Le Sueur,113.9,11.3,.01,.08
+2014,NorthCentral,Cass,97.09999999999999,17.5,.028,.194
+2014,Southeast,Fillmore,92.09999999999999,19.7,.055,.127
+2014,Southwest,Nobles,84.7,12.8,.061,.102
+2014,Arrowhead,Lake,102.7,10,0,.111
+2014,Southeast,Freeborn,103.6,12.7,.038,.051
+2014,Southcentral,Brown,97.8,12.9,.036,.091
+2014,UpperMNvalley,Yellow Medicine,95.40000000000001,10.3,.043,.065
+2014,Westcentral,Douglas,103,12.4,.025,.057
+2014,UpperMNvalley,Chippewa,91.2,12.4,.024,.143
+2014,Westcentral,Pope,100.5,11.3,.028,.056
+2014,EastCentral,Mille Lacs,106.2,16,.069,.121
+2014,NorthCentral,Wadena,90.09999999999999,10.7,.022,.178
+2014,Westcentral,Traverse,74.59999999999999,11.6,0,.25
+2014,Northwest,Polk,100.2,13.3,.051,.111
+2014,Central,Benton,113.9,11.4,.024,.018
+2014,Westcentral,Wilkin,91.7,9.9,0,.077
+2014,Northwest,Roseau,89,10.1,.013,.093
+2014,Southcentral,Sibley,96.59999999999999,10.6,0,.136
+2014,Southeast,Houston,101.9,10.5,.026,.052
+2014,EastCentral,Pine,106.7,11.2,.017,.2
+2014,Southern,Winona,108.9,12.8,.054,.054
+2014,Westcentral,Otter Tail,98.8,11,.018,.089
+2014,Southeast,Dodge,119.1,11.7,.012,.047
+2014,Northwest,Kittson,84.40000000000001,9.5,0,.167
+2014,EastCentral,Kanabec,98.5,23.2,.029,.088
+2014,Southwestcentral,Meeker,91.40000000000001,13.8,.039,.157
+2014,Arrowhead,Itasca,95.2,15.8,.053,.277
+2014,Arrowhead,Aitkin,107.4,14.8,.059,.147
+2014,Northwest,Pennington,103.1,10.7,.029,.029
+2014,Southwestcentral,Renville,95.8,11.7,.037,.093
+2014,Headwaters,Clearwater,87.7,11.6,0,.269
+2014,Arrowhead,Carlton,105.3,16.8,.092,.184
+2014,Southwest,Redwood,96.59999999999999,9.800000000000001,0,.045
+2014,Southwest,Cottonwood,92.59999999999999,11.3,.024,.098
+2014,Northwest,Marshall,87.40000000000001,11.3,.029,.118
+2014,Southwest,Murray,90.3,12.4,.038,.038
+2014,Arrowhead,Koochiching,95.59999999999999,11.1,0,.107
+2014,Westcentral,Stevens,95.5,11.3,.024,.048
+2014,Headwaters,Hubbard,108.3,10.3,.033,.1
+2014,UpperMNvalley,Big Stone,87.8,10.2,0,.105
+2014,Arrowhead,Cook,118.8,11.4,.077,.077
+2014,Northwest,Norman,96,13.9,.095,.095
+2014,Headwaters,Mahnomen,64.8,17.1,.045,.591
+2014,Westcentral,Grant,82.3,11.3,0,.211
+2014,UpperMNvalley,Lac qui Parle,87.5,11.3,.048,.143
+2014,Southcentral,Watonwan,81.8,14.7,.107,.143
+2014,Headwaters,Lake of the Woods,87.7,10.8,0,.111
+2014,Metro,Anoka,151.7,16.9,.106,.091
+2014,Metro,Hennepin,181.1,26.4,.256,.143
+2014,Metro,Scott,159.3,14,.052,.034
+2014,Metro,Ramsey,168.9,22.1,.197,.144
+2014,Central,Wright,134,12.7,.037,.059
+2014,Central,Sherburne,132.1,13.8,.055,.033
+2014,Metro,Washington,160.1,17.8,.1,.08
+2014,Metro,Dakota,166.6,18.5,.119,.08
+2014,EastCentral,Isanti,124.6,17.5,.137,.157
+2014,EastCentral,Chisago,130.5,13.7,.057,.074
+2014,Metro,Carver,158.5,19.7,.115,.08
+2015,Southeast,Freeborn,104.9,12.2,.039,.053
+2015,Metro,Washington,162.7,17,.106,.098
+2015,Southwestcentral,Kandiyohi,101,11.1,.038,.138
+2015,Southern,Olmsted,141.7,17,.073,.104
+2015,Southern,Winona,109.5,12.7,.055,.069
+2015,Metro,Ramsey,173,22.3,.224,.175
+2015,NorthCentral,Wadena,91.3,11.4,.047,.186
+2015,Metro,Dakota,169.7,18.2,.124,.092
+2015,Metro,Anoka,153.4,16.4,.113,.121
+2015,Northwest,Polk,101.7,13.3,.05,.126
+2015,Southern,Wabasha,115.8,11,.028,.113
+2015,NorthCentral,Todd,80.3,12.6,.019,.204
+2015,Southwest,Nobles,85.8,12.8,.04,.14
+2015,Metro,Hennepin,185.6,26.3,.272,.169
+2015,Northwest,Pennington,105.1,11.2,.03,.03
+2015,Southwest,Lyon,98.40000000000001,12.8,.046,.077
+2015,Southern,Mower,102.8,12,.02,.071
+2015,Metro,Scott,162.3,13.2,.053,.053
+2015,Southwestcentral,Renville,98.09999999999999,11.7,.059,.078
+2015,Southeast,Dodge,122.5,11.6,.024,.035
+2015,Central,Stearns,109.7,13.1,.056,.084
+2015,Southcentral,Sibley,101,10.5,0,.121
+2015,Southeast,Goodhue,120.3,11.8,.048,.087
+2015,Central,Wright,133.8,12.5,.036,.067
+2015,Southeast,Fillmore,95.5,13.7,.055,.109
+2015,Southcentral,Le Sueur,115.1,11.1,.011,.108
+2015,Southern,Rice,125.6,12,.045,.064
+2015,EastCentral,Mille Lacs,109,15.7,.089,.107
+2015,Southeast,Houston,103.4,10.2,.014,.07
+2015,Headwaters,Beltrami,104.2,12.7,.045,.09
+2015,Central,Sherburne,130.6,14,.058,.039
+2015,Southcentral,Martin,91.8,11.4,.026,.079
+2015,Westcentral,Wilkin,90.2,10.5,0,.115
+2015,Westcentral,Otter Tail,101.1,10.6,.019,.093
+2015,Arrowhead,Saint Louis,114.9,16.9,.114,.122
+2015,Southwestcentral,McLeod,110.5,13.5,.05,.084
+2015,Westcentral,Clay,119.8,13.3,.059,.037
+2015,NorthCentral,Morrison,98.5,11,.034,.186
+2015,UpperMNvalley,Chippewa,96.5,11.7,.026,.128
+2015,Northwest,Red Lake,70.5,21.2,.045,.273
+2015,Southwest,Murray,92.40000000000001,12.4,.045,.045
+2015,Metro,Carver,163.2,19.8,.141,.09
+2015,NorthCentral,Crow Wing,116.6,14.4,.097,.097
+2015,Westcentral,Stevens,87,11.3,.026,.105
+2015,Southcentral,Blue Earth,119.1,17.2,.106,.072
+2015,Southern,Steele,107.8,13.1,.032,.052
+2015,Southcentral,Brown,96.40000000000001,13.4,.039,.107
+2015,EastCentral,Chisago,131.1,13.4,.062,.08
+2015,Central,Benton,113.1,11.2,.025,.025
+2015,NorthCentral,Cass,95.40000000000001,12,.029,.229
+2015,Southcentral,Watonwan,78.09999999999999,15.1,.115,.192
+2015,Westcentral,Douglas,103.7,11.9,.021,.069
+2015,Arrowhead,Cook,115,11.2,.071,.071
+2015,Southwestcentral,Meeker,92.09999999999999,14.2,.04,.14
+2015,Southcentral,Nicollet,119.2,16.9,.116,.105
+2015,Arrowhead,Itasca,96.40000000000001,15.8,.052,.292
+2015,Southwest,Cottonwood,92.2,10.5,.022,.087
+2015,Northwest,Roseau,86.90000000000001,9.9,0,.069
+2015,Headwaters,Clearwater,88.40000000000001,11.4,0,.25
+2015,Westcentral,Pope,102.2,11.2,.031,.031
+2015,Northwest,Norman,89.5,14.4,.05,.15
+2015,Arrowhead,Carlton,105.1,17.1,.099,.225
+2015,Southwest,Pipestone,91.09999999999999,11.2,.024,.098
+2015,Southwest,Rock,94,10.5,0,.023
+2015,Southwest,Redwood,92,10.7,0,.067
+2015,Headwaters,Hubbard,105.9,10.8,.032,.21
+2015,EastCentral,Kanabec,101.5,22.5,.029,.086
+2015,Southcentral,Waseca,100.9,11.5,.038,.058
+2015,Arrowhead,Koochiching,89.8,11.6,0,.167
+2015,Arrowhead,Lake,108.6,9.5,0,.067
+2015,UpperMNvalley,Yellow Medicine,90.8,10.7,.044,.111
+2015,UpperMNvalley,Lac qui Parle,90.90000000000001,10.6,.043,.13
+2015,Westcentral,Grant,85.09999999999999,11.1,0,.25
+2015,EastCentral,Pine,108.1,11.3,.019,.222
+2015,Southwest,Lincoln,85,10.9,0,.125
+2015,Northwest,Marshall,92.09999999999999,10.9,.028,.111
+2015,Arrowhead,Aitkin,100.2,11,0,.156
+2015,UpperMNvalley,Swift,88.2,11.6,.028,.111
+2015,Westcentral,Becker,107.7,11.9,.035,.217
+2015,EastCentral,Isanti,127.1,17.1,.135,.173
+2015,Headwaters,Mahnomen,65.8,15.5,0,.636
+2015,Northwest,Kittson,91.5,9.5,0,.125
+2015,Headwaters,Lake of the Woods,89.5,10.5,0,.2
+2015,UpperMNvalley,Big Stone,85.8,10.4,0,.105
+2015,Southcentral,Faribault,94.8,12.6,.105,.158
+2015,Westcentral,Traverse,85.59999999999999,11.3,0,.167
+2015,Southwest,Jackson,87.7,12.3,.054,.108
+2016,Southeast,Freeborn,116.2,12.9,.048,.111
+2016,Metro,Washington,163.9,18.1,.115,.17
+2016,Southwestcentral,Kandiyohi,113.8,12.5,.044,.168
+2016,Southern,Olmsted,142.3,15.8,.082,.121
+2016,Southern,Winona,115.9,12.9,.061,.091
+2016,Metro,Ramsey,174,23.2,.236,.265
+2016,NorthCentral,Wadena,104,11.4,.049,.195
+2016,Metro,Dakota,175.5,20.6,.149,.129
+2016,Metro,Anoka,156.5,17.3,.123,.158
+2016,Northwest,Polk,112.9,13.5,.067,.173
+2016,Southern,Wabasha,119,11.4,.032,.159
+2016,NorthCentral,Todd,101,12.1,.018,.211
+2016,Southwest,Nobles,104.3,14,.04,.2
+2016,Metro,Hennepin,191.9,28.9,.295,.213
+2016,Northwest,Pennington,111,11.2,.032,.065
+2016,Southern,Mower,110.9,13,.024,.12
+2016,Metro,Scott,168.1,14.5,.067,.08
+2016,Southeast,Dodge,125.2,12.1,.027,.041
+2016,Central,Stearns,120.4,13.6,.063,.098
+2016,Southeast,Goodhue,124.8,12.5,.054,.126
+2016,Central,Wright,143.1,13.6,.041,.103
+2016,Southwest,Lyon,114.9,13.1,.058,.125
+2016,Southeast,Fillmore,113.4,15.2,.08,.12
+2016,Southcentral,Le Sueur,123.4,11.4,.012,.116
+2016,Southern,Rice,133.9,11.9,.043,.058
+2016,EastCentral,Mille Lacs,117.6,17.5,.098,.137
+2016,Southeast,Houston,112.3,11.2,.029,.129
+2016,Headwaters,Beltrami,111.7,13.1,.033,.124
+2016,Central,Sherburne,141.2,14.8,.069,.065
+2016,Southcentral,Martin,109.7,12.4,.028,.083
+2016,Westcentral,Otter Tail,111,11.7,.034,.124
+2016,Arrowhead,Saint Louis,121.4,17,.127,.185
+2016,Southwestcentral,McLeod,119.2,13.3,.055,.109
+2016,Westcentral,Clay,123.6,13.1,.062,.107
+2016,NorthCentral,Morrison,107.7,11.1,.027,.198
+2016,UpperMNvalley,Chippewa,106.6,12,.026,.132
+2016,Northwest,Red Lake,92.90000000000001,20.8,.043,.261
+2016,Southwest,Murray,112.4,13.3,.045,.091
+2016,Metro,Carver,174,22.4,.168,.121
+2016,Westcentral,Stevens,103.5,12.1,.03,.182
+2016,Southcentral,Blue Earth,125,18.6,.123,.103
+2016,Southern,Steele,118.2,13.3,.037,.06
+2016,Southcentral,Brown,111.4,14,.04,.172
+2016,Central,Benton,121.4,12.5,.034,.048
+2016,NorthCentral,Crow Wing,120.1,14.9,.117,.117
+2016,NorthCentral,Cass,96.2,12.7,.017,.383
+2016,Southcentral,Watonwan,124.5,14.5,.13,.217
+2016,Westcentral,Douglas,114.3,12.4,.03,.075
+2016,Arrowhead,Cook,108.3,10.7,.083,.333
+2016,Southwestcentral,Meeker,103.2,15.2,.049,.146
+2016,Southcentral,Nicollet,127.2,17.1,.134,.085
+2016,Southwest,Cottonwood,107.2,10.8,.024,.122
+2016,Northwest,Roseau,104.8,10.1,0,.101
+2016,Headwaters,Clearwater,102.5,11,0,.25
+2016,Arrowhead,Itasca,110.7,13.2,.079,.348
+2016,Northwest,Norman,102.2,14.8,.056,.167
+2016,EastCentral,Chisago,139.4,14.1,.073,.094
+2016,Arrowhead,Koochiching,96.09999999999999,11.3,0,.167
+2016,Arrowhead,Carlton,121.8,16.7,.106,.303
+2016,Southwest,Pipestone,100.5,11.8,.026,.158
+2016,Southwest,Rock,102.5,11.4,0,.048
+2016,Southwest,Redwood,104.5,10.8,0,.118
+2016,Headwaters,Hubbard,119.8,11.7,.038,.302
+2016,Southcentral,Faribault,122.8,12.4,.135,.189
+2016,Southcentral,Waseca,114.4,12.3,.045,.091
+2016,Southcentral,Sibley,116.1,10.6,0,.135
+2016,Arrowhead,Lake,110.5,10,0,.083
+2016,UpperMNvalley,Yellow Medicine,105.7,11,.043,.191
+2016,Westcentral,Grant,87.59999999999999,11.6,0,.286
+2016,EastCentral,Pine,117,12.5,.039,.235
+2016,UpperMNvalley,Lac qui Parle,107.8,11.5,.048,.143
+2016,Arrowhead,Aitkin,102.4,12,0,.192
+2016,Southwest,Lincoln,96.2,11.1,0,.136
+2016,Westcentral,Pope,110.4,12.8,.037,.074
+2016,Northwest,Marshall,98.09999999999999,11.4,.03,.182
+2016,UpperMNvalley,Swift,94.8,12.1,.032,.161
+2016,EastCentral,Kanabec,116.7,24.6,.056,.222
+2016,Westcentral,Becker,110.5,11.9,.039,.304
+2016,EastCentral,Isanti,136.2,17.8,.133,.222
+2016,Headwaters,Mahnomen,82.90000000000001,15,0,.571
+2016,Southwestcentral,Renville,105.7,12.6,.079,.132
+2016,Northwest,Kittson,91.8,10.8,0,.211
+2016,Headwaters,Lake of the Woods,88.8,11.5,0,.333
+2016,UpperMNvalley,Big Stone,95.90000000000001,11,0,.167
+2016,Southwest,Jackson,102.6,12.6,.056,.167
+2016,Westcentral,Traverse,95.8,11.2,0,.167
+2016,Westcentral,Wilkin,94.40000000000001,11.4,0,.174
+2017,Southeast,Freeborn,98.7,12.7,.049,.148
+2017,Metro,Washington,163.6,19.1,.122,.189
+2017,Southwestcentral,Kandiyohi,105,12.7,.046,.185
+2017,Southern,Olmsted,147.4,17.6,.084,.139
+2017,Southern,Winona,110,15.4,.079,.157
+2017,NorthCentral,Wadena,87.90000000000001,11.5,.057,.257
+2017,Metro,Ramsey,172.2,25.5,.25,.278
+2017,Metro,Dakota,174.1,21.9,.16,.152
+2017,Metro,Anoka,154.1,17.9,.129,.183
+2017,Northwest,Polk,103,13.9,.069,.167
+2017,Southern,Wabasha,117.1,11.1,.03,.149
+2017,NorthCentral,Todd,84,12.4,.019,.259
+2017,Southwest,Nobles,82.3,13.8,.039,.216
+2017,Metro,Hennepin,194.3,32.1,.322,.244
+2017,Southern,Mower,101.3,13,.025,.148
+2017,Metro,Scott,167.8,14.9,.072,.098
+2017,Southeast,Dodge,123.2,11.5,.014,.056
+2017,Central,Stearns,113.3,13.5,.066,.115
+2017,Southeast,Goodhue,125.9,12.8,.07,.14
+2017,Central,Wright,138.9,13.5,.051,.102
+2017,Northwest,Pennington,106.9,11,.032,.065
+2017,Southwest,Lyon,101.6,12.4,.054,.161
+2017,Southeast,Fillmore,99.5,15.5,.093,.14
+2017,Southcentral,Le Sueur,118.5,11.3,.024,.131
+2017,Southern,Rice,132,11.8,.045,.097
+2017,EastCentral,Mille Lacs,109.6,16.7,.102,.184
+2017,Southeast,Houston,103,12.6,.05,.167
+2017,Headwaters,Beltrami,105.1,13,.034,.16
+2017,Central,Sherburne,135.7,14.2,.074,.084
+2017,Southcentral,Martin,92,11.9,.029,.116
+2017,Arrowhead,Saint Louis,116.2,18.5,.137,.236
+2017,Southwestcentral,McLeod,111.2,12.7,.045,.135
+2017,Westcentral,Clay,121.8,13.3,.067,.146
+2017,NorthCentral,Morrison,100.9,11.4,.045,.179
+2017,UpperMNvalley,Chippewa,94.40000000000001,13.8,.059,.118
+2017,Northwest,Red Lake,78,21,.043,.261
+2017,Southwest,Murray,87.59999999999999,12.8,.048,.095
+2017,Metro,Carver,171.2,25.9,.186,.138
+2017,Westcentral,Stevens,91.90000000000001,11.8,.065,.161
+2017,Southcentral,Blue Earth,115,20.9,.129,.143
+2017,Southern,Steele,109.3,13.2,.032,.103
+2017,Southcentral,Brown,98.09999999999999,13.9,.04,.192
+2017,Central,Benton,117.7,12.3,.042,.063
+2017,NorthCentral,Crow Wing,116.2,16.2,.129,.164
+2017,NorthCentral,Cass,91.7,13.2,.033,.417
+2017,Southcentral,Watonwan,86.3,17.4,.167,.167
+2017,Westcentral,Douglas,106.3,12.8,.034,.126
+2017,Arrowhead,Cook,116.5,10.6,.1,.4
+2017,Southwestcentral,Meeker,100.5,14.6,.048,.167
+2017,Southcentral,Nicollet,121.6,20.6,.164,.082
+2017,Westcentral,Otter Tail,102,11.4,.021,.143
+2017,Arrowhead,Itasca,101.1,15.2,.08,.379
+2017,Southwest,Cottonwood,87.5,11.1,.026,.237
+2017,Northwest,Roseau,87.59999999999999,10.1,0,.121
+2017,Headwaters,Clearwater,95.5,10.4,0,.24
+2017,Northwest,Norman,80.40000000000001,15,.056,.222
+2017,EastCentral,Chisago,129.4,16.6,.072,.165
+2017,Arrowhead,Koochiching,84.2,11.5,0,.24
+2017,Arrowhead,Carlton,107.5,17.1,.114,.386
+2017,Westcentral,Wilkin,93.09999999999999,10.3,.043,.13
+2017,Headwaters,Lake of the Woods,73,12.3,0,.375
+2017,Southwest,Pipestone,90,11,.025,.15
+2017,Southwest,Rock,92.5,11.1,0,.056
+2017,Southwest,Redwood,95.2,9.800000000000001,0,.118
+2017,Headwaters,Hubbard,110.9,10.8,.036,.357
+2017,Northwest,Marshall,90.90000000000001,11.3,.027,.189
+2017,Southcentral,Faribault,98.40000000000001,12.9,.143,.2
+2017,Southcentral,Waseca,99.3,12.2,.048,.095
+2017,Southcentral,Sibley,104,10.3,0,.176
+2017,Arrowhead,Lake,116,9.300000000000001,0,.143
+2017,EastCentral,Isanti,130.1,17.2,.156,.222
+2017,UpperMNvalley,Yellow Medicine,89.59999999999999,10.1,0,.211
+2017,Westcentral,Grant,86.7,11.4,0,.208
+2017,EastCentral,Pine,108.7,11.4,.02,.26
+2017,UpperMNvalley,Lac qui Parle,101.4,10.1,.05,.1
+2017,Southwest,Lincoln,86.7,10.6,0,.179
+2017,Westcentral,Pope,102.9,12.3,.034,.069
+2017,UpperMNvalley,Swift,86.8,11.5,.034,.138
+2017,EastCentral,Kanabec,101.6,11.5,.059,.294
+2017,Westcentral,Becker,109.1,12.1,.031,.347
+2017,Headwaters,Mahnomen,77.90000000000001,14.3,0,.571
+2017,Southwestcentral,Renville,97.8,13.6,.103,.103
+2017,Arrowhead,Aitkin,100,11.5,0,.364
+2017,UpperMNvalley,Big Stone,85.2,9.6,0,.105
+2017,Northwest,Kittson,82,11,0,.25
+2017,Southwest,Jackson,85.3,12.5,.059,.235
+2017,Westcentral,Traverse,86.8,11.1,0,.167
+2018,Southeast,Freeborn,101.6,12.3,.031,.138
+2018,Metro,Washington,166.7,20.1,.123,.2
+2018,Southwestcentral,Kandiyohi,106.9,13.1,.046,.193
+2018,Southern,Olmsted,150.1,18,.084,.147
+2018,Southern,Winona,116,14.1,.08,.134
+2018,NorthCentral,Wadena,96.09999999999999,12.6,.079,.237
+2018,Metro,Ramsey,176.8,25.8,.247,.299
+2018,Metro,Dakota,181.7,22.6,.168,.154
+2018,Metro,Anoka,159.6,18.5,.133,.192
+2018,Northwest,Polk,103.5,13.7,.05,.18
+2018,Southern,Wabasha,120.8,10.8,.029,.157
+2018,NorthCentral,Todd,90.2,12.1,.017,.25
+2018,Metro,Hennepin,201.2,33.7,.329,.254
+2018,Northwest,Pennington,110.3,10.8,.031,.063
+2018,Southern,Mower,105,13.1,.026,.158
+2018,Metro,Scott,171.1,16.1,.075,.099
+2018,Southeast,Dodge,127.2,11.4,.014,.072
+2018,Central,Stearns,119.8,13.5,.071,.11
+2018,Southeast,Goodhue,128.8,12.6,.068,.117
+2018,Central,Wright,145.1,14.5,.048,.102
+2018,Southwest,Lyon,104.4,13.5,.064,.174
+2018,Southeast,Fillmore,99.59999999999999,16.1,.089,.156
+2018,Southcentral,Le Sueur,118.9,11,.012,.14
+2018,Southern,Rice,141.4,12.3,.053,.09
+2018,EastCentral,Mille Lacs,111.6,17.1,.106,.17
+2018,Southeast,Houston,103.6,13,.056,.185
+2018,Headwaters,Beltrami,108.9,13,.033,.172
+2018,Central,Sherburne,142.8,14.4,.074,.074
+2018,Southcentral,Martin,94.59999999999999,11,.015,.118
+2018,Southwestcentral,McLeod,114.4,13,.048,.143
+2018,Westcentral,Clay,125,13.8,.064,.162
+2018,NorthCentral,Morrison,101.5,11.7,.038,.219
+2018,UpperMNvalley,Chippewa,100.5,12.7,.03,.152
+2018,Northwest,Red Lake,79.40000000000001,21.2,.045,.227
+2018,Southwest,Murray,90.40000000000001,12.4,.043,.087
+2018,Southwest,Nobles,88.7,14,.039,.216
+2018,Metro,Carver,173.4,26.2,.178,.141
+2018,Westcentral,Stevens,96.2,11.8,.065,.194
+2018,Southcentral,Blue Earth,118.5,20.5,.125,.146
+2018,Southern,Steele,111.9,13.6,.032,.113
+2018,Southcentral,Brown,105.6,13.3,.04,.152
+2018,Central,Benton,126.7,12.3,.034,.074
+2018,NorthCentral,Crow Wing,120,15.8,.119,.169
+2018,Arrowhead,Saint Louis,124.5,18.8,.133,.221
+2018,NorthCentral,Cass,97.5,14.2,.054,.429
+2018,Westcentral,Douglas,112,12,.034,.121
+2018,Arrowhead,Cook,131.2,17.7,.222,.444
+2018,Southwestcentral,Meeker,102.4,15.6,.051,.179
+2018,Southcentral,Nicollet,128.3,18.8,.176,.074
+2018,Westcentral,Otter Tail,103.6,12,.014,.136
+2018,Arrowhead,Itasca,97,13.6,.023,.375
+2018,Southwest,Cottonwood,91.5,10.9,.024,.244
+2018,Northwest,Roseau,92.2,10,0,.138
+2018,Headwaters,Clearwater,101.4,10.2,0,.185
+2018,Westcentral,Wilkin,88.8,10.5,0,.143
+2018,Northwest,Norman,86.90000000000001,14.5,.05,.25
+2018,EastCentral,Chisago,137.3,17,.084,.158
+2018,Arrowhead,Koochiching,82,12.1,0,.227
+2018,Southcentral,Watonwan,100.5,14.5,.111,.148
+2018,Arrowhead,Carlton,103.4,19,.087,.362
+2018,Headwaters,Lake of the Woods,83.09999999999999,12.1,0,.333
+2018,Southwest,Pipestone,91.8,11,.026,.154
+2018,Southwest,Rock,94.09999999999999,11,0,.053
+2018,Southwest,Redwood,99.09999999999999,9.9,0,.122
+2018,Headwaters,Hubbard,115,11,.019,.321
+2018,Northwest,Marshall,95.09999999999999,11.5,.03,.182
+2018,EastCentral,Kanabec,108.2,25.2,.063,.281
+2018,Southcentral,Faribault,93.3,13,.083,.194
+2018,Arrowhead,Lake,112.2,9.199999999999999,0,.143
+2018,EastCentral,Isanti,134.7,18.9,.167,.238
+2018,Westcentral,Pope,109,12,.032,.065
+2018,UpperMNvalley,Yellow Medicine,102,9.699999999999999,.025,.2
+2018,Southcentral,Sibley,105.8,10.3,0,.163
+2018,Westcentral,Grant,89.5,11.9,0,.238
+2018,EastCentral,Pine,114,12.1,.038,.245
+2018,UpperMNvalley,Lac qui Parle,103.3,10,.05,.1
+2018,Southwest,Lincoln,93.5,10.5,0,.16
+2018,UpperMNvalley,Swift,95.40000000000001,13.3,.074,.111
+2018,Arrowhead,Aitkin,102.7,11.5,0,.333
+2018,Westcentral,Becker,108.7,12,.021,.385
+2018,Headwaters,Mahnomen,79.7,14.7,0,.6
+2018,Southwestcentral,Renville,99.5,12.4,.079,.105
+2018,UpperMNvalley,Big Stone,89.5,9.699999999999999,0,.095
+2018,Northwest,Kittson,84.40000000000001,10.4,0,.211
+2018,Southwest,Jackson,91.59999999999999,12.8,.065,.258
+2018,Westcentral,Traverse,85.40000000000001,11.4,0,.2
+2018,Southcentral,Waseca,101.2,12.3,.048,.095
