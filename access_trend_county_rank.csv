@@ -1,0 +1,5482 @@
+county,year,varname,value_b2
+Aitkin,2012,Cost(CCC),65
+Aitkin,2013,Cost(CCC),31
+Aitkin,2014,Cost(CCC),37
+Aitkin,2015,Cost(CCC),54
+Aitkin,2016,Cost(CCC),35
+Aitkin,2017,Cost(CCC),72
+Aitkin,2018,Cost(CCC),47
+Aitkin,2012,Cost(HR),
+Aitkin,2013,Cost(HR),24
+Aitkin,2014,Cost(HR),37
+Aitkin,2015,Cost(HR),29
+Aitkin,2016,Cost(HR),25
+Aitkin,2017,Cost(HR),30
+Aitkin,2018,Cost(HR),41
+Aitkin,2012,Cost(Pub),76
+Aitkin,2013,Cost(Pub),73
+Aitkin,2014,Cost(Pub),65
+Aitkin,2015,Cost(Pub),59
+Aitkin,2016,Cost(Pub),80
+Aitkin,2017,Cost(Pub),66
+Aitkin,2018,Cost(Pub),61
+Aitkin,2012,Cost(any),61
+Aitkin,2013,Cost(any),59
+Aitkin,2014,Cost(any),57
+Aitkin,2015,Cost(any),44
+Aitkin,2016,Cost(any),32
+Aitkin,2017,Cost(any),33
+Aitkin,2018,Cost(any),33
+Aitkin,2012,QualPremium,
+Aitkin,2013,QualPremium,19
+Aitkin,2014,QualPremium,32
+Aitkin,2015,QualPremium,20
+Aitkin,2016,QualPremium,24
+Aitkin,2017,QualPremium,32
+Aitkin,2018,QualPremium,38
+Aitkin,2012,Supply(CCC),34
+Aitkin,2013,Supply(CCC),35
+Aitkin,2014,Supply(CCC),6
+Aitkin,2015,Supply(CCC),74
+Aitkin,2016,Supply(CCC),73
+Aitkin,2017,Supply(CCC),73
+Aitkin,2018,Supply(CCC),73
+Aitkin,2012,Supply(HR),
+Aitkin,2013,Supply(HR),28
+Aitkin,2014,Supply(HR),3
+Aitkin,2015,Supply(HR),51
+Aitkin,2016,Supply(HR),34
+Aitkin,2017,Supply(HR),36
+Aitkin,2018,Supply(HR),35
+Aitkin,2012,Supply(Pub),43
+Aitkin,2013,Supply(Pub),36
+Aitkin,2014,Supply(Pub),19
+Aitkin,2015,Supply(Pub),13
+Aitkin,2016,Supply(Pub),15
+Aitkin,2017,Supply(Pub),19
+Aitkin,2018,Supply(Pub),13
+Aitkin,2012,Supply(any),46
+Aitkin,2013,Supply(any),29
+Aitkin,2014,Supply(any),5
+Aitkin,2015,Supply(any),33
+Aitkin,2016,Supply(any),40
+Aitkin,2017,Supply(any),55
+Aitkin,2018,Supply(any),53
+Anoka,2012,Cost(CCC),41
+Anoka,2013,Cost(CCC),78
+Anoka,2014,Cost(CCC),79
+Anoka,2015,Cost(CCC),77
+Anoka,2016,Cost(CCC),65
+Anoka,2017,Cost(CCC),46
+Anoka,2018,Cost(CCC),78
+Anoka,2012,Cost(HR),
+Anoka,2013,Cost(HR),69
+Anoka,2014,Cost(HR),73
+Anoka,2015,Cost(HR),78
+Anoka,2016,Cost(HR),69
+Anoka,2017,Cost(HR),72
+Anoka,2018,Cost(HR),76
+Anoka,2012,Cost(Pub),15
+Anoka,2013,Cost(Pub),37
+Anoka,2014,Cost(Pub),17
+Anoka,2015,Cost(Pub),20
+Anoka,2016,Cost(Pub),16
+Anoka,2017,Cost(Pub),14
+Anoka,2018,Cost(Pub),22
+Anoka,2012,Cost(any),81
+Anoka,2013,Cost(any),81
+Anoka,2014,Cost(any),81
+Anoka,2015,Cost(any),81
+Anoka,2016,Cost(any),81
+Anoka,2017,Cost(any),81
+Anoka,2018,Cost(any),81
+Anoka,2012,QualPremium,
+Anoka,2013,QualPremium,37
+Anoka,2014,QualPremium,35
+Anoka,2015,QualPremium,42
+Anoka,2016,QualPremium,47
+Anoka,2017,QualPremium,52
+Anoka,2018,QualPremium,65
+Anoka,2012,Supply(CCC),11
+Anoka,2013,Supply(CCC),8
+Anoka,2014,Supply(CCC),12
+Anoka,2015,Supply(CCC),8
+Anoka,2016,Supply(CCC),10
+Anoka,2017,Supply(CCC),11
+Anoka,2018,Supply(CCC),11
+Anoka,2012,Supply(HR),
+Anoka,2013,Supply(HR),8
+Anoka,2014,Supply(HR),8
+Anoka,2015,Supply(HR),8
+Anoka,2016,Supply(HR),12
+Anoka,2017,Supply(HR),16
+Anoka,2018,Supply(HR),7
+Anoka,2012,Supply(Pub),72
+Anoka,2013,Supply(Pub),72
+Anoka,2014,Supply(Pub),76
+Anoka,2015,Supply(Pub),83
+Anoka,2016,Supply(Pub),81
+Anoka,2017,Supply(Pub),76
+Anoka,2018,Supply(Pub),79
+Anoka,2012,Supply(any),50
+Anoka,2013,Supply(any),60
+Anoka,2014,Supply(any),58
+Anoka,2015,Supply(any),65
+Anoka,2016,Supply(any),64
+Anoka,2017,Supply(any),58
+Anoka,2018,Supply(any),60
+Becker,2012,Cost(CCC),68
+Becker,2013,Cost(CCC),59
+Becker,2014,Cost(CCC),56
+Becker,2015,Cost(CCC),62
+Becker,2016,Cost(CCC),40
+Becker,2017,Cost(CCC),74
+Becker,2018,Cost(CCC),62
+Becker,2012,Cost(HR),
+Becker,2013,Cost(HR),14
+Becker,2014,Cost(HR),18
+Becker,2015,Cost(HR),33
+Becker,2016,Cost(HR),18
+Becker,2017,Cost(HR),29
+Becker,2018,Cost(HR),45
+Becker,2012,Cost(Pub),23
+Becker,2013,Cost(Pub),52
+Becker,2014,Cost(Pub),66
+Becker,2015,Cost(Pub),72
+Becker,2016,Cost(Pub),67
+Becker,2017,Cost(Pub),75
+Becker,2018,Cost(Pub),68
+Becker,2012,Cost(any),43
+Becker,2013,Cost(any),45
+Becker,2014,Cost(any),42
+Becker,2015,Cost(any),48
+Becker,2016,Cost(any),41
+Becker,2017,Cost(any),42
+Becker,2018,Cost(any),43
+Becker,2012,QualPremium,
+Becker,2013,QualPremium,12
+Becker,2014,QualPremium,14
+Becker,2015,QualPremium,25
+Becker,2016,QualPremium,5
+Becker,2017,QualPremium,26
+Becker,2018,QualPremium,54
+Becker,2012,Supply(CCC),73
+Becker,2013,Supply(CCC),73
+Becker,2014,Supply(CCC),66
+Becker,2015,Supply(CCC),55
+Becker,2016,Supply(CCC),60
+Becker,2017,Supply(CCC),58
+Becker,2018,Supply(CCC),65
+Becker,2012,Supply(HR),
+Becker,2013,Supply(HR),12
+Becker,2014,Supply(HR),11
+Becker,2015,Supply(HR),15
+Becker,2016,Supply(HR),18
+Becker,2017,Supply(HR),10
+Becker,2018,Supply(HR),12
+Becker,2012,Supply(Pub),14
+Becker,2013,Supply(Pub),16
+Becker,2014,Supply(Pub),11
+Becker,2015,Supply(Pub),14
+Becker,2016,Supply(Pub),29
+Becker,2017,Supply(Pub),24
+Becker,2018,Supply(Pub),25
+Becker,2012,Supply(any),41
+Becker,2013,Supply(any),39
+Becker,2014,Supply(any),38
+Becker,2015,Supply(any),34
+Becker,2016,Supply(any),41
+Becker,2017,Supply(any),40
+Becker,2018,Supply(any),42
+Beltrami,2012,Cost(CCC),44
+Beltrami,2013,Cost(CCC),52
+Beltrami,2014,Cost(CCC),60
+Beltrami,2015,Cost(CCC),48
+Beltrami,2016,Cost(CCC),13
+Beltrami,2017,Cost(CCC),64
+Beltrami,2018,Cost(CCC),45
+Beltrami,2012,Cost(HR),
+Beltrami,2013,Cost(HR),62
+Beltrami,2014,Cost(HR),46
+Beltrami,2015,Cost(HR),38
+Beltrami,2016,Cost(HR),16
+Beltrami,2017,Cost(HR),69
+Beltrami,2018,Cost(HR),20
+Beltrami,2012,Cost(Pub),60
+Beltrami,2013,Cost(Pub),69
+Beltrami,2014,Cost(Pub),64
+Beltrami,2015,Cost(Pub),65
+Beltrami,2016,Cost(Pub),57
+Beltrami,2017,Cost(Pub),51
+Beltrami,2018,Cost(Pub),69
+Beltrami,2012,Cost(any),12
+Beltrami,2013,Cost(any),22
+Beltrami,2014,Cost(any),29
+Beltrami,2015,Cost(any),21
+Beltrami,2016,Cost(any),11
+Beltrami,2017,Cost(any),17
+Beltrami,2018,Cost(any),31
+Beltrami,2012,QualPremium,
+Beltrami,2013,QualPremium,62
+Beltrami,2014,QualPremium,55
+Beltrami,2015,QualPremium,34
+Beltrami,2016,QualPremium,15
+Beltrami,2017,QualPremium,67
+Beltrami,2018,QualPremium,15
+Beltrami,2012,Supply(CCC),57
+Beltrami,2013,Supply(CCC),53
+Beltrami,2014,Supply(CCC),38
+Beltrami,2015,Supply(CCC),58
+Beltrami,2016,Supply(CCC),65
+Beltrami,2017,Supply(CCC),62
+Beltrami,2018,Supply(CCC),59
+Beltrami,2012,Supply(HR),
+Beltrami,2013,Supply(HR),70.5
+Beltrami,2014,Supply(HR),35
+Beltrami,2015,Supply(HR),57
+Beltrami,2016,Supply(HR),67
+Beltrami,2017,Supply(HR),67
+Beltrami,2018,Supply(HR),62
+Beltrami,2012,Supply(Pub),6
+Beltrami,2013,Supply(Pub),6
+Beltrami,2014,Supply(Pub),28
+Beltrami,2015,Supply(Pub),17
+Beltrami,2016,Supply(Pub),24
+Beltrami,2017,Supply(Pub),18
+Beltrami,2018,Supply(Pub),39
+Beltrami,2012,Supply(any),36
+Beltrami,2013,Supply(any),40
+Beltrami,2014,Supply(any),47
+Beltrami,2015,Supply(any),53
+Beltrami,2016,Supply(any),56
+Beltrami,2017,Supply(any),51
+Beltrami,2018,Supply(any),64
+Benton,2012,Cost(CCC),26
+Benton,2013,Cost(CCC),63
+Benton,2014,Cost(CCC),62
+Benton,2015,Cost(CCC),64
+Benton,2016,Cost(CCC),46
+Benton,2017,Cost(CCC),25
+Benton,2018,Cost(CCC),65
+Benton,2012,Cost(HR),
+Benton,2013,Cost(HR),59
+Benton,2014,Cost(HR),64
+Benton,2015,Cost(HR),60
+Benton,2016,Cost(HR),51
+Benton,2017,Cost(HR),61
+Benton,2018,Cost(HR),72
+Benton,2012,Cost(Pub),30
+Benton,2013,Cost(Pub),43
+Benton,2014,Cost(Pub),41
+Benton,2015,Cost(Pub),42
+Benton,2016,Cost(Pub),39
+Benton,2017,Cost(Pub),39
+Benton,2018,Cost(Pub),44
+Benton,2012,Cost(any),73
+Benton,2013,Cost(any),71
+Benton,2014,Cost(any),73
+Benton,2015,Cost(any),71
+Benton,2016,Cost(any),74
+Benton,2017,Cost(any),76
+Benton,2018,Cost(any),75
+Benton,2012,QualPremium,
+Benton,2013,QualPremium,57
+Benton,2014,QualPremium,61
+Benton,2015,QualPremium,64
+Benton,2016,QualPremium,44
+Benton,2017,QualPremium,61
+Benton,2018,QualPremium,67
+Benton,2012,Supply(CCC),29
+Benton,2013,Supply(CCC),30
+Benton,2014,Supply(CCC),33
+Benton,2015,Supply(CCC),31
+Benton,2016,Supply(CCC),16
+Benton,2017,Supply(CCC),24
+Benton,2018,Supply(CCC),20
+Benton,2012,Supply(HR),
+Benton,2013,Supply(HR),25
+Benton,2014,Supply(HR),42
+Benton,2015,Supply(HR),28
+Benton,2016,Supply(HR),36
+Benton,2017,Supply(HR),37
+Benton,2018,Supply(HR),28
+Benton,2012,Supply(Pub),77
+Benton,2013,Supply(Pub),67
+Benton,2014,Supply(Pub),71
+Benton,2015,Supply(Pub),73
+Benton,2016,Supply(Pub),82
+Benton,2017,Supply(Pub),82
+Benton,2018,Supply(Pub),77
+Benton,2012,Supply(any),38
+Benton,2013,Supply(any),35
+Benton,2014,Supply(any),37
+Benton,2015,Supply(any),41
+Benton,2016,Supply(any),33
+Benton,2017,Supply(any),34
+Benton,2018,Supply(any),28
+Big Stone,2012,Cost(CCC),71
+Big Stone,2013,Cost(CCC),14
+Big Stone,2014,Cost(CCC),10
+Big Stone,2015,Cost(CCC),11
+Big Stone,2016,Cost(CCC),79
+Big Stone,2017,Cost(CCC),71
+Big Stone,2018,Cost(CCC),29
+Big Stone,2012,Cost(HR),
+Big Stone,2013,Cost(HR),7
+Big Stone,2014,Cost(HR),11
+Big Stone,2015,Cost(HR),14
+Big Stone,2016,Cost(HR),83
+Big Stone,2017,Cost(HR),
+Big Stone,2018,Cost(HR),
+Big Stone,2012,Cost(Pub),47
+Big Stone,2013,Cost(Pub),28
+Big Stone,2014,Cost(Pub),54
+Big Stone,2015,Cost(Pub),57
+Big Stone,2016,Cost(Pub),63
+Big Stone,2017,Cost(Pub),77
+Big Stone,2018,Cost(Pub),60
+Big Stone,2012,Cost(any),6
+Big Stone,2013,Cost(any),6
+Big Stone,2014,Cost(any),20
+Big Stone,2015,Cost(any),12
+Big Stone,2016,Cost(any),15
+Big Stone,2017,Cost(any),19
+Big Stone,2018,Cost(any),14
+Big Stone,2012,QualPremium,
+Big Stone,2013,QualPremium,14
+Big Stone,2014,QualPremium,18
+Big Stone,2015,QualPremium,30
+Big Stone,2016,QualPremium,61
+Big Stone,2017,QualPremium,
+Big Stone,2018,QualPremium,
+Big Stone,2012,Supply(CCC),79
+Big Stone,2013,Supply(CCC),79
+Big Stone,2014,Supply(CCC),79
+Big Stone,2015,Supply(CCC),77
+Big Stone,2016,Supply(CCC),76
+Big Stone,2017,Supply(CCC),76
+Big Stone,2018,Supply(CCC),76
+Big Stone,2012,Supply(HR),
+Big Stone,2013,Supply(HR),49
+Big Stone,2014,Supply(HR),62
+Big Stone,2015,Supply(HR),66
+Big Stone,2016,Supply(HR),83.5
+Big Stone,2017,Supply(HR),
+Big Stone,2018,Supply(HR),
+Big Stone,2012,Supply(Pub),24
+Big Stone,2013,Supply(Pub),28
+Big Stone,2014,Supply(Pub),47
+Big Stone,2015,Supply(Pub),43
+Big Stone,2016,Supply(Pub),26
+Big Stone,2017,Supply(Pub),52
+Big Stone,2018,Supply(Pub),34
+Big Stone,2012,Supply(any),52
+Big Stone,2013,Supply(any),48
+Big Stone,2014,Supply(any),49
+Big Stone,2015,Supply(any),44
+Big Stone,2016,Supply(any),42
+Big Stone,2017,Supply(any),49
+Big Stone,2018,Supply(any),26
+Blue Earth,2012,Cost(CCC),3
+Blue Earth,2013,Cost(CCC),39
+Blue Earth,2014,Cost(CCC),40
+Blue Earth,2015,Cost(CCC),33
+Blue Earth,2016,Cost(CCC),26
+Blue Earth,2017,Cost(CCC),4
+Blue Earth,2018,Cost(CCC),36
+Blue Earth,2012,Cost(HR),
+Blue Earth,2013,Cost(HR),10
+Blue Earth,2014,Cost(HR),31
+Blue Earth,2015,Cost(HR),11
+Blue Earth,2016,Cost(HR),32
+Blue Earth,2017,Cost(HR),36
+Blue Earth,2018,Cost(HR),40
+Blue Earth,2012,Cost(Pub),20
+Blue Earth,2013,Cost(Pub),13
+Blue Earth,2014,Cost(Pub),21
+Blue Earth,2015,Cost(Pub),17
+Blue Earth,2016,Cost(Pub),21
+Blue Earth,2017,Cost(Pub),21
+Blue Earth,2018,Cost(Pub),13
+Blue Earth,2012,Cost(any),56
+Blue Earth,2013,Cost(any),58
+Blue Earth,2014,Cost(any),60
+Blue Earth,2015,Cost(any),60
+Blue Earth,2016,Cost(any),56
+Blue Earth,2017,Cost(any),61
+Blue Earth,2018,Cost(any),58
+Blue Earth,2012,QualPremium,
+Blue Earth,2013,QualPremium,2
+Blue Earth,2014,QualPremium,21
+Blue Earth,2015,QualPremium,5
+Blue Earth,2016,QualPremium,8
+Blue Earth,2017,QualPremium,28
+Blue Earth,2018,QualPremium,10
+Blue Earth,2012,Supply(CCC),6
+Blue Earth,2013,Supply(CCC),9
+Blue Earth,2014,Supply(CCC),8
+Blue Earth,2015,Supply(CCC),6
+Blue Earth,2016,Supply(CCC),4
+Blue Earth,2017,Supply(CCC),3
+Blue Earth,2018,Supply(CCC),4
+Blue Earth,2012,Supply(HR),
+Blue Earth,2013,Supply(HR),38
+Blue Earth,2014,Supply(HR),38
+Blue Earth,2015,Supply(HR),43
+Blue Earth,2016,Supply(HR),59
+Blue Earth,2017,Supply(HR),54
+Blue Earth,2018,Supply(HR),54
+Blue Earth,2012,Supply(Pub),8
+Blue Earth,2013,Supply(Pub),9
+Blue Earth,2014,Supply(Pub),10
+Blue Earth,2015,Supply(Pub),10
+Blue Earth,2016,Supply(Pub),7
+Blue Earth,2017,Supply(Pub),8
+Blue Earth,2018,Supply(Pub),6
+Blue Earth,2012,Supply(any),6
+Blue Earth,2013,Supply(any),8
+Blue Earth,2014,Supply(any),12
+Blue Earth,2015,Supply(any),6
+Blue Earth,2016,Supply(any),8
+Blue Earth,2017,Supply(any),5
+Blue Earth,2018,Supply(any),5
+Brown,2012,Cost(CCC),9
+Brown,2013,Cost(CCC),22
+Brown,2014,Cost(CCC),16
+Brown,2015,Cost(CCC),16
+Brown,2016,Cost(CCC),9
+Brown,2017,Cost(CCC),3
+Brown,2018,Cost(CCC),8
+Brown,2012,Cost(HR),
+Brown,2013,Cost(HR),20
+Brown,2014,Cost(HR),10
+Brown,2015,Cost(HR),10
+Brown,2016,Cost(HR),7
+Brown,2017,Cost(HR),10
+Brown,2018,Cost(HR),9
+Brown,2012,Cost(Pub),67
+Brown,2013,Cost(Pub),67
+Brown,2014,Cost(Pub),4
+Brown,2015,Cost(Pub),3
+Brown,2016,Cost(Pub),22
+Brown,2017,Cost(Pub),12
+Brown,2018,Cost(Pub),6
+Brown,2012,Cost(any),32
+Brown,2013,Cost(any),46
+Brown,2014,Cost(any),40
+Brown,2015,Cost(any),26
+Brown,2016,Cost(any),43
+Brown,2017,Cost(any),28
+Brown,2018,Cost(any),37
+Brown,2012,QualPremium,
+Brown,2013,QualPremium,31
+Brown,2014,QualPremium,11
+Brown,2015,QualPremium,15
+Brown,2016,QualPremium,10
+Brown,2017,QualPremium,13
+Brown,2018,QualPremium,11
+Brown,2012,Supply(CCC),24
+Brown,2013,Supply(CCC),25
+Brown,2014,Supply(CCC),31
+Brown,2015,Supply(CCC),30
+Brown,2016,Supply(CCC),25
+Brown,2017,Supply(CCC),21
+Brown,2018,Supply(CCC),27
+Brown,2012,Supply(HR),
+Brown,2013,Supply(HR),34
+Brown,2014,Supply(HR),33
+Brown,2015,Supply(HR),39
+Brown,2016,Supply(HR),33
+Brown,2017,Supply(HR),31
+Brown,2018,Supply(HR),40
+Brown,2012,Supply(Pub),30
+Brown,2013,Supply(Pub),76
+Brown,2014,Supply(Pub),42
+Brown,2015,Supply(Pub),12
+Brown,2016,Supply(Pub),25
+Brown,2017,Supply(Pub),9
+Brown,2018,Supply(Pub),12
+Brown,2012,Supply(any),3
+Brown,2013,Supply(any),7
+Brown,2014,Supply(any),10
+Brown,2015,Supply(any),4
+Brown,2016,Supply(any),4
+Brown,2017,Supply(any),3
+Brown,2018,Supply(any),3
+Carlton,2012,Cost(CCC),29
+Carlton,2013,Cost(CCC),20
+Carlton,2014,Cost(CCC),6
+Carlton,2015,Cost(CCC),13
+Carlton,2016,Cost(CCC),7
+Carlton,2017,Cost(CCC),17
+Carlton,2018,Cost(CCC),11
+Carlton,2012,Cost(HR),
+Carlton,2013,Cost(HR),22
+Carlton,2014,Cost(HR),4
+Carlton,2015,Cost(HR),8
+Carlton,2016,Cost(HR),29
+Carlton,2017,Cost(HR),45
+Carlton,2018,Cost(HR),32
+Carlton,2012,Cost(Pub),61
+Carlton,2013,Cost(Pub),63
+Carlton,2014,Cost(Pub),37
+Carlton,2015,Cost(Pub),40
+Carlton,2016,Cost(Pub),35
+Carlton,2017,Cost(Pub),33
+Carlton,2018,Cost(Pub),31
+Carlton,2012,Cost(any),55
+Carlton,2013,Cost(any),54
+Carlton,2014,Cost(any),30
+Carlton,2015,Cost(any),34
+Carlton,2016,Cost(any),58
+Carlton,2017,Cost(any),60
+Carlton,2018,Cost(any),24
+Carlton,2012,QualPremium,
+Carlton,2013,QualPremium,18
+Carlton,2014,QualPremium,2
+Carlton,2015,QualPremium,6
+Carlton,2016,QualPremium,26
+Carlton,2017,QualPremium,41
+Carlton,2018,QualPremium,34
+Carlton,2012,Supply(CCC),37
+Carlton,2013,Supply(CCC),27
+Carlton,2014,Supply(CCC),20
+Carlton,2015,Supply(CCC),16
+Carlton,2016,Supply(CCC),11
+Carlton,2017,Supply(CCC),9
+Carlton,2018,Supply(CCC),26
+Carlton,2012,Supply(HR),
+Carlton,2013,Supply(HR),18
+Carlton,2014,Supply(HR),9
+Carlton,2015,Supply(HR),7
+Carlton,2016,Supply(HR),2
+Carlton,2017,Supply(HR),1
+Carlton,2018,Supply(HR),13
+Carlton,2012,Supply(Pub),18
+Carlton,2013,Supply(Pub),15
+Carlton,2014,Supply(Pub),7
+Carlton,2015,Supply(Pub),8
+Carlton,2016,Supply(Pub),55
+Carlton,2017,Supply(Pub),34
+Carlton,2018,Supply(Pub),19
+Carlton,2012,Supply(any),59
+Carlton,2013,Supply(any),50
+Carlton,2014,Supply(any),43
+Carlton,2015,Supply(any),43
+Carlton,2016,Supply(any),45
+Carlton,2017,Supply(any),35
+Carlton,2018,Supply(any),43
+Carver,2012,Cost(CCC),47
+Carver,2013,Cost(CCC),81
+Carver,2014,Cost(CCC),78
+Carver,2015,Cost(CCC),76
+Carver,2016,Cost(CCC),66
+Carver,2017,Cost(CCC),43
+Carver,2018,Cost(CCC),74
+Carver,2012,Cost(HR),
+Carver,2013,Cost(HR),68
+Carver,2014,Cost(HR),75
+Carver,2015,Cost(HR),79
+Carver,2016,Cost(HR),72
+Carver,2017,Cost(HR),71
+Carver,2018,Cost(HR),77
+Carver,2012,Cost(Pub),18
+Carver,2013,Cost(Pub),49
+Carver,2014,Cost(Pub),18
+Carver,2015,Cost(Pub),18
+Carver,2016,Cost(Pub),18
+Carver,2017,Cost(Pub),13
+Carver,2018,Cost(Pub),16
+Carver,2012,Cost(any),84
+Carver,2013,Cost(any),85
+Carver,2014,Cost(any),83
+Carver,2015,Cost(any),83
+Carver,2016,Cost(any),85
+Carver,2017,Cost(any),85
+Carver,2018,Cost(any),84
+Carver,2012,QualPremium,
+Carver,2013,QualPremium,26
+Carver,2014,QualPremium,38
+Carver,2015,QualPremium,49
+Carver,2016,QualPremium,39
+Carver,2017,QualPremium,38
+Carver,2018,QualPremium,51
+Carver,2012,Supply(CCC),8
+Carver,2013,Supply(CCC),5
+Carver,2014,Supply(CCC),4
+Carver,2015,Supply(CCC),2
+Carver,2016,Supply(CCC),2
+Carver,2017,Supply(CCC),2
+Carver,2018,Supply(CCC),3
+Carver,2012,Supply(HR),
+Carver,2013,Supply(HR),9
+Carver,2014,Supply(HR),15
+Carver,2015,Supply(HR),4
+Carver,2016,Supply(HR),9
+Carver,2017,Supply(HR),7
+Carver,2018,Supply(HR),10
+Carver,2012,Supply(Pub),81
+Carver,2013,Supply(Pub),80
+Carver,2014,Supply(Pub),82
+Carver,2015,Supply(Pub),85
+Carver,2016,Supply(Pub),86
+Carver,2017,Supply(Pub),86
+Carver,2018,Supply(Pub),83
+Carver,2012,Supply(any),65
+Carver,2013,Supply(any),65
+Carver,2014,Supply(any),59
+Carver,2015,Supply(any),54
+Carver,2016,Supply(any),53
+Carver,2017,Supply(any),39
+Carver,2018,Supply(any),39
+Cass,2012,Cost(CCC),67
+Cass,2013,Cost(CCC),41
+Cass,2014,Cost(CCC),70
+Cass,2015,Cost(CCC),58
+Cass,2016,Cost(CCC),24
+Cass,2017,Cost(CCC),69
+Cass,2018,Cost(CCC),42
+Cass,2012,Cost(HR),
+Cass,2013,Cost(HR),41
+Cass,2014,Cost(HR),57
+Cass,2015,Cost(HR),50
+Cass,2016,Cost(HR),26
+Cass,2017,Cost(HR),66
+Cass,2018,Cost(HR),35
+Cass,2012,Cost(Pub),54
+Cass,2013,Cost(Pub),68
+Cass,2014,Cost(Pub),79
+Cass,2015,Cost(Pub),79
+Cass,2016,Cost(Pub),79
+Cass,2017,Cost(Pub),69
+Cass,2018,Cost(Pub),80
+Cass,2012,Cost(any),22
+Cass,2013,Cost(any),27
+Cass,2014,Cost(any),44
+Cass,2015,Cost(any),35
+Cass,2016,Cost(any),22
+Cass,2017,Cost(any),18
+Cass,2018,Cost(any),40
+Cass,2012,QualPremium,
+Cass,2013,QualPremium,45
+Cass,2014,QualPremium,59
+Cass,2015,QualPremium,40
+Cass,2016,QualPremium,14
+Cass,2017,QualPremium,50
+Cass,2018,QualPremium,40
+Cass,2012,Supply(CCC),64
+Cass,2013,Supply(CCC),65
+Cass,2014,Supply(CCC),10
+Cass,2015,Supply(CCC),64
+Cass,2016,Supply(CCC),70
+Cass,2017,Supply(CCC),68
+Cass,2018,Supply(CCC),47
+Cass,2012,Supply(HR),
+Cass,2013,Supply(HR),40
+Cass,2014,Supply(HR),1
+Cass,2015,Supply(HR),40
+Cass,2016,Supply(HR),26
+Cass,2017,Supply(HR),29
+Cass,2018,Supply(HR),18
+Cass,2012,Supply(Pub),7
+Cass,2013,Supply(Pub),7
+Cass,2014,Supply(Pub),14
+Cass,2015,Supply(Pub),16
+Cass,2016,Supply(Pub),12
+Cass,2017,Supply(Pub),11
+Cass,2018,Supply(Pub),32
+Cass,2012,Supply(any),66
+Cass,2013,Supply(any),62
+Cass,2014,Supply(any),23
+Cass,2015,Supply(any),67
+Cass,2016,Supply(any),74
+Cass,2017,Supply(any),74
+Cass,2018,Supply(any),80
+Chippewa,2012,Cost(CCC),11
+Chippewa,2013,Cost(CCC),1
+Chippewa,2014,Cost(CCC),3
+Chippewa,2015,Cost(CCC),3
+Chippewa,2016,Cost(CCC),3
+Chippewa,2017,Cost(CCC),10
+Chippewa,2018,Cost(CCC),56
+Chippewa,2012,Cost(HR),
+Chippewa,2013,Cost(HR),1
+Chippewa,2014,Cost(HR),7
+Chippewa,2015,Cost(HR),2
+Chippewa,2016,Cost(HR),4
+Chippewa,2017,Cost(HR),12
+Chippewa,2018,Cost(HR),71
+Chippewa,2012,Cost(Pub),11
+Chippewa,2013,Cost(Pub),11
+Chippewa,2014,Cost(Pub),42
+Chippewa,2015,Cost(Pub),63
+Chippewa,2016,Cost(Pub),38
+Chippewa,2017,Cost(Pub),54
+Chippewa,2018,Cost(Pub),85
+Chippewa,2012,Cost(any),7
+Chippewa,2013,Cost(any),4
+Chippewa,2014,Cost(any),11
+Chippewa,2015,Cost(any),39
+Chippewa,2016,Cost(any),16
+Chippewa,2017,Cost(any),24
+Chippewa,2018,Cost(any),53
+Chippewa,2012,QualPremium,
+Chippewa,2013,QualPremium,3
+Chippewa,2014,QualPremium,8
+Chippewa,2015,QualPremium,4
+Chippewa,2016,QualPremium,16
+Chippewa,2017,QualPremium,22
+Chippewa,2018,QualPremium,81
+Chippewa,2012,Supply(CCC),48
+Chippewa,2013,Supply(CCC),49
+Chippewa,2014,Supply(CCC),54
+Chippewa,2015,Supply(CCC),39
+Chippewa,2016,Supply(CCC),49
+Chippewa,2017,Supply(CCC),46
+Chippewa,2018,Supply(CCC),46
+Chippewa,2012,Supply(HR),
+Chippewa,2013,Supply(HR),35
+Chippewa,2014,Supply(HR),30
+Chippewa,2015,Supply(HR),27
+Chippewa,2016,Supply(HR),49
+Chippewa,2017,Supply(HR),66
+Chippewa,2018,Supply(HR),14
+Chippewa,2012,Supply(Pub),28
+Chippewa,2013,Supply(Pub),27
+Chippewa,2014,Supply(Pub),25
+Chippewa,2015,Supply(Pub),64
+Chippewa,2016,Supply(Pub),43
+Chippewa,2017,Supply(Pub),38
+Chippewa,2018,Supply(Pub),62
+Chippewa,2012,Supply(any),32
+Chippewa,2013,Supply(any),37
+Chippewa,2014,Supply(any),33
+Chippewa,2015,Supply(any),40
+Chippewa,2016,Supply(any),36
+Chippewa,2017,Supply(any),36
+Chippewa,2018,Supply(any),47
+Chisago,2012,Cost(CCC),35
+Chisago,2013,Cost(CCC),70
+Chisago,2014,Cost(CCC),65
+Chisago,2015,Cost(CCC),69
+Chisago,2016,Cost(CCC),55
+Chisago,2017,Cost(CCC),37
+Chisago,2018,Cost(CCC),66
+Chisago,2012,Cost(HR),
+Chisago,2013,Cost(HR),50
+Chisago,2014,Cost(HR),54
+Chisago,2015,Cost(HR),73
+Chisago,2016,Cost(HR),63
+Chisago,2017,Cost(HR),40
+Chisago,2018,Cost(HR),54
+Chisago,2012,Cost(Pub),57
+Chisago,2013,Cost(Pub),75
+Chisago,2014,Cost(Pub),33
+Chisago,2015,Cost(Pub),35
+Chisago,2016,Cost(Pub),32
+Chisago,2017,Cost(Pub),28
+Chisago,2018,Cost(Pub),38
+Chisago,2012,Cost(any),78
+Chisago,2013,Cost(any),78
+Chisago,2014,Cost(any),76
+Chisago,2015,Cost(any),76
+Chisago,2016,Cost(any),76
+Chisago,2017,Cost(any),70
+Chisago,2018,Cost(any),74
+Chisago,2012,QualPremium,
+Chisago,2013,QualPremium,40
+Chisago,2014,QualPremium,46
+Chisago,2015,QualPremium,67
+Chisago,2016,QualPremium,53
+Chisago,2017,QualPremium,21
+Chisago,2018,QualPremium,19
+Chisago,2012,Supply(CCC),25
+Chisago,2013,Supply(CCC),28
+Chisago,2014,Supply(CCC),34
+Chisago,2015,Supply(CCC),32
+Chisago,2016,Supply(CCC),34
+Chisago,2017,Supply(CCC),35
+Chisago,2018,Supply(CCC),28
+Chisago,2012,Supply(HR),
+Chisago,2013,Supply(HR),14
+Chisago,2014,Supply(HR),27
+Chisago,2015,Supply(HR),33
+Chisago,2016,Supply(HR),53
+Chisago,2017,Supply(HR),55
+Chisago,2018,Supply(HR),50
+Chisago,2012,Supply(Pub),83
+Chisago,2013,Supply(Pub),82
+Chisago,2014,Supply(Pub),73
+Chisago,2015,Supply(Pub),74
+Chisago,2016,Supply(Pub),74
+Chisago,2017,Supply(Pub),42
+Chisago,2018,Supply(Pub),75
+Chisago,2012,Supply(any),75
+Chisago,2013,Supply(any),74
+Chisago,2014,Supply(any),73
+Chisago,2015,Supply(any),79
+Chisago,2016,Supply(any),83
+Chisago,2017,Supply(any),65
+Chisago,2018,Supply(any),76
+Clay,2012,Cost(CCC),32
+Clay,2013,Cost(CCC),53
+Clay,2014,Cost(CCC),49
+Clay,2015,Cost(CCC),55
+Clay,2016,Cost(CCC),37
+Clay,2017,Cost(CCC),42
+Clay,2018,Cost(CCC),50
+Clay,2012,Cost(HR),
+Clay,2013,Cost(HR),11
+Clay,2014,Cost(HR),22
+Clay,2015,Cost(HR),49
+Clay,2016,Cost(HR),41
+Clay,2017,Cost(HR),44
+Clay,2018,Cost(HR),47
+Clay,2012,Cost(Pub),37
+Clay,2013,Cost(Pub),18
+Clay,2014,Cost(Pub),43
+Clay,2015,Cost(Pub),46
+Clay,2016,Cost(Pub),27
+Clay,2017,Cost(Pub),43
+Clay,2018,Cost(Pub),23
+Clay,2012,Cost(any),68
+Clay,2013,Cost(any),63
+Clay,2014,Cost(any),71
+Clay,2015,Cost(any),74
+Clay,2016,Cost(any),71
+Clay,2017,Cost(any),72
+Clay,2018,Cost(any),72
+Clay,2012,QualPremium,
+Clay,2013,QualPremium,5
+Clay,2014,QualPremium,12
+Clay,2015,QualPremium,31
+Clay,2016,QualPremium,27
+Clay,2017,QualPremium,35
+Clay,2018,QualPremium,26
+Clay,2012,Supply(CCC),19
+Clay,2013,Supply(CCC),20
+Clay,2014,Supply(CCC),22
+Clay,2015,Supply(CCC),21
+Clay,2016,Supply(CCC),24
+Clay,2017,Supply(CCC),22
+Clay,2018,Supply(CCC),21
+Clay,2012,Supply(HR),
+Clay,2013,Supply(HR),32
+Clay,2014,Supply(HR),41
+Clay,2015,Supply(HR),45
+Clay,2016,Supply(HR),41
+Clay,2017,Supply(HR),30
+Clay,2018,Supply(HR),29
+Clay,2012,Supply(Pub),57
+Clay,2013,Supply(Pub),39
+Clay,2014,Supply(Pub),70
+Clay,2015,Supply(Pub),77
+Clay,2016,Supply(Pub),75
+Clay,2017,Supply(Pub),77
+Clay,2018,Supply(Pub),76
+Clay,2012,Supply(any),37
+Clay,2013,Supply(any),36
+Clay,2014,Supply(any),46
+Clay,2015,Supply(any),46
+Clay,2016,Supply(any),47
+Clay,2017,Supply(any),44
+Clay,2018,Supply(any),40
+Clearwater,2012,Cost(CCC),81
+Clearwater,2013,Cost(CCC),61
+Clearwater,2014,Cost(CCC),61
+Clearwater,2015,Cost(CCC),63
+Clearwater,2016,Cost(CCC),42
+Clearwater,2017,Cost(CCC),82
+Clearwater,2018,Cost(CCC),70
+Clearwater,2012,Cost(HR),
+Clearwater,2013,Cost(HR),32
+Clearwater,2014,Cost(HR),35
+Clearwater,2015,Cost(HR),31
+Clearwater,2016,Cost(HR),6
+Clearwater,2017,Cost(HR),80
+Clearwater,2018,Cost(HR),26
+Clearwater,2012,Cost(Pub),43
+Clearwater,2013,Cost(Pub),48
+Clearwater,2014,Cost(Pub),69
+Clearwater,2015,Cost(Pub),69
+Clearwater,2016,Cost(Pub),82
+Clearwater,2017,Cost(Pub),81
+Clearwater,2018,Cost(Pub),74
+Clearwater,2012,Cost(any),5
+Clearwater,2013,Cost(any),3
+Clearwater,2014,Cost(any),16
+Clearwater,2015,Cost(any),16
+Clearwater,2016,Cost(any),34
+Clearwater,2017,Cost(any),32
+Clearwater,2018,Cost(any),39
+Clearwater,2012,QualPremium,
+Clearwater,2013,QualPremium,47
+Clearwater,2014,QualPremium,41
+Clearwater,2015,QualPremium,35
+Clearwater,2016,QualPremium,2
+Clearwater,2017,QualPremium,81
+Clearwater,2018,QualPremium,1
+Clearwater,2012,Supply(CCC),83.5
+Clearwater,2013,Supply(CCC),83.5
+Clearwater,2014,Supply(CCC),83.5
+Clearwater,2015,Supply(CCC),82.5
+Clearwater,2016,Supply(CCC),82
+Clearwater,2017,Supply(CCC),82
+Clearwater,2018,Supply(CCC),82
+Clearwater,2012,Supply(HR),
+Clearwater,2013,Supply(HR),36
+Clearwater,2014,Supply(HR),23
+Clearwater,2015,Supply(HR),31
+Clearwater,2016,Supply(HR),27
+Clearwater,2017,Supply(HR),58
+Clearwater,2018,Supply(HR),4
+Clearwater,2012,Supply(Pub),15
+Clearwater,2013,Supply(Pub),17
+Clearwater,2014,Supply(Pub),12
+Clearwater,2015,Supply(Pub),15
+Clearwater,2016,Supply(Pub),45
+Clearwater,2017,Supply(Pub),40
+Clearwater,2018,Supply(Pub),59
+Clearwater,2012,Supply(any),81
+Clearwater,2013,Supply(any),83
+Clearwater,2014,Supply(any),68
+Clearwater,2015,Supply(any),49
+Clearwater,2016,Supply(any),71
+Clearwater,2017,Supply(any),72
+Clearwater,2018,Supply(any),68
+Cook,2012,Cost(CCC),82
+Cook,2013,Cost(CCC),34
+Cook,2014,Cost(CCC),69
+Cook,2015,Cost(CCC),23
+Cook,2016,Cost(CCC),81
+Cook,2017,Cost(CCC),81
+Cook,2018,Cost(CCC),60
+Cook,2012,Cost(HR),
+Cook,2013,Cost(HR),86
+Cook,2014,Cost(HR),87
+Cook,2015,Cost(HR),87
+Cook,2016,Cost(HR),66
+Cook,2017,Cost(HR),78
+Cook,2018,Cost(HR),53
+Cook,2012,Cost(Pub),45
+Cook,2013,Cost(Pub),87
+Cook,2014,Cost(Pub),82
+Cook,2015,Cost(Pub),85
+Cook,2016,Cost(Pub),86
+Cook,2017,Cost(Pub),87
+Cook,2018,Cost(Pub),84
+Cook,2012,Cost(any),45
+Cook,2013,Cost(any),75
+Cook,2014,Cost(any),69
+Cook,2015,Cost(any),56
+Cook,2016,Cost(any),39
+Cook,2017,Cost(any),64
+Cook,2018,Cost(any),77
+Cook,2012,QualPremium,
+Cook,2013,QualPremium,82
+Cook,2014,QualPremium,86
+Cook,2015,QualPremium,87
+Cook,2016,QualPremium,77
+Cook,2017,QualPremium,78
+Cook,2018,QualPremium,13
+Cook,2012,Supply(CCC),31
+Cook,2013,Supply(CCC),34
+Cook,2014,Supply(CCC),41
+Cook,2015,Supply(CCC),36
+Cook,2016,Supply(CCC),57
+Cook,2017,Supply(CCC),57
+Cook,2018,Supply(CCC),1
+Cook,2012,Supply(HR),
+Cook,2013,Supply(HR),70.5
+Cook,2014,Supply(HR),76.5
+Cook,2015,Supply(HR),79.5
+Cook,2016,Supply(HR),3
+Cook,2017,Supply(HR),2
+Cook,2018,Supply(HR),1
+Cook,2012,Supply(Pub),12
+Cook,2013,Supply(Pub),87
+Cook,2014,Supply(Pub),16
+Cook,2015,Supply(Pub),19
+Cook,2016,Supply(Pub),22
+Cook,2017,Supply(Pub),25
+Cook,2018,Supply(Pub),21
+Cook,2012,Supply(any),35
+Cook,2013,Supply(any),43
+Cook,2014,Supply(any),4
+Cook,2015,Supply(any),2
+Cook,2016,Supply(any),5
+Cook,2017,Supply(any),16
+Cook,2018,Supply(any),2
+Cottonwood,2012,Cost(CCC),43
+Cottonwood,2013,Cost(CCC),8
+Cottonwood,2014,Cost(CCC),4
+Cottonwood,2015,Cost(CCC),2
+Cottonwood,2016,Cost(CCC),62
+Cottonwood,2017,Cost(CCC),5
+Cottonwood,2018,Cost(CCC),1
+Cottonwood,2012,Cost(HR),
+Cottonwood,2013,Cost(HR),66
+Cottonwood,2014,Cost(HR),21
+Cottonwood,2015,Cost(HR),13
+Cottonwood,2016,Cost(HR),58
+Cottonwood,2017,Cost(HR),13
+Cottonwood,2018,Cost(HR),2
+Cottonwood,2012,Cost(Pub),42
+Cottonwood,2013,Cost(Pub),15
+Cottonwood,2014,Cost(Pub),28
+Cottonwood,2015,Cost(Pub),33
+Cottonwood,2016,Cost(Pub),41
+Cottonwood,2017,Cost(Pub),63
+Cottonwood,2018,Cost(Pub),57
+Cottonwood,2012,Cost(any),18
+Cottonwood,2013,Cost(any),20
+Cottonwood,2014,Cost(any),24
+Cottonwood,2015,Cost(any),19
+Cottonwood,2016,Cost(any),6
+Cottonwood,2017,Cost(any),8
+Cottonwood,2018,Cost(any),11
+Cottonwood,2012,QualPremium,
+Cottonwood,2013,QualPremium,78
+Cottonwood,2014,QualPremium,30
+Cottonwood,2015,QualPremium,28
+Cottonwood,2016,QualPremium,82
+Cottonwood,2017,QualPremium,31
+Cottonwood,2018,QualPremium,6
+Cottonwood,2012,Supply(CCC),66
+Cottonwood,2013,Supply(CCC),67
+Cottonwood,2014,Supply(CCC),69
+Cottonwood,2015,Supply(CCC),65
+Cottonwood,2016,Supply(CCC),68
+Cottonwood,2017,Supply(CCC),65
+Cottonwood,2018,Supply(CCC),63
+Cottonwood,2012,Supply(HR),
+Cottonwood,2013,Supply(HR),70.5
+Cottonwood,2014,Supply(HR),76.5
+Cottonwood,2015,Supply(HR),79.5
+Cottonwood,2016,Supply(HR),50
+Cottonwood,2017,Supply(HR),32
+Cottonwood,2018,Supply(HR),23
+Cottonwood,2012,Supply(Pub),47
+Cottonwood,2013,Supply(Pub),45
+Cottonwood,2014,Supply(Pub),44
+Cottonwood,2015,Supply(Pub),42
+Cottonwood,2016,Supply(Pub),50
+Cottonwood,2017,Supply(Pub),35
+Cottonwood,2018,Supply(Pub),43
+Cottonwood,2012,Supply(any),60
+Cottonwood,2013,Supply(any),64
+Cottonwood,2014,Supply(any),62
+Cottonwood,2015,Supply(any),50
+Cottonwood,2016,Supply(any),58
+Cottonwood,2017,Supply(any),59
+Cottonwood,2018,Supply(any),55
+Crow Wing,2012,Cost(CCC),25
+Crow Wing,2013,Cost(CCC),23
+Crow Wing,2014,Cost(CCC),30
+Crow Wing,2015,Cost(CCC),37
+Crow Wing,2016,Cost(CCC),11
+Crow Wing,2017,Cost(CCC),32
+Crow Wing,2018,Cost(CCC),22
+Crow Wing,2012,Cost(HR),
+Crow Wing,2013,Cost(HR),30
+Crow Wing,2014,Cost(HR),24
+Crow Wing,2015,Cost(HR),36
+Crow Wing,2016,Cost(HR),20
+Crow Wing,2017,Cost(HR),62
+Crow Wing,2018,Cost(HR),38
+Crow Wing,2012,Cost(Pub),34
+Crow Wing,2013,Cost(Pub),45
+Crow Wing,2014,Cost(Pub),61
+Crow Wing,2015,Cost(Pub),61
+Crow Wing,2016,Cost(Pub),70
+Crow Wing,2017,Cost(Pub),59
+Crow Wing,2018,Cost(Pub),63
+Crow Wing,2012,Cost(any),63
+Crow Wing,2013,Cost(any),64
+Crow Wing,2014,Cost(any),68
+Crow Wing,2015,Cost(any),67
+Crow Wing,2016,Cost(any),66
+Crow Wing,2017,Cost(any),69
+Crow Wing,2018,Cost(any),66
+Crow Wing,2012,QualPremium,
+Crow Wing,2013,QualPremium,28
+Crow Wing,2014,QualPremium,15
+Crow Wing,2015,QualPremium,18
+Crow Wing,2016,QualPremium,13
+Crow Wing,2017,QualPremium,65
+Crow Wing,2018,QualPremium,33
+Crow Wing,2012,Supply(CCC),26
+Crow Wing,2013,Supply(CCC),24
+Crow Wing,2014,Supply(CCC),18
+Crow Wing,2015,Supply(CCC),17
+Crow Wing,2016,Supply(CCC),21
+Crow Wing,2017,Supply(CCC),18
+Crow Wing,2018,Supply(CCC),17
+Crow Wing,2012,Supply(HR),
+Crow Wing,2013,Supply(HR),51
+Crow Wing,2014,Supply(HR),50
+Crow Wing,2015,Supply(HR),35
+Crow Wing,2016,Supply(HR),47
+Crow Wing,2017,Supply(HR),22
+Crow Wing,2018,Supply(HR),16
+Crow Wing,2012,Supply(Pub),49
+Crow Wing,2013,Supply(Pub),48
+Crow Wing,2014,Supply(Pub),57
+Crow Wing,2015,Supply(Pub),54
+Crow Wing,2016,Supply(Pub),64
+Crow Wing,2017,Supply(Pub),65
+Crow Wing,2018,Supply(Pub),52
+Crow Wing,2012,Supply(any),57
+Crow Wing,2013,Supply(any),54
+Crow Wing,2014,Supply(any),50
+Crow Wing,2015,Supply(any),51
+Crow Wing,2016,Supply(any),67
+Crow Wing,2017,Supply(any),56
+Crow Wing,2018,Supply(any),51
+Dakota,2012,Cost(CCC),50
+Dakota,2013,Cost(CCC),82
+Dakota,2014,Cost(CCC),84
+Dakota,2015,Cost(CCC),82
+Dakota,2016,Cost(CCC),71
+Dakota,2017,Cost(CCC),53
+Dakota,2018,Cost(CCC),82
+Dakota,2012,Cost(HR),
+Dakota,2013,Cost(HR),73
+Dakota,2014,Cost(HR),81
+Dakota,2015,Cost(HR),83
+Dakota,2016,Cost(HR),76
+Dakota,2017,Cost(HR),76
+Dakota,2018,Cost(HR),80
+Dakota,2012,Cost(Pub),6
+Dakota,2013,Cost(Pub),12
+Dakota,2014,Cost(Pub),8
+Dakota,2015,Cost(Pub),8
+Dakota,2016,Cost(Pub),7
+Dakota,2017,Cost(Pub),5
+Dakota,2018,Cost(Pub),12
+Dakota,2012,Cost(any),86
+Dakota,2013,Cost(any),86
+Dakota,2014,Cost(any),86
+Dakota,2015,Cost(any),86
+Dakota,2016,Cost(any),86
+Dakota,2017,Cost(any),86
+Dakota,2018,Cost(any),86
+Dakota,2012,QualPremium,
+Dakota,2013,QualPremium,35
+Dakota,2014,QualPremium,42
+Dakota,2015,QualPremium,53
+Dakota,2016,QualPremium,46
+Dakota,2017,QualPremium,48
+Dakota,2018,QualPremium,64
+Dakota,2012,Supply(CCC),3
+Dakota,2013,Supply(CCC),2
+Dakota,2014,Supply(CCC),5
+Dakota,2015,Supply(CCC),5
+Dakota,2016,Supply(CCC),3
+Dakota,2017,Supply(CCC),5
+Dakota,2018,Supply(CCC),5
+Dakota,2012,Supply(HR),
+Dakota,2013,Supply(HR),3
+Dakota,2014,Supply(HR),6
+Dakota,2015,Supply(HR),5
+Dakota,2016,Supply(HR),11
+Dakota,2017,Supply(HR),13
+Dakota,2018,Supply(HR),6
+Dakota,2012,Supply(Pub),78
+Dakota,2013,Supply(Pub),79
+Dakota,2014,Supply(Pub),83
+Dakota,2015,Supply(Pub),86
+Dakota,2016,Supply(Pub),80
+Dakota,2017,Supply(Pub),74
+Dakota,2018,Supply(Pub),86
+Dakota,2012,Supply(any),43
+Dakota,2013,Supply(any),51
+Dakota,2014,Supply(any),52
+Dakota,2015,Supply(any),52
+Dakota,2016,Supply(any),44
+Dakota,2017,Supply(any),41
+Dakota,2018,Supply(any),41
+Dodge,2012,Cost(CCC),37
+Dodge,2013,Cost(CCC),68
+Dodge,2014,Cost(CCC),64
+Dodge,2015,Cost(CCC),66
+Dodge,2016,Cost(CCC),14
+Dodge,2017,Cost(CCC),41
+Dodge,2018,Cost(CCC),55
+Dodge,2012,Cost(HR),
+Dodge,2013,Cost(HR),31
+Dodge,2014,Cost(HR),40
+Dodge,2015,Cost(HR),59
+Dodge,2016,Cost(HR),39
+Dodge,2017,Cost(HR),46
+Dodge,2018,Cost(HR),60
+Dodge,2012,Cost(Pub),19
+Dodge,2013,Cost(Pub),30
+Dodge,2014,Cost(Pub),30
+Dodge,2015,Cost(Pub),56
+Dodge,2016,Cost(Pub),62
+Dodge,2017,Cost(Pub),32
+Dodge,2018,Cost(Pub),37
+Dodge,2012,Cost(any),66
+Dodge,2013,Cost(any),62
+Dodge,2014,Cost(any),66
+Dodge,2015,Cost(any),70
+Dodge,2016,Cost(any),67
+Dodge,2017,Cost(any),67
+Dodge,2018,Cost(any),67
+Dodge,2012,QualPremium,
+Dodge,2013,QualPremium,34
+Dodge,2014,QualPremium,44
+Dodge,2015,QualPremium,58
+Dodge,2016,QualPremium,29
+Dodge,2017,QualPremium,42
+Dodge,2018,QualPremium,57
+Dodge,2012,Supply(CCC),43
+Dodge,2013,Supply(CCC),44
+Dodge,2014,Supply(CCC),50
+Dodge,2015,Supply(CCC),41
+Dodge,2016,Supply(CCC),40
+Dodge,2017,Supply(CCC),54
+Dodge,2018,Supply(CCC),53
+Dodge,2012,Supply(HR),
+Dodge,2013,Supply(HR),42
+Dodge,2014,Supply(HR),54
+Dodge,2015,Supply(HR),59
+Dodge,2016,Supply(HR),71
+Dodge,2017,Supply(HR),75
+Dodge,2018,Supply(HR),73
+Dodge,2012,Supply(Pub),54
+Dodge,2013,Supply(Pub),50
+Dodge,2014,Supply(Pub),55
+Dodge,2015,Supply(Pub),58
+Dodge,2016,Supply(Pub),66
+Dodge,2017,Supply(Pub),60
+Dodge,2018,Supply(Pub),51
+Dodge,2012,Supply(any),25
+Dodge,2013,Supply(any),24
+Dodge,2014,Supply(any),26
+Dodge,2015,Supply(any),25
+Dodge,2016,Supply(any),30
+Dodge,2017,Supply(any),33
+Dodge,2018,Supply(any),32
+Douglas,2012,Cost(CCC),13
+Douglas,2013,Cost(CCC),47
+Douglas,2014,Cost(CCC),39
+Douglas,2015,Cost(CCC),39
+Douglas,2016,Cost(CCC),49
+Douglas,2017,Cost(CCC),34
+Douglas,2018,Cost(CCC),27
+Douglas,2012,Cost(HR),
+Douglas,2013,Cost(HR),40
+Douglas,2014,Cost(HR),19
+Douglas,2015,Cost(HR),20
+Douglas,2016,Cost(HR),54
+Douglas,2017,Cost(HR),33
+Douglas,2018,Cost(HR),61
+Douglas,2012,Cost(Pub),22
+Douglas,2013,Cost(Pub),19
+Douglas,2014,Cost(Pub),45
+Douglas,2015,Cost(Pub),47
+Douglas,2016,Cost(Pub),58
+Douglas,2017,Cost(Pub),45
+Douglas,2018,Cost(Pub),43
+Douglas,2012,Cost(any),49
+Douglas,2013,Cost(any),37
+Douglas,2014,Cost(any),52
+Douglas,2015,Cost(any),54
+Douglas,2016,Cost(any),51
+Douglas,2017,Cost(any),56
+Douglas,2018,Cost(any),63
+Douglas,2012,QualPremium,
+Douglas,2013,QualPremium,51
+Douglas,2014,QualPremium,22
+Douglas,2015,QualPremium,17
+Douglas,2016,QualPremium,59
+Douglas,2017,QualPremium,49
+Douglas,2018,QualPremium,72
+Douglas,2012,Supply(CCC),35
+Douglas,2013,Supply(CCC),29
+Douglas,2014,Supply(CCC),36
+Douglas,2015,Supply(CCC),37
+Douglas,2016,Supply(CCC),36
+Douglas,2017,Supply(CCC),31
+Douglas,2018,Supply(CCC),35
+Douglas,2012,Supply(HR),
+Douglas,2013,Supply(HR),70.5
+Douglas,2014,Supply(HR),49
+Douglas,2015,Supply(HR),53
+Douglas,2016,Supply(HR),65
+Douglas,2017,Supply(HR),20
+Douglas,2018,Supply(HR),19
+Douglas,2012,Supply(Pub),36
+Douglas,2013,Supply(Pub),14
+Douglas,2014,Supply(Pub),35
+Douglas,2015,Supply(Pub),39
+Douglas,2016,Supply(Pub),49
+Douglas,2017,Supply(Pub),43
+Douglas,2018,Supply(Pub),65
+Douglas,2012,Supply(any),7
+Douglas,2013,Supply(any),4
+Douglas,2014,Supply(any),3
+Douglas,2015,Supply(any),8
+Douglas,2016,Supply(any),7
+Douglas,2017,Supply(any),9
+Douglas,2018,Supply(any),15
+Faribault,2012,Cost(CCC),4
+Faribault,2013,Cost(CCC),15
+Faribault,2014,Cost(CCC),19
+Faribault,2015,Cost(CCC),12
+Faribault,2016,Cost(CCC),44
+Faribault,2017,Cost(CCC),26
+Faribault,2018,Cost(CCC),7
+Faribault,2012,Cost(HR),
+Faribault,2013,Cost(HR),57
+Faribault,2014,Cost(HR),53
+Faribault,2015,Cost(HR),48
+Faribault,2016,Cost(HR),42
+Faribault,2017,Cost(HR),37
+Faribault,2018,Cost(HR),44
+Faribault,2012,Cost(Pub),52
+Faribault,2013,Cost(Pub),47
+Faribault,2014,Cost(Pub),74
+Faribault,2015,Cost(Pub),75
+Faribault,2016,Cost(Pub),71
+Faribault,2017,Cost(Pub),68
+Faribault,2018,Cost(Pub),70
+Faribault,2012,Cost(any),36
+Faribault,2013,Cost(any),18
+Faribault,2014,Cost(any),41
+Faribault,2015,Cost(any),42
+Faribault,2016,Cost(any),63
+Faribault,2017,Cost(any),46
+Faribault,2018,Cost(any),19
+Faribault,2012,QualPremium,
+Faribault,2013,QualPremium,72
+Faribault,2014,QualPremium,68
+Faribault,2015,QualPremium,70
+Faribault,2016,QualPremium,43
+Faribault,2017,QualPremium,58
+Faribault,2018,QualPremium,73
+Faribault,2012,Supply(CCC),27
+Faribault,2013,Supply(CCC),31
+Faribault,2014,Supply(CCC),32
+Faribault,2015,Supply(CCC),13
+Faribault,2016,Supply(CCC),14
+Faribault,2017,Supply(CCC),15
+Faribault,2018,Supply(CCC),39
+Faribault,2012,Supply(HR),
+Faribault,2013,Supply(HR),70.5
+Faribault,2014,Supply(HR),44
+Faribault,2015,Supply(HR),6
+Faribault,2016,Supply(HR),15
+Faribault,2017,Supply(HR),8
+Faribault,2018,Supply(HR),25
+Faribault,2012,Supply(Pub),21
+Faribault,2013,Supply(Pub),22
+Faribault,2014,Supply(Pub),34
+Faribault,2015,Supply(Pub),38
+Faribault,2016,Supply(Pub),32
+Faribault,2017,Supply(Pub),36
+Faribault,2018,Supply(Pub),7
+Faribault,2012,Supply(any),42
+Faribault,2013,Supply(any),45
+Faribault,2014,Supply(any),39
+Faribault,2015,Supply(any),29
+Faribault,2016,Supply(any),21
+Faribault,2017,Supply(any),20
+Faribault,2018,Supply(any),14
+Fillmore,2012,Cost(CCC),49
+Fillmore,2013,Cost(CCC),60
+Fillmore,2014,Cost(CCC),42
+Fillmore,2015,Cost(CCC),29
+Fillmore,2016,Cost(CCC),52
+Fillmore,2017,Cost(CCC),44
+Fillmore,2018,Cost(CCC),32
+Fillmore,2012,Cost(HR),
+Fillmore,2013,Cost(HR),78
+Fillmore,2014,Cost(HR),70
+Fillmore,2015,Cost(HR),61
+Fillmore,2016,Cost(HR),67
+Fillmore,2017,Cost(HR),20
+Fillmore,2018,Cost(HR),22
+Fillmore,2012,Cost(Pub),64
+Fillmore,2013,Cost(Pub),74
+Fillmore,2014,Cost(Pub),76
+Fillmore,2015,Cost(Pub),76
+Fillmore,2016,Cost(Pub),77
+Fillmore,2017,Cost(Pub),79
+Fillmore,2018,Cost(Pub),75
+Fillmore,2012,Cost(any),42
+Fillmore,2013,Cost(any),33
+Fillmore,2014,Cost(any),21
+Fillmore,2015,Cost(any),40
+Fillmore,2016,Cost(any),65
+Fillmore,2017,Cost(any),44
+Fillmore,2018,Cost(any),36
+Fillmore,2012,QualPremium,
+Fillmore,2013,QualPremium,79
+Fillmore,2014,QualPremium,73
+Fillmore,2015,QualPremium,76
+Fillmore,2016,QualPremium,70
+Fillmore,2017,QualPremium,29
+Fillmore,2018,QualPremium,45
+Fillmore,2012,Supply(CCC),20
+Fillmore,2013,Supply(CCC),17
+Fillmore,2014,Supply(CCC),23
+Fillmore,2015,Supply(CCC),22
+Fillmore,2016,Supply(CCC),12
+Fillmore,2017,Supply(CCC),14
+Fillmore,2018,Supply(CCC),6
+Fillmore,2012,Supply(HR),
+Fillmore,2013,Supply(HR),70.5
+Fillmore,2014,Supply(HR),76.5
+Fillmore,2015,Supply(HR),69
+Fillmore,2016,Supply(HR),78
+Fillmore,2017,Supply(HR),64
+Fillmore,2018,Supply(HR),51
+Fillmore,2012,Supply(Pub),3
+Fillmore,2013,Supply(Pub),4
+Fillmore,2014,Supply(Pub),4
+Fillmore,2015,Supply(Pub),35
+Fillmore,2016,Supply(Pub),42
+Fillmore,2017,Supply(Pub),46
+Fillmore,2018,Supply(Pub),36
+Fillmore,2012,Supply(any),2
+Fillmore,2013,Supply(any),5
+Fillmore,2014,Supply(any),9
+Fillmore,2015,Supply(any),36
+Fillmore,2016,Supply(any),29
+Fillmore,2017,Supply(any),38
+Fillmore,2018,Supply(any),16
+Freeborn,2012,Cost(CCC),33
+Freeborn,2013,Cost(CCC),56
+Freeborn,2014,Cost(CCC),51
+Freeborn,2015,Cost(CCC),49
+Freeborn,2016,Cost(CCC),17
+Freeborn,2017,Cost(CCC),20
+Freeborn,2018,Cost(CCC),20
+Freeborn,2012,Cost(HR),
+Freeborn,2013,Cost(HR),65
+Freeborn,2014,Cost(HR),49
+Freeborn,2015,Cost(HR),64
+Freeborn,2016,Cost(HR),38
+Freeborn,2017,Cost(HR),32
+Freeborn,2018,Cost(HR),49
+Freeborn,2012,Cost(Pub),39
+Freeborn,2013,Cost(Pub),41
+Freeborn,2014,Cost(Pub),48
+Freeborn,2015,Cost(Pub),52
+Freeborn,2016,Cost(Pub),50
+Freeborn,2017,Cost(Pub),35
+Freeborn,2018,Cost(Pub),50
+Freeborn,2012,Cost(any),50
+Freeborn,2013,Cost(any),51
+Freeborn,2014,Cost(any),64
+Freeborn,2015,Cost(any),63
+Freeborn,2016,Cost(any),54
+Freeborn,2017,Cost(any),47
+Freeborn,2018,Cost(any),44
+Freeborn,2012,QualPremium,
+Freeborn,2013,QualPremium,71
+Freeborn,2014,QualPremium,58
+Freeborn,2015,QualPremium,75
+Freeborn,2016,QualPremium,57
+Freeborn,2017,QualPremium,59
+Freeborn,2018,QualPremium,75
+Freeborn,2012,Supply(CCC),47
+Freeborn,2013,Supply(CCC),47
+Freeborn,2014,Supply(CCC),35
+Freeborn,2015,Supply(CCC),34
+Freeborn,2016,Supply(CCC),44
+Freeborn,2017,Supply(CCC),45
+Freeborn,2018,Supply(CCC),48
+Freeborn,2012,Supply(HR),
+Freeborn,2013,Supply(HR),70.5
+Freeborn,2014,Supply(HR),29
+Freeborn,2015,Supply(HR),47
+Freeborn,2016,Supply(HR),52
+Freeborn,2017,Supply(HR),18
+Freeborn,2018,Supply(HR),21
+Freeborn,2012,Supply(Pub),46
+Freeborn,2013,Supply(Pub),44
+Freeborn,2014,Supply(Pub),77
+Freeborn,2015,Supply(Pub),79
+Freeborn,2016,Supply(Pub),77
+Freeborn,2017,Supply(Pub),69
+Freeborn,2018,Supply(Pub),58
+Freeborn,2012,Supply(any),69
+Freeborn,2013,Supply(any),70
+Freeborn,2014,Supply(any),69
+Freeborn,2015,Supply(any),70
+Freeborn,2016,Supply(any),79
+Freeborn,2017,Supply(any),83
+Freeborn,2018,Supply(any),73
+Goodhue,2012,Cost(CCC),10
+Goodhue,2013,Cost(CCC),42
+Goodhue,2014,Cost(CCC),31
+Goodhue,2015,Cost(CCC),43
+Goodhue,2016,Cost(CCC),16
+Goodhue,2017,Cost(CCC),9
+Goodhue,2018,Cost(CCC),43
+Goodhue,2012,Cost(HR),
+Goodhue,2013,Cost(HR),71
+Goodhue,2014,Cost(HR),67
+Goodhue,2015,Cost(HR),67
+Goodhue,2016,Cost(HR),52
+Goodhue,2017,Cost(HR),59
+Goodhue,2018,Cost(HR),69
+Goodhue,2012,Cost(Pub),38
+Goodhue,2013,Cost(Pub),53
+Goodhue,2014,Cost(Pub),19
+Goodhue,2015,Cost(Pub),22
+Goodhue,2016,Cost(Pub),31
+Goodhue,2017,Cost(Pub),25
+Goodhue,2018,Cost(Pub),36
+Goodhue,2012,Cost(any),70
+Goodhue,2013,Cost(any),72
+Goodhue,2014,Cost(any),70
+Goodhue,2015,Cost(any),72
+Goodhue,2016,Cost(any),68
+Goodhue,2017,Cost(any),73
+Goodhue,2018,Cost(any),70
+Goodhue,2012,QualPremium,
+Goodhue,2013,QualPremium,60
+Goodhue,2014,QualPremium,62
+Goodhue,2015,QualPremium,66
+Goodhue,2016,QualPremium,48
+Goodhue,2017,QualPremium,57
+Goodhue,2018,QualPremium,59
+Goodhue,2012,Supply(CCC),45
+Goodhue,2013,Supply(CCC),46
+Goodhue,2014,Supply(CCC),51
+Goodhue,2015,Supply(CCC),45
+Goodhue,2016,Supply(CCC),43
+Goodhue,2017,Supply(CCC),40
+Goodhue,2018,Supply(CCC),37
+Goodhue,2012,Supply(HR),
+Goodhue,2013,Supply(HR),53
+Goodhue,2014,Supply(HR),60
+Goodhue,2015,Supply(HR),42
+Goodhue,2016,Supply(HR),22
+Goodhue,2017,Supply(HR),25
+Goodhue,2018,Supply(HR),33
+Goodhue,2012,Supply(Pub),25
+Goodhue,2013,Supply(Pub),70
+Goodhue,2014,Supply(Pub),61
+Goodhue,2015,Supply(Pub),60
+Goodhue,2016,Supply(Pub),67
+Goodhue,2017,Supply(Pub),73
+Goodhue,2018,Supply(Pub),69
+Goodhue,2012,Supply(any),39
+Goodhue,2013,Supply(any),58
+Goodhue,2014,Supply(any),57
+Goodhue,2015,Supply(any),62
+Goodhue,2016,Supply(any),62
+Goodhue,2017,Supply(any),66
+Goodhue,2018,Supply(any),58
+Grant,2012,Cost(CCC),77
+Grant,2013,Cost(CCC),66
+Grant,2014,Cost(CCC),59
+Grant,2015,Cost(CCC),57
+Grant,2016,Cost(CCC),76
+Grant,2017,Cost(CCC),79
+Grant,2018,Cost(CCC),49
+Grant,2012,Cost(HR),
+Grant,2013,Cost(HR),58
+Grant,2014,Cost(HR),56
+Grant,2015,Cost(HR),19
+Grant,2016,Cost(HR),8
+Grant,2017,Cost(HR),23
+Grant,2018,Cost(HR),14
+Grant,2012,Cost(Pub),40
+Grant,2013,Cost(Pub),46
+Grant,2014,Cost(Pub),71
+Grant,2015,Cost(Pub),73
+Grant,2016,Cost(Pub),44
+Grant,2017,Cost(Pub),31
+Grant,2018,Cost(Pub),52
+Grant,2012,Cost(any),13
+Grant,2013,Cost(any),14
+Grant,2014,Cost(any),6
+Grant,2015,Cost(any),14
+Grant,2016,Cost(any),2
+Grant,2017,Cost(any),21
+Grant,2018,Cost(any),6
+Grant,2012,QualPremium,
+Grant,2013,QualPremium,69
+Grant,2014,QualPremium,69
+Grant,2015,QualPremium,24
+Grant,2016,QualPremium,19
+Grant,2017,QualPremium,30
+Grant,2018,QualPremium,24
+Grant,2012,Supply(CCC),83.5
+Grant,2013,Supply(CCC),83.5
+Grant,2014,Supply(CCC),83.5
+Grant,2015,Supply(CCC),82.5
+Grant,2016,Supply(CCC),82
+Grant,2017,Supply(CCC),82
+Grant,2018,Supply(CCC),82
+Grant,2012,Supply(HR),
+Grant,2013,Supply(HR),70.5
+Grant,2014,Supply(HR),76.5
+Grant,2015,Supply(HR),48
+Grant,2016,Supply(HR),46
+Grant,2017,Supply(HR),83
+Grant,2018,Supply(HR),32
+Grant,2012,Supply(Pub),17
+Grant,2013,Supply(Pub),13
+Grant,2014,Supply(Pub),9
+Grant,2015,Supply(Pub),7
+Grant,2016,Supply(Pub),5
+Grant,2017,Supply(Pub),5
+Grant,2018,Supply(Pub),4
+Grant,2012,Supply(any),67
+Grant,2013,Supply(any),61
+Grant,2014,Supply(any),71
+Grant,2015,Supply(any),58
+Grant,2016,Supply(any),43
+Grant,2017,Supply(any),27
+Grant,2018,Supply(any),29
+Hennepin,2012,Cost(CCC),54
+Hennepin,2013,Cost(CCC),84
+Hennepin,2014,Cost(CCC),85
+Hennepin,2015,Cost(CCC),84
+Hennepin,2016,Cost(CCC),74
+Hennepin,2017,Cost(CCC),56
+Hennepin,2018,Cost(CCC),84
+Hennepin,2012,Cost(HR),
+Hennepin,2013,Cost(HR),74
+Hennepin,2014,Cost(HR),83
+Hennepin,2015,Cost(HR),84
+Hennepin,2016,Cost(HR),77
+Hennepin,2017,Cost(HR),77
+Hennepin,2018,Cost(HR),82
+Hennepin,2012,Cost(Pub),4
+Hennepin,2013,Cost(Pub),9
+Hennepin,2014,Cost(Pub),9
+Hennepin,2015,Cost(Pub),9
+Hennepin,2016,Cost(Pub),6
+Hennepin,2017,Cost(Pub),4
+Hennepin,2018,Cost(Pub),9
+Hennepin,2012,Cost(any),87
+Hennepin,2013,Cost(any),87
+Hennepin,2014,Cost(any),87
+Hennepin,2015,Cost(any),87
+Hennepin,2016,Cost(any),87
+Hennepin,2017,Cost(any),87
+Hennepin,2018,Cost(any),87
+Hennepin,2012,QualPremium,
+Hennepin,2013,QualPremium,21
+Hennepin,2014,QualPremium,25
+Hennepin,2015,QualPremium,39
+Hennepin,2016,QualPremium,37
+Hennepin,2017,QualPremium,47
+Hennepin,2018,QualPremium,60
+Hennepin,2012,Supply(CCC),2
+Hennepin,2013,Supply(CCC),1
+Hennepin,2014,Supply(CCC),1
+Hennepin,2015,Supply(CCC),1
+Hennepin,2016,Supply(CCC),1
+Hennepin,2017,Supply(CCC),1
+Hennepin,2018,Supply(CCC),2
+Hennepin,2012,Supply(HR),
+Hennepin,2013,Supply(HR),4
+Hennepin,2014,Supply(HR),5
+Hennepin,2015,Supply(HR),2
+Hennepin,2016,Supply(HR),4
+Hennepin,2017,Supply(HR),3
+Hennepin,2018,Supply(HR),2
+Hennepin,2012,Supply(Pub),67
+Hennepin,2013,Supply(Pub),71
+Hennepin,2014,Supply(Pub),84
+Hennepin,2015,Supply(Pub),81
+Hennepin,2016,Supply(Pub),79
+Hennepin,2017,Supply(Pub),81
+Hennepin,2018,Supply(Pub),70
+Hennepin,2012,Supply(any),74
+Hennepin,2013,Supply(any),71
+Hennepin,2014,Supply(any),65
+Hennepin,2015,Supply(any),66
+Hennepin,2016,Supply(any),51
+Hennepin,2017,Supply(any),47
+Hennepin,2018,Supply(any),37
+Houston,2012,Cost(CCC),17
+Houston,2013,Cost(CCC),35
+Houston,2014,Cost(CCC),32
+Houston,2015,Cost(CCC),47
+Houston,2016,Cost(CCC),19
+Houston,2017,Cost(CCC),36
+Houston,2018,Cost(CCC),23
+Houston,2012,Cost(HR),
+Houston,2013,Cost(HR),53
+Houston,2014,Cost(HR),72
+Houston,2015,Cost(HR),55
+Houston,2016,Cost(HR),13
+Houston,2017,Cost(HR),11
+Houston,2018,Cost(HR),13
+Houston,2012,Cost(Pub),31
+Houston,2013,Cost(Pub),5
+Houston,2014,Cost(Pub),31
+Houston,2015,Cost(Pub),43
+Houston,2016,Cost(Pub),72
+Houston,2017,Cost(Pub),58
+Houston,2018,Cost(Pub),46
+Houston,2012,Cost(any),48
+Houston,2013,Cost(any),48
+Houston,2014,Cost(any),47
+Houston,2015,Cost(any),46
+Houston,2016,Cost(any),45
+Houston,2017,Cost(any),35
+Houston,2018,Cost(any),23
+Houston,2012,QualPremium,
+Houston,2013,QualPremium,61
+Houston,2014,QualPremium,76
+Houston,2015,QualPremium,63
+Houston,2016,QualPremium,22
+Houston,2017,QualPremium,9
+Houston,2018,QualPremium,7
+Houston,2012,Supply(CCC),42
+Houston,2013,Supply(CCC),41
+Houston,2014,Supply(CCC),48
+Houston,2015,Supply(CCC),54
+Houston,2016,Supply(CCC),45
+Houston,2017,Supply(CCC),27
+Houston,2018,Supply(CCC),31
+Houston,2012,Supply(HR),
+Houston,2013,Supply(HR),70.5
+Houston,2014,Supply(HR),76.5
+Houston,2015,Supply(HR),79.5
+Houston,2016,Supply(HR),1
+Houston,2017,Supply(HR),19
+Houston,2018,Supply(HR),58
+Houston,2012,Supply(Pub),37
+Houston,2013,Supply(Pub),37
+Houston,2014,Supply(Pub),46
+Houston,2015,Supply(Pub),33
+Houston,2016,Supply(Pub),23
+Houston,2017,Supply(Pub),15
+Houston,2018,Supply(Pub),10
+Houston,2012,Supply(any),14
+Houston,2013,Supply(any),15
+Houston,2014,Supply(any),18
+Houston,2015,Supply(any),26
+Houston,2016,Supply(any),11
+Houston,2017,Supply(any),11
+Houston,2018,Supply(any),12
+Hubbard,2012,Cost(CCC),66
+Hubbard,2013,Cost(CCC),24
+Hubbard,2014,Cost(CCC),55
+Hubbard,2015,Cost(CCC),44
+Hubbard,2016,Cost(CCC),23
+Hubbard,2017,Cost(CCC),61
+Hubbard,2018,Cost(CCC),34
+Hubbard,2012,Cost(HR),
+Hubbard,2013,Cost(HR),29
+Hubbard,2014,Cost(HR),26
+Hubbard,2015,Cost(HR),34
+Hubbard,2016,Cost(HR),9
+Hubbard,2017,Cost(HR),67
+Hubbard,2018,Cost(HR),19
+Hubbard,2012,Cost(Pub),65
+Hubbard,2013,Cost(Pub),60
+Hubbard,2014,Cost(Pub),84
+Hubbard,2015,Cost(Pub),84
+Hubbard,2016,Cost(Pub),85
+Hubbard,2017,Cost(Pub),85
+Hubbard,2018,Cost(Pub),76
+Hubbard,2012,Cost(any),54
+Hubbard,2013,Cost(any),50
+Hubbard,2014,Cost(any),56
+Hubbard,2015,Cost(any),58
+Hubbard,2016,Cost(any),55
+Hubbard,2017,Cost(any),62
+Hubbard,2018,Cost(any),50
+Hubbard,2012,QualPremium,
+Hubbard,2013,QualPremium,38
+Hubbard,2014,QualPremium,29
+Hubbard,2015,QualPremium,37
+Hubbard,2016,QualPremium,3
+Hubbard,2017,QualPremium,76
+Hubbard,2018,QualPremium,17
+Hubbard,2012,Supply(CCC),59
+Hubbard,2013,Supply(CCC),60
+Hubbard,2014,Supply(CCC),61
+Hubbard,2015,Supply(CCC),60
+Hubbard,2016,Supply(CCC),54
+Hubbard,2017,Supply(CCC),50
+Hubbard,2018,Supply(CCC),67
+Hubbard,2012,Supply(HR),
+Hubbard,2013,Supply(HR),22
+Hubbard,2014,Supply(HR),21
+Hubbard,2015,Supply(HR),13
+Hubbard,2016,Supply(HR),6
+Hubbard,2017,Supply(HR),11
+Hubbard,2018,Supply(HR),15
+Hubbard,2012,Supply(Pub),42
+Hubbard,2013,Supply(Pub),40
+Hubbard,2014,Supply(Pub),85
+Hubbard,2015,Supply(Pub),75
+Hubbard,2016,Supply(Pub),87
+Hubbard,2017,Supply(Pub),87
+Hubbard,2018,Supply(Pub),55
+Hubbard,2012,Supply(any),68
+Hubbard,2013,Supply(any),75
+Hubbard,2014,Supply(any),79
+Hubbard,2015,Supply(any),71
+Hubbard,2016,Supply(any),69
+Hubbard,2017,Supply(any),68
+Hubbard,2018,Supply(any),72
+Isanti,2012,Cost(CCC),15
+Isanti,2013,Cost(CCC),54
+Isanti,2014,Cost(CCC),53
+Isanti,2015,Cost(CCC),61
+Isanti,2016,Cost(CCC),39
+Isanti,2017,Cost(CCC),28
+Isanti,2018,Cost(CCC),46
+Isanti,2012,Cost(HR),
+Isanti,2013,Cost(HR),38
+Isanti,2014,Cost(HR),39
+Isanti,2015,Cost(HR),58
+Isanti,2016,Cost(HR),44
+Isanti,2017,Cost(HR),43
+Isanti,2018,Cost(HR),63
+Isanti,2012,Cost(Pub),71
+Isanti,2013,Cost(Pub),79
+Isanti,2014,Cost(Pub),44
+Isanti,2015,Cost(Pub),44
+Isanti,2016,Cost(Pub),46
+Isanti,2017,Cost(Pub),38
+Isanti,2018,Cost(Pub),49
+Isanti,2012,Cost(any),77
+Isanti,2013,Cost(any),77
+Isanti,2014,Cost(any),77
+Isanti,2015,Cost(any),78
+Isanti,2016,Cost(any),77
+Isanti,2017,Cost(any),77
+Isanti,2018,Cost(any),76
+Isanti,2012,QualPremium,
+Isanti,2013,QualPremium,27
+Isanti,2014,QualPremium,17
+Isanti,2015,QualPremium,26
+Isanti,2016,QualPremium,25
+Isanti,2017,QualPremium,20
+Isanti,2018,QualPremium,39
+Isanti,2012,Supply(CCC),13
+Isanti,2013,Supply(CCC),12
+Isanti,2014,Supply(CCC),15
+Isanti,2015,Supply(CCC),12
+Isanti,2016,Supply(CCC),19
+Isanti,2017,Supply(CCC),23
+Isanti,2018,Supply(CCC),15
+Isanti,2012,Supply(HR),
+Isanti,2013,Supply(HR),20
+Isanti,2014,Supply(HR),24
+Isanti,2015,Supply(HR),25
+Isanti,2016,Supply(HR),23
+Isanti,2017,Supply(HR),26
+Isanti,2018,Supply(HR),20
+Isanti,2012,Supply(Pub),87
+Isanti,2013,Supply(Pub),86
+Isanti,2014,Supply(Pub),78
+Isanti,2015,Supply(Pub),80
+Isanti,2016,Supply(Pub),83
+Isanti,2017,Supply(Pub),84
+Isanti,2018,Supply(Pub),84
+Isanti,2012,Supply(any),83
+Isanti,2013,Supply(any),81
+Isanti,2014,Supply(any),85
+Isanti,2015,Supply(any),84
+Isanti,2016,Supply(any),86
+Isanti,2017,Supply(any),86
+Isanti,2018,Supply(any),86
+Itasca,2012,Cost(CCC),46
+Itasca,2013,Cost(CCC),25
+Itasca,2014,Cost(CCC),41
+Itasca,2015,Cost(CCC),10
+Itasca,2016,Cost(CCC),5
+Itasca,2017,Cost(CCC),14
+Itasca,2018,Cost(CCC),26
+Itasca,2012,Cost(HR),
+Itasca,2013,Cost(HR),18
+Itasca,2014,Cost(HR),27
+Itasca,2015,Cost(HR),25
+Itasca,2016,Cost(HR),19
+Itasca,2017,Cost(HR),21
+Itasca,2018,Cost(HR),48
+Itasca,2012,Cost(Pub),25
+Itasca,2013,Cost(Pub),38
+Itasca,2014,Cost(Pub),55
+Itasca,2015,Cost(Pub),55
+Itasca,2016,Cost(Pub),55
+Itasca,2017,Cost(Pub),72
+Itasca,2018,Cost(Pub),53
+Itasca,2012,Cost(any),28
+Itasca,2013,Cost(any),19
+Itasca,2014,Cost(any),22
+Itasca,2015,Cost(any),10
+Itasca,2016,Cost(any),20
+Itasca,2017,Cost(any),29
+Itasca,2018,Cost(any),10
+Itasca,2012,QualPremium,
+Itasca,2013,QualPremium,17
+Itasca,2014,QualPremium,27
+Itasca,2015,QualPremium,19
+Itasca,2016,QualPremium,17
+Itasca,2017,QualPremium,14
+Itasca,2018,QualPremium,52
+Itasca,2012,Supply(CCC),55
+Itasca,2013,Supply(CCC),56
+Itasca,2014,Supply(CCC),46
+Itasca,2015,Supply(CCC),47
+Itasca,2016,Supply(CCC),48
+Itasca,2017,Supply(CCC),49
+Itasca,2018,Supply(CCC),64
+Itasca,2012,Supply(HR),
+Itasca,2013,Supply(HR),19
+Itasca,2014,Supply(HR),14
+Itasca,2015,Supply(HR),12
+Itasca,2016,Supply(HR),13
+Itasca,2017,Supply(HR),12
+Itasca,2018,Supply(HR),39
+Itasca,2012,Supply(Pub),11
+Itasca,2013,Supply(Pub),8
+Itasca,2014,Supply(Pub),6
+Itasca,2015,Supply(Pub),4
+Itasca,2016,Supply(Pub),21
+Itasca,2017,Supply(Pub),21
+Itasca,2018,Supply(Pub),5
+Itasca,2012,Supply(any),62
+Itasca,2013,Supply(any),56
+Itasca,2014,Supply(any),45
+Itasca,2015,Supply(any),39
+Itasca,2016,Supply(any),60
+Itasca,2017,Supply(any),57
+Itasca,2018,Supply(any),56
+Jackson,2012,Cost(CCC),55
+Jackson,2013,Cost(CCC),33
+Jackson,2014,Cost(CCC),11
+Jackson,2015,Cost(CCC),6
+Jackson,2016,Cost(CCC),59
+Jackson,2017,Cost(CCC),16
+Jackson,2018,Cost(CCC),2
+Jackson,2012,Cost(HR),
+Jackson,2013,Cost(HR),80
+Jackson,2014,Cost(HR),66
+Jackson,2015,Cost(HR),40
+Jackson,2016,Cost(HR),11
+Jackson,2017,Cost(HR),2
+Jackson,2018,Cost(HR),10
+Jackson,2012,Cost(Pub),72
+Jackson,2013,Cost(Pub),58
+Jackson,2014,Cost(Pub),59
+Jackson,2015,Cost(Pub),58
+Jackson,2016,Cost(Pub),60
+Jackson,2017,Cost(Pub),65
+Jackson,2018,Cost(Pub),45
+Jackson,2012,Cost(any),44
+Jackson,2013,Cost(any),53
+Jackson,2014,Cost(any),33
+Jackson,2015,Cost(any),24
+Jackson,2016,Cost(any),40
+Jackson,2017,Cost(any),23
+Jackson,2018,Cost(any),27
+Jackson,2012,QualPremium,
+Jackson,2013,QualPremium,80
+Jackson,2014,QualPremium,75
+Jackson,2015,QualPremium,55
+Jackson,2016,QualPremium,6
+Jackson,2017,QualPremium,1
+Jackson,2018,QualPremium,16
+Jackson,2012,Supply(CCC),16
+Jackson,2013,Supply(CCC),16
+Jackson,2014,Supply(CCC),21
+Jackson,2015,Supply(CCC),20
+Jackson,2016,Supply(CCC),26
+Jackson,2017,Supply(CCC),28
+Jackson,2018,Supply(CCC),32
+Jackson,2012,Supply(HR),
+Jackson,2013,Supply(HR),70.5
+Jackson,2014,Supply(HR),76.5
+Jackson,2015,Supply(HR),79.5
+Jackson,2016,Supply(HR),57
+Jackson,2017,Supply(HR),41
+Jackson,2018,Supply(HR),46
+Jackson,2012,Supply(Pub),53
+Jackson,2013,Supply(Pub),56
+Jackson,2014,Supply(Pub),23
+Jackson,2015,Supply(Pub),24
+Jackson,2016,Supply(Pub),13
+Jackson,2017,Supply(Pub),13
+Jackson,2018,Supply(Pub),22
+Jackson,2012,Supply(any),18
+Jackson,2013,Supply(any),18
+Jackson,2014,Supply(any),13
+Jackson,2015,Supply(any),23
+Jackson,2016,Supply(any),13
+Jackson,2017,Supply(any),12
+Jackson,2018,Supply(any),25
+Kanabec,2012,Cost(CCC),16
+Kanabec,2013,Cost(CCC),49
+Kanabec,2014,Cost(CCC),38
+Kanabec,2015,Cost(CCC),38
+Kanabec,2016,Cost(CCC),22
+Kanabec,2017,Cost(CCC),15
+Kanabec,2018,Cost(CCC),5
+Kanabec,2012,Cost(HR),
+Kanabec,2013,Cost(HR),36
+Kanabec,2014,Cost(HR),25
+Kanabec,2015,Cost(HR),37
+Kanabec,2016,Cost(HR),21
+Kanabec,2017,Cost(HR),15
+Kanabec,2018,Cost(HR),23
+Kanabec,2012,Cost(Pub),49
+Kanabec,2013,Cost(Pub),59
+Kanabec,2014,Cost(Pub),60
+Kanabec,2015,Cost(Pub),62
+Kanabec,2016,Cost(Pub),64
+Kanabec,2017,Cost(Pub),47
+Kanabec,2018,Cost(Pub),66
+Kanabec,2012,Cost(any),19
+Kanabec,2013,Cost(any),8
+Kanabec,2014,Cost(any),5
+Kanabec,2015,Cost(any),7
+Kanabec,2016,Cost(any),24
+Kanabec,2017,Cost(any),10
+Kanabec,2018,Cost(any),51
+Kanabec,2012,QualPremium,
+Kanabec,2013,QualPremium,44
+Kanabec,2014,QualPremium,28
+Kanabec,2015,QualPremium,33
+Kanabec,2016,QualPremium,9
+Kanabec,2017,QualPremium,15
+Kanabec,2018,QualPremium,30
+Kanabec,2012,Supply(CCC),63
+Kanabec,2013,Supply(CCC),64
+Kanabec,2014,Supply(CCC),68
+Kanabec,2015,Supply(CCC),67
+Kanabec,2016,Supply(CCC),38
+Kanabec,2017,Supply(CCC),60
+Kanabec,2018,Supply(CCC),58
+Kanabec,2012,Supply(HR),
+Kanabec,2013,Supply(HR),47
+Kanabec,2014,Supply(HR),57
+Kanabec,2015,Supply(HR),64
+Kanabec,2016,Supply(HR),39
+Kanabec,2017,Supply(HR),34
+Kanabec,2018,Supply(HR),37
+Kanabec,2012,Supply(Pub),2
+Kanabec,2013,Supply(Pub),3
+Kanabec,2014,Supply(Pub),2
+Kanabec,2015,Supply(Pub),2
+Kanabec,2016,Supply(Pub),2
+Kanabec,2017,Supply(Pub),2
+Kanabec,2018,Supply(Pub),71
+Kanabec,2012,Supply(any),4
+Kanabec,2013,Supply(any),6
+Kanabec,2014,Supply(any),7
+Kanabec,2015,Supply(any),3
+Kanabec,2016,Supply(any),2
+Kanabec,2017,Supply(any),2
+Kanabec,2018,Supply(any),71
+Kandiyohi,2012,Cost(CCC),20
+Kandiyohi,2013,Cost(CCC),46
+Kandiyohi,2014,Cost(CCC),45
+Kandiyohi,2015,Cost(CCC),40
+Kandiyohi,2016,Cost(CCC),30
+Kandiyohi,2017,Cost(CCC),22
+Kandiyohi,2018,Cost(CCC),38
+Kandiyohi,2012,Cost(HR),
+Kandiyohi,2013,Cost(HR),19
+Kandiyohi,2014,Cost(HR),34
+Kandiyohi,2015,Cost(HR),39
+Kandiyohi,2016,Cost(HR),27
+Kandiyohi,2017,Cost(HR),35
+Kandiyohi,2018,Cost(HR),34
+Kandiyohi,2012,Cost(Pub),9
+Kandiyohi,2013,Cost(Pub),6
+Kandiyohi,2014,Cost(Pub),10
+Kandiyohi,2015,Cost(Pub),13
+Kandiyohi,2016,Cost(Pub),12
+Kandiyohi,2017,Cost(Pub),23
+Kandiyohi,2018,Cost(Pub),27
+Kandiyohi,2012,Cost(any),53
+Kandiyohi,2013,Cost(any),47
+Kandiyohi,2014,Cost(any),54
+Kandiyohi,2015,Cost(any),53
+Kandiyohi,2016,Cost(any),47
+Kandiyohi,2017,Cost(any),48
+Kandiyohi,2018,Cost(any),46
+Kandiyohi,2012,QualPremium,
+Kandiyohi,2013,QualPremium,24
+Kandiyohi,2014,QualPremium,47
+Kandiyohi,2015,QualPremium,48
+Kandiyohi,2016,QualPremium,28
+Kandiyohi,2017,QualPremium,55
+Kandiyohi,2018,QualPremium,47
+Kandiyohi,2012,Supply(CCC),53
+Kandiyohi,2013,Supply(CCC),54
+Kandiyohi,2014,Supply(CCC),53
+Kandiyohi,2015,Supply(CCC),46
+Kandiyohi,2016,Supply(CCC),46
+Kandiyohi,2017,Supply(CCC),41
+Kandiyohi,2018,Supply(CCC),42
+Kandiyohi,2012,Supply(HR),
+Kandiyohi,2013,Supply(HR),26
+Kandiyohi,2014,Supply(HR),20
+Kandiyohi,2015,Supply(HR),19
+Kandiyohi,2016,Supply(HR),28
+Kandiyohi,2017,Supply(HR),21
+Kandiyohi,2018,Supply(HR),34
+Kandiyohi,2012,Supply(Pub),62
+Kandiyohi,2013,Supply(Pub),55
+Kandiyohi,2014,Supply(Pub),67
+Kandiyohi,2015,Supply(Pub),62
+Kandiyohi,2016,Supply(Pub),53
+Kandiyohi,2017,Supply(Pub),63
+Kandiyohi,2018,Supply(Pub),45
+Kandiyohi,2012,Supply(any),71
+Kandiyohi,2013,Supply(any),72
+Kandiyohi,2014,Supply(any),78
+Kandiyohi,2015,Supply(any),73
+Kandiyohi,2016,Supply(any),66
+Kandiyohi,2017,Supply(any),63
+Kandiyohi,2018,Supply(any),65
+Kittson,2012,Cost(CCC),85
+Kittson,2013,Cost(CCC),76
+Kittson,2014,Cost(CCC),76
+Kittson,2015,Cost(CCC),75
+Kittson,2016,Cost(CCC),87
+Kittson,2017,Cost(CCC),86
+Kittson,2018,Cost(CCC),79
+Kittson,2012,Cost(HR),
+Kittson,2013,Cost(HR),81
+Kittson,2014,Cost(HR),85
+Kittson,2015,Cost(HR),86
+Kittson,2016,Cost(HR),86
+Kittson,2017,Cost(HR),
+Kittson,2018,Cost(HR),
+Kittson,2012,Cost(Pub),78
+Kittson,2013,Cost(Pub),66
+Kittson,2014,Cost(Pub),63
+Kittson,2015,Cost(Pub),80
+Kittson,2016,Cost(Pub),83
+Kittson,2017,Cost(Pub),80
+Kittson,2018,Cost(Pub),83
+Kittson,2012,Cost(any),21
+Kittson,2013,Cost(any),11
+Kittson,2014,Cost(any),10
+Kittson,2015,Cost(any),28
+Kittson,2016,Cost(any),23
+Kittson,2017,Cost(any),22
+Kittson,2018,Cost(any),29
+Kittson,2012,QualPremium,
+Kittson,2013,QualPremium,81
+Kittson,2014,QualPremium,85
+Kittson,2015,QualPremium,86
+Kittson,2016,QualPremium,86
+Kittson,2017,QualPremium,
+Kittson,2018,QualPremium,
+Kittson,2012,Supply(CCC),83.5
+Kittson,2013,Supply(CCC),83.5
+Kittson,2014,Supply(CCC),83.5
+Kittson,2015,Supply(CCC),82.5
+Kittson,2016,Supply(CCC),82
+Kittson,2017,Supply(CCC),82
+Kittson,2018,Supply(CCC),82
+Kittson,2012,Supply(HR),
+Kittson,2013,Supply(HR),70.5
+Kittson,2014,Supply(HR),76.5
+Kittson,2015,Supply(HR),79.5
+Kittson,2016,Supply(HR),83.5
+Kittson,2017,Supply(HR),
+Kittson,2018,Supply(HR),
+Kittson,2012,Supply(Pub),27
+Kittson,2013,Supply(Pub),26
+Kittson,2014,Supply(Pub),27
+Kittson,2015,Supply(Pub),53
+Kittson,2016,Supply(Pub),6
+Kittson,2017,Supply(Pub),7
+Kittson,2018,Supply(Pub),24
+Kittson,2012,Supply(any),48
+Kittson,2013,Supply(any),49
+Kittson,2014,Supply(any),55
+Kittson,2015,Supply(any),72
+Kittson,2016,Supply(any),26
+Kittson,2017,Supply(any),45
+Kittson,2018,Supply(any),36
+Koochiching,2012,Cost(CCC),84
+Koochiching,2013,Cost(CCC),85
+Koochiching,2014,Cost(CCC),87
+Koochiching,2015,Cost(CCC),85
+Koochiching,2016,Cost(CCC),77
+Koochiching,2017,Cost(CCC),85
+Koochiching,2018,Cost(CCC),86
+Koochiching,2012,Cost(HR),
+Koochiching,2013,Cost(HR),84
+Koochiching,2014,Cost(HR),86
+Koochiching,2015,Cost(HR),85
+Koochiching,2016,Cost(HR),79
+Koochiching,2017,Cost(HR),14
+Koochiching,2018,Cost(HR),74
+Koochiching,2012,Cost(Pub),33
+Koochiching,2013,Cost(Pub),26
+Koochiching,2014,Cost(Pub),49
+Koochiching,2015,Cost(Pub),21
+Koochiching,2016,Cost(Pub),20
+Koochiching,2017,Cost(Pub),22
+Koochiching,2018,Cost(Pub),28
+Koochiching,2012,Cost(any),27
+Koochiching,2013,Cost(any),25
+Koochiching,2014,Cost(any),19
+Koochiching,2015,Cost(any),13
+Koochiching,2016,Cost(any),14
+Koochiching,2017,Cost(any),5
+Koochiching,2018,Cost(any),13
+Koochiching,2012,QualPremium,
+Koochiching,2013,QualPremium,84
+Koochiching,2014,QualPremium,87
+Koochiching,2015,QualPremium,85
+Koochiching,2016,QualPremium,78
+Koochiching,2017,QualPremium,25
+Koochiching,2018,QualPremium,77
+Koochiching,2012,Supply(CCC),70
+Koochiching,2013,Supply(CCC),72
+Koochiching,2014,Supply(CCC),70
+Koochiching,2015,Supply(CCC),70
+Koochiching,2016,Supply(CCC),82
+Koochiching,2017,Supply(CCC),82
+Koochiching,2018,Supply(CCC),82
+Koochiching,2012,Supply(HR),
+Koochiching,2013,Supply(HR),70.5
+Koochiching,2014,Supply(HR),76.5
+Koochiching,2015,Supply(HR),79.5
+Koochiching,2016,Supply(HR),83.5
+Koochiching,2017,Supply(HR),70
+Koochiching,2018,Supply(HR),82
+Koochiching,2012,Supply(Pub),16
+Koochiching,2013,Supply(Pub),31
+Koochiching,2014,Supply(Pub),21
+Koochiching,2015,Supply(Pub),9
+Koochiching,2016,Supply(Pub),8
+Koochiching,2017,Supply(Pub),10
+Koochiching,2018,Supply(Pub),18
+Koochiching,2012,Supply(any),77
+Koochiching,2013,Supply(any),79
+Koochiching,2014,Supply(any),77
+Koochiching,2015,Supply(any),55
+Koochiching,2016,Supply(any),55
+Koochiching,2017,Supply(any),77
+Koochiching,2018,Supply(any),84
+Lac qui Parle,2012,Cost(CCC),73
+Lac qui Parle,2013,Cost(CCC),7
+Lac qui Parle,2014,Cost(CCC),50
+Lac qui Parle,2015,Cost(CCC),36
+Lac qui Parle,2016,Cost(CCC),75
+Lac qui Parle,2017,Cost(CCC),65
+Lac qui Parle,2018,Cost(CCC),17
+Lac qui Parle,2012,Cost(HR),
+Lac qui Parle,2013,Cost(HR),6
+Lac qui Parle,2014,Cost(HR),17
+Lac qui Parle,2015,Cost(HR),24
+Lac qui Parle,2016,Cost(HR),65
+Lac qui Parle,2017,Cost(HR),24
+Lac qui Parle,2018,Cost(HR),58
+Lac qui Parle,2012,Cost(Pub),51
+Lac qui Parle,2013,Cost(Pub),42
+Lac qui Parle,2014,Cost(Pub),68
+Lac qui Parle,2015,Cost(Pub),70
+Lac qui Parle,2016,Cost(Pub),45
+Lac qui Parle,2017,Cost(Pub),86
+Lac qui Parle,2018,Cost(Pub),72
+Lac qui Parle,2012,Cost(any),17
+Lac qui Parle,2013,Cost(any),13
+Lac qui Parle,2014,Cost(any),23
+Lac qui Parle,2015,Cost(any),25
+Lac qui Parle,2016,Cost(any),9
+Lac qui Parle,2017,Cost(any),49
+Lac qui Parle,2018,Cost(any),17
+Lac qui Parle,2012,QualPremium,
+Lac qui Parle,2013,QualPremium,10
+Lac qui Parle,2014,QualPremium,16
+Lac qui Parle,2015,QualPremium,16
+Lac qui Parle,2016,QualPremium,74
+Lac qui Parle,2017,QualPremium,27
+Lac qui Parle,2018,QualPremium,21
+Lac qui Parle,2012,Supply(CCC),77
+Lac qui Parle,2013,Supply(CCC),78
+Lac qui Parle,2014,Supply(CCC),73
+Lac qui Parle,2015,Supply(CCC),72
+Lac qui Parle,2016,Supply(CCC),71
+Lac qui Parle,2017,Supply(CCC),72
+Lac qui Parle,2018,Supply(CCC),66
+Lac qui Parle,2012,Supply(HR),
+Lac qui Parle,2013,Supply(HR),70.5
+Lac qui Parle,2014,Supply(HR),55
+Lac qui Parle,2015,Supply(HR),62
+Lac qui Parle,2016,Supply(HR),74
+Lac qui Parle,2017,Supply(HR),78
+Lac qui Parle,2018,Supply(HR),76
+Lac qui Parle,2012,Supply(Pub),32
+Lac qui Parle,2013,Supply(Pub),32
+Lac qui Parle,2014,Supply(Pub),13
+Lac qui Parle,2015,Supply(Pub),18
+Lac qui Parle,2016,Supply(Pub),11
+Lac qui Parle,2017,Supply(Pub),47
+Lac qui Parle,2018,Supply(Pub),20
+Lac qui Parle,2012,Supply(any),73
+Lac qui Parle,2013,Supply(any),78
+Lac qui Parle,2014,Supply(any),70
+Lac qui Parle,2015,Supply(any),64
+Lac qui Parle,2016,Supply(any),57
+Lac qui Parle,2017,Supply(any),78
+Lac qui Parle,2018,Supply(any),66
+Lake,2012,Cost(CCC),72
+Lake,2013,Cost(CCC),62
+Lake,2014,Cost(CCC),80
+Lake,2015,Cost(CCC),79
+Lake,2016,Cost(CCC),64
+Lake,2017,Cost(CCC),77
+Lake,2018,Cost(CCC),73
+Lake,2012,Cost(HR),
+Lake,2013,Cost(HR),49
+Lake,2014,Cost(HR),41
+Lake,2015,Cost(HR),54
+Lake,2016,Cost(HR),70
+Lake,2017,Cost(HR),83
+Lake,2018,Cost(HR),25
+Lake,2012,Cost(Pub),70
+Lake,2013,Cost(Pub),64
+Lake,2014,Cost(Pub),11
+Lake,2015,Cost(Pub),14
+Lake,2016,Cost(Pub),37
+Lake,2017,Cost(Pub),42
+Lake,2018,Cost(Pub),20
+Lake,2012,Cost(any),58
+Lake,2013,Cost(any),52
+Lake,2014,Cost(any),8
+Lake,2015,Cost(any),36
+Lake,2016,Cost(any),25
+Lake,2017,Cost(any),36
+Lake,2018,Cost(any),20
+Lake,2012,QualPremium,
+Lake,2013,QualPremium,50
+Lake,2014,QualPremium,48
+Lake,2015,QualPremium,50
+Lake,2016,QualPremium,72
+Lake,2017,QualPremium,82
+Lake,2018,QualPremium,4
+Lake,2012,Supply(CCC),69
+Lake,2013,Supply(CCC),70
+Lake,2014,Supply(CCC),83.5
+Lake,2015,Supply(CCC),82.5
+Lake,2016,Supply(CCC),82
+Lake,2017,Supply(CCC),82
+Lake,2018,Supply(CCC),82
+Lake,2012,Supply(HR),
+Lake,2013,Supply(HR),70.5
+Lake,2014,Supply(HR),76.5
+Lake,2015,Supply(HR),79.5
+Lake,2016,Supply(HR),83.5
+Lake,2017,Supply(HR),71
+Lake,2018,Supply(HR),59
+Lake,2012,Supply(Pub),65
+Lake,2013,Supply(Pub),42
+Lake,2014,Supply(Pub),29
+Lake,2015,Supply(Pub),66
+Lake,2016,Supply(Pub),72
+Lake,2017,Supply(Pub),75
+Lake,2018,Supply(Pub),57
+Lake,2012,Supply(any),87
+Lake,2013,Supply(any),85
+Lake,2014,Supply(any),84
+Lake,2015,Supply(any),87
+Lake,2016,Supply(any),87
+Lake,2017,Supply(any),87
+Lake,2018,Supply(any),87
+Lake of the Woods,2012,Cost(CCC),86
+Lake of the Woods,2013,Cost(CCC),87
+Lake of the Woods,2014,Cost(CCC),83
+Lake of the Woods,2015,Cost(CCC),87
+Lake of the Woods,2016,Cost(CCC),82
+Lake of the Woods,2017,Cost(CCC),84
+Lake of the Woods,2018,Cost(CCC),87
+Lake of the Woods,2012,Cost(HR),
+Lake of the Woods,2013,Cost(HR),87
+Lake of the Woods,2014,Cost(HR),74
+Lake of the Woods,2015,Cost(HR),4
+Lake of the Woods,2016,Cost(HR),10
+Lake of the Woods,2017,Cost(HR),17
+Lake of the Woods,2018,Cost(HR),11
+Lake of the Woods,2012,Cost(Pub),82
+Lake of the Woods,2013,Cost(Pub),61
+Lake of the Woods,2014,Cost(Pub),81
+Lake of the Woods,2015,Cost(Pub),82
+Lake of the Woods,2016,Cost(Pub),87
+Lake of the Woods,2017,Cost(Pub),84
+Lake of the Woods,2018,Cost(Pub),82
+Lake of the Woods,2012,Cost(any),20
+Lake of the Woods,2013,Cost(any),9
+Lake of the Woods,2014,Cost(any),18
+Lake of the Woods,2015,Cost(any),18
+Lake of the Woods,2016,Cost(any),21
+Lake of the Woods,2017,Cost(any),2
+Lake of the Woods,2018,Cost(any),4
+Lake of the Woods,2012,QualPremium,
+Lake of the Woods,2013,QualPremium,87
+Lake of the Woods,2014,QualPremium,82
+Lake of the Woods,2015,QualPremium,7
+Lake of the Woods,2016,QualPremium,7
+Lake of the Woods,2017,QualPremium,4
+Lake of the Woods,2018,QualPremium,22
+Lake of the Woods,2012,Supply(CCC),83.5
+Lake of the Woods,2013,Supply(CCC),83.5
+Lake of the Woods,2014,Supply(CCC),83.5
+Lake of the Woods,2015,Supply(CCC),82.5
+Lake of the Woods,2016,Supply(CCC),82
+Lake of the Woods,2017,Supply(CCC),82
+Lake of the Woods,2018,Supply(CCC),82
+Lake of the Woods,2012,Supply(HR),
+Lake of the Woods,2013,Supply(HR),70.5
+Lake of the Woods,2014,Supply(HR),76.5
+Lake of the Woods,2015,Supply(HR),36
+Lake of the Woods,2016,Supply(HR),44
+Lake of the Woods,2017,Supply(HR),56
+Lake of the Woods,2018,Supply(HR),52
+Lake of the Woods,2012,Supply(Pub),26
+Lake of the Woods,2013,Supply(Pub),25
+Lake of the Woods,2014,Supply(Pub),43
+Lake of the Woods,2015,Supply(Pub),40
+Lake of the Woods,2016,Supply(Pub),18
+Lake of the Woods,2017,Supply(Pub),17
+Lake of the Woods,2018,Supply(Pub),17
+Lake of the Woods,2012,Supply(any),79
+Lake of the Woods,2013,Supply(any),73
+Lake of the Woods,2014,Supply(any),83
+Lake of the Woods,2015,Supply(any),82
+Lake of the Woods,2016,Supply(any),77
+Lake of the Woods,2017,Supply(any),80
+Lake of the Woods,2018,Supply(any),75
+Le Sueur,2012,Cost(CCC),38
+Le Sueur,2013,Cost(CCC),72
+Le Sueur,2014,Cost(CCC),67
+Le Sueur,2015,Cost(CCC),71
+Le Sueur,2016,Cost(CCC),56
+Le Sueur,2017,Cost(CCC),33
+Le Sueur,2018,Cost(CCC),68
+Le Sueur,2012,Cost(HR),
+Le Sueur,2013,Cost(HR),52
+Le Sueur,2014,Cost(HR),50
+Le Sueur,2015,Cost(HR),47
+Le Sueur,2016,Cost(HR),43
+Le Sueur,2017,Cost(HR),41
+Le Sueur,2018,Cost(HR),56
+Le Sueur,2012,Cost(Pub),55
+Le Sueur,2013,Cost(Pub),70
+Le Sueur,2014,Cost(Pub),12
+Le Sueur,2015,Cost(Pub),11
+Le Sueur,2016,Cost(Pub),14
+Le Sueur,2017,Cost(Pub),20
+Le Sueur,2018,Cost(Pub),11
+Le Sueur,2012,Cost(any),69
+Le Sueur,2013,Cost(any),69
+Le Sueur,2014,Cost(any),62
+Le Sueur,2015,Cost(any),64
+Le Sueur,2016,Cost(any),62
+Le Sueur,2017,Cost(any),68
+Le Sueur,2018,Cost(any),54
+Le Sueur,2012,QualPremium,
+Le Sueur,2013,QualPremium,53
+Le Sueur,2014,QualPremium,53
+Le Sueur,2015,QualPremium,36
+Le Sueur,2016,QualPremium,34
+Le Sueur,2017,QualPremium,39
+Le Sueur,2018,QualPremium,53
+Le Sueur,2012,Supply(CCC),68
+Le Sueur,2013,Supply(CCC),69
+Le Sueur,2014,Supply(CCC),52
+Le Sueur,2015,Supply(CCC),53
+Le Sueur,2016,Supply(CCC),52
+Le Sueur,2017,Supply(CCC),44
+Le Sueur,2018,Supply(CCC),70
+Le Sueur,2012,Supply(HR),
+Le Sueur,2013,Supply(HR),52
+Le Sueur,2014,Supply(HR),18
+Le Sueur,2015,Supply(HR),20
+Le Sueur,2016,Supply(HR),31
+Le Sueur,2017,Supply(HR),23
+Le Sueur,2018,Supply(HR),55
+Le Sueur,2012,Supply(Pub),34
+Le Sueur,2013,Supply(Pub),35
+Le Sueur,2014,Supply(Pub),38
+Le Sueur,2015,Supply(Pub),34
+Le Sueur,2016,Supply(Pub),38
+Le Sueur,2017,Supply(Pub),50
+Le Sueur,2018,Supply(Pub),11
+Le Sueur,2012,Supply(any),23
+Le Sueur,2013,Supply(any),27
+Le Sueur,2014,Supply(any),24
+Le Sueur,2015,Supply(any),30
+Le Sueur,2016,Supply(any),27
+Le Sueur,2017,Supply(any),22
+Le Sueur,2018,Supply(any),19
+Lincoln,2012,Cost(CCC),70
+Lincoln,2013,Cost(CCC),71
+Lincoln,2014,Cost(CCC),63
+Lincoln,2015,Cost(CCC),51
+Lincoln,2016,Cost(CCC),6
+Lincoln,2017,Cost(CCC),80
+Lincoln,2018,Cost(CCC),71
+Lincoln,2012,Cost(HR),
+Lincoln,2013,Cost(HR),51
+Lincoln,2014,Cost(HR),59
+Lincoln,2015,Cost(HR),62
+Lincoln,2016,Cost(HR),71
+Lincoln,2017,Cost(HR),55
+Lincoln,2018,Cost(HR),7
+Lincoln,2012,Cost(Pub),85
+Lincoln,2013,Cost(Pub),85
+Lincoln,2014,Cost(Pub),53
+Lincoln,2015,Cost(Pub),53
+Lincoln,2016,Cost(Pub),59
+Lincoln,2017,Cost(Pub),41
+Lincoln,2018,Cost(Pub),54
+Lincoln,2012,Cost(any),23
+Lincoln,2013,Cost(any),30
+Lincoln,2014,Cost(any),9
+Lincoln,2015,Cost(any),2
+Lincoln,2016,Cost(any),4
+Lincoln,2017,Cost(any),3
+Lincoln,2018,Cost(any),3
+Lincoln,2012,QualPremium,
+Lincoln,2013,QualPremium,70
+Lincoln,2014,QualPremium,77
+Lincoln,2015,QualPremium,84
+Lincoln,2016,QualPremium,79
+Lincoln,2017,QualPremium,75
+Lincoln,2018,QualPremium,27
+Lincoln,2012,Supply(CCC),83.5
+Lincoln,2013,Supply(CCC),83.5
+Lincoln,2014,Supply(CCC),83.5
+Lincoln,2015,Supply(CCC),82.5
+Lincoln,2016,Supply(CCC),82
+Lincoln,2017,Supply(CCC),82
+Lincoln,2018,Supply(CCC),82
+Lincoln,2012,Supply(HR),
+Lincoln,2013,Supply(HR),70.5
+Lincoln,2014,Supply(HR),76.5
+Lincoln,2015,Supply(HR),79.5
+Lincoln,2016,Supply(HR),70
+Lincoln,2017,Supply(HR),49
+Lincoln,2018,Supply(HR),36
+Lincoln,2012,Supply(Pub),82
+Lincoln,2013,Supply(Pub),81
+Lincoln,2014,Supply(Pub),8
+Lincoln,2015,Supply(Pub),11
+Lincoln,2016,Supply(Pub),9
+Lincoln,2017,Supply(Pub),6
+Lincoln,2018,Supply(Pub),9
+Lincoln,2012,Supply(any),33
+Lincoln,2013,Supply(any),26
+Lincoln,2014,Supply(any),11
+Lincoln,2015,Supply(any),11
+Lincoln,2016,Supply(any),14
+Lincoln,2017,Supply(any),4
+Lincoln,2018,Supply(any),6
+Lyon,2012,Cost(CCC),7
+Lyon,2013,Cost(CCC),13
+Lyon,2014,Cost(CCC),7
+Lyon,2015,Cost(CCC),8
+Lyon,2016,Cost(CCC),10
+Lyon,2017,Cost(CCC),54
+Lyon,2018,Cost(CCC),24
+Lyon,2012,Cost(HR),
+Lyon,2013,Cost(HR),17
+Lyon,2014,Cost(HR),15
+Lyon,2015,Cost(HR),21
+Lyon,2016,Cost(HR),14
+Lyon,2017,Cost(HR),28
+Lyon,2018,Cost(HR),12
+Lyon,2012,Cost(Pub),59
+Lyon,2013,Cost(Pub),22
+Lyon,2014,Cost(Pub),39
+Lyon,2015,Cost(Pub),2
+Lyon,2016,Cost(Pub),3
+Lyon,2017,Cost(Pub),9
+Lyon,2018,Cost(Pub),4
+Lyon,2012,Cost(any),37
+Lyon,2013,Cost(any),39
+Lyon,2014,Cost(any),37
+Lyon,2015,Cost(any),31
+Lyon,2016,Cost(any),48
+Lyon,2017,Cost(any),43
+Lyon,2018,Cost(any),49
+Lyon,2012,QualPremium,
+Lyon,2013,QualPremium,22
+Lyon,2014,QualPremium,23
+Lyon,2015,QualPremium,27
+Lyon,2016,QualPremium,11
+Lyon,2017,QualPremium,43
+Lyon,2018,QualPremium,9
+Lyon,2012,Supply(CCC),17
+Lyon,2013,Supply(CCC),23
+Lyon,2014,Supply(CCC),25
+Lyon,2015,Supply(CCC),23
+Lyon,2016,Supply(CCC),28
+Lyon,2017,Supply(CCC),32
+Lyon,2018,Supply(CCC),22
+Lyon,2012,Supply(HR),
+Lyon,2013,Supply(HR),70.5
+Lyon,2014,Supply(HR),76.5
+Lyon,2015,Supply(HR),55
+Lyon,2016,Supply(HR),37
+Lyon,2017,Supply(HR),39
+Lyon,2018,Supply(HR),24
+Lyon,2012,Supply(Pub),44
+Lyon,2013,Supply(Pub),38
+Lyon,2014,Supply(Pub),40
+Lyon,2015,Supply(Pub),26
+Lyon,2016,Supply(Pub),31
+Lyon,2017,Supply(Pub),37
+Lyon,2018,Supply(Pub),38
+Lyon,2012,Supply(any),8
+Lyon,2013,Supply(any),10
+Lyon,2014,Supply(any),6
+Lyon,2015,Supply(any),5
+Lyon,2016,Supply(any),6
+Lyon,2017,Supply(any),10
+Lyon,2018,Supply(any),9
+Mahnomen,2012,Cost(CCC),48
+Mahnomen,2013,Cost(CCC),3
+Mahnomen,2014,Cost(CCC),2
+Mahnomen,2015,Cost(CCC),78
+Mahnomen,2016,Cost(CCC),20
+Mahnomen,2017,Cost(CCC),78
+Mahnomen,2018,Cost(CCC),72
+Mahnomen,2012,Cost(HR),
+Mahnomen,2013,Cost(HR),2
+Mahnomen,2014,Cost(HR),2
+Mahnomen,2015,Cost(HR),26
+Mahnomen,2016,Cost(HR),17
+Mahnomen,2017,Cost(HR),31
+Mahnomen,2018,Cost(HR),36
+Mahnomen,2012,Cost(Pub),24
+Mahnomen,2013,Cost(Pub),25
+Mahnomen,2014,Cost(Pub),38
+Mahnomen,2015,Cost(Pub),39
+Mahnomen,2016,Cost(Pub),33
+Mahnomen,2017,Cost(Pub),52
+Mahnomen,2018,Cost(Pub),48
+Mahnomen,2012,Cost(any),1
+Mahnomen,2013,Cost(any),1
+Mahnomen,2014,Cost(any),1
+Mahnomen,2015,Cost(any),1
+Mahnomen,2016,Cost(any),1
+Mahnomen,2017,Cost(any),1
+Mahnomen,2018,Cost(any),1
+Mahnomen,2012,QualPremium,
+Mahnomen,2013,QualPremium,1
+Mahnomen,2014,QualPremium,1
+Mahnomen,2015,QualPremium,38
+Mahnomen,2016,QualPremium,32
+Mahnomen,2017,QualPremium,44
+Mahnomen,2018,QualPremium,25
+Mahnomen,2012,Supply(CCC),65
+Mahnomen,2013,Supply(CCC),66
+Mahnomen,2014,Supply(CCC),64
+Mahnomen,2015,Supply(CCC),82.5
+Mahnomen,2016,Supply(CCC),82
+Mahnomen,2017,Supply(CCC),82
+Mahnomen,2018,Supply(CCC),82
+Mahnomen,2012,Supply(HR),
+Mahnomen,2013,Supply(HR),10
+Mahnomen,2014,Supply(HR),10
+Mahnomen,2015,Supply(HR),9
+Mahnomen,2016,Supply(HR),10
+Mahnomen,2017,Supply(HR),5
+Mahnomen,2018,Supply(HR),9
+Mahnomen,2012,Supply(Pub),10
+Mahnomen,2013,Supply(Pub),11
+Mahnomen,2014,Supply(Pub),5
+Mahnomen,2015,Supply(Pub),6
+Mahnomen,2016,Supply(Pub),10
+Mahnomen,2017,Supply(Pub),12
+Mahnomen,2018,Supply(Pub),14
+Mahnomen,2012,Supply(any),84
+Mahnomen,2013,Supply(any),86
+Mahnomen,2014,Supply(any),72
+Mahnomen,2015,Supply(any),78
+Mahnomen,2016,Supply(any),75
+Mahnomen,2017,Supply(any),76
+Mahnomen,2018,Supply(any),79
+Marshall,2012,Cost(CCC),83
+Marshall,2013,Cost(CCC),37
+Marshall,2014,Cost(CCC),34
+Marshall,2015,Cost(CCC),45
+Marshall,2016,Cost(CCC),85
+Marshall,2017,Cost(CCC),83
+Marshall,2018,Cost(CCC),57
+Marshall,2012,Cost(HR),
+Marshall,2013,Cost(HR),60
+Marshall,2014,Cost(HR),55
+Marshall,2015,Cost(HR),72
+Marshall,2016,Cost(HR),85
+Marshall,2017,Cost(HR),7
+Marshall,2018,Cost(HR),29
+Marshall,2012,Cost(Pub),87
+Marshall,2013,Cost(Pub),81
+Marshall,2014,Cost(Pub),83
+Marshall,2015,Cost(Pub),86
+Marshall,2016,Cost(Pub),68
+Marshall,2017,Cost(Pub),82
+Marshall,2018,Cost(Pub),86
+Marshall,2012,Cost(any),35
+Marshall,2013,Cost(any),38
+Marshall,2014,Cost(any),39
+Marshall,2015,Cost(any),41
+Marshall,2016,Cost(any),38
+Marshall,2017,Cost(any),50
+Marshall,2018,Cost(any),52
+Marshall,2012,QualPremium,
+Marshall,2013,QualPremium,68
+Marshall,2014,QualPremium,65
+Marshall,2015,QualPremium,78
+Marshall,2016,QualPremium,83
+Marshall,2017,QualPremium,16
+Marshall,2018,QualPremium,31
+Marshall,2012,Supply(CCC),61
+Marshall,2013,Supply(CCC),58
+Marshall,2014,Supply(CCC),65
+Marshall,2015,Supply(CCC),62
+Marshall,2016,Supply(CCC),64
+Marshall,2017,Supply(CCC),64
+Marshall,2018,Supply(CCC),61
+Marshall,2012,Supply(HR),
+Marshall,2013,Supply(HR),70.5
+Marshall,2014,Supply(HR),76.5
+Marshall,2015,Supply(HR),79.5
+Marshall,2016,Supply(HR),62
+Marshall,2017,Supply(HR),50
+Marshall,2018,Supply(HR),78
+Marshall,2012,Supply(Pub),31
+Marshall,2013,Supply(Pub),29
+Marshall,2014,Supply(Pub),31
+Marshall,2015,Supply(Pub),30
+Marshall,2016,Supply(Pub),28
+Marshall,2017,Supply(Pub),16
+Marshall,2018,Supply(Pub),29
+Marshall,2012,Supply(any),51
+Marshall,2013,Supply(any),47
+Marshall,2014,Supply(any),51
+Marshall,2015,Supply(any),45
+Marshall,2016,Supply(any),46
+Marshall,2017,Supply(any),31
+Marshall,2018,Supply(any),44
+Martin,2012,Cost(CCC),34
+Martin,2013,Cost(CCC),26
+Martin,2014,Cost(CCC),33
+Martin,2015,Cost(CCC),27
+Martin,2016,Cost(CCC),32
+Martin,2017,Cost(CCC),50
+Martin,2018,Cost(CCC),54
+Martin,2012,Cost(HR),
+Martin,2013,Cost(HR),61
+Martin,2014,Cost(HR),52
+Martin,2015,Cost(HR),30
+Martin,2016,Cost(HR),56
+Martin,2017,Cost(HR),51
+Martin,2018,Cost(HR),4
+Martin,2012,Cost(Pub),81
+Martin,2013,Cost(Pub),78
+Martin,2014,Cost(Pub),34
+Martin,2015,Cost(Pub),36
+Martin,2016,Cost(Pub),42
+Martin,2017,Cost(Pub),50
+Martin,2018,Cost(Pub),39
+Martin,2012,Cost(any),38
+Martin,2013,Cost(any),40
+Martin,2014,Cost(any),28
+Martin,2015,Cost(any),33
+Martin,2016,Cost(any),52
+Martin,2017,Cost(any),40
+Martin,2018,Cost(any),34
+Martin,2012,QualPremium,
+Martin,2013,QualPremium,73
+Martin,2014,QualPremium,72
+Martin,2015,QualPremium,41
+Martin,2016,QualPremium,54
+Martin,2017,QualPremium,71
+Martin,2018,QualPremium,5
+Martin,2012,Supply(CCC),50
+Martin,2013,Supply(CCC),50
+Martin,2014,Supply(CCC),55
+Martin,2015,Supply(CCC),42
+Martin,2016,Supply(CCC),29
+Martin,2017,Supply(CCC),39
+Martin,2018,Supply(CCC),57
+Martin,2012,Supply(HR),
+Martin,2013,Supply(HR),70.5
+Martin,2014,Supply(HR),76.5
+Martin,2015,Supply(HR),67
+Martin,2016,Supply(HR),77
+Martin,2017,Supply(HR),73
+Martin,2018,Supply(HR),71
+Martin,2012,Supply(Pub),84
+Martin,2013,Supply(Pub),83
+Martin,2014,Supply(Pub),32
+Martin,2015,Supply(Pub),31
+Martin,2016,Supply(Pub),34
+Martin,2017,Supply(Pub),29
+Martin,2018,Supply(Pub),26
+Martin,2012,Supply(any),22
+Martin,2013,Supply(any),20
+Martin,2014,Supply(any),17
+Martin,2015,Supply(any),7
+Martin,2016,Supply(any),3
+Martin,2017,Supply(any),6
+Martin,2018,Supply(any),7
+McLeod,2012,Cost(CCC),42
+McLeod,2013,Cost(CCC),65
+McLeod,2014,Cost(CCC),54
+McLeod,2015,Cost(CCC),65
+McLeod,2016,Cost(CCC),43
+McLeod,2017,Cost(CCC),18
+McLeod,2018,Cost(CCC),63
+McLeod,2012,Cost(HR),
+McLeod,2013,Cost(HR),45
+McLeod,2014,Cost(HR),65
+McLeod,2015,Cost(HR),32
+McLeod,2016,Cost(HR),28
+McLeod,2017,Cost(HR),53
+McLeod,2018,Cost(HR),43
+McLeod,2012,Cost(Pub),3
+McLeod,2013,Cost(Pub),3
+McLeod,2014,Cost(Pub),15
+McLeod,2015,Cost(Pub),19
+McLeod,2016,Cost(Pub),17
+McLeod,2017,Cost(Pub),15
+McLeod,2018,Cost(Pub),18
+McLeod,2012,Cost(any),52
+McLeod,2013,Cost(any),44
+McLeod,2014,Cost(any),58
+McLeod,2015,Cost(any),65
+McLeod,2016,Cost(any),60
+McLeod,2017,Cost(any),58
+McLeod,2018,Cost(any),59
+McLeod,2012,QualPremium,
+McLeod,2013,QualPremium,52
+McLeod,2014,QualPremium,66
+McLeod,2015,QualPremium,22
+McLeod,2016,QualPremium,18
+McLeod,2017,QualPremium,62
+McLeod,2018,QualPremium,36
+McLeod,2012,Supply(CCC),49
+McLeod,2013,Supply(CCC),42
+McLeod,2014,Supply(CCC),30
+McLeod,2015,Supply(CCC),18
+McLeod,2016,Supply(CCC),32
+McLeod,2017,Supply(CCC),38
+McLeod,2018,Supply(CCC),40
+McLeod,2012,Supply(HR),
+McLeod,2013,Supply(HR),70.5
+McLeod,2014,Supply(HR),25
+McLeod,2015,Supply(HR),32
+McLeod,2016,Supply(HR),54
+McLeod,2017,Supply(HR),40
+McLeod,2018,Supply(HR),53
+McLeod,2012,Supply(Pub),35
+McLeod,2013,Supply(Pub),18
+McLeod,2014,Supply(Pub),45
+McLeod,2015,Supply(Pub),45
+McLeod,2016,Supply(Pub),46
+McLeod,2017,Supply(Pub),48
+McLeod,2018,Supply(Pub),41
+McLeod,2012,Supply(any),26
+McLeod,2013,Supply(any),19
+McLeod,2014,Supply(any),27
+McLeod,2015,Supply(any),24
+McLeod,2016,Supply(any),28
+McLeod,2017,Supply(any),26
+McLeod,2018,Supply(any),30
+Meeker,2012,Cost(CCC),53
+Meeker,2013,Cost(CCC),48
+Meeker,2014,Cost(CCC),43
+Meeker,2015,Cost(CCC),52
+Meeker,2016,Cost(CCC),36
+Meeker,2017,Cost(CCC),51
+Meeker,2018,Cost(CCC),53
+Meeker,2012,Cost(HR),
+Meeker,2013,Cost(HR),8
+Meeker,2014,Cost(HR),9
+Meeker,2015,Cost(HR),17
+Meeker,2016,Cost(HR),33
+Meeker,2017,Cost(HR),64
+Meeker,2018,Cost(HR),64
+Meeker,2012,Cost(Pub),44
+Meeker,2013,Cost(Pub),54
+Meeker,2014,Cost(Pub),46
+Meeker,2015,Cost(Pub),48
+Meeker,2016,Cost(Pub),36
+Meeker,2017,Cost(Pub),30
+Meeker,2018,Cost(Pub),42
+Meeker,2012,Cost(any),59
+Meeker,2013,Cost(any),56
+Meeker,2014,Cost(any),48
+Meeker,2015,Cost(any),51
+Meeker,2016,Cost(any),27
+Meeker,2017,Cost(any),57
+Meeker,2018,Cost(any),62
+Meeker,2012,QualPremium,
+Meeker,2013,QualPremium,7
+Meeker,2014,QualPremium,4
+Meeker,2015,QualPremium,9
+Meeker,2016,QualPremium,66
+Meeker,2017,QualPremium,74
+Meeker,2018,QualPremium,80
+Meeker,2012,Supply(CCC),38
+Meeker,2013,Supply(CCC),43
+Meeker,2014,Supply(CCC),49
+Meeker,2015,Supply(CCC),44
+Meeker,2016,Supply(CCC),33
+Meeker,2017,Supply(CCC),36
+Meeker,2018,Supply(CCC),33
+Meeker,2012,Supply(HR),
+Meeker,2013,Supply(HR),37
+Meeker,2014,Supply(HR),51
+Meeker,2015,Supply(HR),58
+Meeker,2016,Supply(HR),19
+Meeker,2017,Supply(HR),15
+Meeker,2018,Supply(HR),3
+Meeker,2012,Supply(Pub),50
+Meeker,2013,Supply(Pub),47
+Meeker,2014,Supply(Pub),33
+Meeker,2015,Supply(Pub),32
+Meeker,2016,Supply(Pub),52
+Meeker,2017,Supply(Pub),56
+Meeker,2018,Supply(Pub),56
+Meeker,2012,Supply(any),70
+Meeker,2013,Supply(any),76
+Meeker,2014,Supply(any),66
+Meeker,2015,Supply(any),59
+Meeker,2016,Supply(any),68
+Meeker,2017,Supply(any),71
+Meeker,2018,Supply(any),70
+Mille Lacs,2012,Cost(CCC),8
+Mille Lacs,2013,Cost(CCC),29
+Mille Lacs,2014,Cost(CCC),24
+Mille Lacs,2015,Cost(CCC),25
+Mille Lacs,2016,Cost(CCC),21
+Mille Lacs,2017,Cost(CCC),6
+Mille Lacs,2018,Cost(CCC),15
+Mille Lacs,2012,Cost(HR),
+Mille Lacs,2013,Cost(HR),26
+Mille Lacs,2014,Cost(HR),32
+Mille Lacs,2015,Cost(HR),43
+Mille Lacs,2016,Cost(HR),37
+Mille Lacs,2017,Cost(HR),39
+Mille Lacs,2018,Cost(HR),57
+Mille Lacs,2012,Cost(Pub),73
+Mille Lacs,2013,Cost(Pub),80
+Mille Lacs,2014,Cost(Pub),56
+Mille Lacs,2015,Cost(Pub),60
+Mille Lacs,2016,Cost(Pub),73
+Mille Lacs,2017,Cost(Pub),64
+Mille Lacs,2018,Cost(Pub),64
+Mille Lacs,2012,Cost(any),67
+Mille Lacs,2013,Cost(any),67
+Mille Lacs,2014,Cost(any),65
+Mille Lacs,2015,Cost(any),66
+Mille Lacs,2016,Cost(any),70
+Mille Lacs,2017,Cost(any),63
+Mille Lacs,2018,Cost(any),61
+Mille Lacs,2012,QualPremium,
+Mille Lacs,2013,QualPremium,25
+Mille Lacs,2014,QualPremium,31
+Mille Lacs,2015,QualPremium,52
+Mille Lacs,2016,QualPremium,31
+Mille Lacs,2017,QualPremium,51
+Mille Lacs,2018,QualPremium,63
+Mille Lacs,2012,Supply(CCC),4
+Mille Lacs,2013,Supply(CCC),6
+Mille Lacs,2014,Supply(CCC),13
+Mille Lacs,2015,Supply(CCC),10
+Mille Lacs,2016,Supply(CCC),6
+Mille Lacs,2017,Supply(CCC),12
+Mille Lacs,2018,Supply(CCC),14
+Mille Lacs,2012,Supply(HR),
+Mille Lacs,2013,Supply(HR),17
+Mille Lacs,2014,Supply(HR),36
+Mille Lacs,2015,Supply(HR),37
+Mille Lacs,2016,Supply(HR),45
+Mille Lacs,2017,Supply(HR),27
+Mille Lacs,2018,Supply(HR),22
+Mille Lacs,2012,Supply(Pub),76
+Mille Lacs,2013,Supply(Pub),21
+Mille Lacs,2014,Supply(Pub),69
+Mille Lacs,2015,Supply(Pub),69
+Mille Lacs,2016,Supply(Pub),65
+Mille Lacs,2017,Supply(Pub),71
+Mille Lacs,2018,Supply(Pub),67
+Mille Lacs,2012,Supply(any),58
+Mille Lacs,2013,Supply(any),42
+Mille Lacs,2014,Supply(any),61
+Mille Lacs,2015,Supply(any),60
+Mille Lacs,2016,Supply(any),52
+Mille Lacs,2017,Supply(any),61
+Mille Lacs,2018,Supply(any),63
+Morrison,2012,Cost(CCC),60
+Morrison,2013,Cost(CCC),38
+Morrison,2014,Cost(CCC),29
+Morrison,2015,Cost(CCC),42
+Morrison,2016,Cost(CCC),47
+Morrison,2017,Cost(CCC),29
+Morrison,2018,Cost(CCC),37
+Morrison,2012,Cost(HR),
+Morrison,2013,Cost(HR),16
+Morrison,2014,Cost(HR),28
+Morrison,2015,Cost(HR),35
+Morrison,2016,Cost(HR),35
+Morrison,2017,Cost(HR),50
+Morrison,2018,Cost(HR),37
+Morrison,2012,Cost(Pub),62
+Morrison,2013,Cost(Pub),71
+Morrison,2014,Cost(Pub),70
+Morrison,2015,Cost(Pub),68
+Morrison,2016,Cost(Pub),74
+Morrison,2017,Cost(Pub),67
+Morrison,2018,Cost(Pub),67
+Morrison,2012,Cost(any),34
+Morrison,2013,Cost(any),36
+Morrison,2014,Cost(any),45
+Morrison,2015,Cost(any),43
+Morrison,2016,Cost(any),44
+Morrison,2017,Cost(any),45
+Morrison,2018,Cost(any),42
+Morrison,2012,QualPremium,
+Morrison,2013,QualPremium,23
+Morrison,2014,QualPremium,45
+Morrison,2015,QualPremium,47
+Morrison,2016,QualPremium,45
+Morrison,2017,QualPremium,66
+Morrison,2018,QualPremium,58
+Morrison,2012,Supply(CCC),71
+Morrison,2013,Supply(CCC),71
+Morrison,2014,Supply(CCC),62
+Morrison,2015,Supply(CCC),61
+Morrison,2016,Supply(CCC),63
+Morrison,2017,Supply(CCC),55
+Morrison,2018,Supply(CCC),60
+Morrison,2012,Supply(HR),
+Morrison,2013,Supply(HR),41
+Morrison,2014,Supply(HR),31
+Morrison,2015,Supply(HR),14
+Morrison,2016,Supply(HR),20
+Morrison,2017,Supply(HR),43
+Morrison,2018,Supply(HR),49
+Morrison,2012,Supply(Pub),40
+Morrison,2013,Supply(Pub),51
+Morrison,2014,Supply(Pub),51
+Morrison,2015,Supply(Pub),51
+Morrison,2016,Supply(Pub),54
+Morrison,2017,Supply(Pub),55
+Morrison,2018,Supply(Pub),40
+Morrison,2012,Supply(any),55
+Morrison,2013,Supply(any),53
+Morrison,2014,Supply(any),44
+Morrison,2015,Supply(any),47
+Morrison,2016,Supply(any),50
+Morrison,2017,Supply(any),46
+Morrison,2018,Supply(any),52
+Mower,2012,Cost(CCC),5
+Mower,2013,Cost(CCC),21
+Mower,2014,Cost(CCC),46
+Mower,2015,Cost(CCC),21
+Mower,2016,Cost(CCC),57
+Mower,2017,Cost(CCC),12
+Mower,2018,Cost(CCC),19
+Mower,2012,Cost(HR),
+Mower,2013,Cost(HR),75
+Mower,2014,Cost(HR),68
+Mower,2015,Cost(HR),74
+Mower,2016,Cost(HR),64
+Mower,2017,Cost(HR),22
+Mower,2018,Cost(HR),28
+Mower,2012,Cost(Pub),10
+Mower,2013,Cost(Pub),8
+Mower,2014,Cost(Pub),16
+Mower,2015,Cost(Pub),23
+Mower,2016,Cost(Pub),28
+Mower,2017,Cost(Pub),11
+Mower,2018,Cost(Pub),17
+Mower,2012,Cost(any),60
+Mower,2013,Cost(any),60
+Mower,2014,Cost(any),59
+Mower,2015,Cost(any),50
+Mower,2016,Cost(any),33
+Mower,2017,Cost(any),41
+Mower,2018,Cost(any),38
+Mower,2012,QualPremium,
+Mower,2013,QualPremium,77
+Mower,2014,QualPremium,70
+Mower,2015,QualPremium,79
+Mower,2016,QualPremium,75
+Mower,2017,QualPremium,18
+Mower,2018,QualPremium,43
+Mower,2012,Supply(CCC),44
+Mower,2013,Supply(CCC),45
+Mower,2014,Supply(CCC),37
+Mower,2015,Supply(CCC),49
+Mower,2016,Supply(CCC),53
+Mower,2017,Supply(CCC),52
+Mower,2018,Supply(CCC),51
+Mower,2012,Supply(HR),
+Mower,2013,Supply(HR),48
+Mower,2014,Supply(HR),59
+Mower,2015,Supply(HR),61
+Mower,2016,Supply(HR),40
+Mower,2017,Supply(HR),48
+Mower,2018,Supply(HR),43
+Mower,2012,Supply(Pub),74
+Mower,2013,Supply(Pub),73
+Mower,2014,Supply(Pub),59
+Mower,2015,Supply(Pub),57
+Mower,2016,Supply(Pub),51
+Mower,2017,Supply(Pub),54
+Mower,2018,Supply(Pub),44
+Mower,2012,Supply(any),80
+Mower,2013,Supply(any),80
+Mower,2014,Supply(any),75
+Mower,2015,Supply(any),80
+Mower,2016,Supply(any),82
+Mower,2017,Supply(any),84
+Mower,2018,Supply(any),81
+Murray,2012,Cost(CCC),57
+Murray,2013,Cost(CCC),43
+Murray,2014,Cost(CCC),23
+Murray,2015,Cost(CCC),22
+Murray,2016,Cost(CCC),80
+Murray,2017,Cost(CCC),63
+Murray,2018,Cost(CCC),16
+Murray,2012,Cost(HR),
+Murray,2013,Cost(HR),55
+Murray,2014,Cost(HR),60
+Murray,2015,Cost(HR),42
+Murray,2016,Cost(HR),82
+Murray,2017,Cost(HR),82
+Murray,2018,Cost(HR),8
+Murray,2012,Cost(Pub),83
+Murray,2013,Cost(Pub),86
+Murray,2014,Cost(Pub),80
+Murray,2015,Cost(Pub),81
+Murray,2016,Cost(Pub),76
+Murray,2017,Cost(Pub),74
+Murray,2018,Cost(Pub),81
+Murray,2012,Cost(any),29
+Murray,2013,Cost(any),34
+Murray,2014,Cost(any),36
+Murray,2015,Cost(any),47
+Murray,2016,Cost(any),42
+Murray,2017,Cost(any),38
+Murray,2018,Cost(any),47
+Murray,2012,QualPremium,
+Murray,2013,QualPremium,75
+Murray,2014,QualPremium,78
+Murray,2015,QualPremium,60
+Murray,2016,QualPremium,84
+Murray,2017,QualPremium,83
+Murray,2018,QualPremium,3
+Murray,2012,Supply(CCC),22
+Murray,2013,Supply(CCC),21
+Murray,2014,Supply(CCC),29
+Murray,2015,Supply(CCC),27
+Murray,2016,Supply(CCC),27
+Murray,2017,Supply(CCC),30
+Murray,2018,Supply(CCC),30
+Murray,2012,Supply(HR),
+Murray,2013,Supply(HR),70.5
+Murray,2014,Supply(HR),76.5
+Murray,2015,Supply(HR),79.5
+Murray,2016,Supply(HR),72
+Murray,2017,Supply(HR),76
+Murray,2018,Supply(HR),74
+Murray,2012,Supply(Pub),85
+Murray,2013,Supply(Pub),84
+Murray,2014,Supply(Pub),65
+Murray,2015,Supply(Pub),65
+Murray,2016,Supply(Pub),37
+Murray,2017,Supply(Pub),41
+Murray,2018,Supply(Pub),68
+Murray,2012,Supply(any),17
+Murray,2013,Supply(any),14
+Murray,2014,Supply(any),16
+Murray,2015,Supply(any),28
+Murray,2016,Supply(any),15
+Murray,2017,Supply(any),14
+Murray,2018,Supply(any),11
+Nicollet,2012,Cost(CCC),6
+Nicollet,2013,Cost(CCC),45
+Nicollet,2014,Cost(CCC),36
+Nicollet,2015,Cost(CCC),41
+Nicollet,2016,Cost(CCC),25
+Nicollet,2017,Cost(CCC),8
+Nicollet,2018,Cost(CCC),33
+Nicollet,2012,Cost(HR),
+Nicollet,2013,Cost(HR),15
+Nicollet,2014,Cost(HR),33
+Nicollet,2015,Cost(HR),12
+Nicollet,2016,Cost(HR),24
+Nicollet,2017,Cost(HR),25
+Nicollet,2018,Cost(HR),42
+Nicollet,2012,Cost(Pub),41
+Nicollet,2013,Cost(Pub),56
+Nicollet,2014,Cost(Pub),58
+Nicollet,2015,Cost(Pub),12
+Nicollet,2016,Cost(Pub),29
+Nicollet,2017,Cost(Pub),26
+Nicollet,2018,Cost(Pub),19
+Nicollet,2012,Cost(any),74
+Nicollet,2013,Cost(any),73
+Nicollet,2014,Cost(any),75
+Nicollet,2015,Cost(any),75
+Nicollet,2016,Cost(any),72
+Nicollet,2017,Cost(any),74
+Nicollet,2018,Cost(any),69
+Nicollet,2012,QualPremium,
+Nicollet,2013,QualPremium,6
+Nicollet,2014,QualPremium,20
+Nicollet,2015,QualPremium,2
+Nicollet,2016,QualPremium,4
+Nicollet,2017,QualPremium,6
+Nicollet,2018,QualPremium,18
+Nicollet,2012,Supply(CCC),1
+Nicollet,2013,Supply(CCC),3
+Nicollet,2014,Supply(CCC),3
+Nicollet,2015,Supply(CCC),3
+Nicollet,2016,Supply(CCC),8
+Nicollet,2017,Supply(CCC),4
+Nicollet,2018,Supply(CCC),10
+Nicollet,2012,Supply(HR),
+Nicollet,2013,Supply(HR),39
+Nicollet,2014,Supply(HR),17
+Nicollet,2015,Supply(HR),29
+Nicollet,2016,Supply(HR),66
+Nicollet,2017,Supply(HR),57
+Nicollet,2018,Supply(HR),66
+Nicollet,2012,Supply(Pub),75
+Nicollet,2013,Supply(Pub),74
+Nicollet,2014,Supply(Pub),81
+Nicollet,2015,Supply(Pub),67
+Nicollet,2016,Supply(Pub),70
+Nicollet,2017,Supply(Pub),66
+Nicollet,2018,Supply(Pub),61
+Nicollet,2012,Supply(any),20
+Nicollet,2013,Supply(any),31
+Nicollet,2014,Supply(any),36
+Nicollet,2015,Supply(any),31
+Nicollet,2016,Supply(any),37
+Nicollet,2017,Supply(any),21
+Nicollet,2018,Supply(any),34
+Nobles,2012,Cost(CCC),14
+Nobles,2013,Cost(CCC),10
+Nobles,2014,Cost(CCC),14
+Nobles,2015,Cost(CCC),4
+Nobles,2016,Cost(CCC),78
+Nobles,2017,Cost(CCC),7
+Nobles,2018,Cost(CCC),18
+Nobles,2012,Cost(HR),
+Nobles,2013,Cost(HR),82
+Nobles,2014,Cost(HR),63
+Nobles,2015,Cost(HR),5
+Nobles,2016,Cost(HR),62
+Nobles,2017,Cost(HR),3
+Nobles,2018,Cost(HR),27
+Nobles,2012,Cost(Pub),50
+Nobles,2013,Cost(Pub),21
+Nobles,2014,Cost(Pub),36
+Nobles,2015,Cost(Pub),38
+Nobles,2016,Cost(Pub),47
+Nobles,2017,Cost(Pub),60
+Nobles,2018,Cost(Pub),40
+Nobles,2012,Cost(any),4
+Nobles,2013,Cost(any),5
+Nobles,2014,Cost(any),12
+Nobles,2015,Cost(any),9
+Nobles,2016,Cost(any),46
+Nobles,2017,Cost(any),4
+Nobles,2018,Cost(any),32
+Nobles,2012,QualPremium,
+Nobles,2013,QualPremium,85
+Nobles,2014,QualPremium,79
+Nobles,2015,QualPremium,10
+Nobles,2016,QualPremium,60
+Nobles,2017,QualPremium,5
+Nobles,2018,QualPremium,48
+Nobles,2012,Supply(CCC),60
+Nobles,2013,Supply(CCC),61
+Nobles,2014,Supply(CCC),63
+Nobles,2015,Supply(CCC),63
+Nobles,2016,Supply(CCC),62
+Nobles,2017,Supply(CCC),61
+Nobles,2018,Supply(CCC),56
+Nobles,2012,Supply(HR),
+Nobles,2013,Supply(HR),70.5
+Nobles,2014,Supply(HR),76.5
+Nobles,2015,Supply(HR),56
+Nobles,2016,Supply(HR),51
+Nobles,2017,Supply(HR),61
+Nobles,2018,Supply(HR),61
+Nobles,2012,Supply(Pub),52
+Nobles,2013,Supply(Pub),49
+Nobles,2014,Supply(Pub),60
+Nobles,2015,Supply(Pub),49
+Nobles,2016,Supply(Pub),30
+Nobles,2017,Supply(Pub),23
+Nobles,2018,Supply(Pub),47
+Nobles,2012,Supply(any),85
+Nobles,2013,Supply(any),87
+Nobles,2014,Supply(any),86
+Nobles,2015,Supply(any),86
+Nobles,2016,Supply(any),81
+Nobles,2017,Supply(any),81
+Nobles,2018,Supply(any),83
+Norman,2012,Cost(CCC),59
+Norman,2013,Cost(CCC),4
+Norman,2014,Cost(CCC),20
+Norman,2015,Cost(CCC),60
+Norman,2016,Cost(CCC),1
+Norman,2017,Cost(CCC),45
+Norman,2018,Cost(CCC),21
+Norman,2012,Cost(HR),
+Norman,2013,Cost(HR),4
+Norman,2014,Cost(HR),3
+Norman,2015,Cost(HR),53
+Norman,2016,Cost(HR),3
+Norman,2017,Cost(HR),19
+Norman,2018,Cost(HR),51
+Norman,2012,Cost(Pub),75
+Norman,2013,Cost(Pub),65
+Norman,2014,Cost(Pub),87
+Norman,2015,Cost(Pub),67
+Norman,2016,Cost(Pub),81
+Norman,2017,Cost(Pub),37
+Norman,2018,Cost(Pub),65
+Norman,2012,Cost(any),14
+Norman,2013,Cost(any),17
+Norman,2014,Cost(any),50
+Norman,2015,Cost(any),23
+Norman,2016,Cost(any),7
+Norman,2017,Cost(any),7
+Norman,2018,Cost(any),9
+Norman,2012,QualPremium,
+Norman,2013,QualPremium,4
+Norman,2014,QualPremium,3
+Norman,2015,QualPremium,54
+Norman,2016,QualPremium,67
+Norman,2017,QualPremium,3
+Norman,2018,QualPremium,74
+Norman,2012,Supply(CCC),5
+Norman,2013,Supply(CCC),7
+Norman,2014,Supply(CCC),2
+Norman,2015,Supply(CCC),50
+Norman,2016,Supply(CCC),50
+Norman,2017,Supply(CCC),51
+Norman,2018,Supply(CCC),49
+Norman,2012,Supply(HR),
+Norman,2013,Supply(HR),1
+Norman,2014,Supply(HR),2
+Norman,2015,Supply(HR),68
+Norman,2016,Supply(HR),76
+Norman,2017,Supply(HR),79
+Norman,2018,Supply(HR),27
+Norman,2012,Supply(Pub),9
+Norman,2013,Supply(Pub),10
+Norman,2014,Supply(Pub),37
+Norman,2015,Supply(Pub),3
+Norman,2016,Supply(Pub),3
+Norman,2017,Supply(Pub),3
+Norman,2018,Supply(Pub),2
+Norman,2012,Supply(any),11
+Norman,2013,Supply(any),11
+Norman,2014,Supply(any),14
+Norman,2015,Supply(any),9
+Norman,2016,Supply(any),12
+Norman,2017,Supply(any),7
+Norman,2018,Supply(any),4
+Olmsted,2012,Cost(CCC),40
+Olmsted,2013,Cost(CCC),77
+Olmsted,2014,Cost(CCC),75
+Olmsted,2015,Cost(CCC),74
+Olmsted,2016,Cost(CCC),63
+Olmsted,2017,Cost(CCC),47
+Olmsted,2018,Cost(CCC),77
+Olmsted,2012,Cost(HR),
+Olmsted,2013,Cost(HR),63
+Olmsted,2014,Cost(HR),62
+Olmsted,2015,Cost(HR),76
+Olmsted,2016,Cost(HR),68
+Olmsted,2017,Cost(HR),70
+Olmsted,2018,Cost(HR),75
+Olmsted,2012,Cost(Pub),2
+Olmsted,2013,Cost(Pub),1
+Olmsted,2014,Cost(Pub),5
+Olmsted,2015,Cost(Pub),5
+Olmsted,2016,Cost(Pub),9
+Olmsted,2017,Cost(Pub),6
+Olmsted,2018,Cost(Pub),7
+Olmsted,2012,Cost(any),80
+Olmsted,2013,Cost(any),80
+Olmsted,2014,Cost(any),80
+Olmsted,2015,Cost(any),80
+Olmsted,2016,Cost(any),80
+Olmsted,2017,Cost(any),80
+Olmsted,2018,Cost(any),80
+Olmsted,2012,QualPremium,
+Olmsted,2013,QualPremium,39
+Olmsted,2014,QualPremium,39
+Olmsted,2015,QualPremium,62
+Olmsted,2016,QualPremium,55
+Olmsted,2017,QualPremium,54
+Olmsted,2018,QualPremium,76
+Olmsted,2012,Supply(CCC),10
+Olmsted,2013,Supply(CCC),11
+Olmsted,2014,Supply(CCC),7
+Olmsted,2015,Supply(CCC),4
+Olmsted,2016,Supply(CCC),5
+Olmsted,2017,Supply(CCC),7
+Olmsted,2018,Supply(CCC),7
+Olmsted,2012,Supply(HR),
+Olmsted,2013,Supply(HR),7
+Olmsted,2014,Supply(HR),4
+Olmsted,2015,Supply(HR),1
+Olmsted,2016,Supply(HR),5
+Olmsted,2017,Supply(HR),4
+Olmsted,2018,Supply(HR),5
+Olmsted,2012,Supply(Pub),23
+Olmsted,2013,Supply(Pub),24
+Olmsted,2014,Supply(Pub),41
+Olmsted,2015,Supply(Pub),37
+Olmsted,2016,Supply(Pub),40
+Olmsted,2017,Supply(Pub),39
+Olmsted,2018,Supply(Pub),30
+Olmsted,2012,Supply(any),16
+Olmsted,2013,Supply(any),25
+Olmsted,2014,Supply(any),22
+Olmsted,2015,Supply(any),17
+Olmsted,2016,Supply(any),20
+Olmsted,2017,Supply(any),15
+Olmsted,2018,Supply(any),10
+Otter Tail,2012,Cost(CCC),64
+Otter Tail,2013,Cost(CCC),36
+Otter Tail,2014,Cost(CCC),27
+Otter Tail,2015,Cost(CCC),31
+Otter Tail,2016,Cost(CCC),8
+Otter Tail,2017,Cost(CCC),60
+Otter Tail,2018,Cost(CCC),28
+Otter Tail,2012,Cost(HR),
+Otter Tail,2013,Cost(HR),37
+Otter Tail,2014,Cost(HR),44
+Otter Tail,2015,Cost(HR),23
+Otter Tail,2016,Cost(HR),22
+Otter Tail,2017,Cost(HR),49
+Otter Tail,2018,Cost(HR),33
+Otter Tail,2012,Cost(Pub),56
+Otter Tail,2013,Cost(Pub),51
+Otter Tail,2014,Cost(Pub),51
+Otter Tail,2015,Cost(Pub),54
+Otter Tail,2016,Cost(Pub),69
+Otter Tail,2017,Cost(Pub),73
+Otter Tail,2018,Cost(Pub),58
+Otter Tail,2012,Cost(any),39
+Otter Tail,2013,Cost(any),41
+Otter Tail,2014,Cost(any),31
+Otter Tail,2015,Cost(any),38
+Otter Tail,2016,Cost(any),37
+Otter Tail,2017,Cost(any),37
+Otter Tail,2018,Cost(any),26
+Otter Tail,2012,QualPremium,
+Otter Tail,2013,QualPremium,46
+Otter Tail,2014,QualPremium,56
+Otter Tail,2015,QualPremium,23
+Otter Tail,2016,QualPremium,23
+Otter Tail,2017,QualPremium,64
+Otter Tail,2018,QualPremium,41
+Otter Tail,2012,Supply(CCC),62
+Otter Tail,2013,Supply(CCC),63
+Otter Tail,2014,Supply(CCC),67
+Otter Tail,2015,Supply(CCC),69
+Otter Tail,2016,Supply(CCC),66
+Otter Tail,2017,Supply(CCC),69
+Otter Tail,2018,Supply(CCC),62
+Otter Tail,2012,Supply(HR),
+Otter Tail,2013,Supply(HR),44
+Otter Tail,2014,Supply(HR),53
+Otter Tail,2015,Supply(HR),54
+Otter Tail,2016,Supply(HR),60
+Otter Tail,2017,Supply(HR),42
+Otter Tail,2018,Supply(HR),64
+Otter Tail,2012,Supply(Pub),48
+Otter Tail,2013,Supply(Pub),46
+Otter Tail,2014,Supply(Pub),39
+Otter Tail,2015,Supply(Pub),48
+Otter Tail,2016,Supply(Pub),48
+Otter Tail,2017,Supply(Pub),31
+Otter Tail,2018,Supply(Pub),15
+Otter Tail,2012,Supply(any),72
+Otter Tail,2013,Supply(any),66
+Otter Tail,2014,Supply(any),63
+Otter Tail,2015,Supply(any),74
+Otter Tail,2016,Supply(any),70
+Otter Tail,2017,Supply(any),62
+Otter Tail,2018,Supply(any),49
+Pennington,2012,Cost(CCC),36
+Pennington,2013,Cost(CCC),12
+Pennington,2014,Cost(CCC),9
+Pennington,2015,Cost(CCC),15
+Pennington,2016,Cost(CCC),72
+Pennington,2017,Cost(CCC),40
+Pennington,2018,Cost(CCC),10
+Pennington,2012,Cost(HR),
+Pennington,2013,Cost(HR),56
+Pennington,2014,Cost(HR),30
+Pennington,2015,Cost(HR),52
+Pennington,2016,Cost(HR),31
+Pennington,2017,Cost(HR),9
+Pennington,2018,Cost(HR),18
+Pennington,2012,Cost(Pub),69
+Pennington,2013,Cost(Pub),33
+Pennington,2014,Cost(Pub),47
+Pennington,2015,Cost(Pub),49
+Pennington,2016,Cost(Pub),54
+Pennington,2017,Cost(Pub),61
+Pennington,2018,Cost(Pub),59
+Pennington,2012,Cost(any),46
+Pennington,2013,Cost(any),49
+Pennington,2014,Cost(any),51
+Pennington,2015,Cost(any),55
+Pennington,2016,Cost(any),50
+Pennington,2017,Cost(any),55
+Pennington,2018,Cost(any),55
+Pennington,2012,QualPremium,
+Pennington,2013,QualPremium,66
+Pennington,2014,QualPremium,40
+Pennington,2015,QualPremium,61
+Pennington,2016,QualPremium,38
+Pennington,2017,QualPremium,7
+Pennington,2018,QualPremium,23
+Pennington,2012,Supply(CCC),30
+Pennington,2013,Supply(CCC),33
+Pennington,2014,Supply(CCC),40
+Pennington,2015,Supply(CCC),33
+Pennington,2016,Supply(CCC),39
+Pennington,2017,Supply(CCC),42
+Pennington,2018,Supply(CCC),38
+Pennington,2012,Supply(HR),
+Pennington,2013,Supply(HR),70.5
+Pennington,2014,Supply(HR),76.5
+Pennington,2015,Supply(HR),79.5
+Pennington,2016,Supply(HR),69
+Pennington,2017,Supply(HR),72
+Pennington,2018,Supply(HR),72
+Pennington,2012,Supply(Pub),64
+Pennington,2013,Supply(Pub),63
+Pennington,2014,Supply(Pub),72
+Pennington,2015,Supply(Pub),72
+Pennington,2016,Supply(Pub),63
+Pennington,2017,Supply(Pub),67
+Pennington,2018,Supply(Pub),74
+Pennington,2012,Supply(any),21
+Pennington,2013,Supply(any),23
+Pennington,2014,Supply(any),28
+Pennington,2015,Supply(any),22
+Pennington,2016,Supply(any),19
+Pennington,2017,Supply(any),18
+Pennington,2018,Supply(any),13
+Pine,2012,Cost(CCC),39
+Pine,2013,Cost(CCC),28
+Pine,2014,Cost(CCC),12
+Pine,2015,Cost(CCC),20
+Pine,2016,Cost(CCC),31
+Pine,2017,Cost(CCC),59
+Pine,2018,Cost(CCC),48
+Pine,2012,Cost(HR),
+Pine,2013,Cost(HR),23
+Pine,2014,Cost(HR),20
+Pine,2015,Cost(HR),28
+Pine,2016,Cost(HR),36
+Pine,2017,Cost(HR),47
+Pine,2018,Cost(HR),65
+Pine,2012,Cost(Pub),77
+Pine,2013,Cost(Pub),84
+Pine,2014,Cost(Pub),73
+Pine,2015,Cost(Pub),74
+Pine,2016,Cost(Pub),75
+Pine,2017,Cost(Pub),56
+Pine,2018,Cost(Pub),71
+Pine,2012,Cost(any),71
+Pine,2013,Cost(any),70
+Pine,2014,Cost(any),55
+Pine,2015,Cost(any),59
+Pine,2016,Cost(any),49
+Pine,2017,Cost(any),51
+Pine,2018,Cost(any),48
+Pine,2012,QualPremium,
+Pine,2013,QualPremium,16
+Pine,2014,QualPremium,13
+Pine,2015,QualPremium,11
+Pine,2016,QualPremium,62
+Pine,2017,QualPremium,56
+Pine,2018,QualPremium,70
+Pine,2012,Supply(CCC),72
+Pine,2013,Supply(CCC),74
+Pine,2014,Supply(CCC),72
+Pine,2015,Supply(CCC),71
+Pine,2016,Supply(CCC),61
+Pine,2017,Supply(CCC),70
+Pine,2018,Supply(CCC),71
+Pine,2012,Supply(HR),
+Pine,2013,Supply(HR),21
+Pine,2014,Supply(HR),28
+Pine,2015,Supply(HR),30
+Pine,2016,Supply(HR),30
+Pine,2017,Supply(HR),44
+Pine,2018,Supply(HR),56
+Pine,2012,Supply(Pub),71
+Pine,2013,Supply(Pub),69
+Pine,2014,Supply(Pub),53
+Pine,2015,Supply(Pub),50
+Pine,2016,Supply(Pub),58
+Pine,2017,Supply(Pub),59
+Pine,2018,Supply(Pub),50
+Pine,2012,Supply(any),86
+Pine,2013,Supply(any),82
+Pine,2014,Supply(any),82
+Pine,2015,Supply(any),85
+Pine,2016,Supply(any),85
+Pine,2017,Supply(any),85
+Pine,2018,Supply(any),85
+Pipestone,2012,Cost(CCC),28
+Pipestone,2013,Cost(CCC),30
+Pipestone,2014,Cost(CCC),25
+Pipestone,2015,Cost(CCC),18
+Pipestone,2016,Cost(CCC),58
+Pipestone,2017,Cost(CCC),39
+Pipestone,2018,Cost(CCC),13
+Pipestone,2012,Cost(HR),
+Pipestone,2013,Cost(HR),64
+Pipestone,2014,Cost(HR),71
+Pipestone,2015,Cost(HR),70
+Pipestone,2016,Cost(HR),59
+Pipestone,2017,Cost(HR),6
+Pipestone,2018,Cost(HR),5
+Pipestone,2012,Cost(Pub),86
+Pipestone,2013,Cost(Pub),83
+Pipestone,2014,Cost(Pub),62
+Pipestone,2015,Cost(Pub),64
+Pipestone,2016,Cost(Pub),15
+Pipestone,2017,Cost(Pub),29
+Pipestone,2018,Cost(Pub),15
+Pipestone,2012,Cost(any),40
+Pipestone,2013,Cost(any),43
+Pipestone,2014,Cost(any),13
+Pipestone,2015,Cost(any),11
+Pipestone,2016,Cost(any),18
+Pipestone,2017,Cost(any),11
+Pipestone,2018,Cost(any),12
+Pipestone,2012,QualPremium,
+Pipestone,2013,QualPremium,76
+Pipestone,2014,QualPremium,80
+Pipestone,2015,QualPremium,83
+Pipestone,2016,QualPremium,69
+Pipestone,2017,QualPremium,8
+Pipestone,2018,QualPremium,14
+Pipestone,2012,Supply(CCC),54
+Pipestone,2013,Supply(CCC),55
+Pipestone,2014,Supply(CCC),59
+Pipestone,2015,Supply(CCC),57
+Pipestone,2016,Supply(CCC),56
+Pipestone,2017,Supply(CCC),56
+Pipestone,2018,Supply(CCC),54
+Pipestone,2012,Supply(HR),
+Pipestone,2013,Supply(HR),70.5
+Pipestone,2014,Supply(HR),76.5
+Pipestone,2015,Supply(HR),79.5
+Pipestone,2016,Supply(HR),63
+Pipestone,2017,Supply(HR),69
+Pipestone,2018,Supply(HR),70
+Pipestone,2012,Supply(Pub),86
+Pipestone,2013,Supply(Pub),85
+Pipestone,2014,Supply(Pub),24
+Pipestone,2015,Supply(Pub),25
+Pipestone,2016,Supply(Pub),19
+Pipestone,2017,Supply(Pub),20
+Pipestone,2018,Supply(Pub),27
+Pipestone,2012,Supply(any),47
+Pipestone,2013,Supply(any),38
+Pipestone,2014,Supply(any),32
+Pipestone,2015,Supply(any),27
+Pipestone,2016,Supply(any),23
+Pipestone,2017,Supply(any),19
+Pipestone,2018,Supply(any),27
+Polk,2012,Cost(CCC),56
+Polk,2013,Cost(CCC),40
+Polk,2014,Cost(CCC),18
+Polk,2015,Cost(CCC),32
+Polk,2016,Cost(CCC),48
+Polk,2017,Cost(CCC),49
+Polk,2018,Cost(CCC),40
+Polk,2012,Cost(HR),
+Polk,2013,Cost(HR),13
+Polk,2014,Cost(HR),8
+Polk,2015,Cost(HR),15
+Polk,2016,Cost(HR),40
+Polk,2017,Cost(HR),42
+Polk,2018,Cost(HR),15
+Polk,2012,Cost(Pub),58
+Polk,2013,Cost(Pub),32
+Polk,2014,Cost(Pub),40
+Polk,2015,Cost(Pub),32
+Polk,2016,Cost(Pub),53
+Polk,2017,Cost(Pub),62
+Polk,2018,Cost(Pub),29
+Polk,2012,Cost(any),33
+Polk,2013,Cost(any),26
+Polk,2014,Cost(any),32
+Polk,2015,Cost(any),49
+Polk,2016,Cost(any),61
+Polk,2017,Cost(any),53
+Polk,2018,Cost(any),22
+Polk,2012,QualPremium,
+Polk,2013,QualPremium,13
+Polk,2014,QualPremium,5
+Polk,2015,QualPremium,8
+Polk,2016,QualPremium,33
+Polk,2017,QualPremium,53
+Polk,2018,QualPremium,8
+Polk,2012,Supply(CCC),46
+Polk,2013,Supply(CCC),48
+Polk,2014,Supply(CCC),28
+Polk,2015,Supply(CCC),24
+Polk,2016,Supply(CCC),17
+Polk,2017,Supply(CCC),16
+Polk,2018,Supply(CCC),45
+Polk,2012,Supply(HR),
+Polk,2013,Supply(HR),23
+Polk,2014,Supply(HR),19
+Polk,2015,Supply(HR),23
+Polk,2016,Supply(HR),7
+Polk,2017,Supply(HR),9
+Polk,2018,Supply(HR),44
+Polk,2012,Supply(Pub),13
+Polk,2013,Supply(Pub),12
+Polk,2014,Supply(Pub),20
+Polk,2015,Supply(Pub),21
+Polk,2016,Supply(Pub),41
+Polk,2017,Supply(Pub),45
+Polk,2018,Supply(Pub),8
+Polk,2012,Supply(any),31
+Polk,2013,Supply(any),32
+Polk,2014,Supply(any),25
+Polk,2015,Supply(any),15
+Polk,2016,Supply(any),24
+Polk,2017,Supply(any),17
+Polk,2018,Supply(any),22
+Pope,2012,Cost(CCC),19
+Pope,2013,Cost(CCC),27
+Pope,2014,Cost(CCC),35
+Pope,2015,Cost(CCC),35
+Pope,2016,Cost(CCC),18
+Pope,2017,Cost(CCC),35
+Pope,2018,Cost(CCC),64
+Pope,2012,Cost(HR),
+Pope,2013,Cost(HR),28
+Pope,2014,Cost(HR),38
+Pope,2015,Cost(HR),45
+Pope,2016,Cost(HR),2
+Pope,2017,Cost(HR),27
+Pope,2018,Cost(HR),46
+Pope,2012,Cost(Pub),35
+Pope,2013,Cost(Pub),40
+Pope,2014,Cost(Pub),67
+Pope,2015,Cost(Pub),83
+Pope,2016,Cost(Pub),61
+Pope,2017,Cost(Pub),71
+Pope,2018,Cost(Pub),79
+Pope,2012,Cost(any),11
+Pope,2013,Cost(any),21
+Pope,2014,Cost(any),46
+Pope,2015,Cost(any),52
+Pope,2016,Cost(any),35
+Pope,2017,Cost(any),52
+Pope,2018,Cost(any),56
+Pope,2012,QualPremium,
+Pope,2013,QualPremium,36
+Pope,2014,QualPremium,49
+Pope,2015,QualPremium,59
+Pope,2016,QualPremium,73
+Pope,2017,QualPremium,24
+Pope,2018,QualPremium,44
+Pope,2012,Supply(CCC),39
+Pope,2013,Supply(CCC),32
+Pope,2014,Supply(CCC),57
+Pope,2015,Supply(CCC),48
+Pope,2016,Supply(CCC),47
+Pope,2017,Supply(CCC),47
+Pope,2018,Supply(CCC),43
+Pope,2012,Supply(HR),
+Pope,2013,Supply(HR),45
+Pope,2014,Supply(HR),56
+Pope,2015,Supply(HR),63
+Pope,2016,Supply(HR),73
+Pope,2017,Supply(HR),82
+Pope,2018,Supply(HR),80
+Pope,2012,Supply(Pub),33
+Pope,2013,Supply(Pub),33
+Pope,2014,Supply(Pub),52
+Pope,2015,Supply(Pub),78
+Pope,2016,Supply(Pub),69
+Pope,2017,Supply(Pub),70
+Pope,2018,Supply(Pub),81
+Pope,2012,Supply(any),53
+Pope,2013,Supply(any),44
+Pope,2014,Supply(any),64
+Pope,2015,Supply(any),68
+Pope,2016,Supply(any),73
+Pope,2017,Supply(any),67
+Pope,2018,Supply(any),59
+Ramsey,2012,Cost(CCC),45
+Ramsey,2013,Cost(CCC),80
+Ramsey,2014,Cost(CCC),82
+Ramsey,2015,Cost(CCC),80
+Ramsey,2016,Cost(CCC),70
+Ramsey,2017,Cost(CCC),52
+Ramsey,2018,Cost(CCC),83
+Ramsey,2012,Cost(HR),
+Ramsey,2013,Cost(HR),72
+Ramsey,2014,Cost(HR),77
+Ramsey,2015,Cost(HR),82
+Ramsey,2016,Cost(HR),74
+Ramsey,2017,Cost(HR),75
+Ramsey,2018,Cost(HR),81
+Ramsey,2012,Cost(Pub),1
+Ramsey,2013,Cost(Pub),2
+Ramsey,2014,Cost(Pub),6
+Ramsey,2015,Cost(Pub),4
+Ramsey,2016,Cost(Pub),4
+Ramsey,2017,Cost(Pub),2
+Ramsey,2018,Cost(Pub),5
+Ramsey,2012,Cost(any),83
+Ramsey,2013,Cost(any),83
+Ramsey,2014,Cost(any),85
+Ramsey,2015,Cost(any),85
+Ramsey,2016,Cost(any),84
+Ramsey,2017,Cost(any),84
+Ramsey,2018,Cost(any),85
+Ramsey,2012,QualPremium,
+Ramsey,2013,QualPremium,30
+Ramsey,2014,QualPremium,36
+Ramsey,2015,QualPremium,44
+Ramsey,2016,QualPremium,42
+Ramsey,2017,QualPremium,46
+Ramsey,2018,QualPremium,66
+Ramsey,2012,Supply(CCC),7
+Ramsey,2013,Supply(CCC),4
+Ramsey,2014,Supply(CCC),9
+Ramsey,2015,Supply(CCC),7
+Ramsey,2016,Supply(CCC),7
+Ramsey,2017,Supply(CCC),6
+Ramsey,2018,Supply(CCC),12
+Ramsey,2012,Supply(HR),
+Ramsey,2013,Supply(HR),5
+Ramsey,2014,Supply(HR),7
+Ramsey,2015,Supply(HR),3
+Ramsey,2016,Supply(HR),8
+Ramsey,2017,Supply(HR),14
+Ramsey,2018,Supply(HR),11
+Ramsey,2012,Supply(Pub),61
+Ramsey,2013,Supply(Pub),59
+Ramsey,2014,Supply(Pub),74
+Ramsey,2015,Supply(Pub),68
+Ramsey,2016,Supply(Pub),62
+Ramsey,2017,Supply(Pub),64
+Ramsey,2018,Supply(Pub),80
+Ramsey,2012,Supply(any),76
+Ramsey,2013,Supply(any),77
+Ramsey,2014,Supply(any),81
+Ramsey,2015,Supply(any),81
+Ramsey,2016,Supply(any),78
+Ramsey,2017,Supply(any),70
+Ramsey,2018,Supply(any),82
+Red Lake,2012,Cost(CCC),74
+Red Lake,2013,Cost(CCC),9
+Red Lake,2014,Cost(CCC),5
+Red Lake,2015,Cost(CCC),5
+Red Lake,2016,Cost(CCC),83
+Red Lake,2017,Cost(CCC),75
+Red Lake,2018,Cost(CCC),3
+Red Lake,2012,Cost(HR),
+Red Lake,2013,Cost(HR),34
+Red Lake,2014,Cost(HR),12
+Red Lake,2015,Cost(HR),22
+Red Lake,2016,Cost(HR),15
+Red Lake,2017,Cost(HR),18
+Red Lake,2018,Cost(HR),
+Red Lake,2012,Cost(Pub),48
+Red Lake,2013,Cost(Pub),34
+Red Lake,2014,Cost(Pub),22
+Red Lake,2015,Cost(Pub),27
+Red Lake,2016,Cost(Pub),24
+Red Lake,2017,Cost(Pub),18
+Red Lake,2018,Cost(Pub),32
+Red Lake,2012,Cost(any),3
+Red Lake,2013,Cost(any),2
+Red Lake,2014,Cost(any),2
+Red Lake,2015,Cost(any),4
+Red Lake,2016,Cost(any),19
+Red Lake,2017,Cost(any),12
+Red Lake,2018,Cost(any),5
+Red Lake,2012,QualPremium,
+Red Lake,2013,QualPremium,67
+Red Lake,2014,QualPremium,34
+Red Lake,2015,QualPremium,57
+Red Lake,2016,QualPremium,20
+Red Lake,2017,QualPremium,33
+Red Lake,2018,QualPremium,
+Red Lake,2012,Supply(CCC),41
+Red Lake,2013,Supply(CCC),40
+Red Lake,2014,Supply(CCC),47
+Red Lake,2015,Supply(CCC),43
+Red Lake,2016,Supply(CCC),42
+Red Lake,2017,Supply(CCC),34
+Red Lake,2018,Supply(CCC),41
+Red Lake,2012,Supply(HR),
+Red Lake,2013,Supply(HR),70.5
+Red Lake,2014,Supply(HR),37
+Red Lake,2015,Supply(HR),34
+Red Lake,2016,Supply(HR),48
+Red Lake,2017,Supply(HR),53
+Red Lake,2018,Supply(HR),
+Red Lake,2012,Supply(Pub),1
+Red Lake,2013,Supply(Pub),2
+Red Lake,2014,Supply(Pub),1
+Red Lake,2015,Supply(Pub),1
+Red Lake,2016,Supply(Pub),1
+Red Lake,2017,Supply(Pub),1
+Red Lake,2018,Supply(Pub),1
+Red Lake,2012,Supply(any),1
+Red Lake,2013,Supply(any),2
+Red Lake,2014,Supply(any),1
+Red Lake,2015,Supply(any),1
+Red Lake,2016,Supply(any),1
+Red Lake,2017,Supply(any),1
+Red Lake,2018,Supply(any),1
+Redwood,2012,Cost(CCC),75
+Redwood,2013,Cost(CCC),5
+Redwood,2014,Cost(CCC),21
+Redwood,2015,Cost(CCC),26
+Redwood,2016,Cost(CCC),29
+Redwood,2017,Cost(CCC),73
+Redwood,2018,Cost(CCC),14
+Redwood,2012,Cost(HR),
+Redwood,2013,Cost(HR),47
+Redwood,2014,Cost(HR),13
+Redwood,2015,Cost(HR),27
+Redwood,2016,Cost(HR),49
+Redwood,2017,Cost(HR),60
+Redwood,2018,Cost(HR),21
+Redwood,2012,Cost(Pub),74
+Redwood,2013,Cost(Pub),77
+Redwood,2014,Cost(Pub),75
+Redwood,2015,Cost(Pub),78
+Redwood,2016,Cost(Pub),78
+Redwood,2017,Cost(Pub),76
+Redwood,2018,Cost(Pub),73
+Redwood,2012,Cost(any),25
+Redwood,2013,Cost(any),28
+Redwood,2014,Cost(any),26
+Redwood,2015,Cost(any),32
+Redwood,2016,Cost(any),31
+Redwood,2017,Cost(any),31
+Redwood,2018,Cost(any),25
+Redwood,2012,QualPremium,
+Redwood,2013,QualPremium,63
+Redwood,2014,QualPremium,24
+Redwood,2015,QualPremium,46
+Redwood,2016,QualPremium,58
+Redwood,2017,QualPremium,73
+Redwood,2018,QualPremium,49
+Redwood,2012,Supply(CCC),75
+Redwood,2013,Supply(CCC),62
+Redwood,2014,Supply(CCC),76
+Redwood,2015,Supply(CCC),75
+Redwood,2016,Supply(CCC),74
+Redwood,2017,Supply(CCC),74
+Redwood,2018,Supply(CCC),74
+Redwood,2012,Supply(HR),
+Redwood,2013,Supply(HR),70.5
+Redwood,2014,Supply(HR),65
+Redwood,2015,Supply(HR),71
+Redwood,2016,Supply(HR),64
+Redwood,2017,Supply(HR),65
+Redwood,2018,Supply(HR),69
+Redwood,2012,Supply(Pub),51
+Redwood,2013,Supply(Pub),62
+Redwood,2014,Supply(Pub),49
+Redwood,2015,Supply(Pub),47
+Redwood,2016,Supply(Pub),44
+Redwood,2017,Supply(Pub),57
+Redwood,2018,Supply(Pub),46
+Redwood,2012,Supply(any),40
+Redwood,2013,Supply(any),34
+Redwood,2014,Supply(any),42
+Redwood,2015,Supply(any),42
+Redwood,2016,Supply(any),48
+Redwood,2017,Supply(any),53
+Redwood,2018,Supply(any),54
+Renville,2012,Cost(CCC),62
+Renville,2013,Cost(CCC),18
+Renville,2014,Cost(CCC),48
+Renville,2015,Cost(CCC),28
+Renville,2016,Cost(CCC),15
+Renville,2017,Cost(CCC),13
+Renville,2018,Cost(CCC),9
+Renville,2012,Cost(HR),
+Renville,2013,Cost(HR),25
+Renville,2014,Cost(HR),45
+Renville,2015,Cost(HR),56
+Renville,2016,Cost(HR),53
+Renville,2017,Cost(HR),63
+Renville,2018,Cost(HR),55
+Renville,2012,Cost(Pub),53
+Renville,2013,Cost(Pub),62
+Renville,2014,Cost(Pub),35
+Renville,2015,Cost(Pub),45
+Renville,2016,Cost(Pub),25
+Renville,2017,Cost(Pub),36
+Renville,2018,Cost(Pub),47
+Renville,2012,Cost(any),31
+Renville,2013,Cost(any),23
+Renville,2014,Cost(any),27
+Renville,2015,Cost(any),30
+Renville,2016,Cost(any),5
+Renville,2017,Cost(any),14
+Renville,2018,Cost(any),15
+Renville,2012,QualPremium,
+Renville,2013,QualPremium,32
+Renville,2014,QualPremium,60
+Renville,2015,QualPremium,69
+Renville,2016,QualPremium,71
+Renville,2017,QualPremium,70
+Renville,2018,QualPremium,71
+Renville,2012,Supply(CCC),52
+Renville,2013,Supply(CCC),52
+Renville,2014,Supply(CCC),43
+Renville,2015,Supply(CCC),28
+Renville,2016,Supply(CCC),31
+Renville,2017,Supply(CCC),13
+Renville,2018,Supply(CCC),29
+Renville,2012,Supply(HR),
+Renville,2013,Supply(HR),46
+Renville,2014,Supply(HR),58
+Renville,2015,Supply(HR),65
+Renville,2016,Supply(HR),75
+Renville,2017,Supply(HR),77
+Renville,2018,Supply(HR),77
+Renville,2012,Supply(Pub),4
+Renville,2013,Supply(Pub),1
+Renville,2014,Supply(Pub),26
+Renville,2015,Supply(Pub),36
+Renville,2016,Supply(Pub),35
+Renville,2017,Supply(Pub),53
+Renville,2018,Supply(Pub),42
+Renville,2012,Supply(any),5
+Renville,2013,Supply(any),1
+Renville,2014,Supply(any),19
+Renville,2015,Supply(any),13
+Renville,2016,Supply(any),31
+Renville,2017,Supply(any),13
+Renville,2018,Supply(any),24
+Rice,2012,Cost(CCC),12
+Rice,2013,Cost(CCC),50
+Rice,2014,Cost(CCC),44
+Rice,2015,Cost(CCC),46
+Rice,2016,Cost(CCC),41
+Rice,2017,Cost(CCC),11
+Rice,2018,Cost(CCC),35
+Rice,2012,Cost(HR),
+Rice,2013,Cost(HR),35
+Rice,2014,Cost(HR),23
+Rice,2015,Cost(HR),18
+Rice,2016,Cost(HR),45
+Rice,2017,Cost(HR),38
+Rice,2018,Cost(HR),50
+Rice,2012,Cost(Pub),12
+Rice,2013,Cost(Pub),10
+Rice,2014,Cost(Pub),3
+Rice,2015,Cost(Pub),6
+Rice,2016,Cost(Pub),11
+Rice,2017,Cost(Pub),10
+Rice,2018,Cost(Pub),8
+Rice,2012,Cost(any),75
+Rice,2013,Cost(any),74
+Rice,2014,Cost(any),74
+Rice,2015,Cost(any),73
+Rice,2016,Cost(any),75
+Rice,2017,Cost(any),75
+Rice,2018,Cost(any),71
+Rice,2012,QualPremium,
+Rice,2013,QualPremium,29
+Rice,2014,QualPremium,10
+Rice,2015,QualPremium,3
+Rice,2016,QualPremium,30
+Rice,2017,QualPremium,23
+Rice,2018,QualPremium,32
+Rice,2012,Supply(CCC),32
+Rice,2013,Supply(CCC),37
+Rice,2014,Supply(CCC),44
+Rice,2015,Supply(CCC),35
+Rice,2016,Supply(CCC),37
+Rice,2017,Supply(CCC),37
+Rice,2018,Supply(CCC),36
+Rice,2012,Supply(HR),
+Rice,2013,Supply(HR),33
+Rice,2014,Supply(HR),46
+Rice,2015,Supply(HR),44
+Rice,2016,Supply(HR),55
+Rice,2017,Supply(HR),46
+Rice,2018,Supply(HR),42
+Rice,2012,Supply(Pub),60
+Rice,2013,Supply(Pub),60
+Rice,2014,Supply(Pub),75
+Rice,2015,Supply(Pub),70
+Rice,2016,Supply(Pub),76
+Rice,2017,Supply(Pub),79
+Rice,2018,Supply(Pub),72
+Rice,2012,Supply(any),64
+Rice,2013,Supply(any),68
+Rice,2014,Supply(any),80
+Rice,2015,Supply(any),77
+Rice,2016,Supply(any),80
+Rice,2017,Supply(any),82
+Rice,2018,Supply(any),77
+Rock,2012,Cost(CCC),78
+Rock,2013,Cost(CCC),75
+Rock,2014,Cost(CCC),77
+Rock,2015,Cost(CCC),34
+Rock,2016,Cost(CCC),84
+Rock,2017,Cost(CCC),76
+Rock,2018,Cost(CCC),41
+Rock,2012,Cost(HR),
+Rock,2013,Cost(HR),83
+Rock,2014,Cost(HR),79
+Rock,2015,Cost(HR),44
+Rock,2016,Cost(HR),81
+Rock,2017,Cost(HR),8
+Rock,2018,Cost(HR),67
+Rock,2012,Cost(Pub),84
+Rock,2013,Cost(Pub),76
+Rock,2014,Cost(Pub),86
+Rock,2015,Cost(Pub),71
+Rock,2016,Cost(Pub),40
+Rock,2017,Cost(Pub),46
+Rock,2018,Cost(Pub),56
+Rock,2012,Cost(any),30
+Rock,2013,Cost(any),31
+Rock,2014,Cost(any),49
+Rock,2015,Cost(any),37
+Rock,2016,Cost(any),36
+Rock,2017,Cost(any),13
+Rock,2018,Cost(any),18
+Rock,2012,QualPremium,
+Rock,2013,QualPremium,83
+Rock,2014,QualPremium,84
+Rock,2015,QualPremium,73
+Rock,2016,QualPremium,81
+Rock,2017,QualPremium,11
+Rock,2018,QualPremium,82
+Rock,2012,Supply(CCC),83.5
+Rock,2013,Supply(CCC),83.5
+Rock,2014,Supply(CCC),83.5
+Rock,2015,Supply(CCC),82.5
+Rock,2016,Supply(CCC),82
+Rock,2017,Supply(CCC),82
+Rock,2018,Supply(CCC),82
+Rock,2012,Supply(HR),
+Rock,2013,Supply(HR),70.5
+Rock,2014,Supply(HR),76.5
+Rock,2015,Supply(HR),79.5
+Rock,2016,Supply(HR),83.5
+Rock,2017,Supply(HR),74
+Rock,2018,Supply(HR),75
+Rock,2012,Supply(Pub),58
+Rock,2013,Supply(Pub),57
+Rock,2014,Supply(Pub),87
+Rock,2015,Supply(Pub),76
+Rock,2016,Supply(Pub),60
+Rock,2017,Supply(Pub),14
+Rock,2018,Supply(Pub),63
+Rock,2012,Supply(any),13
+Rock,2013,Supply(any),12
+Rock,2014,Supply(any),31
+Rock,2015,Supply(any),19
+Rock,2016,Supply(any),25
+Rock,2017,Supply(any),23
+Rock,2018,Supply(any),31
+Roseau,2012,Cost(CCC),87
+Roseau,2013,Cost(CCC),86
+Roseau,2014,Cost(CCC),74
+Roseau,2015,Cost(CCC),86
+Roseau,2016,Cost(CCC),86
+Roseau,2017,Cost(CCC),87
+Roseau,2018,Cost(CCC),85
+Roseau,2012,Cost(HR),
+Roseau,2013,Cost(HR),85
+Roseau,2014,Cost(HR),61
+Roseau,2015,Cost(HR),63
+Roseau,2016,Cost(HR),84
+Roseau,2017,Cost(HR),5
+Roseau,2018,Cost(HR),3
+Roseau,2012,Cost(Pub),14
+Roseau,2013,Cost(Pub),23
+Roseau,2014,Cost(Pub),57
+Roseau,2015,Cost(Pub),66
+Roseau,2016,Cost(Pub),84
+Roseau,2017,Cost(Pub),78
+Roseau,2018,Cost(Pub),87
+Roseau,2012,Cost(any),10
+Roseau,2013,Cost(any),15
+Roseau,2014,Cost(any),25
+Roseau,2015,Cost(any),22
+Roseau,2016,Cost(any),10
+Roseau,2017,Cost(any),25
+Roseau,2018,Cost(any),41
+Roseau,2012,QualPremium,
+Roseau,2013,QualPremium,86
+Roseau,2014,QualPremium,74
+Roseau,2015,QualPremium,81
+Roseau,2016,QualPremium,85
+Roseau,2017,QualPremium,10
+Roseau,2018,QualPremium,12
+Roseau,2012,Supply(CCC),83.5
+Roseau,2013,Supply(CCC),83.5
+Roseau,2014,Supply(CCC),74
+Roseau,2015,Supply(CCC),82.5
+Roseau,2016,Supply(CCC),82
+Roseau,2017,Supply(CCC),82
+Roseau,2018,Supply(CCC),82
+Roseau,2012,Supply(HR),
+Roseau,2013,Supply(HR),70.5
+Roseau,2014,Supply(HR),48
+Roseau,2015,Supply(HR),79.5
+Roseau,2016,Supply(HR),68
+Roseau,2017,Supply(HR),63
+Roseau,2018,Supply(HR),65
+Roseau,2012,Supply(Pub),22
+Roseau,2013,Supply(Pub),23
+Roseau,2014,Supply(Pub),30
+Roseau,2015,Supply(Pub),41
+Roseau,2016,Supply(Pub),47
+Roseau,2017,Supply(Pub),51
+Roseau,2018,Supply(Pub),87
+Roseau,2012,Supply(any),24
+Roseau,2013,Supply(any),30
+Roseau,2014,Supply(any),35
+Roseau,2015,Supply(any),35
+Roseau,2016,Supply(any),32
+Roseau,2017,Supply(any),48
+Roseau,2018,Supply(any),57
+Scott,2012,Cost(CCC),51
+Scott,2013,Cost(CCC),79
+Scott,2014,Cost(CCC),81
+Scott,2015,Cost(CCC),81
+Scott,2016,Cost(CCC),68
+Scott,2017,Cost(CCC),48
+Scott,2018,Cost(CCC),80
+Scott,2012,Cost(HR),
+Scott,2013,Cost(HR),76
+Scott,2014,Cost(HR),82
+Scott,2015,Cost(HR),80
+Scott,2016,Cost(HR),75
+Scott,2017,Cost(HR),74
+Scott,2018,Cost(HR),79
+Scott,2012,Cost(Pub),27
+Scott,2013,Cost(Pub),31
+Scott,2014,Cost(Pub),14
+Scott,2015,Cost(Pub),25
+Scott,2016,Cost(Pub),10
+Scott,2017,Cost(Pub),8
+Scott,2018,Cost(Pub),14
+Scott,2012,Cost(any),82
+Scott,2013,Cost(any),82
+Scott,2014,Cost(any),82
+Scott,2015,Cost(any),82
+Scott,2016,Cost(any),83
+Scott,2017,Cost(any),82
+Scott,2018,Cost(any),82
+Scott,2012,QualPremium,
+Scott,2013,QualPremium,43
+Scott,2014,QualPremium,50
+Scott,2015,QualPremium,56
+Scott,2016,QualPremium,52
+Scott,2017,QualPremium,60
+Scott,2018,QualPremium,68
+Scott,2012,Supply(CCC),14
+Scott,2013,Supply(CCC),14
+Scott,2014,Supply(CCC),16
+Scott,2015,Supply(CCC),19
+Scott,2016,Supply(CCC),13
+Scott,2017,Supply(CCC),17
+Scott,2018,Supply(CCC),13
+Scott,2012,Supply(HR),
+Scott,2013,Supply(HR),15
+Scott,2014,Supply(HR),26
+Scott,2015,Supply(HR),24
+Scott,2016,Supply(HR),35
+Scott,2017,Supply(HR),38
+Scott,2018,Supply(HR),31
+Scott,2012,Supply(Pub),73
+Scott,2013,Supply(Pub),77
+Scott,2014,Supply(Pub),86
+Scott,2015,Supply(Pub),87
+Scott,2016,Supply(Pub),85
+Scott,2017,Supply(Pub),83
+Scott,2018,Supply(Pub),82
+Scott,2012,Supply(any),44
+Scott,2013,Supply(any),52
+Scott,2014,Supply(any),56
+Scott,2015,Supply(any),61
+Scott,2016,Supply(any),54
+Scott,2017,Supply(any),52
+Scott,2018,Supply(any),45
+Sherburne,2012,Cost(CCC),22
+Sherburne,2013,Cost(CCC),69
+Sherburne,2014,Cost(CCC),68
+Sherburne,2015,Cost(CCC),68
+Sherburne,2016,Cost(CCC),53
+Sherburne,2017,Cost(CCC),31
+Sherburne,2018,Cost(CCC),69
+Sherburne,2012,Cost(HR),
+Sherburne,2013,Cost(HR),70
+Sherburne,2014,Cost(HR),69
+Sherburne,2015,Cost(HR),75
+Sherburne,2016,Cost(HR),60
+Sherburne,2017,Cost(HR),58
+Sherburne,2018,Cost(HR),73
+Sherburne,2012,Cost(Pub),17
+Sherburne,2013,Cost(Pub),39
+Sherburne,2014,Cost(Pub),32
+Sherburne,2015,Cost(Pub),34
+Sherburne,2016,Cost(Pub),26
+Sherburne,2017,Cost(Pub),24
+Sherburne,2018,Cost(Pub),35
+Sherburne,2012,Cost(any),76
+Sherburne,2013,Cost(any),76
+Sherburne,2014,Cost(any),78
+Sherburne,2015,Cost(any),77
+Sherburne,2016,Cost(any),78
+Sherburne,2017,Cost(any),78
+Sherburne,2018,Cost(any),78
+Sherburne,2012,QualPremium,
+Sherburne,2013,QualPremium,58
+Sherburne,2014,QualPremium,54
+Sherburne,2015,QualPremium,65
+Sherburne,2016,QualPremium,40
+Sherburne,2017,QualPremium,45
+Sherburne,2018,QualPremium,62
+Sherburne,2012,Supply(CCC),23
+Sherburne,2013,Supply(CCC),22
+Sherburne,2014,Supply(CCC),24
+Sherburne,2015,Supply(CCC),25
+Sherburne,2016,Supply(CCC),20
+Sherburne,2017,Supply(CCC),26
+Sherburne,2018,Supply(CCC),24
+Sherburne,2012,Supply(HR),
+Sherburne,2013,Supply(HR),29
+Sherburne,2014,Supply(HR),45
+Sherburne,2015,Supply(HR),50
+Sherburne,2016,Supply(HR),56
+Sherburne,2017,Supply(HR),62
+Sherburne,2018,Supply(HR),63
+Sherburne,2012,Supply(Pub),79
+Sherburne,2013,Supply(Pub),75
+Sherburne,2014,Supply(Pub),80
+Sherburne,2015,Supply(Pub),84
+Sherburne,2016,Supply(Pub),84
+Sherburne,2017,Supply(Pub),85
+Sherburne,2018,Supply(Pub),85
+Sherburne,2012,Supply(any),54
+Sherburne,2013,Supply(any),57
+Sherburne,2014,Supply(any),60
+Sherburne,2015,Supply(any),63
+Sherburne,2016,Supply(any),61
+Sherburne,2017,Supply(any),73
+Sherburne,2018,Supply(any),69
+Sibley,2012,Cost(CCC),58
+Sibley,2013,Cost(CCC),64
+Sibley,2014,Cost(CCC),66
+Sibley,2015,Cost(CCC),72
+Sibley,2016,Cost(CCC),60
+Sibley,2017,Cost(CCC),62
+Sibley,2018,Cost(CCC),67
+Sibley,2012,Cost(HR),
+Sibley,2013,Cost(HR),46
+Sibley,2014,Cost(HR),58
+Sibley,2015,Cost(HR),68
+Sibley,2016,Cost(HR),23
+Sibley,2017,Cost(HR),16
+Sibley,2018,Cost(HR),24
+Sibley,2012,Cost(Pub),29
+Sibley,2013,Cost(Pub),35
+Sibley,2014,Cost(Pub),7
+Sibley,2015,Cost(Pub),10
+Sibley,2016,Cost(Pub),13
+Sibley,2017,Cost(Pub),16
+Sibley,2018,Cost(Pub),34
+Sibley,2012,Cost(any),51
+Sibley,2013,Cost(any),55
+Sibley,2014,Cost(any),17
+Sibley,2015,Cost(any),20
+Sibley,2016,Cost(any),17
+Sibley,2017,Cost(any),27
+Sibley,2018,Cost(any),30
+Sibley,2012,QualPremium,
+Sibley,2013,QualPremium,54
+Sibley,2014,QualPremium,67
+Sibley,2015,QualPremium,77
+Sibley,2016,QualPremium,50
+Sibley,2017,QualPremium,19
+Sibley,2018,QualPremium,46
+Sibley,2012,Supply(CCC),76
+Sibley,2013,Supply(CCC),77
+Sibley,2014,Supply(CCC),78
+Sibley,2015,Supply(CCC),76
+Sibley,2016,Supply(CCC),75
+Sibley,2017,Supply(CCC),75
+Sibley,2018,Supply(CCC),75
+Sibley,2012,Supply(HR),
+Sibley,2013,Supply(HR),70.5
+Sibley,2014,Supply(HR),63
+Sibley,2015,Supply(HR),60
+Sibley,2016,Supply(HR),61
+Sibley,2017,Supply(HR),59
+Sibley,2018,Supply(HR),67
+Sibley,2012,Supply(Pub),59
+Sibley,2013,Supply(Pub),58
+Sibley,2014,Supply(Pub),22
+Sibley,2015,Supply(Pub),27
+Sibley,2016,Supply(Pub),39
+Sibley,2017,Supply(Pub),44
+Sibley,2018,Supply(Pub),48
+Sibley,2012,Supply(any),45
+Sibley,2013,Supply(any),46
+Sibley,2014,Supply(any),41
+Sibley,2015,Supply(any),38
+Sibley,2016,Supply(any),39
+Sibley,2017,Supply(any),43
+Sibley,2018,Supply(any),46
+St. Louis,2012,Cost(CCC),21
+St. Louis,2013,Cost(CCC),32
+St. Louis,2014,Cost(CCC),28
+St. Louis,2015,Cost(CCC),30
+St. Louis,2016,Cost(CCC),34
+St. Louis,2017,Cost(CCC),30
+St. Louis,2018,Cost(CCC),30
+St. Louis,2012,Cost(HR),
+St. Louis,2013,Cost(HR),21
+St. Louis,2014,Cost(HR),36
+St. Louis,2015,Cost(HR),41
+St. Louis,2016,Cost(HR),46
+St. Louis,2017,Cost(HR),48
+St. Louis,2018,Cost(HR),39
+St. Louis,2012,Cost(Pub),26
+St. Louis,2013,Cost(Pub),17
+St. Louis,2014,Cost(Pub),13
+St. Louis,2015,Cost(Pub),15
+St. Louis,2016,Cost(Pub),34
+St. Louis,2017,Cost(Pub),34
+St. Louis,2018,Cost(Pub),24
+St. Louis,2012,Cost(any),57
+St. Louis,2013,Cost(any),57
+St. Louis,2014,Cost(any),53
+St. Louis,2015,Cost(any),57
+St. Louis,2016,Cost(any),64
+St. Louis,2017,Cost(any),54
+St. Louis,2018,Cost(any),60
+St. Louis,2012,QualPremium,
+St. Louis,2013,QualPremium,15
+St. Louis,2014,QualPremium,26
+St. Louis,2015,QualPremium,29
+St. Louis,2016,QualPremium,35
+St. Louis,2017,QualPremium,34
+St. Louis,2018,QualPremium,20
+St. Louis,2012,Supply(CCC),21
+St. Louis,2013,Supply(CCC),18
+St. Louis,2014,Supply(CCC),17
+St. Louis,2015,Supply(CCC),14
+St. Louis,2016,Supply(CCC),18
+St. Louis,2017,Supply(CCC),20
+St. Louis,2018,Supply(CCC),23
+St. Louis,2012,Supply(HR),
+St. Louis,2013,Supply(HR),30
+St. Louis,2014,Supply(HR),40
+St. Louis,2015,Supply(HR),46
+St. Louis,2016,Supply(HR),42
+St. Louis,2017,Supply(HR),35
+St. Louis,2018,Supply(HR),38
+St. Louis,2012,Supply(Pub),20
+St. Louis,2013,Supply(Pub),19
+St. Louis,2014,Supply(Pub),18
+St. Louis,2015,Supply(Pub),29
+St. Louis,2016,Supply(Pub),36
+St. Louis,2017,Supply(Pub),32
+St. Louis,2018,Supply(Pub),37
+St. Louis,2012,Supply(any),56
+St. Louis,2013,Supply(any),55
+St. Louis,2014,Supply(any),54
+St. Louis,2015,Supply(any),56
+St. Louis,2016,Supply(any),63
+St. Louis,2017,Supply(any),60
+St. Louis,2018,Supply(any),67
+Stearns,2012,Cost(CCC),24
+Stearns,2013,Cost(CCC),55
+Stearns,2014,Cost(CCC),57
+Stearns,2015,Cost(CCC),56
+Stearns,2016,Cost(CCC),38
+Stearns,2017,Cost(CCC),23
+Stearns,2018,Cost(CCC),61
+Stearns,2012,Cost(HR),
+Stearns,2013,Cost(HR),48
+Stearns,2014,Cost(HR),42
+Stearns,2015,Cost(HR),51
+Stearns,2016,Cost(HR),48
+Stearns,2017,Cost(HR),65
+Stearns,2018,Cost(HR),68
+Stearns,2012,Cost(Pub),32
+Stearns,2013,Cost(Pub),36
+Stearns,2014,Cost(Pub),25
+Stearns,2015,Cost(Pub),29
+Stearns,2016,Cost(Pub),30
+Stearns,2017,Cost(Pub),27
+Stearns,2018,Cost(Pub),33
+Stearns,2012,Cost(any),72
+Stearns,2013,Cost(any),68
+Stearns,2014,Cost(any),72
+Stearns,2015,Cost(any),69
+Stearns,2016,Cost(any),73
+Stearns,2017,Cost(any),71
+Stearns,2018,Cost(any),73
+Stearns,2012,QualPremium,
+Stearns,2013,QualPremium,49
+Stearns,2014,QualPremium,43
+Stearns,2015,QualPremium,43
+Stearns,2016,QualPremium,41
+Stearns,2017,QualPremium,68
+Stearns,2018,QualPremium,56
+Stearns,2012,Supply(CCC),28
+Stearns,2013,Supply(CCC),26
+Stearns,2014,Supply(CCC),27
+Stearns,2015,Supply(CCC),29
+Stearns,2016,Supply(CCC),22
+Stearns,2017,Supply(CCC),25
+Stearns,2018,Supply(CCC),25
+Stearns,2012,Supply(HR),
+Stearns,2013,Supply(HR),24
+Stearns,2014,Supply(HR),34
+Stearns,2015,Supply(HR),21
+Stearns,2016,Supply(HR),24
+Stearns,2017,Supply(HR),33
+Stearns,2018,Supply(HR),30
+Stearns,2012,Supply(Pub),70
+Stearns,2013,Supply(Pub),64
+Stearns,2014,Supply(Pub),66
+Stearns,2015,Supply(Pub),61
+Stearns,2016,Supply(Pub),71
+Stearns,2017,Supply(Pub),68
+Stearns,2018,Supply(Pub),64
+Stearns,2012,Supply(any),34
+Stearns,2013,Supply(any),33
+Stearns,2014,Supply(any),40
+Stearns,2015,Supply(any),37
+Stearns,2016,Supply(any),38
+Stearns,2017,Supply(any),37
+Stearns,2018,Supply(any),35
+Steele,2012,Cost(CCC),18
+Steele,2013,Cost(CCC),58
+Steele,2014,Cost(CCC),58
+Steele,2015,Cost(CCC),67
+Steele,2016,Cost(CCC),45
+Steele,2017,Cost(CCC),21
+Steele,2018,Cost(CCC),58
+Steele,2012,Cost(HR),
+Steele,2013,Cost(HR),44
+Steele,2014,Cost(HR),48
+Steele,2015,Cost(HR),65
+Steele,2016,Cost(HR),61
+Steele,2017,Cost(HR),54
+Steele,2018,Cost(HR),66
+Steele,2012,Cost(Pub),8
+Steele,2013,Cost(Pub),4
+Steele,2014,Cost(Pub),2
+Steele,2015,Cost(Pub),7
+Steele,2016,Cost(Pub),5
+Steele,2017,Cost(Pub),3
+Steele,2018,Cost(Pub),3
+Steele,2012,Cost(any),64
+Steele,2013,Cost(any),65
+Steele,2014,Cost(any),67
+Steele,2015,Cost(any),68
+Steele,2016,Cost(any),69
+Steele,2017,Cost(any),65
+Steele,2018,Cost(any),68
+Steele,2012,QualPremium,
+Steele,2013,QualPremium,48
+Steele,2014,QualPremium,57
+Steele,2015,QualPremium,74
+Steele,2016,QualPremium,64
+Steele,2017,QualPremium,63
+Steele,2018,QualPremium,69
+Steele,2012,Supply(CCC),12
+Steele,2013,Supply(CCC),13
+Steele,2014,Supply(CCC),19
+Steele,2015,Supply(CCC),15
+Steele,2016,Supply(CCC),23
+Steele,2017,Supply(CCC),29
+Steele,2018,Supply(CCC),19
+Steele,2012,Supply(HR),
+Steele,2013,Supply(HR),11
+Steele,2014,Supply(HR),16
+Steele,2015,Supply(HR),16
+Steele,2016,Supply(HR),29
+Steele,2017,Supply(HR),24
+Steele,2018,Supply(HR),17
+Steele,2012,Supply(Pub),41
+Steele,2013,Supply(Pub),53
+Steele,2014,Supply(Pub),58
+Steele,2015,Supply(Pub),56
+Steele,2016,Supply(Pub),61
+Steele,2017,Supply(Pub),58
+Steele,2018,Supply(Pub),49
+Steele,2012,Supply(any),9
+Steele,2013,Supply(any),13
+Steele,2014,Supply(any),21
+Steele,2015,Supply(any),12
+Steele,2016,Supply(any),22
+Steele,2017,Supply(any),25
+Steele,2018,Supply(any),18
+Stevens,2012,Cost(CCC),23
+Stevens,2013,Cost(CCC),19
+Stevens,2014,Cost(CCC),15
+Stevens,2015,Cost(CCC),7
+Stevens,2016,Cost(CCC),54
+Stevens,2017,Cost(CCC),24
+Stevens,2018,Cost(CCC),25
+Stevens,2012,Cost(HR),
+Stevens,2013,Cost(HR),12
+Stevens,2014,Cost(HR),16
+Stevens,2015,Cost(HR),9
+Stevens,2016,Cost(HR),5
+Stevens,2017,Cost(HR),4
+Stevens,2018,Cost(HR),6
+Stevens,2012,Cost(Pub),66
+Stevens,2013,Cost(Pub),50
+Stevens,2014,Cost(Pub),72
+Stevens,2015,Cost(Pub),16
+Stevens,2016,Cost(Pub),19
+Stevens,2017,Cost(Pub),44
+Stevens,2018,Cost(Pub),21
+Stevens,2012,Cost(any),26
+Stevens,2013,Cost(any),32
+Stevens,2014,Cost(any),34
+Stevens,2015,Cost(any),8
+Stevens,2016,Cost(any),3
+Stevens,2017,Cost(any),6
+Stevens,2018,Cost(any),2
+Stevens,2012,QualPremium,
+Stevens,2013,QualPremium,20
+Stevens,2014,QualPremium,33
+Stevens,2015,QualPremium,32
+Stevens,2016,QualPremium,56
+Stevens,2017,QualPremium,12
+Stevens,2018,QualPremium,28
+Stevens,2012,Supply(CCC),33
+Stevens,2013,Supply(CCC),36
+Stevens,2014,Supply(CCC),42
+Stevens,2015,Supply(CCC),51
+Stevens,2016,Supply(CCC),51
+Stevens,2017,Supply(CCC),48
+Stevens,2018,Supply(CCC),44
+Stevens,2012,Supply(HR),
+Stevens,2013,Supply(HR),70.5
+Stevens,2014,Supply(HR),76.5
+Stevens,2015,Supply(HR),18
+Stevens,2016,Supply(HR),16
+Stevens,2017,Supply(HR),68
+Stevens,2018,Supply(HR),57
+Stevens,2012,Supply(Pub),56
+Stevens,2013,Supply(Pub),54
+Stevens,2014,Supply(Pub),48
+Stevens,2015,Supply(Pub),28
+Stevens,2016,Supply(Pub),16
+Stevens,2017,Supply(Pub),22
+Stevens,2018,Supply(Pub),16
+Stevens,2012,Supply(any),30
+Stevens,2013,Supply(any),17
+Stevens,2014,Supply(any),15
+Stevens,2015,Supply(any),14
+Stevens,2016,Supply(any),17
+Stevens,2017,Supply(any),24
+Stevens,2018,Supply(any),20
+Swift,2012,Cost(CCC),61
+Swift,2013,Cost(CCC),11
+Swift,2014,Cost(CCC),8
+Swift,2015,Cost(CCC),9
+Swift,2016,Cost(CCC),51
+Swift,2017,Cost(CCC),57
+Swift,2018,Cost(CCC),6
+Swift,2012,Cost(HR),
+Swift,2013,Cost(HR),5
+Swift,2014,Cost(HR),5
+Swift,2015,Cost(HR),6
+Swift,2016,Cost(HR),57
+Swift,2017,Cost(HR),81
+Swift,2018,Cost(HR),31
+Swift,2012,Cost(Pub),36
+Swift,2013,Cost(Pub),57
+Swift,2014,Cost(Pub),78
+Swift,2015,Cost(Pub),87
+Swift,2016,Cost(Pub),66
+Swift,2017,Cost(Pub),83
+Swift,2018,Cost(Pub),78
+Swift,2012,Cost(any),24
+Swift,2013,Cost(any),10
+Swift,2014,Cost(any),14
+Swift,2015,Cost(any),15
+Swift,2016,Cost(any),12
+Swift,2017,Cost(any),20
+Swift,2018,Cost(any),28
+Swift,2012,QualPremium,
+Swift,2013,QualPremium,8
+Swift,2014,QualPremium,6
+Swift,2015,QualPremium,14
+Swift,2016,QualPremium,65
+Swift,2017,QualPremium,80
+Swift,2018,QualPremium,55
+Swift,2012,Supply(CCC),36
+Swift,2013,Supply(CCC),39
+Swift,2014,Supply(CCC),45
+Swift,2015,Supply(CCC),38
+Swift,2016,Supply(CCC),41
+Swift,2017,Supply(CCC),43
+Swift,2018,Supply(CCC),9
+Swift,2012,Supply(HR),
+Swift,2013,Supply(HR),6
+Swift,2014,Supply(HR),12
+Swift,2015,Supply(HR),11
+Swift,2016,Supply(HR),80
+Swift,2017,Supply(HR),81
+Swift,2018,Supply(HR),81
+Swift,2012,Supply(Pub),38
+Swift,2013,Supply(Pub),20
+Swift,2014,Supply(Pub),15
+Swift,2015,Supply(Pub),44
+Swift,2016,Supply(Pub),14
+Swift,2017,Supply(Pub),30
+Swift,2018,Supply(Pub),33
+Swift,2012,Supply(any),12
+Swift,2013,Supply(any),9
+Swift,2014,Supply(any),8
+Swift,2015,Supply(any),20
+Swift,2016,Supply(any),18
+Swift,2017,Supply(any),29
+Swift,2018,Supply(any),8
+Todd,2012,Cost(CCC),76
+Todd,2013,Cost(CCC),44
+Todd,2014,Cost(CCC),26
+Todd,2015,Cost(CCC),24
+Todd,2016,Cost(CCC),67
+Todd,2017,Cost(CCC),66
+Todd,2018,Cost(CCC),31
+Todd,2012,Cost(HR),
+Todd,2013,Cost(HR),27
+Todd,2014,Cost(HR),29
+Todd,2015,Cost(HR),7
+Todd,2016,Cost(HR),50
+Todd,2017,Cost(HR),56
+Todd,2018,Cost(HR),16
+Todd,2012,Cost(Pub),21
+Todd,2013,Cost(Pub),27
+Todd,2014,Cost(Pub),52
+Todd,2015,Cost(Pub),50
+Todd,2016,Cost(Pub),48
+Todd,2017,Cost(Pub),53
+Todd,2018,Cost(Pub),51
+Todd,2012,Cost(any),2
+Todd,2013,Cost(any),7
+Todd,2014,Cost(any),4
+Todd,2015,Cost(any),5
+Todd,2016,Cost(any),28
+Todd,2017,Cost(any),16
+Todd,2018,Cost(any),16
+Todd,2012,QualPremium,
+Todd,2013,QualPremium,41
+Todd,2014,QualPremium,52
+Todd,2015,QualPremium,13
+Todd,2016,QualPremium,63
+Todd,2017,QualPremium,72
+Todd,2018,QualPremium,37
+Todd,2012,Supply(CCC),78
+Todd,2013,Supply(CCC),76
+Todd,2014,Supply(CCC),77
+Todd,2015,Supply(CCC),66
+Todd,2016,Supply(CCC),69
+Todd,2017,Supply(CCC),66
+Todd,2018,Supply(CCC),72
+Todd,2012,Supply(HR),
+Todd,2013,Supply(HR),43
+Todd,2014,Supply(HR),52
+Todd,2015,Supply(HR),52
+Todd,2016,Supply(HR),38
+Todd,2017,Supply(HR),45
+Todd,2018,Supply(HR),48
+Todd,2012,Supply(Pub),19
+Todd,2013,Supply(Pub),34
+Todd,2014,Supply(Pub),36
+Todd,2015,Supply(Pub),22
+Todd,2016,Supply(Pub),27
+Todd,2017,Supply(Pub),26
+Todd,2018,Supply(Pub),31
+Todd,2012,Supply(any),82
+Todd,2013,Supply(any),84
+Todd,2014,Supply(any),87
+Todd,2015,Supply(any),83
+Todd,2016,Supply(any),76
+Todd,2017,Supply(any),79
+Todd,2018,Supply(any),78
+Traverse,2012,Cost(CCC),80
+Traverse,2013,Cost(CCC),74
+Traverse,2014,Cost(CCC),72
+Traverse,2015,Cost(CCC),70
+Traverse,2016,Cost(CCC),69
+Traverse,2017,Cost(CCC),70
+Traverse,2018,Cost(CCC),76
+Traverse,2012,Cost(HR),
+Traverse,2013,Cost(HR),43
+Traverse,2014,Cost(HR),51
+Traverse,2015,Cost(HR),69
+Traverse,2016,Cost(HR),
+Traverse,2017,Cost(HR),
+Traverse,2018,Cost(HR),
+Traverse,2012,Cost(Pub),79
+Traverse,2013,Cost(Pub),82
+Traverse,2014,Cost(Pub),26
+Traverse,2015,Cost(Pub),30
+Traverse,2016,Cost(Pub),52
+Traverse,2017,Cost(Pub),49
+Traverse,2018,Cost(Pub),30
+Traverse,2012,Cost(any),16
+Traverse,2013,Cost(any),29
+Traverse,2014,Cost(any),7
+Traverse,2015,Cost(any),6
+Traverse,2016,Cost(any),8
+Traverse,2017,Cost(any),9
+Traverse,2018,Cost(any),7
+Traverse,2012,QualPremium,
+Traverse,2013,QualPremium,56
+Traverse,2014,QualPremium,71
+Traverse,2015,QualPremium,80
+Traverse,2016,QualPremium,
+Traverse,2017,QualPremium,
+Traverse,2018,QualPremium,
+Traverse,2012,Supply(CCC),83.5
+Traverse,2013,Supply(CCC),83.5
+Traverse,2014,Supply(CCC),83.5
+Traverse,2015,Supply(CCC),82.5
+Traverse,2016,Supply(CCC),82
+Traverse,2017,Supply(CCC),82
+Traverse,2018,Supply(CCC),82
+Traverse,2012,Supply(HR),
+Traverse,2013,Supply(HR),70.5
+Traverse,2014,Supply(HR),76.5
+Traverse,2015,Supply(HR),79.5
+Traverse,2016,Supply(HR),
+Traverse,2017,Supply(HR),
+Traverse,2018,Supply(HR),
+Traverse,2012,Supply(Pub),5
+Traverse,2013,Supply(Pub),5
+Traverse,2014,Supply(Pub),3
+Traverse,2015,Supply(Pub),5
+Traverse,2016,Supply(Pub),4
+Traverse,2017,Supply(Pub),4
+Traverse,2018,Supply(Pub),3
+Traverse,2012,Supply(any),10
+Traverse,2013,Supply(any),3
+Traverse,2014,Supply(any),2
+Traverse,2015,Supply(any),10
+Traverse,2016,Supply(any),10
+Traverse,2017,Supply(any),8
+Traverse,2018,Supply(any),17
+Wabasha,2012,Cost(CCC),27
+Wabasha,2013,Cost(CCC),57
+Wabasha,2014,Cost(CCC),52
+Wabasha,2015,Cost(CCC),53
+Wabasha,2016,Cost(CCC),50
+Wabasha,2017,Cost(CCC),27
+Wabasha,2018,Cost(CCC),59
+Wabasha,2012,Cost(HR),
+Wabasha,2013,Cost(HR),79
+Wabasha,2014,Cost(HR),84
+Wabasha,2015,Cost(HR),66
+Wabasha,2016,Cost(HR),30
+Wabasha,2017,Cost(HR),26
+Wabasha,2018,Cost(HR),30
+Wabasha,2012,Cost(Pub),80
+Wabasha,2013,Cost(Pub),72
+Wabasha,2014,Cost(Pub),50
+Wabasha,2015,Cost(Pub),51
+Wabasha,2016,Cost(Pub),56
+Wabasha,2017,Cost(Pub),48
+Wabasha,2018,Cost(Pub),55
+Wabasha,2012,Cost(any),65
+Wabasha,2013,Cost(any),66
+Wabasha,2014,Cost(any),63
+Wabasha,2015,Cost(any),61
+Wabasha,2016,Cost(any),59
+Wabasha,2017,Cost(any),66
+Wabasha,2018,Cost(any),64
+Wabasha,2012,QualPremium,
+Wabasha,2013,QualPremium,74
+Wabasha,2014,QualPremium,81
+Wabasha,2015,QualPremium,72
+Wabasha,2016,QualPremium,21
+Wabasha,2017,QualPremium,17
+Wabasha,2018,QualPremium,29
+Wabasha,2012,Supply(CCC),56
+Wabasha,2013,Supply(CCC),57
+Wabasha,2014,Supply(CCC),60
+Wabasha,2015,Supply(CCC),59
+Wabasha,2016,Supply(CCC),59
+Wabasha,2017,Supply(CCC),59
+Wabasha,2018,Supply(CCC),55
+Wabasha,2012,Supply(HR),
+Wabasha,2013,Supply(HR),70.5
+Wabasha,2014,Supply(HR),64
+Wabasha,2015,Supply(HR),38
+Wabasha,2016,Supply(HR),43
+Wabasha,2017,Supply(HR),51
+Wabasha,2018,Supply(HR),41
+Wabasha,2012,Supply(Pub),68
+Wabasha,2013,Supply(Pub),65
+Wabasha,2014,Supply(Pub),54
+Wabasha,2015,Supply(Pub),52
+Wabasha,2016,Supply(Pub),57
+Wabasha,2017,Supply(Pub),61
+Wabasha,2018,Supply(Pub),53
+Wabasha,2012,Supply(any),29
+Wabasha,2013,Supply(any),28
+Wabasha,2014,Supply(any),34
+Wabasha,2015,Supply(any),32
+Wabasha,2016,Supply(any),35
+Wabasha,2017,Supply(any),28
+Wabasha,2018,Supply(any),23
+Wadena,2012,Cost(CCC),69
+Wadena,2013,Cost(CCC),17
+Wadena,2014,Cost(CCC),13
+Wadena,2015,Cost(CCC),14
+Wadena,2016,Cost(CCC),33
+Wadena,2017,Cost(CCC),68
+Wadena,2018,Cost(CCC),12
+Wadena,2012,Cost(HR),
+Wadena,2013,Cost(HR),9
+Wadena,2014,Cost(HR),14
+Wadena,2015,Cost(HR),16
+Wadena,2016,Cost(HR),12
+Wadena,2017,Cost(HR),52
+Wadena,2018,Cost(HR),17
+Wadena,2012,Cost(Pub),28
+Wadena,2013,Cost(Pub),29
+Wadena,2014,Cost(Pub),20
+Wadena,2015,Cost(Pub),24
+Wadena,2016,Cost(Pub),49
+Wadena,2017,Cost(Pub),55
+Wadena,2018,Cost(Pub),25
+Wadena,2012,Cost(any),9
+Wadena,2013,Cost(any),12
+Wadena,2014,Cost(any),15
+Wadena,2015,Cost(any),17
+Wadena,2016,Cost(any),29
+Wadena,2017,Cost(any),15
+Wadena,2018,Cost(any),8
+Wadena,2012,QualPremium,
+Wadena,2013,QualPremium,11
+Wadena,2014,QualPremium,19
+Wadena,2015,QualPremium,21
+Wadena,2016,QualPremium,12
+Wadena,2017,QualPremium,69
+Wadena,2018,QualPremium,35
+Wadena,2012,Supply(CCC),67
+Wadena,2013,Supply(CCC),68
+Wadena,2014,Supply(CCC),71
+Wadena,2015,Supply(CCC),68
+Wadena,2016,Supply(CCC),67
+Wadena,2017,Supply(CCC),67
+Wadena,2018,Supply(CCC),52
+Wadena,2012,Supply(HR),
+Wadena,2013,Supply(HR),27
+Wadena,2014,Supply(HR),43
+Wadena,2015,Supply(HR),49
+Wadena,2016,Supply(HR),58
+Wadena,2017,Supply(HR),60
+Wadena,2018,Supply(HR),60
+Wadena,2012,Supply(Pub),39
+Wadena,2013,Supply(Pub),30
+Wadena,2014,Supply(Pub),17
+Wadena,2015,Supply(Pub),20
+Wadena,2016,Supply(Pub),20
+Wadena,2017,Supply(Pub),27
+Wadena,2018,Supply(Pub),23
+Wadena,2012,Supply(any),78
+Wadena,2013,Supply(any),67
+Wadena,2014,Supply(any),53
+Wadena,2015,Supply(any),48
+Wadena,2016,Supply(any),49
+Wadena,2017,Supply(any),64
+Wadena,2018,Supply(any),48
+Waseca,2012,Cost(CCC),2
+Waseca,2013,Cost(CCC),16
+Waseca,2014,Cost(CCC),17
+Waseca,2015,Cost(CCC),17
+Waseca,2016,Cost(CCC),27
+Waseca,2017,Cost(CCC),2
+Waseca,2018,Cost(CCC),4
+Waseca,2012,Cost(HR),
+Waseca,2013,Cost(HR),39
+Waseca,2014,Cost(HR),47
+Waseca,2015,Cost(HR),71
+Waseca,2016,Cost(HR),78
+Waseca,2017,Cost(HR),79
+Waseca,2018,Cost(HR),62
+Waseca,2012,Cost(Pub),16
+Waseca,2013,Cost(Pub),14
+Waseca,2014,Cost(Pub),23
+Waseca,2015,Cost(Pub),26
+Waseca,2016,Cost(Pub),1
+Waseca,2017,Cost(Pub),1
+Waseca,2018,Cost(Pub),2
+Waseca,2012,Cost(any),41
+Waseca,2013,Cost(any),42
+Waseca,2014,Cost(any),43
+Waseca,2015,Cost(any),45
+Waseca,2016,Cost(any),53
+Waseca,2017,Cost(any),34
+Waseca,2018,Cost(any),35
+Waseca,2012,QualPremium,
+Waseca,2013,QualPremium,55
+Waseca,2014,QualPremium,64
+Waseca,2015,QualPremium,82
+Waseca,2016,QualPremium,76
+Waseca,2017,QualPremium,79
+Waseca,2018,QualPremium,79
+Waseca,2012,Supply(CCC),51
+Waseca,2013,Supply(CCC),51
+Waseca,2014,Supply(CCC),56
+Waseca,2015,Supply(CCC),52
+Waseca,2016,Supply(CCC),58
+Waseca,2017,Supply(CCC),53
+Waseca,2018,Supply(CCC),50
+Waseca,2012,Supply(HR),
+Waseca,2013,Supply(HR),50
+Waseca,2014,Supply(HR),61
+Waseca,2015,Supply(HR),70
+Waseca,2016,Supply(HR),79
+Waseca,2017,Supply(HR),80
+Waseca,2018,Supply(HR),79
+Waseca,2012,Supply(Pub),69
+Waseca,2013,Supply(Pub),68
+Waseca,2014,Supply(Pub),63
+Waseca,2015,Supply(Pub),63
+Waseca,2016,Supply(Pub),56
+Waseca,2017,Supply(Pub),62
+Waseca,2018,Supply(Pub),54
+Waseca,2012,Supply(any),27
+Waseca,2013,Supply(any),41
+Waseca,2014,Supply(any),48
+Waseca,2015,Supply(any),57
+Waseca,2016,Supply(any),65
+Waseca,2017,Supply(any),69
+Waseca,2018,Supply(any),62
+Washington,2012,Cost(CCC),52
+Washington,2013,Cost(CCC),83
+Washington,2014,Cost(CCC),86
+Washington,2015,Cost(CCC),83
+Washington,2016,Cost(CCC),73
+Washington,2017,Cost(CCC),55
+Washington,2018,Cost(CCC),81
+Washington,2012,Cost(HR),
+Washington,2013,Cost(HR),67
+Washington,2014,Cost(HR),76
+Washington,2015,Cost(HR),81
+Washington,2016,Cost(HR),73
+Washington,2017,Cost(HR),73
+Washington,2018,Cost(HR),78
+Washington,2012,Cost(Pub),13
+Washington,2013,Cost(Pub),24
+Washington,2014,Cost(Pub),24
+Washington,2015,Cost(Pub),28
+Washington,2016,Cost(Pub),8
+Washington,2017,Cost(Pub),7
+Washington,2018,Cost(Pub),10
+Washington,2012,Cost(any),85
+Washington,2013,Cost(any),84
+Washington,2014,Cost(any),84
+Washington,2015,Cost(any),84
+Washington,2016,Cost(any),82
+Washington,2017,Cost(any),83
+Washington,2018,Cost(any),83
+Washington,2012,QualPremium,
+Washington,2013,QualPremium,33
+Washington,2014,QualPremium,37
+Washington,2015,QualPremium,51
+Washington,2016,QualPremium,49
+Washington,2017,QualPremium,40
+Washington,2018,QualPremium,61
+Washington,2012,Supply(CCC),9
+Washington,2013,Supply(CCC),10
+Washington,2014,Supply(CCC),11
+Washington,2015,Supply(CCC),9
+Washington,2016,Supply(CCC),9
+Washington,2017,Supply(CCC),8
+Washington,2018,Supply(CCC),8
+Washington,2012,Supply(HR),
+Washington,2013,Supply(HR),2
+Washington,2014,Supply(HR),13
+Washington,2015,Supply(HR),10
+Washington,2016,Supply(HR),14
+Washington,2017,Supply(HR),17
+Washington,2018,Supply(HR),8
+Washington,2012,Supply(Pub),80
+Washington,2013,Supply(Pub),78
+Washington,2014,Supply(Pub),79
+Washington,2015,Supply(Pub),82
+Washington,2016,Supply(Pub),68
+Washington,2017,Supply(Pub),72
+Washington,2018,Supply(Pub),78
+Washington,2012,Supply(any),61
+Washington,2013,Supply(any),69
+Washington,2014,Supply(any),67
+Washington,2015,Supply(any),69
+Washington,2016,Supply(any),59
+Washington,2017,Supply(any),50
+Washington,2018,Supply(any),50
+Watonwan,2012,Cost(CCC),1
+Watonwan,2013,Cost(CCC),2
+Watonwan,2014,Cost(CCC),1
+Watonwan,2015,Cost(CCC),1
+Watonwan,2016,Cost(CCC),2
+Watonwan,2017,Cost(CCC),1
+Watonwan,2018,Cost(CCC),39
+Watonwan,2012,Cost(HR),
+Watonwan,2013,Cost(HR),42
+Watonwan,2014,Cost(HR),1
+Watonwan,2015,Cost(HR),1
+Watonwan,2016,Cost(HR),34
+Watonwan,2017,Cost(HR),1
+Watonwan,2018,Cost(HR),1
+Watonwan,2012,Cost(Pub),63
+Watonwan,2013,Cost(Pub),20
+Watonwan,2014,Cost(Pub),1
+Watonwan,2015,Cost(Pub),1
+Watonwan,2016,Cost(Pub),2
+Watonwan,2017,Cost(Pub),17
+Watonwan,2018,Cost(Pub),1
+Watonwan,2012,Cost(any),8
+Watonwan,2013,Cost(any),16
+Watonwan,2014,Cost(any),3
+Watonwan,2015,Cost(any),3
+Watonwan,2016,Cost(any),13
+Watonwan,2017,Cost(any),39
+Watonwan,2018,Cost(any),65
+Watonwan,2012,QualPremium,
+Watonwan,2013,QualPremium,65
+Watonwan,2014,QualPremium,9
+Watonwan,2015,QualPremium,1
+Watonwan,2016,QualPremium,68
+Watonwan,2017,QualPremium,2
+Watonwan,2018,QualPremium,2
+Watonwan,2012,Supply(CCC),18
+Watonwan,2013,Supply(CCC),19
+Watonwan,2014,Supply(CCC),26
+Watonwan,2015,Supply(CCC),26
+Watonwan,2016,Supply(CCC),30
+Watonwan,2017,Supply(CCC),10
+Watonwan,2018,Supply(CCC),18
+Watonwan,2012,Supply(HR),
+Watonwan,2013,Supply(HR),70.5
+Watonwan,2014,Supply(HR),47
+Watonwan,2015,Supply(HR),22
+Watonwan,2016,Supply(HR),25
+Watonwan,2017,Supply(HR),6
+Watonwan,2018,Supply(HR),68
+Watonwan,2012,Supply(Pub),63
+Watonwan,2013,Supply(Pub),61
+Watonwan,2014,Supply(Pub),56
+Watonwan,2015,Supply(Pub),55
+Watonwan,2016,Supply(Pub),78
+Watonwan,2017,Supply(Pub),80
+Watonwan,2018,Supply(Pub),60
+Watonwan,2012,Supply(any),49
+Watonwan,2013,Supply(any),59
+Watonwan,2014,Supply(any),76
+Watonwan,2015,Supply(any),76
+Watonwan,2016,Supply(any),84
+Watonwan,2017,Supply(any),54
+Watonwan,2018,Supply(any),61
+Wilkin,2012,Cost(CCC),79
+Wilkin,2013,Cost(CCC),67
+Wilkin,2014,Cost(CCC),73
+Wilkin,2015,Cost(CCC),59
+Wilkin,2016,Cost(CCC),12
+Wilkin,2017,Cost(CCC),58
+Wilkin,2018,Cost(CCC),51
+Wilkin,2012,Cost(HR),
+Wilkin,2013,Cost(HR),54
+Wilkin,2014,Cost(HR),80
+Wilkin,2015,Cost(HR),57
+Wilkin,2016,Cost(HR),80
+Wilkin,2017,Cost(HR),
+Wilkin,2018,Cost(HR),
+Wilkin,2012,Cost(Pub),68
+Wilkin,2013,Cost(Pub),44
+Wilkin,2014,Cost(Pub),85
+Wilkin,2015,Cost(Pub),41
+Wilkin,2016,Cost(Pub),65
+Wilkin,2017,Cost(Pub),57
+Wilkin,2018,Cost(Pub),62
+Wilkin,2012,Cost(any),47
+Wilkin,2013,Cost(any),35
+Wilkin,2014,Cost(any),35
+Wilkin,2015,Cost(any),27
+Wilkin,2016,Cost(any),26
+Wilkin,2017,Cost(any),30
+Wilkin,2018,Cost(any),21
+Wilkin,2012,QualPremium,
+Wilkin,2013,QualPremium,64
+Wilkin,2014,QualPremium,83
+Wilkin,2015,QualPremium,68
+Wilkin,2016,QualPremium,80
+Wilkin,2017,QualPremium,
+Wilkin,2018,QualPremium,
+Wilkin,2012,Supply(CCC),74
+Wilkin,2013,Supply(CCC),75
+Wilkin,2014,Supply(CCC),75
+Wilkin,2015,Supply(CCC),73
+Wilkin,2016,Supply(CCC),72
+Wilkin,2017,Supply(CCC),71
+Wilkin,2018,Supply(CCC),68
+Wilkin,2012,Supply(HR),
+Wilkin,2013,Supply(HR),70.5
+Wilkin,2014,Supply(HR),76.5
+Wilkin,2015,Supply(HR),79.5
+Wilkin,2016,Supply(HR),83.5
+Wilkin,2017,Supply(HR),
+Wilkin,2018,Supply(HR),
+Wilkin,2012,Supply(Pub),45
+Wilkin,2013,Supply(Pub),43
+Wilkin,2014,Supply(Pub),50
+Wilkin,2015,Supply(Pub),23
+Wilkin,2016,Supply(Pub),17
+Wilkin,2017,Supply(Pub),28
+Wilkin,2018,Supply(Pub),28
+Wilkin,2012,Supply(any),28
+Wilkin,2013,Supply(any),21
+Wilkin,2014,Supply(any),29
+Wilkin,2015,Supply(any),18
+Wilkin,2016,Supply(any),34
+Wilkin,2017,Supply(any),32
+Wilkin,2018,Supply(any),33
+Winona,2012,Cost(CCC),31
+Winona,2013,Cost(CCC),51
+Winona,2014,Cost(CCC),47
+Winona,2015,Cost(CCC),50
+Winona,2016,Cost(CCC),28
+Winona,2017,Cost(CCC),19
+Winona,2018,Cost(CCC),44
+Winona,2012,Cost(HR),
+Winona,2013,Cost(HR),33
+Winona,2014,Cost(HR),43
+Winona,2015,Cost(HR),46
+Winona,2016,Cost(HR),47
+Winona,2017,Cost(HR),34
+Winona,2018,Cost(HR),52
+Winona,2012,Cost(Pub),5
+Winona,2013,Cost(Pub),7
+Winona,2014,Cost(Pub),27
+Winona,2015,Cost(Pub),37
+Winona,2016,Cost(Pub),43
+Winona,2017,Cost(Pub),40
+Winona,2018,Cost(Pub),41
+Winona,2012,Cost(any),62
+Winona,2013,Cost(any),61
+Winona,2014,Cost(any),61
+Winona,2015,Cost(any),62
+Winona,2016,Cost(any),57
+Winona,2017,Cost(any),59
+Winona,2018,Cost(any),57
+Winona,2012,QualPremium,
+Winona,2013,QualPremium,42
+Winona,2014,QualPremium,51
+Winona,2015,QualPremium,45
+Winona,2016,QualPremium,51
+Winona,2017,QualPremium,36
+Winona,2018,QualPremium,50
+Winona,2012,Supply(CCC),15
+Winona,2013,Supply(CCC),15
+Winona,2014,Supply(CCC),14
+Winona,2015,Supply(CCC),11
+Winona,2016,Supply(CCC),15
+Winona,2017,Supply(CCC),19
+Winona,2018,Supply(CCC),16
+Winona,2012,Supply(HR),
+Winona,2013,Supply(HR),13
+Winona,2014,Supply(HR),22
+Winona,2015,Supply(HR),17
+Winona,2016,Supply(HR),21
+Winona,2017,Supply(HR),28
+Winona,2018,Supply(HR),47
+Winona,2012,Supply(Pub),55
+Winona,2013,Supply(Pub),52
+Winona,2014,Supply(Pub),62
+Winona,2015,Supply(Pub),59
+Winona,2016,Supply(Pub),59
+Winona,2017,Supply(Pub),49
+Winona,2018,Supply(Pub),35
+Winona,2012,Supply(any),19
+Winona,2013,Supply(any),22
+Winona,2014,Supply(any),20
+Winona,2015,Supply(any),16
+Winona,2016,Supply(any),16
+Winona,2017,Supply(any),42
+Winona,2018,Supply(any),21
+Wright,2012,Cost(CCC),30
+Wright,2013,Cost(CCC),73
+Wright,2014,Cost(CCC),71
+Wright,2015,Cost(CCC),73
+Wright,2016,Cost(CCC),61
+Wright,2017,Cost(CCC),38
+Wright,2018,Cost(CCC),75
+Wright,2012,Cost(HR),
+Wright,2013,Cost(HR),77
+Wright,2014,Cost(HR),78
+Wright,2015,Cost(HR),77
+Wright,2016,Cost(HR),55
+Wright,2017,Cost(HR),57
+Wright,2018,Cost(HR),70
+Wright,2012,Cost(Pub),7
+Wright,2013,Cost(Pub),16
+Wright,2014,Cost(Pub),29
+Wright,2015,Cost(Pub),31
+Wright,2016,Cost(Pub),23
+Wright,2017,Cost(Pub),19
+Wright,2018,Cost(Pub),26
+Wright,2012,Cost(any),79
+Wright,2013,Cost(any),79
+Wright,2014,Cost(any),79
+Wright,2015,Cost(any),79
+Wright,2016,Cost(any),79
+Wright,2017,Cost(any),79
+Wright,2018,Cost(any),79
+Wright,2012,QualPremium,
+Wright,2013,QualPremium,59
+Wright,2014,QualPremium,63
+Wright,2015,QualPremium,71
+Wright,2016,QualPremium,36
+Wright,2017,QualPremium,37
+Wright,2018,QualPremium,42
+Wright,2012,Supply(CCC),40
+Wright,2013,Supply(CCC),38
+Wright,2014,Supply(CCC),39
+Wright,2015,Supply(CCC),40
+Wright,2016,Supply(CCC),35
+Wright,2017,Supply(CCC),33
+Wright,2018,Supply(CCC),34
+Wright,2012,Supply(HR),
+Wright,2013,Supply(HR),31
+Wright,2014,Supply(HR),39
+Wright,2015,Supply(HR),41
+Wright,2016,Supply(HR),32
+Wright,2017,Supply(HR),47
+Wright,2018,Supply(HR),45
+Wright,2012,Supply(Pub),66
+Wright,2013,Supply(Pub),66
+Wright,2014,Supply(Pub),68
+Wright,2015,Supply(Pub),71
+Wright,2016,Supply(Pub),73
+Wright,2017,Supply(Pub),78
+Wright,2018,Supply(Pub),73
+Wright,2012,Supply(any),63
+Wright,2013,Supply(any),63
+Wright,2014,Supply(any),74
+Wright,2015,Supply(any),75
+Wright,2016,Supply(any),72
+Wright,2017,Supply(any),75
+Wright,2018,Supply(any),74
+Yellow Medicine,2012,Cost(CCC),63
+Yellow Medicine,2013,Cost(CCC),6
+Yellow Medicine,2014,Cost(CCC),22
+Yellow Medicine,2015,Cost(CCC),19
+Yellow Medicine,2016,Cost(CCC),4
+Yellow Medicine,2017,Cost(CCC),67
+Yellow Medicine,2018,Cost(CCC),52
+Yellow Medicine,2012,Cost(HR),
+Yellow Medicine,2013,Cost(HR),3
+Yellow Medicine,2014,Cost(HR),6
+Yellow Medicine,2015,Cost(HR),3
+Yellow Medicine,2016,Cost(HR),1
+Yellow Medicine,2017,Cost(HR),68
+Yellow Medicine,2018,Cost(HR),59
+Yellow Medicine,2012,Cost(Pub),46
+Yellow Medicine,2013,Cost(Pub),55
+Yellow Medicine,2014,Cost(Pub),77
+Yellow Medicine,2015,Cost(Pub),77
+Yellow Medicine,2016,Cost(Pub),51
+Yellow Medicine,2017,Cost(Pub),70
+Yellow Medicine,2018,Cost(Pub),77
+Yellow Medicine,2012,Cost(any),15
+Yellow Medicine,2013,Cost(any),24
+Yellow Medicine,2014,Cost(any),38
+Yellow Medicine,2015,Cost(any),29
+Yellow Medicine,2016,Cost(any),30
+Yellow Medicine,2017,Cost(any),26
+Yellow Medicine,2018,Cost(any),45
+Yellow Medicine,2012,QualPremium,
+Yellow Medicine,2013,QualPremium,9
+Yellow Medicine,2014,QualPremium,7
+Yellow Medicine,2015,QualPremium,12
+Yellow Medicine,2016,QualPremium,1
+Yellow Medicine,2017,QualPremium,77
+Yellow Medicine,2018,QualPremium,78
+Yellow Medicine,2012,Supply(CCC),58
+Yellow Medicine,2013,Supply(CCC),59
+Yellow Medicine,2014,Supply(CCC),58
+Yellow Medicine,2015,Supply(CCC),56
+Yellow Medicine,2016,Supply(CCC),55
+Yellow Medicine,2017,Supply(CCC),63
+Yellow Medicine,2018,Supply(CCC),69
+Yellow Medicine,2012,Supply(HR),
+Yellow Medicine,2013,Supply(HR),16
+Yellow Medicine,2014,Supply(HR),32
+Yellow Medicine,2015,Supply(HR),26
+Yellow Medicine,2016,Supply(HR),17
+Yellow Medicine,2017,Supply(HR),52
+Yellow Medicine,2018,Supply(HR),26
+Yellow Medicine,2012,Supply(Pub),29
+Yellow Medicine,2013,Supply(Pub),41
+Yellow Medicine,2014,Supply(Pub),64
+Yellow Medicine,2015,Supply(Pub),46
+Yellow Medicine,2016,Supply(Pub),33
+Yellow Medicine,2017,Supply(Pub),33
+Yellow Medicine,2018,Supply(Pub),66
+Yellow Medicine,2012,Supply(any),15
+Yellow Medicine,2013,Supply(any),16
+Yellow Medicine,2014,Supply(any),30
+Yellow Medicine,2015,Supply(any),21
+Yellow Medicine,2016,Supply(any),9
+Yellow Medicine,2017,Supply(any),30
+Yellow Medicine,2018,Supply(any),38
