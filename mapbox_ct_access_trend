@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+  <meta charset='utf-8' />
+  <title>Child Care Access</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel='stylesheet' />
+
+<body>
+<div id='map'></div>
+<div id='console'>
+  <h1>Child Care Access</h1>
+  <p>Method: <a href='http://ftp.iza.org/dp11396.pdf'>Davis,Lee & Sojourner (2018)</a></p>
+  
+
+<div class='session'>
+  <h2>Supply(demand-adjusted)</h2>
+  
+  <div class='row colors'>
+  </div>
+  <div class='row labels'>
+    <div class='label'>M</div>
+    <div class='label'>0</div>
+    <div class='label'>0.5</div>
+    <div class='label'>0.67</div>
+    <div class='label'>0.77</div>
+    <div class='label'>1+</div>
+    
+  </div>
+   
+</div>
+  
+<div class='session' id='sliderbar'>
+  <h2>Year: <label id='active-year'>Slide to view</label></h2>
+  <input id='slider' class='row' type='range' min='2012' max='2018' step='1' value='7' />
+</div>
+<p>Right-click on the map and rotate to see population density in 3D</p>
+
+</body>
+ <style>
+ .session {
+  margin-bottom: 20px;
+}
+
+.row {
+  height: 12px;
+  width: 100%;
+}
+
+.colors {
+  background: linear-gradient(to right, #848484, #ff0000, #ff976a, #e0e8ff, #98beff, #3061ff);
+  margin-bottom: 5px;
+}
+
+.label {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+  
+  
+ 
+body { margin:10; padding:10; }
+        #map {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    top:0;     }
+h1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+ 
+#console {
+    right: 0;
+    top:5;
+  position: absolute;
+  width: 290px;
+  margin: 40px 23px;
+  padding: 1px 10px;
+  background-color: white;
+  margin-right: 2px; 
+}
+
+.map-overlay {
+    font: 12px/10px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 15%;
+    top: 0;
+    left: 0;
+    padding: 15px;
+}
+ 
+.map-overlay .map-overlay-inner2 {
+    background-color: #fff;
+    box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 10px;
+    padding: 5px;
+    top: 1;
+    position: absolute;
+    margin-bottom: 0px; 
+}
+.map-overlay .map-overlay-inner {
+    background-color: #fff;
+    box-shadow:20 20px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 2px;
+    padding: 2px;
+    margin-bottom: 2px;
+}
+</style> 
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoid29ubGVlIiwiYSI6ImNqYjY0bHZlczBvMnAzMm16OTlyYWFzYnYifQ.yaLx92dXVMk1NKp5Fp7HUg';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/wonlee/cjb64nlr819aj2snpizd02a1u',
+  center: [-94, 44.8], // initial map center in [lon, lat]
+  zoom: 7
+});
+ 
+
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+        map.setPaintProperty("access_censustract_2012_c-4boy14",'fill-extrusion-height',
+        
+        {
+            'type':'identity',
+            'property':'density3'
+        
+            
+        });
+    } else {
+        map.setPaintProperty("access_censustract_2012_c-4boy14",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+    
+
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2013_c-8n5oz0",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2013_c-8n5oz0",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2014_c-14xq30",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2014_c-14xq30",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2015_c-djygfg",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2015_c-djygfg",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2016_c-6enkhy",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2016_c-6enkhy",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2017_c-27k557",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2017_c-27k557",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });
+map.on('rotate', function(e) {
+    if (map.getPitch() > 25) {
+map.setPaintProperty("access_censustract_2018_c-393ocv",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':'density3'
+        });
+    } else {
+map.setPaintProperty("access_censustract_2018_c-393ocv",'fill-extrusion-height',
+        {
+            'type':'identity',
+            'property':''
+        });
+    }
+    });     
+
+    
+
+map.on('load', function() {
+
+    map.addSource('access_censustract_2012_c-4boy14', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.4kqhrukx'
+    });
+    map.addSource('access_censustract_2013_c-8n5oz0', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.1xg62fc1'
+    });
+    map.addSource('access_censustract_2014_c-14xq30', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.04d49kcy'
+    });
+    map.addSource('access_censustract_2015_c-djygfg', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.1djenrby'
+    });
+    map.addSource('access_censustract_2016_c-6enkhy', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.c8is5kdm'
+    });
+    map.addSource('access_censustract_2017_c-27k557', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.69qzrsdk'
+    });
+    map.addSource('access_censustract_2018_c-393ocv', {
+        'type': 'vector',
+        'url': 'mapbox://wonlee.62p9dtmr'
+    });
+
+    map.addLayer({
+      'id': 'access_censustract_2012_c-4boy14',
+        'source': 'access_censustract_2012_c-4boy14',
+        'source-layer': 'access_censustract_2012_c-4boy14',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+    
+    map.addLayer({
+        'id': 'access_censustract_2013_c-8n5oz0',
+        'source': 'access_censustract_2013_c-8n5oz0',
+        'source-layer': 'access_censustract_2013_c-8n5oz0',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+    
+    map.addLayer({
+        'id': 'access_censustract_2014_c-14xq30',
+        'source': 'access_censustract_2014_c-14xq30',
+        'source-layer': 'access_censustract_2014_c-14xq30',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+    
+     map.addLayer({
+        'id': 'access_censustract_2015_c-djygfg',
+        'source': 'access_censustract_2015_c-djygfg',
+        'source-layer': 'access_censustract_2015_c-djygfg',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+     map.addLayer({
+        'id': 'access_censustract_2016_c-6enkhy',
+        'source': 'access_censustract_2016_c-6enkhy',
+        'source-layer': 'access_censustract_2016_c-6enkhy',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+     map.addLayer({
+        'id': 'access_censustract_2017_c-27k557',
+        'source': 'access_censustract_2017_c-27k557',
+        'source-layer': 'access_censustract_2017_c-27k557',
+        'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+     map.addLayer({
+        'id': 'access_censustract_2018_c-393ocv',
+        'source': 'access_censustract_2018_c-393ocv',
+        'source-layer': 'access_censustract_2018_c-393ocv',
+         'maxzoom': 23,
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'paint': {
+            'fill-extrusion-color': {
+                property: 'supply_any',
+                stops: [
+                   [0.00001, '#848484'],
+                    [0.2, '#ff0000'],
+                    [0.5, '#ff976a'],
+                    [0.67, '#e0e8ff'],
+                    [0.77, '#98beff'],
+                    [2, '#3061ff']
+                ],
+            },
+            'fill-extrusion-opacity': 0.75,
+             'fill-extrusion-base': 0 
+        }
+    }, 'waterway-label');
+  
+});
+ 
+  document.getElementById('slider').addEventListener('input', function(e) {
+      
+  var year = parseInt(e.target.value);
+  // update the map
+ map.setFilter('access_censustract_2012_c-4boy14', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2013_c-8n5oz0', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2014_c-14xq30', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2015_c-djygfg', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2016_c-6enkhy', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2017_c-27k557', ['==', ['number', ['get', 'year']], year]);
+ map.setFilter('access_censustract_2018_c-393ocv', ['==', ['number', ['get', 'year']], year]);
+
+  // update text in the UI
+  document.getElementById('active-year').innerText = year;
+});
+
+
+
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+    map.on('click', 'access_censustract_2012_c-4boy14', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2012_c-4boy14', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2012_c-4boy14', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    
+     // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2013_c-8n5oz0', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2013_c-8n5oz0', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2013_c-8n5oz0', function () {
+        map.getCanvas().style.cursor = '';
+    });
+ 
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2014_c-14xq30', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2014_c-14xq30', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2014_c-14xq30', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2015_c-djygfg', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2015_c-djygfg', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2015_c-djygfg', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2016_c-6enkhy', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2016_c-6enkhy', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2016_c-6enkhy', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2017_c-27k557', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2017_c-27k557', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2017_c-27k557', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    // When a click event occurs on a feature in the states layer, open a popup at the
+    // location of the click, with description HTML from its properties.
+     map.on('click', 'access_censustract_2018_c-393ocv', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties.TRACTCE10)
+            .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the states layer.
+    map.on('mouseenter', 'access_censustract_2018_c-393ocv', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'access_censustract_2018_c-393ocv', function () {
+        map.getCanvas().style.cursor = '';
+    });
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</script>
+
+
+ 
+
+
+ 
+</html>
